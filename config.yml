@@ -1,0 +1,31 @@
+# ---- corpus paths ----
+raw_corpus: "data/gospels_raw.txt"          # UTF‑8, polytonic
+intermediate_dir: "outputs/interim"
+out_dir: "outputs"
+
+# ---- preprocessing ----
+remove_diacritics: false
+sentence_segmenter: "stanza"                # options: stanza | regex
+lemmatizer: "cltk"                          # options: cltk | spacy_grc
+min_token_len: 3
+stopword_file: "data/stopwords_grc.txt"
+
+# ---- topic modelling ----
+topic_models:
+  - name: "lda_gensim"
+    k_topics: 12
+  - name: "bertopic"
+    embedding_model: "pranaydeeps/Ancient-Greek-BERT"
+
+# ---- sentiment ----
+sentiment_method: "multilingual_transformer"  # options: lexicon | multilingual_transformer | llm
+sentiment_model: "nlpaueb/bert-base-greek-uncased-v1"
+
+# ---- ABSA ----
+absa_method: "dependency"
+absa_entity_types: ["PER", "LOC", "ORG", "MISC"]  # NER labels to keep
+absa_llm_provider: "openai"       # used only if absa_method == llm
+
+# ---- visualisation ----
+save_figs: true
+fig_dpi: 300

@@ -1,0 +1,37 @@
+# PROMPT #1 (original minimal):
+
+###ANCIENT_GREEK:
+<INSERT>
+
+###INSTRUCTIONS:
+
+Given this ###ANCIENT_GREEK for the Christian Bible, brainstorm different ways to do topic modeling, sentiment analysis and ABSA (e.g. SpaCy, NLTK/CLTK, SOTA commercial LLMs, etc)
+
+# PROMPT #2 (Gemini and Human enhanced):
+
+###ANCIENT GREEK:
+<INSERT>
+
+###INSTRUCTIONS:
+Given this ###ANCIENT_GREEK for the Christian Bible, brainstorm different ways to do topic modeling, sentiment analysis and ABSA (e.g. SpaCy, NLTK/CLTK, SOTA commercial LLMs, etc)
+(1) Identify the specific language/dialect (Koine Greek) and research the availability and maturity of NLP preprocessing tools (tokenizers, lemmatizers, POS taggers) for it within libraries like CLTK (Classical Language Toolkit), NLTK, and SpaCy (including community models).
+(2) Investigate methods for topic modeling on this Koine Greek text:
+(a) Explore traditional algorithms (e.g., LDA, NMF) and assess their feasibility, considering the need for potentially larger corpora and tool support in CLTK/NLTK.
+(b) Evaluate the capability of large language models (LLMs) to identify the main themes or topics of this passage (or larger related texts) through prompting or zero-shot classification.
+(3) Research approaches for sentiment analysis on Koine Greek:
+(a) Search for existing sentiment lexicons specifically designed for Koine Greek or adaptable from Classical Greek.
+(b) Assess the feasibility of using supervised machine learning models, considering the potential scarcity of labeled Koine Greek sentiment data.
+(c) Examine the effectiveness of prompting LLMs for zero-shot sentiment classification of the text.
+(4) Explore methods for Aspect-Based Sentiment Analysis (ABSA) focusing on the entities (persons) mentioned:
+(a) Research Named Entity Recognition (NER) capabilities for Koine Greek in CLTK, SpaCy, or via LLMs to identify individuals like Abraham, David, Jesus, Mary, etc.
+(b) Investigate techniques (rule-based, model-based, LLM-prompting) to associate sentiment polarity (likely neutral or contextually positive in this genealogical text) with the identified entities.
+(5) Compare the strengths and weaknesses of different toolsets (CLTK/NLTK, SpaCy, commercial LLMs) for performing topic modeling, sentiment analysis, and ABSA on Koine Greek, considering factors like accuracy, data requirements, language support maturity, and ease of use.
+(6) Synthesize the findings to outline potential workflows or combinations of tools best suited for analyzing the sentiment, topics, and aspect sentiments within the provided Koine Greek biblical passage and similar texts.
+
+# PROMPT #3 (Architecture Details):
+
+please create:
+1. requirements.txt or *.toml or equiv that works best with uv virtual env
+2. test files under /tests/ to test each pipeline segment in isolation, common and difficult interfaces between segments and all end-to-end together 
+3. add /log subdir and redirect datetime stamped (e.g. log_full-run_{YYYYMMDD-HHMMSS}.txt and 
+log_test-{test-name}_{YYYYMMDD-HHMMSS}.txt for full runs and test runs
