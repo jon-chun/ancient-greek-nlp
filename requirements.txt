@@ -1,15 +1,11 @@
-# ===== core NLP =====
-cltk>=2.2           # May‑2023 release – Ancient Greek pipeline :contentReference[oaicite:2]{index=2}
-stanza>=1.8         # Apr‑2024 features, still 1.x API  :contentReference[oaicite:3]{index=3}
+cltk>=1.4,<2.0          # CLTK wheel uploaded Dec‑2024 :contentReference[oaicite:1]{index=1}
+gensim>=4.3.3,<5.0      # latest wheel 4.3.3 (Jul‑2024) satisfies CLTK :contentReference[oaicite:2]{index=2}
+stanza>=1.8             # Apr‑2024 release :contentReference[oaicite:3]{index=3}
 spacy[transformers]>=3.7
-gensim>=4.5         # 2023‑03 release  (4.5+ supports Python 3.12) :contentReference[oaicite:4]{index=4}
-bertopic>=0.16      # 2024‑10 release  :contentReference[oaicite:5]{index=5}
-sentence-transformers>=2.6  # Apr‑2025  :contentReference[oaicite:6]{index=6}
+sentence-transformers>=2.6   # Apr‑2025 wheel :contentReference[oaicite:4]{index=4}
 transformers>=4.40
 pyldavis>=3.4
-
-# ===== utilities =====
-ruamel.yaml>=0.18   # Jan‑2025  :contentReference[oaicite:7]{index=7}
+ruamel.yaml>=0.18       # Jan‑2025 :contentReference[oaicite:5]{index=5}
 matplotlib>=3.9
 seaborn>=0.13
 pytest>=8.0

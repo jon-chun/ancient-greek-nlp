@@ -9,6 +9,11 @@ Usage:
 import argparse, pathlib, importlib
 from ruamel.yaml import YAML  # actively maintained YAML lib 0.18.x  🠚 :contentReference[oaicite:1]{index=1}
 
+
+from utils.logging_utils import init_logger
+LOGGER = init_logger(__name__, "full-run", cfg)
+
+
 yaml = YAML(typ="safe")
 
 def load_config(path):
