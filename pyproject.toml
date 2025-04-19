@@ -1,0 +1,22 @@
+[project]
+name        = "ancient-greek-nlp"
+version     = "0.1.0"
+description = "Configurable Ancient‑Greek NLP pipeline"
+requires-python = ">=3.10"
+
+dependencies = [
+  "cltk>=2.2",
+  "stanza>=1.8",
+  "spacy[transformers]>=3.7",
+  "gensim>=4.5",
+  "bertopic>=0.16",
+  "sentence-transformers>=2.6",
+  "transformers>=4.40",
+  "pyldavis>=3.4",
+  "ruamel.yaml>=0.18",
+  "matplotlib>=3.9",
+  "seaborn>=0.13",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "pytest-cov>=4.1"]

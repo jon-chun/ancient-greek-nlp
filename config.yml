@@ -29,3 +29,7 @@ absa_llm_provider: "openai"       # used only if absa_method == llm
 # ---- visualisation ----
 save_figs: true
 fig_dpi: 300
+
+# ---- logging ----
+log_dir: "log"
+log_level: "INFO"
