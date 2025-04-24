@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "US Senator Says 'Traumatised' Man Deported to El Salvador Moved to New Prison",
+    "text_summary_en": "US Senator Chris Van Hollen reports that Kilmar Ábrego García, mistakenly deported to El Salvador, has been moved to a new prison. Ábrego García was initially held in the notorious mega-jail Cecot and was reportedly \"traumatised\" and fearful. Despite a Supreme Court order to facilitate his return, the Trump administration refuses, accusing him of MS-13 membership. Van Hollen visited Ábrego García in El Salvador and is advocating for his due process rights, emphasizing that Ábrego García has never been convicted of a crime. The senator expressed frustration with the Trump administration's handling of the case. The White House insists he will never return to the US, citing his alleged gang affiliation. The case highlights a conflict between the Trump administration and the US courts over immigration and due process.",
+    "original_filename": "3_news_news_articles_cjdx0gp0kd0o.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Kilmar Ábrego García's Deportation and Imprisonment",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is negative due to the unjust deportation, imprisonment, and reported trauma. Phrases like 'mistakenly deported,' 'traumatised,' 'fearful,' and 'no access to any news' contribute to this negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No indication of joy in this situation."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Low trust due to the circumstances of the deportation and imprisonment."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "High fear is indicated by the word 'fearful' and the context of being held in a notorious mega-jail."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The initial deportation was a surprise, considering the Supreme Court order."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The situation evokes sadness due to the unjust treatment and separation from family. 'He felt very sad about being in a prison because he had not committed any crimes.'"
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Disgust towards the injustice of the situation."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at the unjust deportation and the administration's refusal to comply with court orders."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Low anticipation, as the future is uncertain and bleak for Ábrego García."
+        }
+      }
+    },
+    {
+      "topic": "Trump Administration's Handling of the Case",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The sentiment is negative due to the administration's refusal to comply with court orders and their insistence on deporting Ábrego García, despite the Supreme Court ruling. Phrases like 'push back against the order,' 'will not return to the US,' and 'not a very innocent guy' contribute to this negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No indication of joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Very low trust due to the perceived disregard for the rule of law."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some fear regarding the implications of the administration's actions for due process."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some surprise at the administration's defiance of the court."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Some sadness at the injustice."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Disgust at the administration's actions and justifications."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High anger at the perceived injustice and disregard for the rule of law."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Low anticipation of a positive outcome."
+        }
+      }
+    },
+    {
+      "topic": "Senator Chris Van Hollen's Involvement",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The sentiment is generally positive due to the senator's efforts to advocate for Ábrego García's rights and ensure due process. Phrases like 'defending the rights of this man to due process,' 'ensure both the rule of law and the right to due process before the courts are upheld,' and 'helped facilitate a meeting' contribute to this positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Limited joy, but some satisfaction in advocating for justice."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "High trust in the senator's intentions and actions."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Low surprise."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some sadness at the situation."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some disgust at the injustice."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Moderate anger at the injustice."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "High anticipation of a positive outcome, or at least a fair process."
+        }
+      }
+    },
+    {
+      "topic": "MS-13 Allegations",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The sentiment is negative due to the association with a designated foreign terrorist organization. The phrase 'transnational Salvadoran gang MS-13, a designated foreign terrorist organisation' carries a strong negative connotation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No trust associated with this topic."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High fear associated with a terrorist organization."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Low surprise."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Some sadness due to the implications of gang activity."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High disgust associated with gang activity."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High anger associated with gang activity."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Low anticipation of a positive outcome."
+        }
+      }
+    },
+    {
+      "topic": "US Courts System vs. Trump Administration",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 70,
+        "reasoning": "The sentiment is mixed, reflecting a conflict. The courts are attempting to uphold due process, while the administration is resisting. This creates a sense of tension and uncertainty."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal joy."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Moderate trust in the court system, but low trust in the administration."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Fear about the implications of the conflict for the rule of law."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 60,
+          "reasoning": "Some surprise at the level of conflict."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Some sadness at the breakdown of the system."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 50,
+          "reasoning": "Some disgust at the perceived disregard for the rule of law."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Moderate anger at the conflict."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Uncertain anticipation of the outcome."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+###FORMAT:
+Title: If Meta loses in antitrust case, it could be forced to break itself up by selling Instagram and WhatsApp
+URL: https://www.cnn.com/2025/04/14/media/meta-ftc-trial/index.html
+Scraped Date: 2025-04-20 11:03:59
+Published Date: 2025-04-14
+
+--- Text ---
+Meta is going on trial starting Monday.
+The US government is advancing a blockbuster antitrust case, alleging that Mark Zuckerberg’s company illegally built a “social networking monopoly” through years of “anticompetitive conduct.”
+If the judge sides with the government, Meta could be forced to break itself up by selling Instagram and WhatsApp, and other tech giants could be put on notice.
+But there is another if: whether President Donald Trump will intervene in some fashion.
+The agency pursuing the case, the Federal Trade Commission, has historically operated with a remarkable amount of independence, meaning investigators have been insulated from political pressure.
+Trump has blown up those norms across the executive branch during his second term, however, leading to widespread concerns about favor-trading and corruption.
+At the same time, Zuckerberg has bent over backward to forge an alliance with Trump through private dinners, public appearances and changes to Meta’s platform. Zuckerberg remarked to Meta employees in January that “we now have an opportunity to have a productive partnership with the United States government” and “we’re going to take that.”
+Zuckerberg was most recently spotted at the White House on April 2; that same day, The New York Times and The Wall Street Journal reported that he was pressing Trump to resolve the FTC case.
+Former Labor Secretary Robert Reich, a staunch critic of both men, wrote on X, “Remember how Mark Zuckerberg started cozying up to Trump as Meta donated $1 million to his inauguration? Well now Zuckerberg is trying to cash in — reportedly lobbying Trump to settle the FTC’s antitrust lawsuit against Meta. This is why you always follow the money.”
+The case against Meta was actually hatched during Trump’s first term. FTC commissioners appointed by Trump, in concert with nearly every state attorney general office, investigated Meta’s past acquisitions of Instagram and WhatsApp and filed a lawsuit in December 2020.
+The suit was thrown out six months later, but the FTC — by then under the leadership of President Joe Biden’s appointees — came back with a stronger complaint, and the US district judge assigned to the case, Judge James Boasberg, rejected Meta’s bids to dismiss the suit.
+Boasberg will also be presiding over the trial and ruling for or against Meta, since there is no jury. His presence adds another layer of intrigue, since he also ruled against Trump’s use of the Alien Enemies Act to deport alleged Venezuelan gang members.
+Trump has attacked Boasberg as “a Radical Left Lunatic” and called for his impeachment, even though Boasberg has a nonpartisan record and a sterling reputation in legal circles.
+Under normal circumstances a president’s personal relationships and opinions would have no bearing on a federal trial. But these are not normal times.
+Last month Trump fired the two Democrats on the FTC, despite a 1935 Supreme Court ruling that a president cannot do so without cause. The two commissioners, Rebecca Slaughter and Alvaro Bedoya, are suing Trump and trying to stay on the commission.
+“Our laws need to be enforced without fear or favor,” Slaughter told CNN’s Kaitlan Collins, warning that “the president has been very clear about directing law enforcement to target his enemies and favor his allies.”
+So is Zuckerberg a friend or enemy? In a book released last year, Trump accused Zuckerberg of plotting against him in 2020 and said “if he does anything illegal this time he will spend the rest of his life in prison — as will others who cheat in the 2024 Presidential Election.”
+Zuckerberg spoke positively about Trump last summer, in the wake of the Butler, Pennsylvania assassination attempt, and met with Trump at Mar-a-Lago after the election. “We had a really nice dinner,” Trump told NBC. “He asked to have dinner. I had dinner with him,” adding, “People like me now, you know?”
+In January, Zuckerberg instituted a MAGA makeover of Facebook and other platforms, responding in part to Trump’s long-held complaints about “censorship.” He also stood with other tech CEOs at Trump’s inauguration – an extraordinary sight that Trump has brought up many times since.
+If Trump has warm and fuzzy feelings about Zuckerberg, he has not said so publicly.
+Trump’s pick to lead the FTC, Andrew Ferguson, recently said the commission’s lawyers are “raring to go” against Meta at trial.
+But he also said, when asked by The Verge about the prospect of Trump telling to him drop a case like Meta’s, “the president’s head of the executive branch, and I think it’s important for me to obey lawful orders.”
+“I think that the president recognizes that we’ve got to enforce the laws, so I’d be very surprised if anything like that ever happened,” Ferguson said.
+Meta, for its part, has made some Trump-friendly arguments in public ahead of the trial start date.
+“Regulators should be supporting American innovation, rather than seeking to break up a great American company and further advantaging China on critical issues like AI,” a company spokesperson said.
+At trial, Meta will also point to what it says “every 17-year-old in the world knows:” that Facebook, Instagram and WhatsApp “compete with Chinese-owned TikTok, YouTube, X, iMessage and many others.”

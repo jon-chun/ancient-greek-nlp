@@ -1,0 +1,509 @@
+{
+  "article_metadata": {
+    "title_en": "Trump Official Says Tariff Exemptions on Tech are Temporary. Elizabeth Warren Calls Trade War ‘Red Light, Green Light’ Game",
+    "text_summary_en": "Commerce Secretary Lutnick stated that tariff exemptions on electronics are temporary, with semiconductor tariffs coming soon. President Trump clarified that no one is \"off the hook\" and products are moving to a different tariff \"bucket.\" Senator Warren criticized the tariff shifts as \"chaos and corruption,\" likening it to a \"red light, green light\" game. Analysts initially saw the exemptions as positive for tech investors. However, tariff uncertainty has negatively impacted the stock market and consumer sentiment, raising recession fears. Trump officials maintain tariffs will strengthen the economy. There's confusion about the rules, with economists criticizing the policy. China has retaliated with tariffs, but officials indicate they won't increase them further. Other countries are negotiating tariffs with the US, excluding China for now. The possibility of China selling US assets is not part of the plan.",
+    "original_filename": "21_business_business_tariffs-economy-trump-china_index.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Overall Tariff Situation",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 90,
+        "reasoning": "The article discusses the contradictory statements and confusion surrounding the tariffs, leading to a negative sentiment overall."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The article does not express joy, given the negative economic consequences discussed."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "The constant changes and conflicting statements erode trust in the administration's trade policies."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The article mentions \"fears of a recession\" and the stock market tumbling, indicating a high level of fear."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "The unexpected tariff exemptions and changes contribute to surprise."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The plummeting consumer sentiment and potential recession contribute to sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "Elizabeth Warren's description of \"chaos and corruption\" suggests disgust."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "The article mentions \"unfair Trade Balances\" which can lead to anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "There is anticipation regarding the outcome of the 90-day pause and future trade negotiations."
+        }
+      }
+    },
+    {
+      "topic": "Temporary Tariff Exemptions on Electronics",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 85,
+        "reasoning": "This topic focuses on the temporary nature of exemptions and the upcoming semiconductor tariffs, creating uncertainty and a slightly negative outlook."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The topic does not express joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The back-and-forth nature of the policy erodes trust."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The upcoming tariffs create fear of negative economic impact."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The temporary nature of the exemptions is surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The tariffs could negatively impact businesses and consumers, leading to sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Some may find the policy changes frustrating, leading to slight disgust."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Businesses affected by the tariffs might feel anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "There is anticipation about the details and impact of the semiconductor tariffs."
+        }
+      }
+    },
+    {
+      "topic": "Trump's Clarification on Tariffs",
+      "sentiment_polarity": {
+        "score": -0.1,
+        "confidence": 80,
+        "reasoning": "Trump's statement aims to reassure but also asserts that no one is \"off the hook,\" indicating a firm stance. The use of \"Fake News\" adds a negative tone."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The statement does not express joy."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The statement attempts to build trust but the confrontational tone may undermine it."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The statement could induce fear in those who are targeted by the tariffs."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The statement clarifies the tariff situation, potentially surprising some."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The statement could cause sadness for businesses impacted by the tariffs."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The \"Fake News\" comment expresses disgust."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The statement expresses anger towards other countries and the media."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The statement implies future actions and developments."
+        }
+      }
+    },
+    {
+      "topic": "Elizabeth Warren's Criticism",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "Warren's description of \"chaos and corruption\" and likening the situation to a \"red light, green light\" game indicates a strongly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The statement does not express joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The statement expresses a complete lack of trust."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The \"chaos and corruption\" creates fear and uncertainty."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The unpredictable nature of the tariffs can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The negative economic consequences can cause sadness."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The \"chaos and corruption\" strongly indicate disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The statement expresses anger towards the administration's policies."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "There is some anticipation about the future consequences of the policies."
+        }
+      }
+    },
+    {
+      "topic": "Analyst's Positive View on Tariff Exemptions",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The statement \"best news possible for tech investors\" indicates a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The statement expresses joy and relief for tech investors."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The exemptions create some trust in the market stability."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The exemptions reduce fear of negative impact."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The exemptions could be seen as a surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The statement does not express sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The statement does not express disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The statement does not express anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "There is anticipation about the long-term impact of the exemptions."
+        }
+      }
+    },
+    {
+      "topic": "Negative Economic Impact of Tariffs",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The phrase \"tariff whiplash\" and the mention of negative economic indicators like plummeting consumer sentiment and recession fears indicate a strongly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The economic indicators suggest no joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The negative indicators erode trust in the economy."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The recession fears indicate a high level of fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The rapid changes could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The negative economic impact contributes to sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Some may find the economic situation frustrating, leading to slight disgust."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The perceived negative consequences of the tariffs can lead to anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "There is anticipation about the future economic situation."
+        }
+      }
+    },
+    {
+      "topic": "China's Response to Tariffs",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 80,
+        "reasoning": "The statement that China is \"not afraid\" indicates a neutral to slightly positive sentiment from China's perspective, showing resilience."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Limited joy is expressed."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Some trust in their own economic strength."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Reduced fear, as they claim to \"not be afraid.\""
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some surprise at the US actions."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Potential sadness due to trade tensions."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some disgust at US policies."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Some anger at the US tariffs."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of future trade relations."
+        }
+      }
+    },
+    {
+      "topic": "Negotiations with Other Countries",
+      "sentiment_polarity": {
+        "score": 0.5,
+        "confidence": 85,
+        "reasoning": "The statement from Hassett indicates a positive outlook on negotiations with countries other than China, suggesting order and clarity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Positive outlook on the negotiations."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Trust in the negotiation process."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Reduced fear due to the orderly process."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some surprise at the progress."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The statement does not express sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The statement does not express disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The statement does not express anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of successful negotiations."
+        }
+      }
+    },
+    {
+      "topic": "Larry Summers' Criticism",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The statement suggests a negative assessment of the tariff policy, describing it as the \"worst self-inflicted wound through economic policy,\" indicating a strongly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The statement does not express joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The statement expresses a complete lack of trust in the policy."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The negative economic impact creates fear and uncertainty."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The policy could be seen as a surprising mistake."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The negative economic consequences cause sadness."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The statement expresses disgust towards the policy."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The statement expresses anger towards the policy."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There is limited anticipation about positive outcomes."
+        }
+      }
+    },
+    {
+      "topic": "Ray Dalio's Assessment",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 85,
+        "reasoning": "The statement describes Trump's trade policies as \"very disruptive,\" indicating a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The statement does not express joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Limited trust in the policies."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The disruptive nature creates fear and uncertainty."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The policies could be seen as surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The negative impact can cause sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Some may find the policies frustrating, leading to slight disgust."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The policies can lead to anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of future consequences."
+        }
+      }
+    }
+  ]
+}

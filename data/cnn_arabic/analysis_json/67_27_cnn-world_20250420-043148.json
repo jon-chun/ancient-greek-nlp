@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "Timeline: All the Transformations and Turning Points in the Trade War Between China and the United States",
+    "text_summary_en": "The trade war between China and the United States is escalating, with no signs of easing after the two largest economies in the world exchanged massive tariffs this week. Beijing raised tariffs on American imports to 125%, just one day after the White House announced that Chinese imports would be subject to tariffs of at least 145%. The article presents a timeline summarizing the intense discussions between the US and China, highlighting the key events and turning points that led to the current situation. The article expresses concern about the potential future trajectory of the trade war.",
+    "original_filename": "27_cnn-world_20250420-043148.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "China-US Trade War",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is negative due to the escalating nature of the conflict ('الحرب التجارية المتصاعدة,' 'no signs of easing'). The exchange of 'massive tariffs' indicates a worsening situation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 90,
+          "reasoning": "Weight is low as the topic is negative."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "Weight is low as the escalating conflict erodes trust."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Weight is high due to the 'escalating' nature and uncertain future."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Weight is moderate as the rapid escalation can be unexpected."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Weight is moderate as the conflict harms both economies."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Weight is low."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Weight is moderate as the tariffs and counter-tariffs can generate anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Weight is high as the future is uncertain, and people are anticipating what will happen next."
+        }
+      }
+    },
+    {
+      "topic": "China's Tariffs on US Imports (125%)",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 90,
+        "reasoning": "This is a negative development in the context of the trade war, as it represents an escalation of tensions."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 90,
+          "reasoning": "Weight is low."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "Weight is low as it reflects a breakdown in trade relations."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Weight is moderate as it could lead to further escalation."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Weight is moderate as the specific percentage could be unexpected."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Weight is moderate as it harms trade."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Weight is low."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Weight is moderate as it is a retaliatory measure."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 60,
+          "reasoning": "Weight is moderate as people are waiting to see how the US will respond."
+        }
+      }
+    },
+    {
+      "topic": "US Tariffs on Chinese Imports (145%)",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 90,
+        "reasoning": "Similar to China's tariffs, this is a negative development that escalates the trade war."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 90,
+          "reasoning": "Weight is low."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "Weight is low as it reflects a breakdown in trade relations."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Weight is moderate as it could lead to further escalation."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Weight is moderate as the specific percentage could be unexpected."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Weight is moderate as it harms trade."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Weight is low."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Weight is moderate as it is a retaliatory measure."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 60,
+          "reasoning": "Weight is moderate as people are waiting to see how China will respond."
+        }
+      }
+    },
+    {
+      "topic": "Future of the Trade War",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "The phrase 'ولا أحد يعرف إلى أين يمكن أن تصل الأمور من هنا' ('no one knows where things can go from here') indicates uncertainty and a potentially negative outlook."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 90,
+          "reasoning": "Weight is low."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "Weight is low due to uncertainty."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Weight is high due to the unknown and potential for escalation."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Weight is moderate as the future is unpredictable."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Weight is moderate as the future could bring negative consequences."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Weight is low."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Weight is low."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 80,
+          "reasoning": "Weight is very high as the focus is on the unknown future."
+        }
+      }
+    }
+  ]
+}

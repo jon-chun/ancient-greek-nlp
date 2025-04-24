@@ -1,0 +1,159 @@
+{
+  "article_metadata": {
+    "title_en": "‘It’s all about what was known and when’: Will the mother of FSU shooting suspect face charges?",
+    "text_summary_en": "A shooting at Florida State University left two dead and five wounded, allegedly perpetrated by Phoenix Ikner, the son of a Leon County sheriff’s deputy, using a handgun belonging to his mother. The article explores the potential legal ramifications for the mother, Jessica Ikner, drawing parallels to the Crumbley case in Michigan, where parents were convicted for their son's school shooting. Legal experts discuss the factors prosecutors will consider, including how the shooter accessed the gun, whether the mother knew of his potential for violence, and if there were warning signs. Ikner's history, including emotional dysregulation, extreme political beliefs, and a tumultuous childhood, are examined. The article also mentions the suspect's access to weapons due to his involvement with the sheriff's office family and training programs. While criminal charges against the mother are uncertain, a civil lawsuit is considered more likely. The investigation is ongoing, and the suspect faces potential first-degree murder charges.",
+    "original_filename": "11_us_us_gun-fsu-shooting-suspect-mother_index.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "FSU Shooting",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 99,
+        "reasoning": "The Florida State University shooting is a tragic event with loss of life and injuries, resulting in a strongly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "A shooting is a tragic event and does not evoke joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Trust in safety and security is diminished."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 99,
+          "reasoning": "A mass shooting is inherently frightening."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Mass shootings are often unexpected and shocking."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 99,
+          "reasoning": "The loss of life and injuries cause sadness."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The violence of the shooting can cause disgust."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The senseless violence can cause anger."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation regarding the investigation and legal outcomes."
+        }
+      }
+    },
+    {
+      "topic": "Potential Legal Culpability of Jessica Ikner",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 80,
+        "reasoning": "The potential legal culpability of Jessica Ikner, the mother of the shooter, is a complex issue, and the article explores legal arguments for and against charges, resulting in a neutral sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "This topic is not related to joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Trust in the legal system is relevant."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The potential legal consequences evoke fear and anxiety."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the potential charges."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Sadness related to the situation."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Disgust related to the potential negligence."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger at the potential negligence."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation regarding the legal proceedings."
+        }
+      }
+    },
+    {
+      "topic": "Phoenix Ikner's Background",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "Phoenix Ikner's background, including his emotional dysregulation, extreme political beliefs, and tumultuous childhood, is presented in a negative light, leading to a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "These factors are not related to joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "These factors are not related to trust."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "His background can evoke fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the extent of his issues."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "His troubled past evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "His extreme political beliefs can evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "His actions and beliefs can evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Low anticipation related to his future."
+        }
+      }
+    }
+  ]
+}

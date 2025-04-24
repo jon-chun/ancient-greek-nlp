@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "‘Chaotic’ tariff regime and trade war are leaving small businesses in their wake",
+    "text_summary_en": "This article discusses the negative impact of President Trump's trade policies and tariffs on small businesses in the US. Several small business owners are interviewed, detailing how the tariffs have caused costs to skyrocket, disrupted supply chains, and stifled growth. These businesses, which rely on imported goods due to the infeasibility of domestic sourcing, are struggling to cope with the sudden price hikes. Economists warn of broader economic consequences, including higher costs, inflation, and potential recession. The small businesses are portrayed as being caught in the crossfire, facing potential closure and job losses. The owners express feelings of being unsupported by the government and fear for their future.",
+    "original_filename": "13_economy_economy_us-small-businesses-tariffs_index.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "US Small Businesses",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "US Small Businesses are portrayed as being negatively impacted and struggling due to the tariffs. The article highlights their vulnerability and potential for failure."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 90,
+          "reasoning": "Weight is very low, as the businesses are facing hardship."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 85,
+          "reasoning": "Weight is low, as they feel unsupported by the government."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Weight is high due to the threat of going out of business."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Weight is moderate as the sudden tariff changes were unexpected."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Weight is high due to the potential loss of their businesses and livelihoods."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "Weight is low, but present, due to a sense of unfairness."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 88,
+          "reasoning": "Weight is moderate as they are frustrated with the situation."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Weight is moderate as they are hoping for a positive change but also fearing the worst."
+        }
+      }
+    },
+    {
+      "topic": "President Donald Trump's Trade Policies",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The sentiment towards Trump's trade policies is negative, as they are described as 'erratic' and causing 'havoc' on small businesses. The article directly links the policies to the difficulties faced by the businesses."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.01,
+          "confidence": 90,
+          "reasoning": "Weight is very low, as the policies are having a negative impact."
+        },
+        "Trust": {
+          "weight": 0.05,
+          "confidence": 85,
+          "reasoning": "Weight is very low, as the business owners feel betrayed by the policies."
+        },
+        "Fear": {
+          "weight": 0.85,
+          "confidence": 95,
+          "reasoning": "Weight is high due to the uncertainty and potential for business failure caused by the policies."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 80,
+          "reasoning": "Weight is moderate as the policies were unexpected and rapidly changing."
+        },
+        "Sadness": {
+          "weight": 0.75,
+          "confidence": 90,
+          "reasoning": "Weight is high due to the potential loss of businesses and livelihoods."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Weight is moderate as there is a sense of unfairness and resentment towards the policies."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 88,
+          "reasoning": "Weight is high as the business owners are frustrated and angry with the policies."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Weight is low as the policies are seen as detrimental."
+        }
+      }
+    },
+    {
+      "topic": "Tariffs",
+      "sentiment_polarity": {
+        "score": -0.85,
+        "confidence": 95,
+        "reasoning": "The sentiment towards tariffs is negative because they are directly causing increased costs and instability for small businesses. The article describes them as 'massive' and 'skyrocketing.'"
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.01,
+          "confidence": 90,
+          "reasoning": "Weight is very low, as the tariffs are having a negative impact."
+        },
+        "Trust": {
+          "weight": 0.05,
+          "confidence": 85,
+          "reasoning": "Weight is very low, as the tariffs are seen as detrimental to small businesses."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Weight is high due to the uncertainty and potential for business failure caused by the tariffs."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Weight is moderate as the tariff changes were unexpected and rapid."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Weight is high due to the potential loss of businesses and livelihoods."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Weight is moderate as there is a sense of unfairness and resentment towards the tariffs."
+        },
+        "Anger": {
+          "weight": 0.85,
+          "confidence": 88,
+          "reasoning": "Weight is high as the business owners are frustrated and angry with the tariffs."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Weight is low as the tariffs are seen as detrimental."
+        }
+      }
+    },
+    {
+      "topic": "China",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 80,
+        "reasoning": "The sentiment towards China is neutral. China is mentioned as a manufacturing hub where the businesses source their products. There is no explicit positive or negative sentiment expressed towards China itself."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.01,
+          "confidence": 90,
+          "reasoning": "Weight is very low."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 85,
+          "reasoning": "Weight is neutral."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 95,
+          "reasoning": "Weight is low."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "Weight is very low."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "Weight is very low."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 75,
+          "reasoning": "Weight is very low."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 88,
+          "reasoning": "Weight is very low."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Weight is neutral."
+        }
+      }
+    }
+  ]
+}

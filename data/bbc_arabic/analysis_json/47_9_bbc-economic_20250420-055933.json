@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "What is the impact of the trade war between the United States and China on the global economy?",
+    "text_summary_en": "The article discusses the escalating trade war between the US and China, triggered by increased tariffs imposed by the US on Chinese goods, with China retaliating in kind. The trade volume between the two countries was approximately $585 billion last year, with the US importing significantly more from China than vice versa, resulting in a substantial trade deficit for the US. Previous tariffs had already reduced the US's reliance on Chinese imports, but some Chinese exports were rerouted through Southeast Asian countries to avoid tariffs. Key exports from the US to China include soybeans, medicines, and oil, while China exports electronics, computers, games, and batteries to the US. The trade war impacts companies like Apple and could lead to China restricting exports of vital minerals. The US may further restrict China's access to advanced microchips. A full-scale trade war could significantly harm the global economy, slowing growth and potentially causing recessions. There's also a risk of China \"dumping\" excess goods into global markets, potentially harming producers in other countries.",
+    "original_filename": "9_bbc-economic_20250420-055933.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "US-China Trade War",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 95,
+        "reasoning": "The article describes an escalating conflict with negative consequences for both countries and the global economy. Phrases like \"حرب تجارية شاملة\" (full-scale trade war) and \"ستقاتل حتى النهاية\" (will fight to the end) indicate a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 60,
+          "reasoning": "Minimal joy is associated with this topic, as it's about conflict and economic downturn."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low trust, as the article highlights retaliatory actions and potential economic instability."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High fear due to the potential for global economic damage and recession. The article mentions \"تباطؤ النمو العالمي\" (slowing global growth)."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Moderate surprise, as the scale of the trade war and its potential consequences might be unexpected."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Significant sadness due to the potential economic hardship and job losses. The article mentions \"يُلحق ذلك الضرر باقتصادات الدول الأخرى\" (it will harm the economies of other countries)."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Some disgust at the protectionist measures and potential for unfair trade practices like 'dumping'."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "High anger due to the aggressive trade policies and retaliatory measures. The phrase \"ستقاتل حتى النهاية\" (will fight to the end) suggests anger and defiance."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High anticipation as the article explores the potential future consequences of the trade war. The article discusses potential scenarios and outcomes."
+        }
+      }
+    },
+    {
+      "topic": "Donald Trump's Trade Policies",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 90,
+        "reasoning": "Trump's policies are presented as the initial trigger for the trade war, leading to negative consequences. The article mentions \"فرض الرئيس الأمريكي، دونالد ترامب، رسوماً جمركية\" (President Donald Trump imposed tariffs)."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 50,
+          "reasoning": "Minimal joy associated with this topic in the context of the article."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Low trust, as the policies are seen as disruptive and leading to conflict."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Moderate fear due to the potential for economic instability caused by these policies."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Moderate surprise, as the scale and impact of the policies might be unexpected."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Some sadness due to the potential negative economic consequences."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some disgust at the protectionist nature of the policies."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Significant anger, especially from the Chinese perspective, due to the imposed tariffs."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Moderate anticipation as the article discusses the potential future impact of these policies."
+        }
+      }
+    },
+    {
+      "topic": "Chinese Retaliation",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "China's response is presented as a reaction to US policies, leading to further escalation. The article mentions \"سترفع رسومها الجمركية على السلع الأمريكية\" (will raise its tariffs on American goods)."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 50,
+          "reasoning": "Minimal joy associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Low trust, as the retaliation contributes to the overall conflict."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Moderate fear due to the potential for further economic damage."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Moderate surprise, as the extent of the retaliation might be unexpected."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Some sadness due to the potential negative economic consequences."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Some disgust at the tit-for-tat nature of the conflict."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "High anger as the retaliation is a direct response to perceived unfair treatment."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Moderate anticipation as the article discusses the potential future impact of China's actions."
+        }
+      }
+    },
+    {
+      "topic": "Global Economic Impact",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The article explicitly states that a full-scale trade war could significantly harm the global economy. Phrases like \"يُلحق ذلك الضرر باقتصادات الدول الأخرى\" (it will harm the economies of other countries) and \"تباطؤ النمو العالمي\" (slowing global growth) indicate a strong negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.01,
+          "confidence": 40,
+          "reasoning": "Almost no joy associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.05,
+          "confidence": 30,
+          "reasoning": "Very low trust in the stability of the global economy."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Very high fear due to the potential for widespread economic damage and recession."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Moderate surprise, as the extent of the global impact might be unexpected."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High sadness due to the potential for economic hardship and job losses worldwide."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some disgust at the potential for unfair trade practices and economic manipulation."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Moderate anger, especially from countries that might be negatively affected by the trade war."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Very high anticipation as the article explores the potential future consequences for the global economy."
+        }
+      }
+    },
+    {
+      "topic": "Apple's Stock Value Decline",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 80,
+        "reasoning": "The article states that the trade war has contributed to a decline in Apple's stock value. The phrase \"انخفض سعر سهم أبل بنسبة 20 في المئة\" (Apple's stock price fell by 20 percent) indicates a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 50,
+          "reasoning": "Minimal joy associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Low trust in the stability of Apple's stock value."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Moderate fear among investors due to the potential for further decline."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Moderate surprise, as the extent of the decline might be unexpected."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Some sadness among investors who have lost money."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal disgust associated with this topic."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some anger among investors who blame the trade war for the decline."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Moderate anticipation as investors wonder about the future performance of Apple's stock."
+        }
+      }
+    }
+  ]
+}

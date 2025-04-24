@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "How Will Trump's Trade War Against China Negatively Affect American Farmers?",
+    "text_summary_en": "The article discusses the potential negative impact of Donald Trump's trade policies, specifically increased tariffs on Chinese imports, on American farmers. China is retaliating with its own tariffs on US goods, particularly agricultural products like soybeans. This is reminiscent of a previous trade war where China diversified its import sources, benefiting countries like Brazil. The article highlights the significant reliance of American farmers on exports to China and the potential economic losses they face due to these trade tensions. It also mentions China seeking alternative trade partners and the political implications for Trump, given that many affected farmers are in states that voted for him. The article concludes by noting China's efforts to strengthen trade relations with other countries and regions, such as ASEAN and the EU, to counter the impact of US tariffs.",
+    "original_filename": "23_cnn-world_20250420-043057.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Trump's Trade War against China",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The article portrays this trade war as potentially damaging, with negative consequences. Phrases like 'negatively affect,' 'war,' and the implication of economic losses contribute to a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The trade war is presented as detrimental, leaving no room for joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There is a lack of trust implied between the involved parties due to the trade disputes."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The potential economic consequences for American farmers and businesses generate fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The escalation of the trade war and the swift retaliatory measures from China are surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The potential losses for American farmers evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The disruptive nature of the trade war and its impact on established trade relationships can be seen as disgusting."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The trade war and its potential consequences can incite anger among those affected, particularly farmers."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "There is anticipation about how the trade war will unfold and its long-term effects."
+        }
+      }
+    },
+    {
+      "topic": "American Farmers",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The article focuses on the potential negative impact on American farmers, indicating a negative sentiment. Phrases like 'خسائر التي قد يخسرها المزارعون الأمريكيون' (losses that American farmers may lose) and 'يعانون من تداعياتها' (suffering from its repercussions) reinforce this."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The situation of American farmers is portrayed as difficult, with no indication of joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There may be a lack of trust in the government's handling of the trade situation."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The potential for economic losses generates significant fear among American farmers."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The sudden shifts in trade policies can be surprising to farmers."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The potential for economic hardship and loss of livelihood evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "The disruption of their business and the perceived unfairness of the situation can be seen as disgusting."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The perceived unfairness of the trade war and its impact on their livelihoods can incite anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Farmers are likely anticipating the future impact of the trade war on their businesses."
+        }
+      }
+    },
+    {
+      "topic": "China",
+      "sentiment_polarity": {
+        "score": -0.1,
+        "confidence": 75,
+        "reasoning": "The sentiment towards China is neutral to slightly negative. While the article acknowledges China's retaliatory measures, it also highlights their efforts to diversify trade and seek alternative partners."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "There is a slight sense of satisfaction in China's ability to adapt and find alternative solutions."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "China's actions suggest a level of trust in its ability to navigate the trade war."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "China likely experiences some fear regarding the potential economic consequences of the trade war."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The rapidly changing trade landscape and the unexpected actions of the US can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The trade war may cause some sadness due to the disruption of established trade relationships."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The perceived unfairness of the US trade policies can be seen as disgusting."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The trade war and the US policies can incite anger in China."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "China is likely anticipating the long-term effects of the trade war and planning accordingly."
+        }
+      }
+    },
+    {
+      "topic": "Brazil",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The sentiment towards Brazil is positive, as the article highlights Brazil's potential to benefit from the trade war by increasing its soybean exports to China. The phrase 'برزت البرازيل كفائزة' (Brazil emerged as a winner) clearly indicates a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Brazil is portrayed as benefiting from the situation, generating joy."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "China's increased reliance on Brazil suggests a level of trust in Brazil as a trade partner."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "There is minimal fear for Brazil, as the trade war presents an opportunity for growth."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The extent of Brazil's gains may be somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no indication of sadness for Brazil."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no indication of disgust for Brazil."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no indication of anger for Brazil."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Brazil is likely anticipating further gains from the trade war."
+        }
+      }
+    }
+  ]
+}

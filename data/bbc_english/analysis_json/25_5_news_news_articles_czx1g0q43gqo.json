@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "Oldest Serving US Astronaut Returns to Earth on 70th Birthday",
+    "text_summary_en": "Astronaut Don Pettit, the oldest serving US astronaut, returned to Earth on his 70th birthday along with Russian crewmates Alexey Ovchinin and Ivan Vagner after spending 220 days on the International Space Station (ISS). Their Soyuz capsule landed in Kazakhstan. Pettit has spent a total of 590 days in space across four missions, though he is not the oldest person to fly in space, a record held by John Glenn. The crew will readjust to gravity before Pettit returns to Houston and his Russian counterparts go to Star City near Moscow. Command of the ISS was handed over to Japanese astronaut Takuya Onishi. The article also mentions the delayed return of astronauts Butch Wilmore and Suni Williams, who spent significantly longer than planned on the ISS due to technical issues.",
+    "original_filename": "5_news_news_articles_czx1g0q43gqo.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Don Pettit's Return",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The return is presented as a positive event, especially given it coincided with his birthday. The tone is celebratory and informative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Returning to Earth and celebrating a birthday are joyful events."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The successful return indicates trust in the space program and technology."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Space travel inherently involves some element of risk."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "While planned, the return itself is a significant event."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "A small element of sadness might be associated with leaving the ISS."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is apparent in the context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is apparent in the context."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation for what comes next after returning."
+        }
+      }
+    },
+    {
+      "topic": "International Space Station (ISS)",
+      "sentiment_polarity": {
+        "score": 0.5,
+        "confidence": 80,
+        "reasoning": "The ISS is presented as a place of work and collaboration. The tone is neutral, focusing on its function."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The ISS represents human achievement and exploration."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The ISS is a symbol of international collaboration and scientific progress."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The ISS environment has inherent risks."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The constant research and discoveries might bring surprises."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Leaving the ISS could induce some sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is apparent in the context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is apparent in the context."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of future research and discoveries on the ISS."
+        }
+      }
+    },
+    {
+      "topic": "Soyuz MS-26 Landing",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The landing is described factually, indicating a successful and safe return."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Successful landing implies a positive outcome."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in the technology and procedures for safe landing."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Landing always involves some risk."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The event is expected, so minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No sadness is apparent in the context."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is apparent in the context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is apparent in the context."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anticipation of the astronauts' readjustment to Earth."
+        }
+      }
+    },
+    {
+      "topic": "Butch Wilmore and Suni Williams' Delayed Return",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "The delay suggests potential problems and complications, leading to a slightly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Eventual return is positive but overshadowed by the delay."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Some trust remains in the system's ability to eventually bring them back."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The delay and technical issues likely caused concern."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The extended stay and technical problems were unexpected."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The extended stay could have been difficult for the astronauts."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minor frustration might be present."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Potential anger at the technical issues causing the delay."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Anticipation of their eventual return."
+        }
+      }
+    }
+  ]
+}

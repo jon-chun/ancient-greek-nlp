@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOIH2l1oLYr4Cc81z8d54dtudnQNp",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nTrump Administration Exempts Smartphones and Computers from Tariffs\n\n### English Text Summary:\nThe Trump administration has exempted smartphones, computers, and other electronic devices from reciprocal tariffs, including a 125% tariff on Chinese imports. The U.S. Customs and Border Protection announced that these devices would be excluded from the 10% tariffs imposed on most countries and the higher tariffs on China. This decision came in response to concerns from American tech companies about rising prices due to reliance on Chinese manufacturing. The exemptions are seen as a significant relief for major tech firms like Apple and Microsoft, allowing them more time to shift production to the U.S. The article also discusses Trump's broader tariff strategy and its implications for international trade relations.\n\n[\n    {\n        \"topic\": \"Trump Administration Tariff Policy\",\n        \"sentiment_polarity\": { \"score\": 0.6, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 60 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Exemption of Electronics from Tariffs\",\n        \"sentiment_polarity\": { \"score\": 0.7, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.5, \"confidence\": 85 },\n            \"Trust\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Impact on Tech Companies\",\n        \"sentiment_polarity\": { \"score\": 0.8, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Trust\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.7, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"U.S.-China Trade Relations\",\n        \"sentiment_polarity\": { \"score\": -0.5, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.7, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.4, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Disgust\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Apple's Manufacturing Strategy\",\n        \"sentiment_polarity\": { \"score\": 0.7, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Trust\": { \"weight\": 0.6, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.2, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745129816,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1170,
+    "prompt_tokens": 2125,
+    "total_tokens": 3295,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

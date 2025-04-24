@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOHlwWVRSoTyHF6aYFehcqOmK98iT",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\n\"Hamas Rejects Israeli Ceasefire Proposal, Calls for Comprehensive Agreement to End War\"\n\n### English Text Summary:\nHamas has rejected an Israeli proposal for a ceasefire, demanding instead a comprehensive agreement to end the ongoing conflict. The Israeli proposal included a 45-day truce and the release of hostages in exchange for Palestinian prisoners, but Hamas insists on a permanent end to the war and refuses to disarm. Israeli officials have called for intensified military action in Gaza, while the humanitarian situation continues to deteriorate, with over 51,000 Palestinians reported killed since the conflict escalated. The UN has warned of a severe humanitarian crisis, emphasizing the urgent need for humanitarian access.\n\n[\n    {\n        \"topic\": \"Hamas\",\n        \"sentiment_polarity\": { \"score\": -0.8, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.5, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Anger\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Israeli Government\",\n        \"sentiment_polarity\": { \"score\": -0.6, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.4, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.8, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 85 }\n        }\n    },\n    {\n        \"topic\": \"Ceasefire Proposal\",\n        \"sentiment_polarity\": { \"score\": -0.7, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.6, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 85 }\n        }\n    },\n    {\n        \"topic\": \"Humanitarian Crisis\",\n        \"sentiment_polarity\": { \"score\": -0.9, \"confidence\": 95 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.8, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.9, \"confidence\": 95 },\n            \"Disgust\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Anger\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"UN Response\",\n        \"sentiment_polarity\": { \"score\": -0.5, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.5, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Anger\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 85 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745127888,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1153,
+    "prompt_tokens": 2437,
+    "total_tokens": 3590,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

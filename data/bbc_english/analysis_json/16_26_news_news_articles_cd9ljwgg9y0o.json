@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Trump's Chips Strategy: The US Will Struggle to Take on Asia",
+    "text_summary_en": "The article discusses the challenges the US faces in competing with Asia in the semiconductor industry, particularly under President Trump's policies. Despite efforts like the CHIPS Act to incentivize domestic manufacturing, the US struggles with high costs, skilled labor shortages, and construction delays. Taiwan, South Korea, and China have invested heavily in chip manufacturing, creating a complex, integrated ecosystem that's difficult to replicate quickly. Trump's tariff policies and immigration restrictions further complicate the situation. While some companies are investing in US facilities, most advanced chip production remains in Asia. The article suggests that protectionism and isolation are not effective strategies, and that collaboration in a globalized economy is key to success in the semiconductor industry. Other countries like India may become important players. Trump's approach is viewed as a bargaining tactic, potentially forcing deals between US and Asian companies.",
+    "original_filename": "26_news_news_articles_cd9ljwgg9y0o.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "US Semiconductor Manufacturing",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 90,
+        "reasoning": "The overall sentiment is slightly negative due to challenges such as 'lack of skilled workers and poor-quality products,' 'surging costs, difficulty recruiting skilled labour, construction delays and resistance from local unions.'"
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Limited positive sentiment, mostly focused on challenges."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Some trust in investment, but concerns remain."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Significant fear of falling behind Asia."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Scale of investment and challenges are somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disappointment in current state and uphill battle."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Not a strong sense of repulsion."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Anger directed towards challenges more than any entity."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Hope for future success despite current difficulties."
+        }
+      }
+    },
+    {
+      "topic": "Trump's Trade and Tariff Policies",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The sentiment is negative as Trump's policies, including tariffs and immigration restrictions, create 'a wrench in the machine' and hinder the development of the US semiconductor industry."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 60,
+          "reasoning": "Policies seen as detrimental."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 65,
+          "reasoning": "Policies are unpredictable and create uncertainty."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Potential negative impact on industry and global trade."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Unexpected nature of some policies."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Potential damage to the industry."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Disapproval of the policies."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Frustration with the policies."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Policies seen as hindering progress."
+        }
+      }
+    },
+    {
+      "topic": "TSMC (Taiwan Semiconductor Manufacturing Company)",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 90,
+        "reasoning": "The sentiment is neutral. TSMC is presented as a major player, making significant investments in the US but also facing challenges."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Success and investments bring some joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Leading chip manufacturer inspires trust."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Geopolitical risks associated with Taiwan."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Actions are largely expected."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Challenges exist but are not overwhelming."
+        },
+        "Disgust": {
+          "weight": 0.05,
+          "confidence": 50,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.05,
+          "confidence": 50,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Expected to continue playing a key role."
+        }
+      }
+    },
+    {
+      "topic": "China's Semiconductor Industry",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 85,
+        "reasoning": "The sentiment is slightly negative. While China is investing heavily, the article mentions challenges and the desire to 'steal Taiwan's prowess.' The potential for China to dominate is a concern."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Rise of China's industry is a potential threat."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Concerns about IP theft and geopolitical tensions."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Potential for China to dominate the industry."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Rapid progress China has made."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Concerns about the US losing its competitive edge."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some concerns exist."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Frustration with China's practices."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Uncertainty about the future."
+        }
+      }
+    },
+    {
+      "topic": "US CHIPS and Science Act",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 85,
+        "reasoning": "The sentiment is slightly positive. The Act is intended to re-shore chip manufacturing and diversify supply chains, but the article also points out challenges in its implementation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Potential benefits of the Act."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Effort to address the issue."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Proactive measure."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Largely expected."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Challenges exist."
+        },
+        "Disgust": {
+          "weight": 0.05,
+          "confidence": 50,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.05,
+          "confidence": 50,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Expected to have a significant impact."
+        }
+      }
+    }
+  ]
+}

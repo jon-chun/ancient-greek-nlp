@@ -1,0 +1,159 @@
+{
+  "article_metadata": {
+    "title_en": "Video, Ice Cream, Kanafeh, Sahlab, Ice Cream... Who Owns the Trend?",
+    "text_summary_en": "The article promotes a daily program that airs at 3:00 PM GMT from Monday to Friday. It also directs readers to a section featuring trending stories. The text itself provides no specific details about the content of the program or the nature of the trending stories, other than a title mentioning various sweets. Therefore, the summary focuses on the information explicitly stated in the provided text.",
+    "original_filename": "19_bbc-news_20250420-061807.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Daily Program",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 80,
+        "reasoning": "The text is promotional and informative, announcing the program's schedule with a slightly positive tone."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The mention of a program and trending stories suggests potential enjoyment."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The BBC's reputation lends some trust to the program."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "There's no indication of fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The nature of the content is unknown, so there's a possibility of surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No indication of sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No indication of disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No indication of anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The announcement creates anticipation for the program's content."
+        }
+      }
+    },
+    {
+      "topic": "Trending Stories",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 75,
+        "reasoning": "The text directs readers to trending stories. 'Trending' implies popularity and relevance, suggesting a slightly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trending stories often include enjoyable content."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The BBC's curation suggests some level of trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some trending stories could be negative."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The nature of trending stories is often surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some trending stories could be sad."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some trending stories could be disgusting."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some trending stories could be anger-inducing."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trending stories create anticipation for current events."
+        }
+      }
+    },
+    {
+      "topic": "Sweets (Ice Cream, Kanafeh, Sahlab)",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "Sweets generally evoke positive emotions and associations."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Sweets are generally associated with joy and pleasure."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Minimal trust involved."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No fear involved."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal surprise involved."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No sadness involved."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust involved (unless someone dislikes sweets)."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger involved."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of enjoying the sweets."
+        }
+      }
+    }
+  ]
+}

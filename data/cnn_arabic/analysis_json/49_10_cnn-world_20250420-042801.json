@@ -1,0 +1,409 @@
+{
+  "article_metadata": {
+    "title_en": "After Freezing Grants... Trump Administration Threatens to Deprive Harvard University of Accepting International Students",
+    "text_summary_en": "The Trump administration, through Secretary of Homeland Security Kristi Noem, is threatening to revoke Harvard University's ability to accept international students if it fails to provide records of \"illegal and violent\" activities by international students by April 30, 2025. This action follows the cancellation of $2.7 million in federal grants to Harvard. The administration accuses Harvard of creating a \"hostile learning environment\" for Jewish students and demands information on threats made by visa holders. Harvard maintains it will not compromise its independence or constitutional rights and expects federal actions to be based on evidence and due process. This is part of a broader effort by the Trump administration to combat antisemitism on college campuses, including freezing grants and contracts, demanding policy changes related to diversity programs and protest restrictions, and revoking visas of students and faculty.",
+    "original_filename": "10_cnn-world_20250420-042801.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Trump Administration Threat to Harvard",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 95,
+        "reasoning": "The article discusses a conflict and threats, indicating a negative sentiment. The language used, such as 'threatened,' 'illegal and violent,' and 'hostile learning environment,' further supports this."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The article does not express joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There is a lack of trust between the university and the administration."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The threat of losing international student status generates fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The suddenness of the threat may cause surprise."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The potential loss of international students and grants evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The accusations of a hostile environment may generate disgust."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The administration's demands and accusations provoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "There is anticipation regarding the outcome of the conflict."
+        }
+      }
+    },
+    {
+      "topic": "Illegal and Violent Activities by International Students",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The topic involves accusations and demands, creating a negative sentiment. The phrase 'illegal and violent activities' contributes to this negativity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with illegal activities."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Illegal activities imply a breach of trust."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The potential consequences of illegal activities generate fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The discovery of illegal activities might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Illegal activities can lead to sadness and disappointment."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Illegal and violent activities evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The commission of illegal activities can provoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anticipation of consequences."
+        }
+      }
+    },
+    {
+      "topic": "Potential Loss of International Students at Harvard",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 90,
+        "reasoning": "The topic is about the potential loss of international students, a negative event for the university."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Losing students is not joyful."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Trust in the system is shaken."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Uncertainty about the future generates fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The sudden loss can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Losing students evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust at the situation."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger at the administration's actions."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation of the impact."
+        }
+      }
+    },
+    {
+      "topic": "Harvard's Response to the Threat",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 85,
+        "reasoning": "This is a statement of defense, implying a negative situation that requires a response. It's a firm stance, but reactive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not a joyful situation."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 80,
+          "reasoning": "Trust in their own principles and rights."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fear of the consequences."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Not much surprise, more of a prepared statement."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sadness at the situation."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Disgust at the administration's actions."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anger at the perceived injustice."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of the legal battle."
+        }
+      }
+    },
+    {
+      "topic": "Accusations of a Hostile Learning Environment for Jewish Students",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "Accusations of creating a hostile environment are inherently negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Hostile environment is not joyful."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Lack of trust in the university."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Fear among students."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at the accusations."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Sadness among students."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Disgust at the alleged environment."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at the university."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation of the consequences."
+        }
+      }
+    },
+    {
+      "topic": "Freezing of Grants and Contracts",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The freezing of funds is a negative action with negative consequences."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Freezing funds is not joyful."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Lack of trust in the administration."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Uncertainty about the future generates fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The sudden freezing can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Freezing funds evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust at the situation."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at the administration's actions."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation of the impact."
+        }
+      }
+    },
+    {
+      "topic": "Combating Antisemitism on College Campuses",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 70,
+        "reasoning": "The administration's stated goal is to combat antisemitism, which is presented as a positive intention, even though the methods are controversial."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Hope for a positive outcome."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Trust in the stated intention."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Fear of the consequences of antisemitism."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Not much surprise."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Sadness at the existence of antisemitism."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Disgust at antisemitism."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Anger at antisemitism."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation of the impact of the measures."
+        }
+      }
+    },
+    {
+      "topic": "Revoking Visas of Students and Faculty",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "Revoking visas is a negative action with negative consequences for those affected."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Revoking visas is not joyful."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Lack of trust in the administration."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Uncertainty about the future generates fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The sudden revoking can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Revoking visas evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust at the situation."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at the administration's actions."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation of the impact."
+        }
+      }
+    }
+  ]
+}

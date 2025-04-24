@@ -1,0 +1,17 @@
+###FORMAT:
+Title: Zelle is shutting down its app. Here’s how you can still use the payment service
+URL: https://www.cnn.com/2025/04/03/business/zelle-cash-transferring-app-shuts-down/index.html
+Scraped Date: 2025-04-20 11:02:47
+Published Date: 2025-04-03
+
+--- Text ---
+Zelle, the popular person-to-person money transferring service, shut down its standalone app Tuesday — but the service itself is not disappearing.
+Zelle had warned of the shutdown last year, explaining in an announcement that only 2% of transactions happen on its app. A “vast majority” of Zelle’s 151 million users now access the service through their own bank’s website or app, and that process will be unaffected.
+Affected users who used the Zelle app “should have received messaging about this change through various emails and in-app notifications,” before this week’s shutdown, Zelle said in its announcement. Those users must will re-enroll through their participating bank or credit union app to keep using Zelle’s services.
+Zelle launched in 2017 and was created by about 30 banks to rival popular existing payments apps like Venmo, Cash App and Apple Pay.
+At that time, Zelle created its own app to provide access for people whose banks didn’t yet participate. But adoption has soared over the past eight years, with more than 2,200 banks and credit unions using Zelle.
+Zelle users sent more than $1 trillion in 2024, making it the “most money ever sent by a person-to-person payments service in a single year,” Zelle said in a press release.
+The growth of Zelle since 2017 is a “testament to the valuable role the service plays and the national consumer demand for a way to send and receive funds from people they know and trust directly from their insured and regulated bank accounts,” the company said.
+But the app was sued by former President Joe Biden’s Consumer Financial Protection Bureau last year against three of the country’s largest banks and the operator of Zelle “for allowing fraud to fester” on the service.
+The CFPB alleged that, as a result, hundreds of thousands of customers of JPMorgan Chase, Bank of America and Wells Fargo have lost more than $870 million since Zelle launched seven years ago. (Zelle said the complaint was “meritless.”)
+The lawsuit was dropped in March amid broader changes at the CFPB ordered by President Donald Trump.

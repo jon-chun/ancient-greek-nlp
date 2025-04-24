@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Hereditary Lords speak out on prospect of leaving Parliament",
+    "text_summary_en": "The article discusses the impending removal of hereditary peers from the House of Lords due to the government's House of Lords (Hereditary Peers) Bill. Several hereditary peers, including the Earl of Devon, Lord Thurso, Lord Howe, and Lord Hacking, share their perspectives on this change. The Earl of Devon expresses a mix of resignation and a desire to amend discriminatory inheritance rules. Lord Thurso welcomes the change but believes it's a superficial fix to a deeper problem with the Lords' legitimacy. Lord Howe reflects on his fulfilling experience in the Lords, while Lord Hacking, a Labour hereditary peer, supports the removal with some regret, hoping for life peerages for the best hereditary peers. The article explores the historical context of hereditary peerages and the varying viewpoints on their continued role in Parliament.",
+    "original_filename": "14_news_news_articles_clyqgrz84vyo.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Hereditary Peers Leaving Parliament",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 85,
+        "reasoning": "Overall sentiment is slightly negative due to the impending loss of position and criticisms, but there are elements of acceptance and support for reform."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal joy expressed, mostly resignation."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Some trust in the system, but also criticism."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Fear of the unknown future for the Lords."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Some surprise at the length of time the process has taken."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness at the loss of tradition and position."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal disgust expressed."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Some anger at the perceived injustice."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of the future and potential reforms."
+        }
+      }
+    },
+    {
+      "topic": "Earl of Devon's Perspective",
+      "sentiment_polarity": {
+        "score": 0.1,
+        "confidence": 75,
+        "reasoning": "Mixed sentiment: historical privilege, tradition, awareness of modernization, equality, resignation, positive advocacy for women's inheritance."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some joy in advocating for equality."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Trust in the system to eventually modernize."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minimal fear expressed."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Some surprise at the length of time the process has taken."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness at the potential loss of tradition."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal disgust expressed."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Some anger at the discriminatory inheritance rules."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of potential reforms."
+        }
+      }
+    },
+    {
+      "topic": "Lord Thurso's Perspective",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 80,
+        "reasoning": "Negative sentiment towards the current state of the House of Lords, viewing the removal of hereditary peers as a superficial fix and calling for more substantial reforms."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal joy expressed."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Limited trust in the current system."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Fear that meaningful reform will not occur."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal surprise expressed."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness at the ineffectiveness of the current system."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Some disgust with the current state of affairs."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger at the lack of meaningful reform."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of potential future changes."
+        }
+      }
+    },
+    {
+      "topic": "Lord Howe's Perspective",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "Positive sentiment towards his experience in the House of Lords, finding it fulfilling and believing he has made a positive contribution."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy and fulfillment derived from his experience."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trust in the system and his role within it."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear expressed."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Surprise at his unexpected inheritance and ministerial role."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness expressed."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal disgust expressed."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal anger expressed."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Anticipation of future contributions."
+        }
+      }
+    },
+    {
+      "topic": "Lord Hacking's Perspective",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 75,
+        "reasoning": "Mixed sentiments: supports his party's position on removing hereditary peers but also expresses regret and hopes for a compromise."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some joy in supporting his party's position."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trust in the system to reach a compromise."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear expressed."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some surprise at the length of time the process has taken."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Sadness at the removal of hereditary peers."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal disgust expressed."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal anger expressed."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of a potential compromise."
+        }
+      }
+    }
+  ]
+}

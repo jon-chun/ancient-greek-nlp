@@ -1,0 +1,159 @@
+{
+  "article_metadata": {
+    "title_en": "In China’s ‘Christmas Town,’ Trump’s tariffs are dimming the lights",
+    "text_summary_en": "The article discusses the impact of President Trump's tariffs on Yiwu, China, a city known as \"Christmas Town\" for producing a significant portion of the world's Christmas decorations. The tariffs, exceeding 145%, have disrupted trade relationships, causing vendors to lose customers, reduce profits, and seek alternative markets. Many vendors express concern and confusion over Trump's actions, hoping for a resolution. The article highlights the broader implications of the trade war, including potential global recession and shifts in consumer spending. Some vendors are pivoting to the EU market or focusing on domestic sales. While some support China's response, there's widespread fear about the future of Yiwu and its residents. The article concludes with the sentiment that the trade war has damaged relationships and altered consumer behavior.",
+    "original_filename": "28_business_business_yiwu-china-market-impact-trump-tariffs-intl-hnk-dst_index.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Impact of Trump's Tariffs on Yiwu",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The article presents a largely negative view of the situation in Yiwu due to the tariffs. The vendors are experiencing losses and uncertainty, which contributes to the negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal joy is present as some vendors express optimism about finding new markets."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Limited trust is present, primarily in the Chinese government's response."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "High fear due to the uncertainty and potential for further economic hardship."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the sudden imposition of tariffs and the scale of the impact."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Sadness due to lost customers and damaged relationships."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some vendors might feel disgust at the situation, but it's not a dominant emotion."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anger towards the US and the tariffs is present, but it's not the primary emotion."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation as vendors look for new markets and hope for a resolution."
+        }
+      }
+    },
+    {
+      "topic": "Trump's Tariffs",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "Trump's tariffs are presented as the main cause of the economic issues in Yiwu. The article highlights the negative impact of these policies."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy is associated with Trump's tariffs."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Very little trust in the tariffs to achieve their stated goals."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "High fear due to the economic consequences of the tariffs."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Surprise at the imposition of the tariffs and their scale."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness due to the negative impact on businesses and relationships."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Disgust towards the perceived unfairness of the tariffs."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Significant anger towards the tariffs and their impact."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Limited anticipation, mostly negative, about the future impact of the tariffs."
+        }
+      }
+    },
+    {
+      "topic": "China's Response to the Trade War",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 70,
+        "reasoning": "The article mentions China's response to the trade war, including raising tariffs on US goods. The sentiment is neutral, focusing on the actions taken."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Limited joy, perhaps from a sense of standing up to the US."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Trust in the government's actions to protect Chinese interests."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Fear about the potential escalation of the trade war."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Surprise at the scale and speed of the response."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Sadness about the overall situation and the impact on businesses."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Disgust towards the US's actions."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anger towards the US and the tariffs."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of the outcome of the trade war."
+        }
+      }
+    }
+  ]
+}

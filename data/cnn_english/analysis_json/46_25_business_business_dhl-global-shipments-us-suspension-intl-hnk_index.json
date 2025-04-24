@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "DHL to suspend global shipments of over $800 to US consumers",
+    "text_summary_en": "DHL Express announced it will suspend global business-to-consumer shipments exceeding $800 to US individuals, effective April 21, due to new US customs regulations that require formal entry processing for all shipments over $800, a significant reduction from the previous $2,500 threshold on April 5. Business-to-business shipments will not be suspended but may experience delays. Shipments under $800 remain unaffected. DHL stated this is a temporary measure. This follows Hongkong Post's suspension of sea mail services to the US, citing \"bullying\" after the US canceled tariff-free provisions for packages from China and Hong Kong. DHL had previously stated it would continue processing shipments from Hong Kong in accordance with customs rules and would assist customers in adapting to changes planned for May 2.",
+    "original_filename": "25_business_business_dhl-global-shipments-us-suspension-intl-hnk_index.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "DHL's Suspension of Shipments",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 90,
+        "reasoning": "The announcement of a suspension is generally negative, disrupting service, but framed as temporary due to external factors."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The suspension is not a cause for joy."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The article reports DHL's statement, implying some trust, but the suspension erodes trust in service reliability."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Consumers might fear disruptions to their shipments."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The sudden suspension might surprise customers."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Disappointment over the suspension."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The suspension itself is not disgusting."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Some customers might be angry about the suspension."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Customers might anticipate the resolution of the issue."
+        }
+      }
+    },
+    {
+      "topic": "US Customs Regulatory Changes",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "The regulatory changes are presented as the cause of the DHL suspension, implying a negative impact."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Regulatory changes are rarely a source of joy."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Trust in the regulatory process."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Businesses might fear the impact of the changes."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The sudden change in regulations might surprise businesses."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Disappointment over the changes."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The regulations themselves are not disgusting."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Some businesses might be angry about the changes."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Businesses might anticipate further changes."
+        }
+      }
+    },
+    {
+      "topic": "Hongkong Post's Suspension of Sea Mail Services",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The suspension of services is negative. The accusation of 'bullying' adds to the negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with service suspension and accusations."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Reduced trust in international trade relations."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Potential for further trade disruptions."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The suspension may have been unexpected."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Disappointment over the service suspension."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The accusation of 'bullying' evokes disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The accusation of 'bullying' suggests anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Uncertainty about future trade relations."
+        }
+      }
+    },
+    {
+      "topic": "US-China/Hong Kong Trade Relations",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The article highlights tensions and disputes, indicating a negative sentiment in the trade relationship."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy in strained trade relations."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Lack of trust between the parties."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Potential for further escalation of trade tensions."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Unexpected policy changes."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Disappointment over the state of relations."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Disgust at perceived unfair practices."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Resentment and anger over trade disputes."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Uncertainty about future trade agreements."
+        }
+      }
+    }
+  ]
+}

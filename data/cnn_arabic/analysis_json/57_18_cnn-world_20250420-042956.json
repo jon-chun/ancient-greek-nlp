@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "After Trump's Decision: Harvard President Rejects \"Dictations\" and Columbia University Increases Support for International Students",
+    "text_summary_en": "Tensions have escalated between the Trump administration and Harvard University after the administration announced it would freeze $2.2 billion in grants and $60 million in contracts due to Harvard's refusal to comply with the administration's demands to change its policies. Harvard's president, Alan Garber, stated that no government should dictate what private universities can teach, who they can admit or employ, or what areas of study and research they can pursue. This follows investigations into universities nationwide regarding concerns about antisemitism or racial preferences. Meanwhile, Columbia University announced new initiatives to increase support for international students, including a new \"International Student Hardship Fund\" and expanded resources at the International Students and Scholars Office, acknowledging the financial distress many international students face due to the Trump administration's policies on immigration. Columbia is in \"good faith discussions\" to restore federal funding, but considers \"unduly prescriptive demands\" regarding diversity as \"non-negotiable.\"",
+    "original_filename": "18_cnn-world_20250420-042956.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Harvard University vs. Trump Administration Funding Dispute",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The overall sentiment is negative due to the conflict and potential loss of funding, indicated by 'تصاعدت التوترات' (tensions escalated) and the freezing of funds."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is expressed in this conflict."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Low trust between the parties is implied."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Harvard likely fears the loss of funding and its impact."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The action by the Trump administration might have been somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness due to the potential negative consequences."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Possible disgust at the other party's actions."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Harvard's rejection of demands suggests anger or resentment."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anticipation of the consequences of the dispute."
+        }
+      }
+    },
+    {
+      "topic": "Harvard President Alan Garber's Stance",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 85,
+        "reasoning": "Garber's statement is assertive and defends academic freedom, though in opposition to the administration. The phrase 'لا ينبغي لأي حكومة - بصرف النظر عن الحزب الحاكم - أن تُملي على الجامعات الخاصة' (no government should dictate to private universities) is a strong statement."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Not focused on happiness."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Expressing trust in the university's principles."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Underlying fear of government overreach."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Not a primary emotion."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Possible sadness about the situation."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "Possible disgust at the administration's demands."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anger at the perceived overreach."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of the future implications."
+        }
+      }
+    },
+    {
+      "topic": "Columbia University's Support for International Students",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The overall sentiment is positive due to the increased support for international students. The creation of a 'صندوق صعوبات الطلاب الدوليين' (International Student Hardship Fund) is a positive action."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The support brings joy to the students."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Students will likely trust the university more."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Reduced fear due to the support."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The support might be a pleasant surprise."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Addressing the sadness of the students' situation."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Not a primary emotion."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "Reduced anger due to the support."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of a better future for the students."
+        }
+      }
+    },
+    {
+      "topic": "Trump Administration's Actions and Policies",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 85,
+        "reasoning": "The sentiment is generally negative due to the actions against universities and immigration policies. The article mentions 'حملة إدارة ترامب المستمرة ضد الهجرة' (the Trump administration's ongoing campaign against immigration)."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy associated with these policies from the perspective of the article."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low trust in the administration's motives."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear among universities and international students."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some actions might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness due to the negative impact."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Disgust at the policies."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anger at the perceived injustice."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anticipation of further negative consequences."
+        }
+      }
+    }
+  ]
+}

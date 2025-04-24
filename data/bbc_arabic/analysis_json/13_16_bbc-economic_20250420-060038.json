@@ -1,0 +1,309 @@
+{
+  "article_metadata": {
+    "title_en": "The Great Depression: How the American Economic Crisis Changed the Course of the World?",
+    "text_summary_en": "The article discusses the parallels between current US protectionist policies under President Trump and the economic conditions leading to the Great Depression. It recounts the events of the 1929 stock market crash and its global impact, including bank failures, unemployment, and the rise of extremist ideologies in Europe. The article highlights the role of the Smoot-Hawley Tariff Act in exacerbating the crisis and draws comparisons to Trump's current trade policies. It also discusses Franklin D. Roosevelt's \"New Deal\" as a response to the crisis and emphasizes the importance of trust in the economic system. The article concludes by warning that repeating past mistakes could lead to another global catastrophe, especially with the rise of new economic powers.",
+    "original_filename": "16_bbc-economic_20250420-060038.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Great Depression",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The Great Depression is inherently a negative event with devastating consequences."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "The Great Depression was a time of hardship, not joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "The Great Depression eroded trust in institutions."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The Great Depression instilled fear of economic collapse."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The suddenness of the crash was surprising."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The Great Depression caused widespread sadness and suffering."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Some may feel disgust at the policies that led to the Depression."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The Depression caused anger at the perceived failures of leadership."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The Depression led to anticipation of future crises."
+        }
+      }
+    },
+    {
+      "topic": "Donald Trump's Policies",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 85,
+        "reasoning": "Donald Trump's policies are presented as potentially harmful and reminiscent of policies that exacerbated the Great Depression."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some supporters may feel joy, but the article focuses on negative aspects."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Trust in Trump's policies is divided."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The article suggests his policies could lead to negative outcomes."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Some of his policies may be unexpected."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Potential negative economic consequences could cause sadness."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Opponents may feel disgust at his policies."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "His policies provoke anger in some."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "There is anticipation about the future impact of his policies."
+        }
+      }
+    },
+    {
+      "topic": "Smoot-Hawley Tariff Act",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "The Smoot-Hawley Tariff Act is described as a policy that worsened the Great Depression, making it a negative element."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The Act had no positive aspects in the context of the article."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The Act eroded trust in economic policy."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The Act worsened the economic crisis."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The extent of the Act's negative impact might have been surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The Act contributed to the suffering during the Depression."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The Act is viewed negatively and can evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The Act caused anger due to its perceived mismanagement."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "The Act created anticipation of further economic problems."
+        }
+      }
+    },
+    {
+      "topic": "The New Deal",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "The New Deal is presented as a positive response to the Great Depression."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The New Deal brought relief and improved the mood."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The New Deal restored trust in the government and economy."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The New Deal reduced fear of economic collapse."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The scale of the New Deal might have been surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The New Deal helped alleviate sadness caused by the Depression."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The New Deal was a solution, not a cause for disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The New Deal reduced anger caused by the Depression."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The New Deal created anticipation of a better future."
+        }
+      }
+    },
+    {
+      "topic": "Rise of Nazism",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The rise of Nazism is presented as a direct consequence of the economic crisis, making it a negative topic."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "The rise of Nazism is a purely negative event."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "The rise of Nazism eroded trust in humanity."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The rise of Nazism instilled fear of war and oppression."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The speed of the Nazi rise to power was surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The rise of Nazism led to immense suffering."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The ideology of Nazism is inherently disgusting."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The rise of Nazism caused widespread anger and resentment."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The rise of Nazism led to anticipation of war."
+        }
+      }
+    },
+    {
+      "topic": "Protectionist Policies",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "The article suggests that protectionist policies can lead to negative economic consequences, aligning the sentiment with a negative view."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some proponents may feel joy, but the article focuses on negative aspects."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Trust in protectionist policies is divided."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The article suggests these policies could lead to negative outcomes."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The implementation of these policies may be unexpected."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Potential negative economic consequences could cause sadness."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Opponents may feel disgust at these policies."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "These policies provoke anger in some."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "There is anticipation about the future impact of these policies."
+        }
+      }
+    }
+  ]
+}

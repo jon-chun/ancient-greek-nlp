@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "Trump's Trade Policies Undermine US Economic Foundations: A Messy Fallout",
+    "text_summary_en": "The article discusses President Trump's decision to impose sweeping tariffs on imports, arguing that this protectionist policy reverses decades of US-led globalization and free trade. It criticizes the rationale behind these \"reciprocal\" tariffs, which are based on trade deficits rather than actual trade barriers, and highlights the potential negative consequences for the US economy, including inflation and recession. The article contrasts Trump's policies with the traditional economic theory of comparative advantage and points to the \"China shock\" as a key influence on his thinking. While acknowledging the potential for some job creation through reshoring, the article emphasizes the overall negative impact on US businesses and consumers, as well as the potential for retaliatory measures from other countries. It concludes that the transition away from globalization will be messy and that the US is potentially harming its own interests.",
+    "original_filename": "28_news_news_articles_cp34nkj1kv2o.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Trump's Trade Policies",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The article is critical of Trump's trade policies, highlighting potential negative consequences like economic recession and trade wars. Phrases like 'messy fallout' and 'raped and pillaged' contribute to the negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "The article does not express joy related to Trump's trade policies."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "The article suggests a lack of trust in Trump's trade policies and their rationale."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The potential for economic recession and trade wars generates significant fear."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The shift in trade policy is presented as a surprising and significant development."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 85,
+          "reasoning": "The article expresses sadness about the potential loss of jobs and economic disruption."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "While not strong, there is a hint of disapproval and disgust towards the policies."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The article expresses anger about the perceived unfairness and harm caused by Trump's policies."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The article anticipates negative consequences from the implementation of these trade policies."
+        }
+      }
+    },
+    {
+      "topic": "US Economy",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The article views the impact on the US economy negatively due to potential economic instability and trade wars."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There is little to no joy associated with the potential economic outcomes."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "The article suggests a lack of trust in the administration's ability to manage the economic impact."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The potential for economic recession and trade wars creates fear and uncertainty."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The shift in trade policy represents a significant departure from previous practices."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 85,
+          "reasoning": "The potential for job losses and economic hardship is saddening."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There is a slight sense of disgust at the potential economic consequences."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "There is anger at the perceived unfairness and potential harm to the US economy."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "There is anticipation of negative economic consequences in the future."
+        }
+      }
+    },
+    {
+      "topic": "Globalization",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "The sentiment towards globalization is somewhat negative in the context of the article, as it discusses the US turning its back on it and the perceived failures of globalization to benefit all sectors equally. However, the article also acknowledges the benefits of globalization in the past."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There is some residual joy associated with the past benefits of globalization."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "There is a moderate level of trust in the principles of globalization, but this is diminished by the perceived failures."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "There is fear about the potential consequences of moving away from globalization."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The US shift away from globalization is somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "There is sadness about the potential loss of the benefits of globalization."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There is some disgust at the perceived failures of globalization."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "There is some anger at the perceived unfairness of globalization's impact."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "There is anticipation about the future consequences of the shift away from globalization."
+        }
+      }
+    },
+    {
+      "topic": "China",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "The sentiment towards China is somewhat negative due to the 'China shock' and its perceived impact on US manufacturing jobs. However, the article also acknowledges China's role in keeping interest rates down."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is little joy associated with China in the context of the article."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "There is a low level of trust in China's trade practices."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "There is fear about China's economic power and its impact on the US."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "China's rapid economic growth and its impact on the global economy are somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "There is sadness about the loss of US manufacturing jobs due to the 'China shock'."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "There is some disgust at the perceived unfairness of China's trade practices."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "There is anger at the perceived harm caused by China's trade practices."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "There is anticipation about the future consequences of China's economic power."
+        }
+      }
+    }
+  ]
+}

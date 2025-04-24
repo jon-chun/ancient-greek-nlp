@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOHrps6vEV5ISDrR9gE6ObwMyUjOo",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nQatar's Emir Discusses Historical and Strategic Relations Between Syria and Russia with Putin\n\n### English Text Summary:\nDuring a meeting with Russian President Vladimir Putin, Qatar's Emir Sheikh Tamim bin Hamad Al Thani discussed the \"historical and strategic\" relations between Syria and Russia. He mentioned his recent conversation with Syria's transitional president, Ahmad al-Shara, emphasizing the importance of building respectful relations based on the interests of both nations. Sheikh Tamim highlighted the sensitive situation in Syria, advocating for support towards unity and civil peace in the country.\n\n[\n    {\n        \"topic\": \"Qatar-Russia Relations\",\n        \"sentiment_polarity\": { \"score\": 0.7, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Syria's Transitional Government\",\n        \"sentiment_polarity\": { \"score\": 0.6, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.4, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Sadness\": { \"weight\": 0.3, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Support for Syria\",\n        \"sentiment_polarity\": { \"score\": 0.8, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Trust\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Fear\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Sadness\": { \"weight\": 0.2, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745128253,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 727,
+    "prompt_tokens": 1208,
+    "total_tokens": 1935,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

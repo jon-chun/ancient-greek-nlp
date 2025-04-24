@@ -1,0 +1,109 @@
+{
+  "article_metadata": {
+    "title_en": "TV Schedule",
+    "text_summary_en": "This text describes a CNN television program that will revisit the Oklahoma City bombing on April 19, 1995. The bombing was carried out by Timothy McVeigh, a U.S. army veteran, who detonated a truck bomb outside the Alfred Murrah Federal Building, resulting in the deaths of 168 people. The program will examine the events leading up to this domestic terrorist attack, the largest in U.S. history.",
+    "original_filename": "15_tv_tv_schedule_cnn.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Oklahoma City Bombing",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The event is described as a 'domestic terrorist attack' and resulted in the deaths of '168 innocent people,' indicating a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "The event is tragic and evokes no joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "The event undermines trust in safety and security."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The event was a terrorist attack, causing significant fear."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The event was unexpected and shocking."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The deaths of 168 people evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The act of terrorism is disgusting."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The act evokes anger toward the perpetrator."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The program will revisit the events, potentially causing anxiety or anticipation of reliving the tragedy."
+        }
+      }
+    },
+    {
+      "topic": "Timothy McVeigh",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "McVeigh is identified as the perpetrator of the bombing, a negative association."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "McVeigh's actions evoke no joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "McVeigh violated trust."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "McVeigh's actions caused fear."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The act was shocking."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "McVeigh caused sadness through his actions."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "His actions are disgusting."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "He is the target of anger."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "N/A"
+        }
+      }
+    }
+  ]
+}

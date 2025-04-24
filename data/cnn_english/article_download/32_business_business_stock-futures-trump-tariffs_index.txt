@@ -1,0 +1,17 @@
+###FORMAT:
+Title: US stock futures rise amid temporary tariff exemptions for tech products
+URL: https://www.cnn.com/2025/04/13/business/stock-futures-trump-tariffs/index.html
+Scraped Date: 2025-04-20 11:03:44
+Published Date: 2025-04-13
+
+--- Text ---
+Stock futures rose Sunday after a temporary reprieve from tariffs on electronic imports from China by the Trump administration.
+Dow futures were up 0.5%, or 212 points. The S&P 500 futures rose 0.75%, while the tech-heavy Nasdaq Composite futures gained 1.26%, as of 6:18 pm ET.
+The Trump administration late Friday exempted electronic imports from reciprocal tariffs; any of those goods manufactured in China — like computers, phones and semiconductors — would still be subject to the 20% tariff Trump previously imposed on Chinese goods.
+The gains come after stocks have seesawed wildly in recent days, as President Donald Trump has levied massive tariffs on US trading partners, then backed off many of those import taxes. Still, confusion about how permanent or temporary some tariff moves could be has stoked uncertainty among investors and kept stocks, the dollar and even US Treasuries under pressure.
+Tech giants like Apple (AAPL), Microsoft (MSFT) and Nvidia (NVDA) rely on Chinese manufacturing, and the reciprocal tariffs would have made goods like iPhones and other consumer products more expensive.
+But Commerce Secretary Howard Lutnick said Sunday that the exemption was “not permanent.” Other administration officials said another slate of tariffs could be imposed after an investigation into the national security effects of semiconductor imports.
+Trump posted to his Truth Social platform that “NOBODY is getting ‘off the hook’ for the unfair Trade Balances, and Non Monetary Tariff Barriers, that other Countries have used against us, especially not China which, by far, treats us the worst!”
+The back-and-forth on tariffs has caused many investors and others to hold off on major decisions until they get clarity.
+“Investors will not invest in the United States when Donald Trump is playing ‘red light, green light’ with tariffs and saying, ‘Oh, and for my special donors, you get a special exemption,’” said Massachusetts Democratic Senator Elizabeth Warren on CNN’s “State of the Union.”
+Trump has imposed various tariffs in recent weeks, after repeatedly postponing tariffs on Canada, Mexico and automotive imports. A baseline tariff of 10% went into effect on all countries, and higher rates were imposed on roughly 60 countries deemed the “worst offenders,” including tariffs on Cambodia (49%), Vietnam (46%) and the European Union (20%). Stocks plunged on April 3 after the news, with two consecutive sessions of sell-offs that wiped nearly $6 trillion in market value and continued with another volatile day on Monday, April 7, as the tariff chaos continued.

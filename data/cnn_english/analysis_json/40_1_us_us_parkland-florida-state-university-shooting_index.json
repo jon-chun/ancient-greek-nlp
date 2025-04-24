@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "These Parkland students experienced their second deadly school shooting in 7 years",
+    "text_summary_en": "The article discusses the Florida State University shooting in 2025 and its impact on students who also survived the Marjory Stoneman Douglas High School shooting in Parkland, Florida, in 2018. Students like Ilana Badiner and Brianna Jade Freedland recount their experiences of taking shelter during the FSU shooting, highlighting the resurfacing of trauma and fear from the Parkland shooting. Stephanie Horowitz, a bowling instructor and Parkland survivor, also played a role in helping students during the FSU shooting. Fred Guttenberg, whose daughter was killed in the Parkland shooting, expressed his grief and frustration. The article emphasizes the emotional toll of repeated exposure to gun violence and calls for action to prevent future tragedies. It also presents the immediate reactions of students, including fear, anxiety, and the feeling of reliving past trauma.",
+    "original_filename": "1_us_us_parkland-florida-state-university-shooting_index.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Florida State University Shooting (2025)",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The event is a mass shooting, resulting in death and injury, creating a negative sentiment. The article describes the immediate aftermath, including students hiding and feeling fear."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "The event is tragic and does not evoke joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Trust in safety and security is diminished."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The active shooter situation creates intense fear."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The unexpected nature of the shooting is surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The loss of life and injuries contribute to sadness."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The violence and senselessness of the act evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The preventable nature of the event and the harm caused evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "There is a low level of anticipation regarding future safety."
+        }
+      }
+    },
+    {
+      "topic": "Marjory Stoneman Douglas High School Shooting (2018)",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "This was a mass shooting with many fatalities and injuries, resulting in a deeply negative sentiment. The article references the trauma experienced by survivors."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "The event is tragic and does not evoke joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Trust in safety and security was shattered."
+        },
+        "Fear": {
+          "weight": 0.95,
+          "confidence": 99,
+          "reasoning": "The active shooter situation created intense fear."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The unexpected nature of the shooting was shocking."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The loss of life and injuries contribute to profound sadness."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The violence and senselessness of the act evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The preventable nature of the event and the harm caused evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The event led to a decrease in positive anticipation about the future."
+        }
+      }
+    },
+    {
+      "topic": "Parkland Survivors Experiencing Second Shooting",
+      "sentiment_polarity": {
+        "score": -0.95,
+        "confidence": 99,
+        "reasoning": "The experience of surviving one mass shooting and then experiencing another is overwhelmingly negative and traumatic."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "There is no joy associated with this repeated trauma."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Trust is severely eroded by repeated violence."
+        },
+        "Fear": {
+          "weight": 0.98,
+          "confidence": 99,
+          "reasoning": "The re-experiencing of a shooting amplifies fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "While the initial shooting was a surprise, the second one might be less so due to increased awareness of gun violence."
+        },
+        "Sadness": {
+          "weight": 0.95,
+          "confidence": 99,
+          "reasoning": "The repeated trauma leads to profound sadness and grief."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The senselessness of repeated violence evokes strong disgust."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The feeling of helplessness and the failure to prevent further violence evokes intense anger."
+        },
+        "Anticipation": {
+          "weight": 0.05,
+          "confidence": 30,
+          "reasoning": "Hope for a safe future is significantly diminished."
+        }
+      }
+    },
+    {
+      "topic": "Gun Violence in the United States",
+      "sentiment_polarity": {
+        "score": -0.85,
+        "confidence": 97,
+        "reasoning": "Gun violence is inherently negative, causing death, injury, and widespread fear. The article mentions it being the 81st mass shooting in the US in 2025."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Gun violence is a source of tragedy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Trust in public safety is undermined by gun violence."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 97,
+          "reasoning": "The threat of gun violence creates widespread fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "While mass shootings are frequent, each event can still be surprising."
+        },
+        "Sadness": {
+          "weight": 0.85,
+          "confidence": 95,
+          "reasoning": "The loss of life and injuries cause sadness and grief."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The violence and senselessness of gun violence evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The preventable nature of gun violence and the harm caused evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The prevalence of gun violence reduces positive anticipation about the future."
+        }
+      }
+    }
+  ]
+}

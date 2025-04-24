@@ -1,0 +1,109 @@
+{
+  "article_metadata": {
+    "title_en": "Video: Exposing the UAE's Role in Smuggling Assad's Wealth, Duration 1:41",
+    "text_summary_en": "An investigative report by Reuters reveals the final days of Syrian President Bashar al-Assad and the role the United Arab Emirates played in smuggling his wealth out of Syria. Daily episodes of the program can be watched at 3:00 PM GMT, Monday to Friday. Trending stories are also available by clicking a link.",
+    "original_filename": "18_bbc-news_20250420-061759.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "UAE's role in smuggling Assad's wealth",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The text presents the UAE's role in a negative light, accusing it of 'smuggling' Assad's wealth, implying illicit activity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Smuggling is not a joyful event."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "The report undermines trust in the UAE."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The revelation could create fear of instability."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The revelation of the UAE's involvement is surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The situation in Syria is sad."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Smuggling evokes disgust."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The act can cause anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "People will anticipate the consequences."
+        }
+      }
+    },
+    {
+      "topic": "Bashar al-Assad",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The text refers to Assad as 'الهارب' (the fugitive/escaping), which carries a negative connotation, implying he's fleeing with wealth he shouldn't have."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Assad's situation is not joyful."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Assad has lost trust."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Assad's actions can cause fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The news might contain surprising elements."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Assad's situation is sad."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Assad's actions evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Assad's actions can cause anger."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "People will anticipate the consequences."
+        }
+      }
+    }
+  ]
+}

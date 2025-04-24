@@ -1,0 +1,159 @@
+{
+  "article_metadata": {
+    "title_en": "Video: Emigration of 7000 Doctors from Egypt, Duration 5:59",
+    "text_summary_en": "The emigration of Egyptian doctors has escalated into a notable crisis, prompting parliamentary calls for strict measures to compel them to work within the country for five years before considering emigration. This has sparked widespread debate, intensified by statements from Egyptian Prime Minister Mostafa that the emigration of doctors abroad generates financial and economic returns for the Egyptian state and that this is part of the state's policy and that there is a vision to double the number of medical graduates due to increasing demand. Viewers can watch daily episodes of the program at 3:00 PM GMT from Monday to Friday, and can also view trending stories by clicking here.",
+    "original_filename": "22_bbc-news_20250420-061834.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Emigration of Egyptian Doctors",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The text describes the emigration as a 'crisis' ('أزمة'), which indicates a negative sentiment. The debate surrounding the issue also suggests a problem."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No indication of joy in the emigration of doctors."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Low trust in the system that's causing doctors to leave."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear of the consequences of losing doctors."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The scale of emigration might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Sadness over the loss of skilled professionals."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Disgust at the conditions possibly causing emigration."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at the proposed restrictions and the situation."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of the future impact and potential solutions."
+        }
+      }
+    },
+    {
+      "topic": "Parliamentary Calls for Restrictions",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "The call for 'strict measures' ('قيود صارمة') suggests a controlling and potentially negative action, especially from the doctors' perspective."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Restrictions rarely bring joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Low trust in the motives behind the restrictions."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of losing freedom and opportunities."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The suddenness of the call might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness over the potential loss of opportunities."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 40,
+          "reasoning": "Possible disgust at the perceived unfairness."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at the restrictions on freedom."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of the consequences of the restrictions."
+        }
+      }
+    },
+    {
+      "topic": "Prime Minister's Statements on Financial Returns",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 75,
+        "reasoning": "The statement that emigration 'achieves financial and economic returns' ('تحقق عائدا ماليا واقتصاديا') is presented as a justification, which can be interpreted as positive from the government's perspective but potentially negative from the doctors' perspective. The statement about doubling medical graduates is presented as a solution to the problem, which has a slightly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Slight joy from the perspective of the government seeing financial gains."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Low trust in the government's motives."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fear of being seen as a financial asset rather than a valued professional."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Surprise at the government's perspective."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Sadness at being reduced to a financial asset."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "Disgust at the perceived commodification of doctors."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anger at the government's perspective."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of the impact of doubling medical graduates."
+        }
+      }
+    }
+  ]
+}

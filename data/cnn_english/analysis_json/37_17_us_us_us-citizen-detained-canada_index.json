@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "US citizen says he and his wife detained without explanation after returning from Canada",
+    "text_summary_en": "Bachir Atallah, a US citizen originally from Lebanon, claims he and his wife were detained for hours by US border agents at the Highgate Springs checkpoint in Vermont after returning from Canada. Atallah alleges mistreatment, including being handcuffed, placed in separate cells, and having his phone searched without explanation or being read his rights. He also claims that when he experienced chest pains, he was discouraged from seeking medical attention. CBP officials deny the accusations, stating that they acted according to established protocols during a routine secondary inspection. The incident has heightened Atallah's fears about returning to the US, especially given the current political climate of mass deportations and threats against US citizens. His sister, an immigration attorney, was only informed they were \"safe\" without any details of the situation.",
+    "original_filename": "17_us_us_us-citizen-detained-canada_index.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Bachir Atallah and Jessica's Detainment",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is negative due to the reported mistreatment, lack of explanation, and fear experienced by the couple. Phrases like 'detained without explanation,' 'handcuffed,' 'cell,' 'heartbreaking,' and 'feared for my life' contribute to the negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "The situation described evokes no joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "There is a lack of trust in the CBP agents due to the alleged mistreatment and lack of explanation."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Atallah explicitly states, 'I feared for my life,' indicating a strong presence of fear."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The unexpected detainment likely caused surprise."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The experience of seeing his wife crying and feeling helpless contributes to sadness."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The alleged mistreatment by CBP agents could evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The lack of explanation and perceived injustice could lead to anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Atallah expresses worry about potential retaliation, indicating anticipation of future negative events."
+        }
+      }
+    },
+    {
+      "topic": "CBP's Response",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 85,
+        "reasoning": "The CBP's statement denies the accusations and claims they acted according to established protocols, indicating a defensive and somewhat dismissive stance. This is a neutral to slightly negative sentiment as it contradicts Atallah's account."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "The CBP's response does not evoke joy."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The CBP aims to inspire trust in their procedures, but the conflicting account diminishes that trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "The statement doesn't explicitly express fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "The statement doesn't express surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "The statement doesn't express sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "The statement doesn't express disgust."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The statement might contain a hint of anger or defensiveness due to the accusations."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The statement might anticipate further scrutiny or investigation."
+        }
+      }
+    },
+    {
+      "topic": "Mass Deportation Campaign and Political Climate",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The mention of the 'mass deportation campaign' and Trump's threats creates a negative sentiment due to the fear and uncertainty associated with these policies."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "The topic evokes no joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "The political climate described fosters distrust."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The deportation campaign and threats directly induce fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The policies might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The deportation campaign can cause sadness."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The policies might be seen as unjust, leading to disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The policies can provoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "There is anticipation of further policy changes and their consequences."
+        }
+      }
+    },
+    {
+      "topic": "Celine Atallah's concern",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "Celine's concern reflects worry and helplessness, indicating a negative sentiment. The quote 'He wanted my help, not to know that he's fine' highlights her distress."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No joy is present in this topic."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "There's a lack of trust in the information provided."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Concern for her brother's safety implies fear."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The situation was likely unexpected."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Her worry and helplessness contribute to sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The situation might evoke disgust at the perceived injustice."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The perceived injustice might lead to anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "She anticipates potential negative outcomes."
+        }
+      }
+    }
+  ]
+}

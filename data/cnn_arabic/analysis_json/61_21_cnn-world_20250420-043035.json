@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "Trump Administration Freezes $2.2 Billion in Funding for Harvard After University Rejects Request",
+    "text_summary_en": "The Trump administration announced it would freeze $2.2 billion in grants and $60 million in contracts allocated to Harvard University after the university refused to comply with the administration's demands to change its policies. Harvard responded by reiterating its refusal to comply, arguing that withdrawing funding would endanger public health, welfare, economic security, and national vitality. The administration's demands included eliminating diversity, equity, and inclusion programs, banning masks at campus protests, implementing merit-based hiring and admissions, and reducing the power of faculty deemed more activist than scholarly. These demands are part of a broader effort to combat antisemitism on campuses following events related to the Israel-Hamas conflict. The White House stated that taxpayer money should not fund racial discrimination or violence. Harvard's president argued that the government shouldn't dictate what universities teach, who they admit or hire, or what research they pursue. A Harvard faculty association filed a lawsuit against the administration to prevent the funding cuts, citing violations of academic freedom and free speech.",
+    "original_filename": "21_cnn-world_20250420-043035.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Trump Administration's Funding Freeze of Harvard",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 85,
+        "reasoning": "The article reports on a conflict with potentially negative consequences, resulting in a slightly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "There's no indication of joy in this situation."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There might be some trust in the legal system to resolve the issue."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The potential loss of funding and the implications for the university and its beneficiaries create fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The administration's actions and Harvard's strong response are somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The negative impact of the funding freeze can evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Some may feel disgust at the perceived political motivations behind the funding freeze."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "The perceived unfairness of the situation can evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "There's anticipation regarding the outcome of the lawsuit and the future of the funding."
+        }
+      }
+    },
+    {
+      "topic": "Trump Administration's Demands on Harvard",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 90,
+        "reasoning": "The Trump administration is taking a firm, potentially punitive approach. The statement 'جامعة هارفارد، أو أي مؤسسة ترغب في انتهاك القانون غير مؤهلة، بموجب القانون، للحصول على تمويل فيدرالي' indicates a strong stance."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "There's no indication of joy in this situation."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There's little trust towards Harvard."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The administration might be trying to instill fear in other universities."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The action is somewhat expected given Trump's past behavior."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "There's little sadness expressed."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Disgust towards perceived violations of the law."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Strong anger towards Harvard's perceived defiance."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation regarding the impact of the funding freeze."
+        }
+      }
+    },
+    {
+      "topic": "Harvard University's Response",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "Harvard's response is defiant and critical. The statement 'انسحاب الحكومة من هذه الشراكات الآن لا يُعرّض صحة ورفاهية ملايين الأفراد للخطر فحسب، بل يُعرّض أيضًا الأمن الاقتصادي وحيوية أمتنا للخطر' indicates strong disagreement and concern."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "There's no indication of joy in this situation."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "There's little trust towards the administration."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Strong fear regarding the consequences of the funding freeze."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The action is somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness regarding the potential negative impact."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some disgust towards the administration's motivations."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Anger towards the perceived unfairness of the situation."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation regarding the outcome."
+        }
+      }
+    },
+    {
+      "topic": "Harvard Faculty Association Lawsuit",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 80,
+        "reasoning": "The lawsuit indicates a negative sentiment towards the administration's actions, aiming to prevent the funding cuts."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "There's no indication of joy in this situation."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "There's some trust in the legal system."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Strong fear regarding the consequences of the funding freeze."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The action is somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Sadness regarding the potential negative impact."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some disgust towards the administration's motivations."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 75,
+          "reasoning": "Strong anger towards the perceived unfairness of the situation."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Anticipation regarding the outcome of the lawsuit."
+        }
+      }
+    }
+  ]
+}

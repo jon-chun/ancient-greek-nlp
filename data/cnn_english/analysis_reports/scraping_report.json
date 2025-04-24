@@ -1,0 +1,791 @@
+{
+    "generation_timestamp": "2025-04-20 11:05:26 EDT",
+    "summary": {
+        "successful_count": 42,
+        "failed_count": 114
+    },
+    "successful_downloads": [
+        {
+            "url": "https://www.cnn.com/2025/04/19/us/parkland-florida-state-university-shooting/index.html",
+            "title": "These Parkland students experienced their second deadly school shooting in 7 years",
+            "filename": "1_us_us_parkland-florida-state-university-shooting_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/20/us/easter-christianity-resistance-movement-cec/index.html",
+            "title": "Before Easter became a holy day, it was the beginning of the Resistance",
+            "filename": "2_us_us_easter-christianity-resistance-movement-cec_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/20/business/four-twenty-deals-restaurant-discounts/index.html",
+            "title": "It\u2019s 4/20: Here\u2019s where to score some food deals",
+            "filename": "3_business_business_four-twenty-deals-restaurant-discounts_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/us/international-students-universities-funding-trump/index.html",
+            "title": "Already facing Trump administration cuts, US colleges risk losses from another revenue source: foreign students",
+            "filename": "4_us_us_international-students-universities-funding-trump_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/19/us/visa-revoked-students-trump-ice/index.html",
+            "title": "International students are being told by email that their visas are revoked and that they must \u2018self-deport.\u2019 What to know",
+            "filename": "5_us_us_visa-revoked-students-trump-ice_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/20/politics/chris-van-hollen-kilmar-abrego-garcia/index.html",
+            "title": "Sen. Chris Van Hollen argues Trump administration\u2019s actions in Abrego Garcia case \u2018threaten everybody\u2019s rights\u2019",
+            "filename": "6_politics_politics_chris-van-hollen-kilmar-abrego-garcia_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/19/business/whats-open-and-closed-on-easter-day-2025/index.html",
+            "title": "What\u2019s open and closed on Easter Day 2025",
+            "filename": "7_business_business_whats-open-and-closed-on-easter-day-2025_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/17/us/lopez-gomez-citizen-detained-ice-florida/index.html",
+            "title": "Mid-commute traffic stop left US citizen detained under an ICE order. Then, a Florida judge verified his US birth certificate",
+            "filename": "8_us_us_lopez-gomez-citizen-detained-ice-florida_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/16/us/international-visa-revocations-traffic-stops/index.html",
+            "title": "Judge issues temporary restraining order against deportation of more than 100 international students whose visas were revoked",
+            "filename": "9_us_us_international-visa-revocations-traffic-stops_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/17/us/florida-state-university-shooting-phoenix-ikner-invs/index.html",
+            "title": "What we know about the Florida State University shooting suspect",
+            "filename": "10_us_us_florida-state-university-shooting-phoenix-ikner-invs_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/20/us/gun-fsu-shooting-suspect-mother/index.html",
+            "title": "\u2018It\u2019s all about what was known and when\u2019: Will the mother of FSU shooting suspect face charges?",
+            "filename": "11_us_us_gun-fsu-shooting-suspect-mother_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/16/us/harvard-kristi-noem-international-students/index.html",
+            "title": "DHS threatens to revoke Harvard\u2019s eligibility to host foreign students amid broader battle over universities\u2019 autonomy",
+            "filename": "12_us_us_harvard-kristi-noem-international-students_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/20/economy/us-small-businesses-tariffs/index.html",
+            "title": "\u2018Chaotic\u2019 tariff regime and trade war are leaving small businesses in their wake",
+            "filename": "13_economy_economy_us-small-businesses-tariffs_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/us/what-we-know-victims-florida-state-university-shooting/index.html",
+            "title": "A loving father of two and a dining coordinator dedicated to service were killed in the Florida State University shooting",
+            "filename": "14_us_us_what-we-know-victims-florida-state-university-shooting_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/tv/schedule/cnn",
+            "title": "TV Schedule",
+            "filename": "15_tv_tv_schedule_cnn.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/19/us/trump-funding-cut-native-american-abuse-hnk/index.html",
+            "title": "Trump administration makes major cuts to Native American boarding school research projects",
+            "filename": "16_us_us_trump-funding-cut-native-american-abuse-hnk_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/us/us-citizen-detained-canada/index.html",
+            "title": "US citizen says he and his wife detained without explanation after returning from Canada",
+            "filename": "17_us_us_us-citizen-detained-canada_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/politics/boasberg-deportation-flights-alien-enemies-act/index.html",
+            "title": "Supreme Court temporarily pauses deportations under Alien Enemies Act",
+            "filename": "18_politics_politics_boasberg-deportation-flights-alien-enemies-act_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/13/success/last-minute-tax-filing-tips/index.html",
+            "title": "It\u2019s Tax Day. Still haven\u2019t filed? Tips on how to get an extension and more",
+            "filename": "19_success_success_last-minute-tax-filing-tips_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/16/tech/nvidia-plunge-h20-chip-china-export-intl-hnk/index.html",
+            "title": "Nvidia, caught in the US-China trade war, takes a $5.5 billion hit",
+            "filename": "20_tech_tech_nvidia-plunge-h20-chip-china-export-intl-hnk_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/13/business/tariffs-economy-trump-china/index.html",
+            "title": "Trump official says tariff exemptions on tech are temporary. Elizabeth Warren calls trade war \u2018red light, green light\u2019 game",
+            "filename": "21_business_business_tariffs-economy-trump-china_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/business/capital-one-discover-merger-conditional-approval/index.html",
+            "title": "The Capital One merger with Discover just cleared a major hurdle",
+            "filename": "22_business_business_capital-one-discover-merger-conditional-approval_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/03/business/zelle-cash-transferring-app-shuts-down/index.html",
+            "title": "Zelle is shutting down its app. Here\u2019s how you can still use the payment service",
+            "filename": "23_business_business_zelle-cash-transferring-app-shuts-down_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/17/business/ford-car-prices-tariffs/index.html",
+            "title": "Ford tells dealers prices could go up in June if Trump\u2019s tariffs remain",
+            "filename": "24_business_business_ford-car-prices-tariffs_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/20/business/dhl-global-shipments-us-suspension-intl-hnk/index.html",
+            "title": "DHL to suspend global shipments of over $800 to US consumers",
+            "filename": "25_business_business_dhl-global-shipments-us-suspension-intl-hnk_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/09/economy/trump-tariffs-whats-next-economy/index.html",
+            "title": "The next round of Trump\u2019s tariffs could hurt even more. Here\u2019s what to expect",
+            "filename": "26_economy_economy_trump-tariffs-whats-next-economy_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/04/economy/recession-trump-tariffs-intl/index.html",
+            "title": "Trump\u2019s tariffs will be bad for you. And you, and you, and you, and you",
+            "filename": "27_economy_economy_recession-trump-tariffs-intl_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/business/yiwu-china-market-impact-trump-tariffs-intl-hnk-dst/index.html",
+            "title": "In China\u2019s \u2018Christmas Town,\u2019 Trump\u2019s tariffs are dimming the lights",
+            "filename": "28_business_business_yiwu-china-market-impact-trump-tariffs-intl-hnk-dst_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/14/investing/us-stock-market/index.html",
+            "title": "US stocks get boost from tariff exemptions but trade war confusion persists",
+            "filename": "29_investing_investing_us-stock-market_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/16/tech/trump-tariffs-china-tech-products-price/index.html",
+            "title": "\u2018It\u2019s going to be the small stuff\u2019: Trump\u2019s tariffs could make cheap tech gadgets not so cheap",
+            "filename": "30_tech_tech_trump-tariffs-china-tech-products-price_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/economy/global-trade-relationships-trump-tariffs/index.html",
+            "title": "Trump wants his tariffs to reset the world. He might get his wish",
+            "filename": "31_economy_economy_global-trade-relationships-trump-tariffs_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/13/business/stock-futures-trump-tariffs/index.html",
+            "title": "US stock futures rise amid temporary tariff exemptions for tech products",
+            "filename": "32_business_business_stock-futures-trump-tariffs_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/15/media/white-house-pool-wire-services-ap-reuters-bloomberg/index.html",
+            "title": "The Trump White House is axing the wire service spot from the coverage pool, the latest salvo in its battle with the AP",
+            "filename": "33_media_media_white-house-pool-wire-services-ap-reuters-bloomberg_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/16/media/pbs-npr-funding-fight/index.html",
+            "title": "PBS and NPR are in a once-in-a-generation funding fight. They might well lose",
+            "filename": "34_media_media_pbs-npr-funding-fight_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/14/media/meta-ftc-trial/index.html",
+            "title": "If Meta loses in antitrust case, it could be forced to break itself up by selling Instagram and WhatsApp",
+            "filename": "35_media_media_meta-ftc-trial_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/17/food/taco-bell-chicken-nuggets-return-date/index.html",
+            "title": "Taco Bell is bringing back a wildly popular menu item",
+            "filename": "36_food_food_taco-bell-chicken-nuggets-return-date_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/16/business/china-us-decoupling-trade-war-nightcap/index.html",
+            "title": "The US\u2013China \u2018decoupling\u2019 would be a messy divorce",
+            "filename": "37_business_business_china-us-decoupling-trade-war-nightcap_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/14/business/ray-dalio-recession-trump-tariffs-intl/index.html",
+            "title": "Billionaire Ray Dalio is worried Trump\u2019s tariff war could spark \u2018something worse\u2019 than a recession",
+            "filename": "38_business_business_ray-dalio-recession-trump-tariffs-intl_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/middleeast/us-iran-nuclear-talks-what-we-know-intl/index.html",
+            "title": "The US and Iran concluded a second round of nuclear talks. Here\u2019s what we know",
+            "filename": "39_middleeast_middleeast_us-iran-nuclear-talks-what-we-know-intl_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/15/middleeast/israel-proposes-gaza-ceasefire-deal-to-release-hostages-intl/index.html",
+            "title": "Israel proposes Gaza ceasefire deal to release 10 hostages for hundreds of Palestinians, Hamas says",
+            "filename": "40_middleeast_middleeast_israel-proposes-gaza-ceasefire-deal-to-release-hostages-intl_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/03/29/middleeast/hamas-agrees-to-egyptian-ceasefire-proposal-israel-counters/index.html",
+            "title": "Hamas agrees to Egyptian ceasefire proposal, Israel counters",
+            "filename": "41_middleeast_middleeast_hamas-agrees-to-egyptian-ceasefire-proposal-israel-counters_index.txt"
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/middleeast/dozens-killed-us-airstrikes-yemen-intl-hnk/index.html",
+            "title": "Yemen\u2019s Houthis vow to continue attacks after more than 70 killed in US airstrikes on port",
+            "filename": "42_middleeast_middleeast_dozens-killed-us-airstrikes-yemen-intl-hnk_index.txt"
+        }
+    ],
+    "failed_attempts": [
+        {
+            "url": "https://www.cnn.com/2024/03/01/tech/aiscout-app-soccer-scouting-spc-intl/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2024/07/27/success/fed-interest-rate-cuts-debt-savings/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2024/10/04/success/job-interview-how-to-do-well-gen-z-wellness/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/03/30/middleeast/syria-new-transitional-government-intl-hnk/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/03/31/middleeast/aid-workers-found-gaza-mass-grave-intl-hnk/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/03/31/middleeast/israel-netanyahu-strategy-gaza-future-intl/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/03/31/middleeast/uae-death-sentences-killing-zvi-kogan-intl-latam/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/01/middleeast/uday-rabie-palestinian-tortured-hamas-intl-latam/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/02/middleeast/israel-expands-military-operations-gaza-intl-hnk/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/03/middleeast/netanyahu-israel-gaza-dividing-morag-intl/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/06/middleeast/iran-deputy-fired-antarctica-trip-shahram-dabiri-intl-latam/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/06/middleeast/palestinian-teen-malnutrition-death-intl/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/07/middleeast/gaza-aid-workers-killed-audio-intl-invs/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/07/middleeast/israel-gaza-buffer-zone-troops-intl/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/10/middleeast/ahmad-manasra-release-intl-latam/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/10/middleeast/israeli-military-fires-air-force-reservists-who-publicly-called-for-immediate-hostage-return-intl/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/12/middleeast/israel-gaza-offensive-displaced-rafah-intl/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/13/food/marshmallow-egg-easter-coloring-kits/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/14/business/video/khan-former-ftc-zuckerberg-meta-antitrust-monopoly-digvid",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/14/media/trump-fcc-60-minutes-cbs/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/14/media/zuckerberg-meta-monopoly-trial/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/15/business/video/how-to-lower-interest-rates-digvid",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/15/business/video/jon-stewart-daily-show-trump-oval-office-gold-digvid",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/15/business/video/the-lead-greg-ahearn-toys-christmas-president-trump-tariffs-china-jake-tapper",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/15/middleeast/israeli-ministers-accuse-shin-bet-chief-of-waging-political-vendetta-intl/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/16/tech/zoom-down-outage/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/17/business/video/the-economist-donald-trump-jerome-powell-nn-digvid",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/17/economy/ecb-cuts-interest-rates-tariffs-intl/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/17/investing/us-stock-market/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/17/tech/google-adtech-trial-decision/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/17/us/video/florida-state-university-shooting-student-cnc-digvid",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/17/us/video/fsu-shooting-woman-shot-student-witness-heeter-intv-digvid",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/business/scammers-are-texting-drivers-about-unpaid-tolls-causing-chaos-amongst-some-consumers/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/business/tesla-black-worker-harassment-settlement-intl/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/business/video/google-monopoly-shelly-palmer-intv-ctw-041810aseg1-cnni-business-fast",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/business/video/hong-kong-kai-tak-stadium-airport-marketplace-asia-hnk-spc-intl",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/business/video/mme-clicks",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/business/video/spc-marketplace-middle-east-b",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/middleeast/fatima-hassouna-killed-israeli-airstrike-gaza-intl-latam/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/us/bryan-kohberger-idaho-murder-trial-autism/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/us/student-voices-fsu-shooting-gun-violence/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/us/tufts-student-detained-vermont-louisiana/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/us/video/bride-wedding-driver-speeding-car-ldn-digvid",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/us/video/community-helps-bookstore-move-digvid",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/us/video/fsu-president-richard-mccullough-phoenix-ikner-suspect-digvid",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/18/us/video/southern-border-kids-legal-services-alvarez-digvid",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/19/middleeast/israel-netanyahu-war-gaza-intl-latam/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/19/politics/video/trump-immigration-stance-hignfy-digvid",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/19/us/50501-protests-trump-administration/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/19/us/florida-state-university-shooting-what-we-know/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/19/us/harvard-trump-administration-letter-mistake/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/19/us/oklahoma-city-bombing-30-years/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/19/us/video/cody-blamer-911-phone-call-josh-shaprio-pennsylvania-digvid",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/19/us/video/smr-irs-faces-massive-cuts-as-audit-rates-plunge",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/19/us/video/smr-nyt-reports-trumpofficial-sent-letter-to-harvard-by-mistake",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/19/us/visual-timeline-fsu-shooting/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/20/business/boeing-china-trump-tariffs/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/20/business/boeing-china-trump-tariffs/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/20/media/elon-musk-interviews-media/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/20/media/elon-musk-interviews-media/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/20/middleeast/israeli-military-professional-failures-gaza-medics-intl/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/20/politics/democrat-crisis-recruitment-campaigns/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/20/politics/medicaid-expansion-congress-gop-budget/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/20/us/anne-marie-hochhalter-columbine-shooting-anniversary/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/04/20/us/start-your-week-smart-5-things-for-april-20-earth-day-pope-francis-alien-enemies-act-ukraine-russia-truce-50501-protests/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/business/markets/fear-and-greed/index.html",
+            "reason": "Fetch Error",
+            "details": "HTTP Error 404 Not Found"
+        },
+        {
+            "url": "https://www.cnn.com/business/markets/nightcap",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/business/markets/nightcap",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/business/tech/foreseeable-future",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/business/tech/foreseeable-future",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/business/tech/innovate",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/business/tech/innovate",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/business/tech/innovate",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/business/tech/innovative-cities",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/business/tech/innovative-cities",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/business/tech/innovative-cities",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/business/tech/mission-ahead",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/business/tech/mission-ahead",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/business/tech/mission-ahead",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/games/play/cnn-crossword",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/games/play/cnn-crossword",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/games/play/cnn-crossword",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/games/play/gd-sudoku-a197ee3904d04e9d8b64dcd9fa3ace63",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/games/play/gd-sudoku-a197ee3904d04e9d8b64dcd9fa3ace63",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/games/play/gd-sudoku-a197ee3904d04e9d8b64dcd9fa3ace63",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/games/play/jumble-crossword-daily",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/games/play/jumble-crossword-daily",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/games/play/jumble-crossword-daily",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/games/play/sudoblock",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/games/play/sudoblock",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/games/play/sudoblock",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/health/life-but-better/fitness",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/health/life-but-better/fitness",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/health/life-but-better/fitness",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/health/life-but-better/food",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/health/life-but-better/food",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/health/life-but-better/mindfulness",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/health/life-but-better/mindfulness",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/health/life-but-better/mindfulness",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/health/life-but-better/relationships",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/health/life-but-better/relationships",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/health/life-but-better/relationships",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/health/life-but-better/sleep",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/health/life-but-better/sleep",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/subscription/video/flashdocs/library",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/subscription/video/flashdocs/library",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/subscription/video/flashdocs/library",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/us/live-news/fsu-campus-shooting-04-17-25/index.html",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/world/europe/ukraine",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/world/europe/ukraine",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/world/europe/ukraine",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/world/middleeast/israel",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/world/middleeast/israel",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.cnn.com/world/middleeast/israel",
+            "reason": "Keywords Not Found",
+            "details": ""
+        }
+    ]
+}

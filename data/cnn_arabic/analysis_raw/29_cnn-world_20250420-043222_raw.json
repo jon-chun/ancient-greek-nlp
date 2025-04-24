@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOHUhJAlt5gwyOcdUzeWyt4gATQ3U",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nThe British Government Takes Control of the Last Remaining Steel Plant\n\n### English Text Summary:\nThe British government has effectively taken control of the last remaining steel plant in the UK, owned by Chinese company Jingye, after lawmakers approved an emergency rescue plan. Prime Minister Keir Starmer called for an extraordinary session to support legislation aimed at preventing Jingye from closing two essential blast furnaces at the Scunthorpe plant. The law grants the government authority to oversee the company’s operations and ensure that its 3,000 workers receive their wages. Jingye has reported significant daily losses due to market conditions and rising environmental costs. The closure of the plant would leave the UK without the ability to produce steel from scratch, impacting various industries and increasing reliance on foreign steel sources.\n\n[\n    {\n        \"topic\": \"British Government Control of Steel Plant\",\n        \"sentiment_polarity\": { \"score\": 0.8, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Trust\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Surprise\": { \"weight\": 0.1, \"confidence\": 60 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 95 },\n            \"Anger\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Jingye Group\",\n        \"sentiment_polarity\": { \"score\": -0.6, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.3, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.3, \"confidence\": 70 }\n        }\n    },\n    {\n        \"topic\": \"UK Steel Industry\",\n        \"sentiment_polarity\": { \"score\": -0.4, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 65 },\n            \"Sadness\": { \"weight\": 0.5, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Anger\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 70 }\n        }\n    },\n    {\n        \"topic\": \"Impact on Workers\",\n        \"sentiment_polarity\": { \"score\": 0.7, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.8, \"confidence\": 85 },\n            \"Trust\": { \"weight\": 0.7, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Surprise\": { \"weight\": 0.1, \"confidence\": 60 },\n            \"Sadness\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 95 },\n            \"Anger\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Legislation Passed\",\n        \"sentiment_polarity\": { \"score\": 0.9, \"confidence\": 95 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.9, \"confidence\": 90 },\n            \"Trust\": { \"weight\": 0.8, \"confidence\": 85 },\n            \"Fear\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Sadness\": { \"weight\": 0.0, \"confidence\": 95 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 95 },\n            \"Anger\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.7, \"confidence\": 80 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745126819,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1174,
+    "prompt_tokens": 1900,
+    "total_tokens": 3074,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Why everyone is suddenly so interested in US bond markets",
+    "text_summary_en": "The article discusses the recent volatility in the US bond market, triggered by concerns over trade tariffs and their potential impact on the US economy. Traditionally seen as a safe haven, US government bonds experienced a sell-off, causing interest rates to rise. This has implications for ordinary Americans and businesses, as it could lead to higher borrowing costs for mortgages, credit cards, and business loans. The article draws parallels with Liz Truss's mini-Budget in the UK, which also spooked bond markets. The article suggests that the bond market's reaction influenced President Trump to introduce a pause on tariff increases, highlighting the market's power. The article also touches upon China's significant holdings of US debt and whether they played a role in the sell-off. Ultimately, the article suggests the turmoil could lead to an emerging risk premium in US Treasury bonds and the dollar.",
+    "original_filename": "6_news_news_articles_cvg838qq7zqo.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "US Bond Market",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 90,
+        "reasoning": "The article describes volatility and uncertainty in the US bond market, using phrases like 'rare move', 'rose sharply', 'fell', 'losing confidence'. This indicates a negative sentiment overall."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal joy, as the situation is presented as concerning."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The bond market's reliability as a safe haven is questioned, reducing trust."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The volatility and potential economic consequences generate fear and anxiety."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The 'extremely rare move' and 'dramatic sell-off' indicate surprise."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The potential negative impact on ordinary Americans and businesses evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some disgust at the potential mismanagement or manipulation of the market."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Potential frustration and anger at the economic consequences."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Concern about future implications and potential outcomes."
+        }
+      }
+    },
+    {
+      "topic": "US Trade Tariffs",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 95,
+        "reasoning": "The tariffs are presented as the cause of the bond market volatility and potential economic problems. Phrases like 'sparked by US trade tariffs' and the reference to 'Liberation Day' tariffs announcement' suggest a negative impact."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy associated with the tariffs."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Reduced trust in the government's economic policies."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Significant fear due to the potential economic consequences of the tariffs."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The sudden implementation of tariffs could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Sadness over the potential negative impact on the economy and people's livelihoods."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Disgust at the perceived unfairness or negative consequences of the tariffs."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Significant anger and frustration towards the tariffs."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anxiety about the future impact of the tariffs."
+        }
+      }
+    },
+    {
+      "topic": "President Trump",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "While not overtly negative, Trump is portrayed as reacting to market pressures and potentially reversing course on tariffs. The phrase 'stopped the president in his tracks' suggests a negative impact on his agenda."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal joy associated with Trump's actions in this context."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Reduced trust in his economic decision-making."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Some fear due to the uncertainty surrounding his policies."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Surprise at his potential reversal on tariffs."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Some sadness about the potential negative consequences of his policies."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Disgust at perceived inconsistency or negative impacts of his actions."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger and frustration towards his policies."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anxiety about future policy decisions."
+        }
+      }
+    },
+    {
+      "topic": "China",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 75,
+        "reasoning": "China is mentioned as a major holder of US debt and a potential actor in the sell-off, but the article concludes that a fire sale is unlikely because it would hurt China more. This suggests a slightly negative but not strongly adversarial sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Little to no joy associated with China in this context."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some level of trust, but also suspicion due to trade war tensions."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear of potential economic retaliation from China."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Possible surprise if China were to engage in a fire sale."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Some sadness about the potential for further economic conflict."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Disgust at the trade war and its potential consequences."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger and frustration towards China's role in the trade war."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anxiety about the future of the trade relationship."
+        }
+      }
+    },
+    {
+      "topic": "Liz Truss's mini-Budget",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The mini-Budget is used as a negative comparison, highlighting the potential for disastrous consequences when bond markets are spooked. The phrase 'infamous mini-Budget' clearly indicates a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy associated with this event."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Complete lack of trust due to the negative consequences."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "High fear due to the potential for economic collapse."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the scale of the market reaction."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Sadness over the economic damage caused."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "High disgust at the perceived mismanagement."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Significant anger and frustration towards those responsible."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anxiety about future economic instability."
+        }
+      }
+    }
+  ]
+}

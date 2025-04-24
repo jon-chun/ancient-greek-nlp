@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "British Government Takes Over Last Steel Plant Due to Chinese Owner's Decision",
+    "text_summary_en": "The British government has effectively taken control of the last remaining British steel plant producing steel from scratch, after legislators approved an emergency rescue plan. Prime Minister Kir Starmer convened an extraordinary session to support a bill aimed at preventing Jingye Group, the Chinese owner of British Steel, from closing the two massive blast furnaces at its Scunthorpe plant. The bill grants the Minister of Business the authority to direct the company's board and workforce, ensuring workers are paid and raw materials are secured. Jingye Group claimed the Scunthorpe plant was losing a significant amount of money daily due to market conditions and environmental costs. The UK, formerly a global steel powerhouse, risked becoming the only G7 nation without the capacity to produce steel from scratch. The government criticized Jingye for making \"excessive\" demands and intervened to prevent the plant's closure. The future role of Jingye in the plant's daily operations remains unclear.",
+    "original_filename": "29_cnn-world_20250420-043222.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "British Government Takeover of British Steel",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 85,
+        "reasoning": "Slightly positive due to government intervention, but the underlying situation is negative ('emergency rescue plan')."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Some relief that the plant is being saved."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Hope in the government's intervention."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Uncertainty about the future of the plant."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The suddenness of the government's action."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Reflecting the decline of the steel industry."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal element of revulsion."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Frustration at the situation."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Uncertainty and hope for the future."
+        }
+      }
+    },
+    {
+      "topic": "Jingye Group (Chinese Owner)",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 80,
+        "reasoning": "Negative because Jingye's decisions led to the takeover. 'excessive demands' indicates a negative view."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 70,
+          "reasoning": "No positive emotions associated with their actions."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 75,
+          "reasoning": "Lack of trust due to their financial decisions."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "They are the subject of criticism."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Their actions were somewhat predictable."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "They are not the primary victims."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Disapproval of their business practices."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Frustration at their perceived mismanagement."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Their future role is uncertain."
+        }
+      }
+    },
+    {
+      "topic": "UK Steel Industry Decline",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "Strongly negative due to the decline. 'only country in the G7 that lacks the ability to produce steel from scratch' highlights severity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 75,
+          "reasoning": "Represents a significant loss."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Loss of confidence in the industry's future."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Potential consequences for related industries."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 65,
+          "reasoning": "Decline has been ongoing."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Loss of a once-great industry."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal element of revulsion."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Frustration at the factors contributing to the decline."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Uncertain future of the industry."
+        }
+      }
+    },
+    {
+      "topic": "Scunthorpe Steelworkers",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "Positive, reflecting relief and support for the workers. 'clear relief' indicates positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Relief at saving their jobs."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Trust in the government's intervention."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Jobs are now more secure."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Government intervention might have been unexpected."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Immediate threat has been averted."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal element of revulsion."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Frustration at the initial threat of closure."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Long-term future is still uncertain."
+        }
+      }
+    },
+    {
+      "topic": "Prime Minister Kir Starmer",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 75,
+        "reasoning": "Neutral to slightly positive. Portrayed as taking action, but no overwhelming praise or criticism."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Responding to a crisis."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Seen as taking action."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "In a position of power."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "Actions were somewhat expected."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Not personally affected."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal element of revulsion."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Frustration with the situation."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Actions will determine the future."
+        }
+      }
+    }
+  ]
+}

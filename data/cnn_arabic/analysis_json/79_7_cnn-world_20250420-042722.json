@@ -1,0 +1,159 @@
+{
+  "article_metadata": {
+    "title_en": "Kremlin Reveals Putin Sent Message to Trump Regarding Ukraine",
+    "text_summary_en": "The Kremlin announced that U.S. envoy Steve Witkoff delivered a message from Russian President Vladimir Putin to President Donald Trump ahead of Ukraine talks in Paris. Kremlin spokesman Dmitry Peskov expressed hope that the talks between the Ukrainian delegation and U.S. representatives in France would focus on finding a peaceful resolution. Peskov stated that Trump was informed of the conversation's content. He also accused Europe of focusing on prolonging the war and expressed hope for more movement towards a peaceful settlement from European and Ukrainian sides. U.S. Secretary of State Marco Rubio and Steve Witkoff are scheduled to meet with Ukrainian officials in Paris to bolster Ukraine's defenses against the ongoing Russian invasion. While Trump's promise to end the war in a day seems unlikely, the hope for a complete truce by Easter is also fading as Russia has intensified its strikes on Ukraine despite Washington's initiatives towards Moscow.",
+    "original_filename": "7_cnn-world_20250420-042722.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Diplomatic efforts regarding Ukraine",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 85,
+        "reasoning": "The article presents information about diplomatic communications and the ongoing conflict in Ukraine. The overall tone is neutral, reporting on events and statements from different parties."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "The article doesn't contain elements of joy, given the context of war and diplomacy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There's a slight element of trust implied in the diplomatic communications, but also skepticism given the ongoing conflict."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The ongoing conflict and intensified strikes evoke fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The message from Putin to Trump might be seen as somewhat surprising, but it's not a major element."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The ongoing war and the failure to achieve a truce evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The accusation of Europe focusing on prolonging the war might evoke some disgust."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The intensified strikes and the failure to achieve a truce might evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "The article discusses upcoming talks and hopes for a peaceful resolution, which creates anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Putin's message to Trump",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 90,
+        "reasoning": "The topic of the message from Putin to Trump is presented neutrally, as a piece of information. The sentiment is neither positive nor negative, but rather factual."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The message could inspire some trust, but it's also viewed with skepticism."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The message could cause some fear depending on its content and implications."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The delivery of the message is somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Indirectly related to the sadness of the conflict."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Could evoke disgust depending on one's political views."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Could evoke anger depending on one's political views."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "The message generates anticipation about its impact."
+        }
+      }
+    },
+    {
+      "topic": "Ongoing war in Ukraine",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The ongoing war in Ukraine is inherently negative. The intensified strikes and the failure to achieve a truce contribute to a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The war has no elements of joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "The war erodes trust."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The war evokes strong fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The intensified strikes might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The war evokes strong sadness."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The war evokes disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The war evokes anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "There's anticipation about the future of the war."
+        }
+      }
+    }
+  ]
+}

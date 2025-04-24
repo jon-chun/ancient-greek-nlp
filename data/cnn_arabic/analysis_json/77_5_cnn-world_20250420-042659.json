@@ -1,0 +1,159 @@
+{
+  "article_metadata": {
+    "title_en": "Rubio Warns: America Should Abandon Its Efforts If the Ukraine War Does Not End",
+    "text_summary_en": "U.S. Secretary of State Marco Rubio stated that if ending the war in Ukraine is not possible, the United States should abandon its efforts. Rubio emphasized that it is not America's war and that the U.S. has been assisting Ukraine for the past three years, desiring an end to the conflict. He mentioned President Trump's repeated attempts to end the war and the need for a decision on whether it is achievable. Rubio, along with Special Envoy Steve Witkoff, met with European and Ukrainian officials as part of Washington's efforts to mediate an end to the war. Rubio also spoke with Russian Foreign Minister Sergei Lavrov, presenting the U.S. peace plan. He indicated that a decision needs to be made quickly regarding the feasibility of ending the war and that discussions are underway to determine what ending the war might entail. The U.S. State Department reported that the U.S. peace plan received an \"encouraging reception\" in the talks.",
+    "original_filename": "5_cnn-world_20250420-042659.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Ukraine War",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 85,
+        "reasoning": "The article conveys a sense of urgency and a pragmatic assessment of the situation in Ukraine. Rubio's statement that the US should abandon efforts if the war cannot be ended suggests a potentially negative outcome, but also a realistic approach."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The article does not express any joy."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "There is some trust implied in the US efforts to mediate, but it's tempered by the potential for failure."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The potential for the war to continue and the US abandoning its efforts generates some fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Rubio's statement might surprise some, especially those expecting unwavering US support."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "The potential failure of peace efforts evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no explicit disgust expressed in the article."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 65,
+          "reasoning": "There is no explicit anger expressed, but the situation itself could be frustrating."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "There is anticipation regarding the outcome of the peace talks and the decision on whether to continue US efforts."
+        }
+      }
+    },
+    {
+      "topic": "Marco Rubio",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 90,
+        "reasoning": "The statement 'إنها ليست حربنا. لم نبدأها' (It is not our war. We did not start it) expresses a neutral to slightly defensive stance. The overall sentiment is neutral."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is expressed."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The statement does not directly express trust."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The statement implicitly acknowledges the fear of being drawn into a conflict."
+        },
+        "Surprise": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "The statement is not surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is a hint of sadness about the situation."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is expressed."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There is a slight undercurrent of anger or frustration."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is no specific anticipation expressed."
+        }
+      }
+    },
+    {
+      "topic": "US Peace Plan for Ukraine",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 90,
+        "reasoning": "The phrase 'استقبالا مشجعا' (encouraging reception) indicates a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The 'encouraging reception' suggests a degree of joy or optimism."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The encouraging reception builds some trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The encouraging reception reduces fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The reception might have been somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The encouraging reception reduces sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is expressed."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is expressed."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The encouraging reception increases anticipation."
+        }
+      }
+    }
+  ]
+}

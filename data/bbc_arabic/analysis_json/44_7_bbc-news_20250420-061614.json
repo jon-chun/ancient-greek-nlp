@@ -1,0 +1,109 @@
+{
+  "article_metadata": {
+    "title_en": "Commentators React to the UAE's Decision to Ban Non-Emiratis from Speaking in the Local Dialect in Official Media",
+    "text_summary_en": "The UAE has recently implemented a policy restricting the use of the Emirati dialect in official media to Emirati citizens only, who must also wear national dress when discussing projects or content in the local dialect. The policy aims to protect the national identity, prevent cultural symbol distortion, and combat the \"distortion of the Emirati dialect.\" While many citizens welcomed the decision as a step towards preserving heritage, some, especially non-Emirati media professionals, expressed concerns about its impact on cultural diversity and creative expression. Some commentators worry about how the policy will be enforced given the diverse population and dialect variations within the UAE. Others defended the policy as a means of safeguarding national identity. The decision stems from concerns about inaccurate and \"hybrid\" linguistic patterns presented as Emirati. Some non-Emirati media professionals who are proficient in the Emirati dialect fear losing their jobs. The policy's long-term impact on the media landscape remains to be seen.",
+    "original_filename": "7_bbc-news_20250420-061614.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "UAE Policy Restricting Emirati Dialect Use",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 85,
+        "reasoning": "The policy is presented as protecting cultural identity, but potential negative impacts introduce negativity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Limited joy, primarily among those who see it as protecting culture."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some trust the policy's intent to preserve culture."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Significant fear among non-Emiratis about job security and expression."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the sudden implementation of the policy."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "Sadness due to potential limitations on cultural exchange."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 35,
+          "reasoning": "Possible disgust at perceived discrimination."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some anger from those who feel unfairly targeted."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "High anticipation about the policy's long-term effects."
+        }
+      }
+    },
+    {
+      "topic": "Potential Job Loss for Non-Emirati Media Professionals",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The non-Emirati media professionals' potential job loss is a negative event."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with potential job loss."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Limited trust in the situation."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High fear of losing jobs."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Surprise at the policy change."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Sadness about potential job loss."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Possible disgust at the perceived unfairness."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anger at the policy change."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation about future employment prospects."
+        }
+      }
+    }
+  ]
+}

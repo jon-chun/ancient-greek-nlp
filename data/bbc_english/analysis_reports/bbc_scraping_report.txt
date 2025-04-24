@@ -1,0 +1,736 @@
+BBC Scraping Report
+Generated: 2025-04-20 13:09:48 EDT
+==============================
+
+Successful Downloads (14):
+-------------------------
+  File:  18_news_news_articles_crm347kpljko.txt
+  URL:   https://www.bbc.com/news/articles/crm347kpljko
+  Title: Portrait of injured Gazan boy named press photo of the year
+
+  File:  19_news_news_articles_crlddd02w9jo.txt
+  URL:   https://www.bbc.com/news/articles/crlddd02w9jo
+  Title: What is Iran's nuclear programme and what does the US want?
+
+  File:  20_news_news_articles_c7931nvzd9qo.txt
+  URL:   https://www.bbc.com/news/articles/c7931nvzd9qo
+  Title: Canadian workers on edge as car plant hits pause over US tariffs
+
+  File:  21_news_news_articles_cvg838qq7zqo.txt
+  URL:   https://www.bbc.com/news/articles/cvg838qq7zqo
+  Title: Why everyone is suddenly so interested in US bond markets
+
+  File:  22_news_news_articles_czx1g0q43gqo.txt
+  URL:   https://www.bbc.com/news/articles/czx1g0q43gqo
+  Title: Oldest serving US astronaut returns to Earth on 70th birthday
+
+  File:  23_news_news_articles_czjn0410e3zo.txt
+  URL:   https://www.bbc.com/news/articles/czjn0410e3zo
+  Title: Thousands join anti-Trump protests across US
+
+  File:  24_news_news_articles_cjdx0gp0kd0o.txt
+  URL:   https://www.bbc.com/news/articles/cjdx0gp0kd0o
+  Title: US senator says 'traumatised' man deported to El Salvador moved to new prison
+
+  File:  25_news_news_articles_c15vl99dw0do.txt
+  URL:   https://www.bbc.com/news/articles/c15vl99dw0do
+  Title: What Trump really wants from Canada
+
+  File:  26_news_news_articles_cd9ljwgg9y0o.txt
+  URL:   https://www.bbc.com/news/articles/cd9ljwgg9y0o
+  Title: Trump's chips strategy: The US will struggle to take on Asia
+
+  File:  27_news_news_articles_c62jxe99e71o.txt
+  URL:   https://www.bbc.com/news/articles/c62jxe99e71o
+  Title: War has changed Zelensky - but now is the time for him to transform again
+
+  File:  28_news_news_articles_cp34nkj1kv2o.txt
+  URL:   https://www.bbc.com/news/articles/cp34nkj1kv2o
+  Title: Trump has turned his back on the foundation of US economic might - the fallout will be messy
+
+  File:  29_news_news_articles_cdjlr3mnlero.txt
+  URL:   https://www.bbc.com/news/articles/cdjlr3mnlero
+  Title: Trump and Meloni talk up chances of US trade deal with Europe
+
+  File:  30_news_news_articles_cy5rqvqg36qo.txt
+  URL:   https://www.bbc.com/news/articles/cy5rqvqg36qo
+  Title: Ukraine minerals deal may not buy peace after Trump threat
+
+  File:  31_news_news_articles_clyw7g4zxwzo.txt
+  URL:   https://www.bbc.com/news/articles/clyw7g4zxwzo
+  Title: Police algorithm said Lina was at 'medium' risk. Then she was killed
+
+Failed Attempts (224):
+--------------------
+  URL:    https://www.bbc.com/arts/arts-in-motion
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/arts/arts-in-motion
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/arts/arts-in-motion
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/arts/arts-in-motion
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/business/executive-lounge
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/business/executive-lounge
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/business/executive-lounge
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/business/executive-lounge
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/business/future-of-business
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/business/future-of-business
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/business/future-of-business
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/business/future-of-business
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/business/technology-of-business
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/business/technology-of-business
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/business/technology-of-business
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/business/technology-of-business
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/green-living
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/green-living
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/green-living
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/green-living
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/natural-wonders
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/natural-wonders
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/natural-wonders
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/natural-wonders
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/solutions
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/solutions
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/solutions
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/solutions
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/sustainable-business
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/sustainable-business
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/sustainable-business
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/sustainable-business
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/weather-science
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/weather-science
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/weather-science
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/future-planet/weather-science
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/innovation/ai-v-the-mind
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/innovation/ai-v-the-mind
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/innovation/ai-v-the-mind
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/innovation/ai-v-the-mind
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/innovation/artificial-intelligence
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/innovation/artificial-intelligence
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/innovation/artificial-intelligence
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/innovation/artificial-intelligence
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/innovation/science
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/innovation/science
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/innovation/science
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/innovation/science
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/innovation/technology
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/innovation/technology
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/innovation/technology
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/innovation/technology
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/live/news
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/live/news
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/live/news
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/live/news
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/live/sport
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/live/sport
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/live/sport
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/live/sport
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c0kxznxyx5do
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c20l2evgny6o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c20x5xn1g92o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c20x5xxe4wzo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c20xq5nd8jeo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c20z63gr8mzo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c24q6201d8yo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c39j7k1n48mo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c3r88nxv1wyo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c4g2775v853o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c4g27n775j1o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c4grkzvlkwno
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c5yrl891j23o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c62z0dp5n0vo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c74z04j23pwo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c77ndzkz778o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c787v5gxny7o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c8073jzr1xko
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c89g0yn5yv5o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c99pg5yg0e3o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/c9de28n71ldo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/ce3qq51dv7lo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/ce8gzm0p1y8o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/ce8gzvv47kjo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cg72d3zpj9xo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/ckg291ngq7qo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/ckgek8engwmo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/ckgekpvj3rko
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/ckgezj14w80o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cly15pp707go
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/clyq9d35ljro
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/clywg335680o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cm257qmvg25o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cn4mm3kx0v2o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cn4w2p79v9eo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cn7vje365rno
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cp8jwj90ejno
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cpwzywjwgvyo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cr4nqe3724vo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cr4nqe3724vo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cvgn50d9pywo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cwy0332y7xzo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cwy7n905jqdo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cwydlr3reqpo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cx28y8jj4lxo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cx2vpp8zzd7o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cy700rml36lo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cy70vj2eejzo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cyvq82e53l6o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cyvqnd7y5n0o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/cz79wq00425o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/czd3ge7j92zo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/czd3rdjn81lo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/articles/czx40yvzqk0o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/bbcindepth
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/bbcindepth
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/bbcindepth
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/bbcindepth
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/bbcverify
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/bbcverify
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/bbcverify
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/bbcverify
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/england
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/england
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/england
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/england
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/in_pictures
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/in_pictures
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/in_pictures
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/in_pictures
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/northern_ireland
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/northern_ireland
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/northern_ireland
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/northern_ireland
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/northern_ireland/northern_ireland_politics
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/northern_ireland/northern_ireland_politics
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/northern_ireland/northern_ireland_politics
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/northern_ireland/northern_ireland_politics
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/politics
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/politics
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/politics
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/politics
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/scotland
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/scotland
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/scotland
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/scotland
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/scotland/scotland_politics
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/scotland/scotland_politics
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/scotland/scotland_politics
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/scotland/scotland_politics
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/topics/c2vdnvdg6xxt
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/topics/c2vdnvdg6xxt
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/topics/c2vdnvdg6xxt
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/topics/c2vdnvdg6xxt
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/uk
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/uk
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/uk
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/uk
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/us-canada
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/us-canada
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/us-canada
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/us-canada
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/videos/c078kenjgvpo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/videos/c33zr4n8pm3o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/videos/c3r8402l2qvo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/videos/c3r8vx1y8eno
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/videos/c5yrkw6zjp1o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/videos/c789yk3l15eo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/videos/c87pygvv8e0o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/videos/c8rgvv7me58o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/videos/ce8gm312zlro
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/videos/cg5qmgdlgr8o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/videos/cj45yl5dy42o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/videos/cj68n028e00o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/videos/cj9e22dezeno
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/videos/ckg23qpnnlxo
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/videos/cly2z4xxp9go
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/videos/crkx7enk254o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/videos/cz95kvx8pjno
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/videos/czx101kldl2o
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/wales
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/wales
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/wales
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/wales
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/wales/wales_politics
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/wales/wales_politics
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/wales/wales_politics
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/wales/wales_politics
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/war-in-ukraine
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/war-in-ukraine
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/war-in-ukraine
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/war-in-ukraine
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/africa
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/africa
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/africa
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/africa
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/asia
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/asia
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/asia
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/asia
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/asia/china
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/asia/china
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/asia/china
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/asia/china
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/asia/india
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/asia/india
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/asia/india
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/asia/india
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/australia
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/australia
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/australia
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/australia
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/europe
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/europe
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/europe
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/europe
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/latin_america
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/latin_america
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/latin_america
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/latin_america
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/middle_east
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/middle_east
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/middle_east
+  Reason: Keywords Not Found
+
+  URL:    https://www.bbc.com/news/world/middle_east
+  Reason: Keywords Not Found
+

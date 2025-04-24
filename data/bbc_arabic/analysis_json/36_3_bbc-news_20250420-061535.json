@@ -1,0 +1,359 @@
+{
+  "article_metadata": {
+    "title_en": "Russian Attacks on Ukraine \"Continue\" Despite Putin's Announcement of an \"Easter Truce\"",
+    "text_summary_en": "Russian President Vladimir Putin announced a 30-hour \"Easter truce\" in Ukraine, ordering his forces to halt military activities until the end of Sunday. Ukrainian President Volodymyr Zelenskyy stated his country would adhere to the truce if Russia did, while accusing Moscow of already violating it. Zelenskyy highlighted ongoing fighting in the Russian regions of Kursk and Belgorod and the continued use of Russian drones. He also indicated Ukraine's willingness to extend the truce, referencing a previous US proposal for a 30-day ceasefire. Ukrainian Foreign Minister Andriy Sybiha expressed skepticism, citing a history of Putin's words not matching his actions. The British Foreign Office urged Putin to demonstrate genuine commitment to peace by ending the invasion and adhering to a full ceasefire. The US is engaged in direct talks with Russia to end the war, but progress has been limited. Former US President Trump warned that the US might withdraw from mediating if progress isn't made quickly.",
+    "original_filename": "3_bbc-news_20250420-061535.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Overall Situation in Ukraine",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 90,
+        "reasoning": "Conflicting claims and history of broken ceasefires create a slightly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 60,
+          "reasoning": "Minimal joy due to the fleeting nature of the truce announcement."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low trust due to past failed ceasefires and conflicting statements."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "High fear due to the ongoing conflict and uncertainty about the truce."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Moderate surprise at the sudden announcement of the truce."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Significant sadness due to the ongoing war and its impact."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Disgust at the violence and alleged violations of agreements."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Anger towards the perceived aggressor and those violating the truce."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Moderate anticipation about the potential for a lasting ceasefire, but tempered by skepticism."
+        }
+      }
+    },
+    {
+      "topic": "Putin's Easter Truce Announcement",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "Announcement viewed with skepticism given history of broken agreements, leading to a slightly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low joy due to the skepticism surrounding the announcement."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Very low trust due to past actions and statements."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Moderate fear due to the uncertainty of the situation."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Moderate surprise at the announcement."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some sadness due to the ongoing conflict."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Disgust towards Putin's actions and statements."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Anger towards Putin for the invasion and alleged violations."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Moderate anticipation, but tempered by skepticism."
+        }
+      }
+    },
+    {
+      "topic": "Zelenskyy's Response to the Truce",
+      "sentiment_polarity": {
+        "score": -0.1,
+        "confidence": 85,
+        "reasoning": "Cautious and accusatory response, expressing willingness but also accusing Russia of violations, leading to a neutral to slightly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low joy due to the cautious nature of the statement."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Low trust in Russia's intentions."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Moderate fear due to the ongoing conflict."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some surprise at the truce announcement."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Moderate sadness due to the war."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Disgust at Russia's alleged violations."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Anger towards Russia."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Moderate anticipation, but with reservations."
+        }
+      }
+    },
+    {
+      "topic": "Continued Fighting in Kursk and Belgorod",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "Reports of continued fighting and drone use indicate a negative development and violation of the truce."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy associated with continued fighting."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No trust in de-escalation."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High fear due to ongoing conflict."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low surprise, as conflict has been ongoing."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "High sadness due to continued violence."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Disgust at the violence and disregard for human life."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anger towards those responsible for the fighting."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low anticipation for a peaceful resolution."
+        }
+      }
+    },
+    {
+      "topic": "British Foreign Office's Statement",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "Skepticism and call for genuine commitment to peace indicate a negative sentiment towards Russia's actions."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 50,
+          "reasoning": "No joy expressed."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Very low trust in Russia."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Moderate fear due to the ongoing conflict."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low surprise at the announcement."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Moderate sadness due to the war."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Disgust at the invasion."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anger towards Russia."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some anticipation for a real ceasefire, but with skepticism."
+        }
+      }
+    },
+    {
+      "topic": "US Efforts to End the War",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 80,
+        "reasoning": "Difficulties and lack of progress in US efforts indicate a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 50,
+          "reasoning": "No joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Low trust in the peace process."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Moderate fear due to the ongoing conflict."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low surprise at the difficulties."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Moderate sadness due to the lack of progress."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Disgust at the situation."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anger at the lack of progress."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Low anticipation for a breakthrough."
+        }
+      }
+    },
+    {
+      "topic": "Trump's Warning on Mediation",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 80,
+        "reasoning": "Warning of potential US withdrawal from mediation is a negative development for the peace process."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 50,
+          "reasoning": "No joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Low trust in the mediation process."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Moderate fear due to the uncertainty."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some surprise at the statement."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Moderate sadness due to the potential withdrawal."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some disgust at the situation."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some anger at the potential withdrawal."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Low anticipation for a positive outcome."
+        }
+      }
+    }
+  ]
+}

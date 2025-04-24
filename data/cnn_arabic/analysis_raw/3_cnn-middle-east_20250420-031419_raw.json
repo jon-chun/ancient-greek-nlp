@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOHrwWevGktDjmyI0gWxwMK4Z8V9a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nClaims of Dismissal of Iraqi Army Spokesman Yahiya Rasul After Criticism of Syrian Interim President\n\n### English Text Summary:\nSocial media accounts circulated claims about the dismissal of Yahiya Rasul, the former spokesman for the Iraqi army chief, following a video in which he criticized the interim president of Syria, Ahmad al-Shara. This speculation arose amid discussions in Iraq regarding rapprochement with Syria after a meeting between Iraqi Prime Minister Mohammed Shia' al-Sudani and al-Shara in Qatar. The claims were found to be misleading, as Rasul had already left his position in January, replaced by Saleh al-Nauman. The video in question was not recent and was part of an interview from December 2024, during a time of conflict involving Syrian opposition forces.\n\n[\n    {\n        \"topic\": \"Yahiya Rasul\",\n        \"sentiment_polarity\": { \"score\": -0.3, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Sadness\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 70 }\n        }\n    },\n    {\n        \"topic\": \"Ahmad al-Shara\",\n        \"sentiment_polarity\": { \"score\": -0.2, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 65 },\n            \"Sadness\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Disgust\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Anger\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.3, \"confidence\": 70 }\n        }\n    },\n    {\n        \"topic\": \"Iraqi-Syrian Relations\",\n        \"sentiment_polarity\": { \"score\": 0.1, \"confidence\": 75 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 65 },\n            \"Sadness\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Disgust\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Meeting in Qatar\",\n        \"sentiment_polarity\": { \"score\": 0.2, \"confidence\": 70 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.4, \"confidence\": 65 },\n            \"Trust\": { \"weight\": 0.5, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.1, \"confidence\": 60 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 65 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Anger\": { \"weight\": 0.1, \"confidence\": 75 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"U.S. Involvement in Syria\",\n        \"sentiment_polarity\": { \"score\": -0.4, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.6, \"confidence\": 75 },\n            \"Anger\": { \"weight\": 0.7, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 70 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745128260,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1188,
+    "prompt_tokens": 1459,
+    "total_tokens": 2647,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "article_metadata": {
+    "title_en": "\"Crimea for a War Ceasefire\"... Source Reveals to CNN a Proposal Presented by America to Russia Regarding Ukraine",
+    "text_summary_en": "A source revealed to CNN that the Trump administration is prepared to recognize Russian sovereignty over Crimea as part of a US proposal to end the war in Ukraine. The proposal would also establish a ceasefire along the front lines. European and Ukrainian officials were briefed on the framework in Paris, while Russian officials were informed via a phone call between Secretary of State Marco Rubio and his Russian counterpart, Sergei Lavrov. Some aspects of the framework still need to be finalized, and the US intends to collaborate with European and Ukrainian officials in London next week. Simultaneously, the US administration plans another meeting between Trump's Middle East envoy, Steve Witkoff, and Russian officials to persuade Moscow to accept the framework. Trump stated he's ready to abandon mediating a peace deal if the parties can't reach an agreement quickly, echoing his Secretary of State's warning to withdraw from mediation if a deal isn't reached within days.",
+    "original_filename": "3_cnn-world_20250420-042633.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "US Proposal to Recognize Russian Sovereignty over Crimea",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 90,
+        "reasoning": "The article presents a potential shift in US policy towards the Russia-Ukraine conflict, specifically regarding Crimea. The information is presented as a proposal, so it's neither overtly positive nor negative, but rather a factual report of a potential diplomatic development."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Unlikely to evoke joy, given the context of war and territorial disputes."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Depends on one's trust in the US government and the diplomatic process."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Could evoke fear for Ukrainians and those who oppose Russian expansionism."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Represents a potential shift in US policy."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Could evoke sadness for Ukrainians who view Crimea as their territory."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some may feel disgust at the idea of legitimizing Russian control."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Could evoke anger among those who oppose Russian aggression."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Creates anticipation for the future of the conflict and diplomatic efforts."
+        }
+      }
+    },
+    {
+      "topic": "Potential Ceasefire in Ukraine",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 80,
+        "reasoning": "The potential ceasefire proposal is intended to stop the fighting, which is generally a positive development. However, the terms of the ceasefire and the potential consequences could be viewed negatively by some. Overall, a slightly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "A ceasefire brings hope for an end to violence."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Trust in the ceasefire's durability."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Fear that the ceasefire may not hold or may lead to unfavorable outcomes."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The ceasefire itself might be unexpected."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Sadness if the ceasefire involves concessions or doesn't address underlying issues."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust at the compromises that might be necessary for a ceasefire."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anger if the ceasefire is seen as unfair or unjust."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation for the future after the ceasefire."
+        }
+      }
+    },
+    {
+      "topic": "Trump Administration's Diplomacy",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 90,
+        "reasoning": "The article reports on the Trump administration's diplomatic efforts regarding the Russia-Ukraine conflict. It is presented neutrally, focusing on the actions and statements of the administration."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The article does not inherently evoke joy."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Trust depends on the reader's perception of the Trump administration's credibility."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The administration's actions could evoke fear depending on their perceived impact."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The potential shift in policy could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The article does not inherently evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Disgust depends on the reader's perception of the administration's actions."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The administration's actions could evoke anger depending on their perceived impact."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The article creates anticipation for the outcome of the diplomatic efforts."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+###FORMAT:
+Title: The next round of Trump’s tariffs could hurt even more. Here’s what to expect
+URL: https://www.cnn.com/2025/04/09/economy/trump-tariffs-whats-next-economy/index.html
+Scraped Date: 2025-04-20 11:03:05
+Published Date: 2025-04-09
+
+--- Text ---
+“Liberation Day” came and went, with President Donald Trump’s sweeping new tariffs battering markets, unsettling the global order, and prompting businesses and households to reconsider their spending.
+And it’s far from over.
+There’s the immediate aftermath: Trump’s actions, based on economically questionable math, have triggered retaliatory tariffs, stoked trade wars, and escalated recession odds.
+There are near-, medium-, and long-term risks: The dangerous mix of fear, unpredictability, lost investments, and sudden cost spikes could quickly spill into the economy, causing real and lasting pain for people.
+And there are likely more tariffs coming down the pike: A suite of crucial materials was exempt from Wednesday’s tariff actions, including copper, computer chips, lumber, pharmaceuticals and critical minerals. However, Trump administration officials have indicated these products could be subject to tariffs at a later date.
+It also remains to be seen whether Canada and Mexico, two of the biggest targets of Trump’s on-again, off-again tariffs, will continue to be largely spared.
+“This list does not strike me as a negotiating position right now,” said Tyler Schipper, associate professor of economics at the University of St. Thomas in St. Paul, Minnesota. “Hopefully, some of these come down, but it’s a big list, and it’s across the board.”
+“This seems to suggest more like we’re putting up walls, rather than we’re negotiating to hopefully get all the walls to come down,” he added.
+The immediate aftermath
+Trump’s one-two tariff punch announced last week included a baseline 10% tariff on all imported goods to the US, followed by steeper “reciprocals” tariff on five dozen countries that the White House claimed were the “worst offenders” in charging high tariffs or imposing non-tariff trade barriers.
+The former went into place April 5, and the latter took effect Wednesday.
+However, the “reciprocal” tariffs were anything but that, further complicating and potentially amplifying the negative consequences of Trump’s actions. The additional levies, some of which shot north of 45%, were calculated by essentially dividing bilateral goods trade deficits by goods trade exports.
+Trade deficits, by their very nature, aren’t necessarily all bad.
+“It’s very wrongheaded economics; it’s quite natural that you will have deficits with some countries and surpluses with others,” economist Marcus Noland, executive vice president and director of studies with the Peterson Institute for International Economics, told CNN. “So, trying to implement a policy to generate balanced trade with all countries just flies in the face of any kind of comparative advantage or specialization.”
+Plus, the resulting tariffs should be a quarter lower than stated because the Trump administration erred in its calculations by undervaluing how the duty could impact items’ import prices, noted economists for the American Enterprise Institute, a conservative think tank. The formula, which AEI economists said had “no foundation in either economic theory or trade law,” instead wrongly incorporated the elasticity for retail prices.
+As it stands, the Trump administration’s severe and widespread tariff actions flung a powder keg into the global economy, pushing recession forecasts higher.
+Domestically, the tariffs could have swiftly negative consequences, JPMorgan CEO Jamie Dimon warned.
+“As for the short-term, we are likely to see inflationary outcomes, not only on imported goods but on domestic prices, as input costs rise and demand increases on domestic products,” he wrote in his annual letter to shareholders. “How this plays out on different products will partially depend on their substitutability and price elasticity. Whether or not the menu of tariffs causes a recession remains in question, but it will slow down growth.”
+Near- and long-term risks
+And plenty of uncertainties remain, Dimon noted, including the extent of retaliatory actions and the effects on confidence, investments, capital flows, corporate profits and the almighty dollar.
+“The quicker this issue is resolved, the better, because some of the negative effects increase cumulatively over time and would be hard to reverse,” he wrote.
+The freefall in the financial markets indicates there’s a crisis of confidence brewing in the US dollar, said Joe Brusuelas, RSM US chief economist.
+“We can now not ignore nor avoid the discussion of the devaluation of the dollar and the dollar’s reserve currency status,” Brusuelas told CNN.
+In terms of the economic impact, even the best-case scenario involves accelerated inflation in addition to hits to real gross domestic product growth and unemployment, according to Sung Won Sohn, professor of finance and economics at Loyola-Marymount University and president of SS Economics, who detailed the economic implications for the US in a note issued last week.
+The best-case scenario over the next 12 months: Real GDP contracts by 0.2 percentage points, employment shrinks by 0.1% and inflation ticks up by 0.2 percentage points.
+The worst-case: Economic activity sinks 1.3 percentage points (real GDP grew 2.4% at the end of 2024), the US economy loses 1.3 million jobs, and inflation rises by 1.3 percentage points, he noted.
+Sohn, whose “base case” falls in between, expressed optimism that the US economy could be resilient enough to avoid a recession.
+A few factors played into his calculus: The US economy is overwhelmingly services-driven, so the sectoral composition should provide a cushion; tariffs are a one-time price adjustment and shouldn’t accelerate underlying inflation pressures; touted policies such as tax cuts and deregulation could provide a stimulating effect on demand; and now that the announcements have been made, it could ease uncertainty.
+However, certainty is anything but a sure thing these days, and the bread-and-butter of the US economy might not go unscathed, said RSM economist Brusuelas.
+“The US is a service-based economy,” he said. “That’s where the wealth is; that’s where the money is. (Countries) are going to likely retaliate against the banks, the airlines and tech.”
+Sectoral tariffs coming next
+The retaliation could very well escalate, depending on how the administration moves forward on plans for sectoral tariffs and Trump’s continued application of Section 232 of the Trade Expansion Act of 1962 (what used to be a rarely employed trade provision) that allows a president to impose tariffs if there are potential national security threats.
+Last week’s tariff announcement came with several notable exclusions: Steel, aluminum and autos (three areas already subjected to their tariffs); copper and lumber (which are under Section 232 investigations for potential national security impacts); and pharmaceuticals, semiconductors, and critical minerals (where Section 232 investigations are expected).
+Trump has frequently quipped that the US doesn’t need to import items like lumber, cars and oil, claiming that natural resources and manufacturing potential are plentiful enough domestically for America to be self-sufficient.
+Economists, researchers and other experts have frequently warned that it’s not that simple: It takes years for manufacturing facilities to be built, supply chains to be established, and skilled workforces to be trained. (Plus, the construction of those new facilities would likely require imported materials that now are coming at a premium.)
+Still, the sector tariffs could push inflation even higher, said Kathy Bostjancic, Nationwide Mutual’s chief economist.
+Following last week’s announcement, Nationwide’s modeling indicated that the Consumer Price Index, which had cooled to an annual rate of 2.8% in February, could climb to between 3.5% and 4% by the end of the year. The sector tariffs could very well push that to the higher range of 4% to 4.5%, she said.
+CPI hasn’t been above 4% for nearly two years, Bureau of Labor Statistics data shows.
+In addition to those near- and longer-term headwinds, tariffs could pose unique challenges for each sector:
+Copper and critical minerals: It’s not yet known which minerals the US could consider investigating under Section 232; however, an investigation is already underway on copper — a critical cog in the ongoing electrification of America and industries such as defense.
+The US imports about 50% of the copper it uses, and demand is only expected to grow, especially as energy-consuming industries such as artificial intelligence and blockchain boom, Dan Ikenson, economist and trade policy scholar at Ikenomics Consulting, told CNN.
+“It takes 16, 17, 18 years to get the licenses for mines and permits for refining,” he said. “Since we don’t have those resources, and we’re dependent on the world for it, we should not be agitating and looking to pick trade fights, we should be working out arrangements where we can have long-term access to Canada’s exports, Chile’s and Peru’s.”
+Lumber: Softwood lumber is a critical and preferred ingredient to homebuilding, and 30% of it is imported by the US. Homebuilders warn that tariffs and other charges (including the potential doubling of existing duties on Canadian lumber) on softwood lumber and other materials could further exacerbate the housing affordability crisis.
+Higher costs of lumber imports could also affect other products, such as furniture and even toilet paper.
+The Trump administration, to bolster the US lumber industry, recently ordered that half of America’s national forests be opened up for logging — a move criticized for its potential negative effects on the environment, species, watersheds, and recreation.
+Pharmaceuticals: Tariffs here present conflicting policy goals for Trump, who’s stated he wants to bring down the prices of pharmaceutical products and bolster US manufacturing, Diederik Stadig, health care sector economist for ING, wrote in a post last week.
+“While some branded production might gradually be shifted to the US, a big increase in generic production is unlikely,” he said, noting that the construction of new facilities takes roughly 10 years.
+Tariffs also have an inflationary effect, which would drive up health care costs and hamper the affordability of medication, especially for people without insurance: Under a 25% tariff, commonly prescribed drugs could increase from 82 cents per pill to 94 cents a pill, or roughly $42 more per year, he wrote. More complex prescriptions, such as those for cancer treatment, could jump even higher, he wrote, estimating that a 24-week prescription could see additional costs in the $8,000 to $10,000 range.
+Semiconductors: Medical devices, Wi-Fi routers, laptops, smartphones, cars, household appliances and LED lightbulbs are just a few examples of where semiconductor chips are found. And these products often don’t just require one or two. For instance, new cars contain thousands of them.
+Put another way, semiconductor chips are “the crude oil of the 21st century.” And it became glaringly obvious what happens when that oil runs dry: As a side effect of the pandemic, a chip shortage put cars and other products in short supply and fanned the flames of inflation.
+Although the bipartisan CHIPS and Science Act passed in 2022 helped incentivize chipmakers like TSMC to open US facilities, even if tariffs spurred more domestic chip production, America still lacks electronic assembly capabilities, John Dallesasse, an electrical and computer engineering professor at the University of Illinois Urbana-Champaign, previously told CNN.
+Because of that, any chips produced in the US would still have to be shipped abroad to places like Taiwan, South Korea, China and Mexico to be put into the finished electronics Americans buy, and those would be subject to tariffs.
+CNN’s Elisabeth Buchwald contributed to this report

@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Trump's Tariffs Create an Impossible Choice for China's Neighbors",
+    "text_summary_en": "The article discusses the impact of potential Trump tariffs on Southeast Asian economies, particularly Vietnam, Malaysia, Indonesia, and Cambodia. While previous tariffs created opportunities for some businesses to compete with restricted Chinese exports, new tariffs threaten to shut these doors. These countries are caught between their strong trade relationship with China and their reliance on the US as a key export market. Xi Jinping's recent visit to the region highlights China's efforts to strengthen ties and resist US pressure. Southeast Asian nations are scrambling to navigate this complex situation, with some offering trade concessions to the US while also facing a surge of cheap Chinese imports that harm local businesses. The article suggests that this situation serves as a wake-up call for the region to diversify its trade dependencies.",
+    "original_filename": "8_news_news_articles_c0455k6g71eo.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Trump's Tariffs on China",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The tariffs are presented as disruptive and creating negative consequences, creating an 'impossible choice'."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Tariffs are not generally associated with joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minimal trust is inspired by tariffs."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The tariffs create fear due to economic uncertainty."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "The scale and potential impact of the tariffs could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The tariffs cause sadness due to potential economic hardship."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Some may feel disgust at the perceived unfairness of the tariffs."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The tariffs are likely to provoke anger among those affected."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "There's anticipation about the future effects of the tariffs."
+        }
+      }
+    },
+    {
+      "topic": "Vietnam's Economy",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 80,
+        "reasoning": "Vietnam is presented as an emerging electronics powerhouse, but also vulnerable to tariffs, leading to a mixed but slightly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "There's joy associated with economic growth."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Trust in continued growth and stability."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Fear of the impact of tariffs."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise at the rapid growth."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Sadness related to potential economic setbacks."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some anger at potential unfair trade practices."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anticipation of future economic development."
+        }
+      }
+    },
+    {
+      "topic": "China's Relationship with Southeast Asia",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 75,
+        "reasoning": "The relationship is described as complex, with both cooperation and tension, resulting in a neutral sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some joy from economic cooperation."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Trust in the economic partnership."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Fear of China's growing influence."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sadness related to territorial disputes."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "Some disgust related to perceived unfair practices."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Anger related to territorial disputes."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of future developments."
+        }
+      }
+    },
+    {
+      "topic": "US-Southeast Asia Trade Relations",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 70,
+        "reasoning": "The relationship is presented as important but potentially strained due to tariffs, leading to a slightly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Some joy from trade benefits."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust in the reliability of the US market."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Fear of tariffs and trade restrictions."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some surprise at policy changes."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness related to potential economic losses."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger at perceived unfair trade practices."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anticipation of future trade policies."
+        }
+      }
+    },
+    {
+      "topic": "Xi Jinping's Visit to Vietnam, Malaysia, and Cambodia",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 65,
+        "reasoning": "The visit is portrayed as a strategic move to strengthen ties and counter US influence, resulting in a neutral sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Joy from strengthened ties."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Trust in the partnership."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Some fear of China's intentions."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 45,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some anger from perceived unfairness."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Anticipation of future developments."
+        }
+      }
+    }
+  ]
+}

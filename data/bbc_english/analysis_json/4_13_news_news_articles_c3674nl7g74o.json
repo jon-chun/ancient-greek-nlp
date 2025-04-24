@@ -1,0 +1,159 @@
+{
+  "article_metadata": {
+    "title_en": "Google has illegal advertising monopoly, judge rules",
+    "text_summary_en": "A US judge has ruled that Google holds an illegal monopoly in online advertising technology, siding with the US Department of Justice and 17 states. This is Google's second antitrust loss in a year, following a ruling against its online search monopoly. Google plans to appeal. The judge found Google engaged in anticompetitive acts that harmed publishers and consumers. While Google won on one count, the ruling is seen as a significant victory for antitrust enforcers. Experts believe it sets a legal precedent impacting corporate decision-making. Google argues the case focuses too much on its past and ignores competitors like Amazon. The ruling could lead to structural changes in Google's ad exchange practices and potentially a break-up of Alphabet, Google's parent company. Similar antitrust concerns are being investigated in the UK.",
+    "original_filename": "13_news_news_articles_c3674nl7g74o.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Google",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 90,
+        "reasoning": "The article reports on a legal ruling against Google, indicating a negative outcome. While Google plans to appeal, the overall tone suggests a setback."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The ruling is unlikely to evoke joy from Google."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Trust in the legal system may be low for Google at this point."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of the consequences of the ruling, including potential break-up."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The ruling may have been somewhat surprising to Google."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Sadness due to the loss and potential impact on the company."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Possible disgust at the legal proceedings."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at the ruling and the perceived unfairness of the case."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation regarding the appeal process and potential structural changes."
+        }
+      }
+    },
+    {
+      "topic": "US Department of Justice and 17 US states",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The US Department of Justice and 17 US states brought the lawsuit against Google. The ruling in their favor indicates a positive outcome for them."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Joy at the successful outcome of the lawsuit."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Trust in the legal system and its ability to enforce antitrust laws."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear, as the ruling was in their favor."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The ruling may have been somewhat surprising, but likely anticipated."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No sadness, as the ruling was a victory."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust, as the ruling was a victory."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal anger, as the ruling was a victory."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation regarding the next phase of the case and potential remedies."
+        }
+      }
+    },
+    {
+      "topic": "Online Publishers",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 70,
+        "reasoning": "The ruling has potential implications for online publishers, who may benefit from changes in the advertising market. The sentiment is cautiously optimistic."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Joy at the potential for improved revenue and a more level playing field."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some trust in the legal system, but also uncertainty about the future."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 40,
+          "reasoning": "Fear of potential unintended consequences of the ruling."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "The ruling may have been somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Anticipation regarding the potential benefits of the ruling."
+        }
+      }
+    }
+  ]
+}

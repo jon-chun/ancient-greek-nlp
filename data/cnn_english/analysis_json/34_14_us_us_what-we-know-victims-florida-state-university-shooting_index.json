@@ -1,0 +1,159 @@
+{
+  "article_metadata": {
+    "title_en": "A loving father of two and a dining coordinator dedicated to service were killed in the Florida State University shooting",
+    "text_summary_en": "This article reports on the tragic deaths of Robert Morales and Tiru Chabba during a shooting at Florida State University. Robert Morales, a dining coordinator, is remembered for his dedication to the university community and his caring nature, often providing homemade meals. Tiru Chabba, a father of two and an Aramark employee, is mourned by his family. The article details the emotional campus vigil held in their honor and includes statements from university officials, colleagues, and family attorneys. The shooting, which also injured six others, is described as the sixth mass shooting in Florida and the 81st in the United States in 2025. The article also mentions the legal actions being considered to hold those responsible accountable.",
+    "original_filename": "14_us_us_what-we-know-victims-florida-state-university-shooting_index.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Florida State University Shooting",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The shooting at Florida State University is a negative event, causing fear and disruption."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The shooting is a negative event, leaving no room for joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Limited trust in preventing such events."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The shooting is a terrifying event."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The unexpected nature of the shooting contributes to surprise."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The deaths and injuries cause sadness."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The violence of the shooting can evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The act of violence can lead to anger."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anticipation related to investigations and future prevention."
+        }
+      }
+    },
+    {
+      "topic": "Robert Morales",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "Robert Morales is remembered positively for his dedication and caring nature."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Remembering his positive contributions brings joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "His dedication and caring nature inspire trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal fear associated with his memory."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "Minimal surprise related to his actions."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "His death evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust associated with his memory."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal anger related to his memory."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 50,
+          "reasoning": "Anticipation for how he will be remembered."
+        }
+      }
+    },
+    {
+      "topic": "Tiru Chabba",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "Tiru Chabba's death is a tragic loss for his family, evoking sadness and grief."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "His death is a tragic event, leaving no room for joy."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some trust in the legal system to provide justice."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The shooting event inherently evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The unexpected nature of his death contributes to surprise."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "His death and the impact on his family strongly evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The violence of the shooting can evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The act of violence and the loss of life can lead to anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation related to the legal proceedings."
+        }
+      }
+    }
+  ]
+}

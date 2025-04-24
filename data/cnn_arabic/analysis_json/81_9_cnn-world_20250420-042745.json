@@ -1,0 +1,309 @@
+{
+  "article_metadata": {
+    "title_en": "Chinese Factories Take Trade War with America to a New Place",
+    "text_summary_en": "Chinese suppliers are using American social media to encourage users to bypass tariffs imposed by the US on Beijing by buying directly from factories. A TikTok user claimed to manufacture original equipment for luxury brands, while apps like DHgate and Taobao gained popularity in the US. Experts doubt the authenticity of these claims, citing non-disclosure agreements. The videos highlight consumer concerns about tariffs and dependence on China. These Chinese producers are promoting the message that the economic policies of the White House will deprive the American consumer of access to his favorite products or pay more to obtain them. Lululemon denied claims that its products are sourced from specific factories mentioned in the videos. Experts suggest that any factory directly soliciting US consumers is likely unauthorized and could be selling counterfeits. The article also discusses the environmental impact of increased direct purchasing from Chinese manufacturers and the potential end of a tax exemption on low-value packages.",
+    "original_filename": "9_cnn-world_20250420-042745.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Social Media Marketing by Chinese Suppliers",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 90,
+        "reasoning": "The article presents a factual report on a developing situation. While it highlights potential negative consequences of trade policies, it maintains a neutral tone overall."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No element of joy is present."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There is a small element of trust discussed as the article discusses the trust put into brands."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "There is some fear regarding the environmental impact and potential consumer exploitation."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The direct marketing approach of Chinese factories is surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There is a small element of sadness regarding the environmental impact."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is a small element of disgust regarding the potential sale of counterfeit goods."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is a small element of anger due to the trade war."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "There is anticipation about the future of trade relations and consumer behavior."
+        }
+      }
+    },
+    {
+      "topic": "US-China Trade War",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "The topic is about the trade war between the US and China. The article highlights the negative impact of tariffs and the attempts by Chinese manufacturers to circumvent them."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No element of joy is present."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is little trust due to the conflict."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The trade war creates uncertainty and fear about economic consequences."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The tactics used by Chinese manufacturers are somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The trade war causes economic hardship and disruption."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There is some disgust at the tactics used."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The trade war is a source of anger and frustration."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "There is significant anticipation about the future of the trade war."
+        }
+      }
+    },
+    {
+      "topic": "Chinese Manufacturers Bypassing Tariffs",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "The topic focuses on the actions of Chinese manufacturers trying to bypass tariffs. The sentiment is slightly negative due to the potential for counterfeit goods and circumvention of trade regulations."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No element of joy is present."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is little trust in their claims."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There is some fear about the quality and authenticity of the goods."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Their direct marketing approach is surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is little sadness associated with this topic."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "There is some disgust at the potential for counterfeit goods."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Their actions may be seen as unfair competition, leading to anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "There is anticipation about the impact of their actions on the market."
+        }
+      }
+    },
+    {
+      "topic": "Consumers Buying Directly from Manufacturers",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "This topic is about consumers potentially buying counterfeit or unverified goods. The sentiment is negative due to the risk of fraud and poor quality."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No element of joy is present."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no trust in the authenticity of the goods."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "There is fear of being scammed or receiving poor-quality products."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The availability of these goods may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "There is sadness at the potential loss of money and disappointment."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The potential for counterfeit goods is disgusting."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "There is anger at being potentially deceived."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "There is anticipation about the quality and authenticity of the goods."
+        }
+      }
+    },
+    {
+      "topic": "Lululemon's Denial of Factory Claims",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 80,
+        "reasoning": "Lululemon's denial is a direct response to claims made in the videos. This denial aims to reassure customers, so the sentiment is slightly positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is a small element of joy in reassuring customers."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The denial aims to build trust in the brand."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The denial aims to reduce fear about the authenticity of the products."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The denial may be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is little sadness associated with this topic."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The denial aims to distance the brand from potentially disgusting practices."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The denial may be a response to anger at the false claims."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "There is anticipation about the impact of the denial on consumer confidence."
+        }
+      }
+    },
+    {
+      "topic": "Environmental Impact of Direct Purchasing",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "The environmental impact is presented as negative. The article uses phrases like 'environmental disaster' and mentions 'massive carbon footprint.'"
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No element of joy is present."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no trust in the sustainability of the practices."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "There is fear about the long-term consequences of environmental damage."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The extent of the environmental impact may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "There is sadness about the environmental damage."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The environmentally damaging practices are disgusting."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "There is anger at the companies and consumers who contribute to the problem."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "There is anticipation about the future consequences of environmental damage."
+        }
+      }
+    }
+  ]
+}

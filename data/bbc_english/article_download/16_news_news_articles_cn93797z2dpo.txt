@@ -1,0 +1,82 @@
+###FORMAT:
+Title: Nasa needs saving from itself – but is this billionaire right for that job?
+URL: https://www.bbc.com/news/articles/cn93797z2dpo
+Scraped Date: 2025-04-20 12:52:27
+Published Date: 2025-02-02
+
+--- Text ---
+Nasa needs saving from itself – but is this billionaire right for that job?
+Billionaire businessman Jared Isaacman has a big vision for the future of humanity.
+He set off on his first mission to space in 2021 – a private journey he paid an estimated $200m (£160m) for – and announced that he wanted space travel to be for the masses, not only for the 600 who have experienced it to date – most of them professional astronauts employed by Nasa and the wealthy.
+"We want it to be 600,000," he told reporters.
+Later, he added: "I drank the Kool-Aid in terms of the grand ambitions for humankind being a multi-planet species… I think that we all want to live in a Star Wars, Star Trek world where people are jumping in their spacecraft."
+Mr Isaacman, who made much of his $1.9bn (£1.46bn) fortune from a payment processing company that he founded in 1999 aged 16, is said to have bankrolled the rest of the crew of four aboard the SpaceX craft in the 2021 mission, fuelled by a longstanding love of flying and fascination with space.
+Since then, there have been more adventures: last year he demonstrated Captain Kirk-like daring by travelling in an upgraded SpaceX capsule and performing the first commercial spacewalk.
+During the mission, he tested an experimental spacesuit and a new cost-saving protocol to exit and re-enter the spacecraft without using an airlock.
+The photograph of Mr Isaacman, silhouetted with the world at his feet, is now iconic – it demonstrated that this was not a playboy billionaire paying to act out Star Trek, but someone pushing the envelope of what was possible with current technology.
+And yet it is a more recent achievement that has drawn greater attention still – being nominated by Donald Trump in December to be the new head of Nasa.
+The question is why Trump chose him and what has he asked him to do – especially in the context that the President has appointed SpaceX owner Elon Musk to a government role to cut $2 trillion (£1.6 trillion) off the Federal budget.
+The Nasa post is a presidential appointment, though it requires the confirmation of the US Senate. And if confirmed, Mr Isaacman's appointment will also raise broader questions about the future of humanity in space, given his vision for space travel for the masses. It also has significant implications for the future of the space agency, if Mr Isaacman's role leads to Nasa using the private sector even more than it does now.
+Brink of a second space age?
+In the past, the heads of Nasa have come from a variety of backgrounds: some, such as the previous incumbent Bill Nelson, have been former astronauts; others, such as Michael Griffin (in charge from 2005 to 2009) came from a government background, and before him Dan Goldin was an entrepreneur, striving to lower costs.
+Despite their disparate backgrounds, those who have led Nasa have all been company people, charged with defending the space agency and its values.
+And yet Mr Isaacman, along with Mr Musk and Amazon's Jeff Bezos, is among a new wave of billionaires who have been challenging the old order in space.
+They have accelerated the pace of innovation and are aiming to dramatically reduce the cost of human space travel.
+On the day of his nomination in December, Mr Isaacman posted a statement on X that gave an early glimpse into his vision. "This second space age has only just begun," he wrote.
+"There will inevitably be a thriving space economy – one that will create opportunities for countless people to live and work in space… At Nasa, we will… usher in an era where humanity becomes a true spacefaring civilisation."
+Many presidents have talked about sending astronauts to the Moon since the end of the Apollo lunar landings of the 1960s and 70s, but Trump was the first to turn talk into action, authorising Nasa's Artemis programme to send humans back to the Moon during his first term. His record suggests that he is a big Nasa fan.
+But since then, two factors are likely to have changed his thinking: Nasa's rocket, the Space Launch System (SLS), has been delayed and costs have spiralled; at the same time Mr Musk's SpaceX and Bezos's Blue Origin are developing reusable low-cost Moon rockets.
+That is a worrying backdrop for Nasa, according to Courtney Stadd of New York-based Beyond Earth Institute think tank.
+"You have a government looking to slash," he said at a webinar hosted by Space News. "If you are the new administrator, you are going in in that context, so you are going to have to look at everything that is a drain on your budget…
+"This next two years is going to be the equivalent of a tsunami and everything is on the table."
+Future of Nasa's moon rocket
+One of the biggest questions is what to do with the space agency's SLS Moon rocket. In 2021, Nasa's Office of Inspector General (OIG), which provides oversight of the space agency for Congress, reported that the cost was $4.1bn (£3.3bn) for each and every launch.
+By contrast, SpaceX's equivalent rocket system, Starship, is estimated to cost around $100m (£80m) per launch – and Musk has said he aims to bring the costs down further to $10m (£8m) as he develops his system.
+Bezos's new Moon rocket, New Glenn, had its maiden test launch at the beginning of January. Blue Origin has not announced its cost per launch, but it is estimated currently to be around $68m (£54.5m).
+Competition between the two billionaires is likely to speed up innovation and reduce costs further.
+Starship and New Glenn are projected to be cheaper because, unlike SLS, they are designed to be reusable. But "that's only a part of the reason for the disparity in costs", according to Dr Adam Baker, an expert on the space industry at Cranfield University.
+"SpaceX is given a sum of money and contracted to deliver on time and on budget," he continues. "They are driven by profit, and they want to minimise costs.
+"A Nasa programme is not driven by profit; it is driven by the programme objectives and so those in charge don't think they need to track costs in the same way.
+"There is a general acceptance that SLS has no future."
+Questions around spiralling costs
+The OIG could only come up with a best guess for the full cost of the Artemis programme in its review for Congress because, as it put it: "Nasa lacks a comprehensive and accurate cost estimate that accounts for all programme costs.
+"Instead, the Agency's plan presents a rough estimate that excludes $25bn (£20bn) for key activities".
+Nasa's project management of SLS is not an aberration – some would say it is typical. For example, the James Webb Space Telescope was given a $1bn (£800m) budget and a launch date of 2010 – but it cost ten times that amount and launched in 2021, earning it the nickname of "the telescope that ate astronomy".
+(Other important scientific programmes had to be scaled back, delayed or scrapped entirely to make way for the overruns.)
+It was a similar story of delays and budget overruns during the development of the Space Shuttle in the 1970s and the construction of the International Space Station in the 2000s.
+Nasa got away with it because it was responsible for arguably America's greatest moment when it sent the first astronauts to the Moon. The Apollo programme laid the foundations for America's technology businesses and ushered in a vibrant new era for the US.
+But the world has changed significantly since then, and Nasa has simply not kept up, according to Emeritus Prof John Logsdon, former director of the Space policy Institute at George Washington University. "Changing the way the United States goes about its civilian space programme is long overdue."
+New light on the 'old way of doing things'
+The current model is to give so-called "cost-plus" contracts to big heritage aerospace companies, such as Lockheed Martin and Boeing, which guarantee to pay the development costs and an agreed profit.
+The model gave the firms the financial reassurance they needed for ambitious projects such as the space shuttle, the SLS, and developing parts of the Saturn V rocket that took Apollo astronauts to the Moon, but these contracts provided no incentives to cut costs or increase efficiency. For example, there were no penalties for delays or cost overruns.
+Dr Simeon Barber at the Open University, who has worked with Nasa on robotic space missions, was originally sceptical that the new commercial companies would deliver. But he is now a convert to the new way of doing things.
+"We were used to big projects falling behind schedule and going over budget. But the new companies have shone a light on the old way of doing things."
+Moves to change what some saw as an overly cosy relationship with the heritage space companies gained pace in 2009 when President Obama introduced fixed-price contracts to some private sector firms. The companies were given latitude to innovate to cut costs and increase their profits provided they delivered on schedule and on budget.
+Among those firms was the dynamic new start-up, SpaceX, which was awarded a contract to develop its reusable Falcon rockets and Dragon Space capsule to resupply the International Space Station with crew and cargo.
+The heritage space company Boeing was also given a similar contract in 2014 to develop its Starliner capsule to do the same job.
+SpaceX, with its riskier but faster development processes, began delivering to the ISS within four years of receiving its contract. By contrast, Boeing's Starliner, which had a series of delays due to technical problems and cost overruns, took 10 years – only to have more issues with some of its engines, which left astronauts Butch Wilmore and Suni Williams stranded on the space station.
+The ultimate humiliation is that they will be brought back to Earth by rival SpaceX's Dragon capsule.
+"Starliner is an embarrassment for the traditional way of doing business," says Prof Logsdon. "So, shaking up the system is very positive."
+On the brink of a big shakeup?
+Prof Logsdon expects big changes under Trump, Mr Musk and Mr Isaacman: scrapping programmes, closing Nasa centres and more contracting out to SpaceX, Blue Origin and other private sector firms. Mr Isaacman has called the SLS "outrageously expensive" and said that the major aerospace contractors are "incentivised to be economically inefficient".
+But changes like that are not going to be easy. Nasa's budget is controlled by Congress. Although President Trump's party controls both legislative houses, individual senators and congressmen on the committees that oversee Nasa are from states with jobs and industries dependent on Nasa's $25bn (£20bn) annual budget.
+"Party discipline takes second place where there is constituency money involved," says Prof Logsdon, a seasoned watcher of the horse trading that goes on with space politics in Congress.
+Although Nasa's projects have been expensive, they have shown us the wonders of the universe and shifted humanity's perception of ourselves and our place in the cosmos.
+The creation of the first reusable space shuttle, the construction of an orbiting space station, the images of distant worlds captured by its robotic spacecraft and the awe-inspiring photos from Hubble have all inspired generations and supercharged interest in science. As a result, senators and congressmen know that America and the world owe Nasa an unpayable debt.
+"The old way of doing things gave us a lot of success, so you don't want to throw the baby out with the bathwater. There will be significant change, but not the radical change that Mr Musk and Mr Isaacman want to see," argues Prof Logsdon.
+"There is a delicate balance between the interests of Nasa, Congress and the White House."
+Where that balance will fall will emerge in the coming months: some are speculating that the return-to-the-Moon programme might be scrapped altogether in favour of going straight to Mars, as President Trump alluded to during his inauguration, with the greatest proponent of that policy – Musk – seated nearby.
+Others fear cuts in Nasa's Earth Observation programmes, which monitor and model environmental changes from space, and include the impact of climate change; and some worry that the robotic scientific missions to other planets might be cut back to boost efforts for the human spaceflight programme.
+Where SpaceX fits in
+There is concern in some quarters about the close relationship between Mr Isaacman and Mr Musk. Mr Isaacman paid SpaceX for his two ventures into space. The company has already received $20bn (£16bn) in contracts from government since 2008.
+But if SLS is scrapped, and SpaceX were to receive the lion's share of Nasa's Moon programme work, Mr Musk's firm stands to receive contracts that might be ten or even a hundred times greater, possibly at the expense of other private-sector players.
+And there are many innovative US start-up companies hoping to build parts for spacecraft and infrastructure in Nasa's return-to-the-Moon programme, including Texas-based Firefly, which has a spacecraft on its way to land on the Moon in March.
+But industry analysts say that the US government has a long tradition of breaking up monopolies so that they don't stifle innovation. And in any case, just because Mr Isaacman has worked with Mr Musk, it does not mean that any outcome is inevitable, argues Prof Logsdon.
+"Isaacman is his own man," he adds. "He is not a disciple of Elon Musk."
+Ultimately, however, it has become painfully clear, even to Nasa's most ardent supporters, that it needs saving from itself. And the need for Nasa reform is not a partisan issue – Democrat and Republican presidents alike have set the wheels in motion.
+But the coincidental timing of the success of SpaceX, Blue Origin and other private-sector space firms with a new administration impatient to cut costs and energise the private sector means that Mr Isaacman has a unique opportunity to make some of the biggest changes to Nasa since its inception.
+"Nasa truly is a crown jewel, and we aren't doing what we should be doing on behalf of the American people," argued former deputy head of Nasa Lori Garver during the Space News webinar. "That is frustrating for all of us."
+Asked if a private sector billionaire was the right person to be entrusted with one of America's greatest national treasures, Ms Garver responded: "Jared is a patriot, and he is doing this for public service.
+"The truth of Jared agreeing has something to do with him willing to take on these hard things – and there are so many hard things".
+Top image credit: Getty
+BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. And we showcase thought-provoking content from across BBC Sounds and iPlayer too. You can send us your feedback on the InDepth section by clicking on the button below.

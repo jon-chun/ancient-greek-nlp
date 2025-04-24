@@ -1,0 +1,409 @@
+{
+  "article_metadata": {
+    "title_en": "Worst Drop in Years: Financial Market Turmoil Begins Trading After Tariffs, Trump Comments: \"It's the Medicine\"",
+    "text_summary_en": "Global financial markets experienced one of the worst drops since the coronavirus pandemic, triggered by US President Donald Trump's announcement of widespread tariffs on imports from dozens of countries, which he described as necessary \"medicine\" to address financial imbalances. Asian markets opened sharply lower, with significant losses in Hong Kong, Taiwan, and Japan. The tariffs, set at 10% for many countries and higher for specific ones, prompted retaliatory measures from China, including tariffs and export restrictions. Goldman Sachs predicted a slowdown in China's GDP growth due to the tariffs. Other countries, including New Zealand, India, and Saudi Arabia, also experienced market declines. The US Federal Reserve was expected to potentially cut interest rates to mitigate recession risks. Billionaire Bill Ackman criticized the tariffs, while Peter Navarro tried to reassure markets. Numerous countries sought negotiations with the US. Israel, Taiwan, India, and Italy responded with various strategies. The UK Prime Minister warned of the end of the existing trade system. Russia was notably excluded from the tariffs, possibly due to ongoing negotiations regarding Ukraine.",
+    "original_filename": "20_bbc-economic_20250420-060116.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Global Economic Downturn",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The article predominantly discusses negative economic consequences (market drops, trade wars, recession risks). The overall tone is negative due to the description of 'worst drops,' 'sharp declines,' and warnings of economic damage."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The article describes negative events and economic downturn, so joy is not present."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Trust in the economic system and stability is undermined by the events described."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The descriptions of market crashes and recession risks evoke strong fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The sudden implementation of tariffs and the scale of market reactions are surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "The potential economic losses, job losses, and overall downturn contribute to sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "Disgust may be felt towards the policies causing economic harm."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "The trade war and retaliatory measures evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The uncertainty about future economic developments and potential responses creates anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Donald Trump",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "Donald Trump is portrayed as the initiator of the tariffs, which are causing market disruption. His statement that the tariffs are 'the medicine' is controversial and suggests a potentially negative impact."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Some of Trump's supporters might see his actions as positive, leading to a small amount of joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some might trust his judgment, but the overall impact is questionable."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "His policies cause fear and uncertainty in the markets."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "The sudden implementation of tariffs is surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The negative economic consequences could lead to sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Some might feel disgust towards his policies."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "His actions evoke anger in many."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "His policies create anticipation about future economic developments."
+        }
+      }
+    },
+    {
+      "topic": "US Tariffs",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The tariffs are the central cause of the negative economic events described in the article. They are viewed as disruptive and harmful to global trade."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The tariffs have no positive aspects in the context of the article."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The tariffs undermine trust in the global trade system."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The tariffs cause fear due to their potential economic consequences."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "The sudden implementation of tariffs is surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The tariffs lead to sadness due to potential economic losses."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Many may feel disgust towards the tariffs."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The tariffs evoke anger due to their disruptive nature."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The tariffs create anticipation about future economic developments."
+        }
+      }
+    },
+    {
+      "topic": "China's Retaliatory Measures",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "China's response is portrayed as defensive and retaliatory. While intended to protect its interests, it contributes to the overall negative economic climate."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The response is not intended to bring joy, but to mitigate harm."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The response may undermine trust in international relations."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "The response causes fear due to potential escalation."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The specific measures taken might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The response contributes to the overall negative economic climate."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Some may feel disgust towards the retaliatory measures."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "The response is driven by anger and resentment."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The response creates anticipation about further escalation."
+        }
+      }
+    },
+    {
+      "topic": "Asian Market Downturn",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The article describes significant market downturns across Asia. The overall sentiment is negative due to the description of 'تراجع حاد غير مسبوق' (unprecedented sharp decline) and significant percentage losses."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Market crashes do not evoke joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Market crashes undermine trust in the financial system."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Market crashes evoke strong fear."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "The sudden and significant declines are surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Economic losses contribute to sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Some may feel disgust towards the factors causing the crashes."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Some may feel anger towards the policies causing the crashes."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "The crashes create anticipation about future market developments."
+        }
+      }
+    },
+    {
+      "topic": "Potential Federal Reserve Rate Cut",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 80,
+        "reasoning": "The article mentions the Federal Reserve potentially cutting interest rates to mitigate recession risks. This action is seen as a response to negative economic pressures."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "A potential rate cut could bring some relief, leading to a small amount of joy."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The action might inspire some trust in the central bank's ability to manage the economy."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "The need for a rate cut suggests underlying economic problems, causing fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "The timing of the rate cut could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The situation leading to the rate cut is concerning."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Some might be disgusted by the economic situation necessitating the cut."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some might be angry about the policies that led to the situation."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The potential rate cut creates anticipation about its impact."
+        }
+      }
+    },
+    {
+      "topic": "Bill Ackman's Criticism",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "Bill Ackman's criticism is negative and reflects a loss of confidence in the administration."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Criticism does not evoke joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "His criticism reflects a lack of trust."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "His warning about an 'economic winter' evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "The strength of his criticism might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "His criticism reflects a concerning economic situation."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "He might feel disgust towards the policies."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "His criticism is driven by anger and frustration."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "His warning creates anticipation about future economic developments."
+        }
+      }
+    },
+    {
+      "topic": "Russia's Exclusion from Tariffs",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 70,
+        "reasoning": "The article notes Russia was excluded from the tariffs. The sentiment is neutral because the reasons for this exclusion are speculative ('مفاوضات جارية مع موسكو بشأن ملف أوكرانيا' - ongoing negotiations with Moscow regarding the Ukraine file)."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The exclusion itself does not evoke joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The reasons for the exclusion are unclear, affecting trust."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The situation might evoke some fear due to the geopolitical context."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The exclusion is somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The geopolitical context might evoke some sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some might feel disgust towards the reasons for the exclusion."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Some might be angry about the situation."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The exclusion creates anticipation about future developments in the Russia-Ukraine situation."
+        }
+      }
+    }
+  ]
+}

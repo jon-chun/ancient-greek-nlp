@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOHmQhGmAOtW9kHG49vKxmrHwY7Ba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nSaudi Arabia Arrests Three for Fraudulent Hajj Campaigns\n\n### English Text Summary:\nThe Saudi General Security announced the arrest of three individuals for violating border security laws and a Yemeni resident in Mecca for committing fraud by promoting fake Hajj campaigns. These campaigns misled people through social media by offering housing and transportation for pilgrims. The authorities shared a video of the suspects after their arrest and urged citizens and residents to adhere to Hajj regulations and report any violations. The arrested individuals have been detained, and legal actions are being taken against them.\n\n---\n\n### Topics Analysis:\n\n1. **Fraudulent Hajj Campaigns**\n   - **Sentiment Polarity Analysis:**\n     - Explanation/Justification: The sentiment is negative due to the nature of the crime involving deception and exploitation of pilgrims. Phrases like \"عمليات نصب واحتيال\" (fraudulent operations) indicate wrongdoing.\n     - Polarity Score: -0.8\n     - Confidence: 90\n\n   - **Emotional Weights Analysis:**\n     - Justification: The text conveys a sense of wrongdoing and concern for the victims of the fraud.\n     - Emotion Dictionary:\n       - Joy: { \"weight\": 0.0, \"confidence\": 99 }\n       - Trust: { \"weight\": 0.1, \"confidence\": 80 }\n       - Fear: { \"weight\": 0.6, \"confidence\": 85 }\n       - Surprise: { \"weight\": 0.3, \"confidence\": 75 }\n       - Sadness: { \"weight\": 0.5, \"confidence\": 80 }\n       - Disgust: { \"weight\": 0.7, \"confidence\": 90 }\n       - Anger: { \"weight\": 0.8, \"confidence\": 85 }\n       - Anticipation: { \"weight\": 0.4, \"confidence\": 70 }\n\n2. **Arrest of Suspects**\n   - **Sentiment Polarity Analysis:**\n     - Explanation/Justification: The sentiment is somewhat positive as it reflects law enforcement's action against crime. The phrase \"قبضت دوريات الأمن\" (security patrols arrested) suggests a proactive response.\n     - Polarity Score: 0.6\n     - Confidence: 85\n\n   - **Emotional Weights Analysis:**\n     - Justification: The arrest signifies a sense of justice being served, which can evoke positive emotions.\n     - Emotion Dictionary:\n       - Joy: { \"weight\": 0.5, \"confidence\": 80 }\n       - Trust: { \"weight\": 0.6, \"confidence\": 75 }\n       - Fear: { \"weight\": 0.2, \"confidence\": 70 }\n       - Surprise: { \"weight\": 0.3, \"confidence\": 60 }\n       - Sadness: { \"weight\": 0.1, \"confidence\": 90 }\n       - Disgust: { \"weight\": 0.0, \"confidence\": 99 }\n       - Anger: { \"weight\": 0.2, \"confidence\": 80 }\n       - Anticipation: { \"weight\": 0.5, \"confidence\": 75 }\n\n3. **Public Awareness and Compliance**\n   - **Sentiment Polarity Analysis:**\n     - Explanation/Justification: The sentiment is positive as it encourages compliance with laws and regulations. The call to action for citizens to report violations is constructive.\n     - Polarity Score: 0.7\n     - Confidence: 80\n\n   - **Emotional Weights Analysis:**\n     - Justification: The emphasis on public responsibility and adherence to regulations fosters a sense of community and vigilance.\n     - Emotion Dictionary:\n       - Joy: { \"weight\": 0.4, \"confidence\": 70 }\n       - Trust: { \"weight\": 0.7, \"confidence\": 80 }\n       - Fear: { \"weight\": 0.2, \"confidence\": 75 }\n       - Surprise: { \"weight\": 0.1, \"confidence\": 90 }\n       - Sadness: { \"weight\": 0.0, \"confidence\": 99 }\n       - Disgust: { \"weight\": 0.0, \"confidence\": 99 }\n       - Anger: { \"weight\": 0.1, \"confidence\": 85 }\n       - Anticipation: { \"weight\": 0.6, \"confidence\": 75 }\n\nFinal Results for JSON Extraction:\n[\n  {\n    \"topic\": \"Fraudulent Hajj Campaigns\",\n    \"sentiment_polarity\": { \"score\": -0.8, \"confidence\": 90 },\n    \"emotions\": {\n      \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n      \"Trust\": { \"weight\": 0.1, \"confidence\": 80 },\n      \"Fear\": { \"weight\": 0.6, \"confidence\": 85 },\n      \"Surprise\": { \"weight\": 0.3, \"confidence\": 75 },\n      \"Sadness\": { \"weight\": 0.5, \"confidence\": 80 },\n      \"Disgust\": { \"weight\": 0.7, \"confidence\": 90 },\n      \"Anger\": { \"weight\": 0.8, \"confidence\": 85 },\n      \"Anticipation\": { \"weight\": 0.4, \"confidence\": 70 }\n    }\n  },\n  {\n    \"topic\": \"Arrest of Suspects\",\n    \"sentiment_polarity\": { \"score\": 0.6, \"confidence\": 85 },\n    \"emotions\": {\n      \"Joy\": { \"weight\": 0.5, \"confidence\": 80 },\n      \"Trust\": { \"weight\": 0.6, \"confidence\": 75 },\n      \"Fear\": { \"weight\": 0.2, \"confidence\": 70 },\n      \"Surprise\": { \"weight\": 0.3, \"confidence\": 60 },\n      \"Sadness\": { \"weight\": 0.1, \"confidence\": 90 },\n      \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n      \"Anger\": { \"weight\": 0.2, \"confidence\": 80 },\n      \"Anticipation\": { \"weight\": 0.5, \"confidence\": 75 }\n    }\n  },\n  {\n    \"topic\": \"Public Awareness and Compliance\",\n    \"sentiment_polarity\": { \"score\": 0.7, \"confidence\": 80 },\n    \"emotions\": {\n      \"Joy\": { \"weight\": 0.4, \"confidence\": 70 },\n      \"Trust\": { \"weight\": 0.7, \"confidence\": 80 },\n      \"Fear\": { \"weight\": 0.2, \"confidence\": 75 },\n      \"Surprise\": { \"weight\": 0.1, \"confidence\": 90 },\n      \"Sadness\": { \"weight\": 0.0, \"confidence\": 99 },\n      \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n      \"Anger\": { \"weight\": 0.1, \"confidence\": 85 },\n      \"Anticipation\": { \"weight\": 0.6, \"confidence\": 75 }\n    }\n  }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745127918,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1553,
+    "prompt_tokens": 1201,
+    "total_tokens": 2754,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

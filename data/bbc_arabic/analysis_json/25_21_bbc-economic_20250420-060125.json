@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Why Does the Home Cleaning Routine Attract Social Media Audiences?",
+    "text_summary_en": "The article explores the trend of sharing home cleaning routines on social media platforms like TikTok and Instagram. It features influencers like Caris Harding, Emily Jones, and Ro Day, who have gained significant followings by posting videos of their daily cleaning tasks. The article discusses the motivations behind this trend, including the desire to share helpful tips, connect with other mothers, and even earn income. While acknowledging the potential for viewers to feel inadequate, the influencers emphasize the importance of realism and using the content for motivation rather than comparison. The article also touches on the changing gender dynamics in the cleaning content space, with more men joining the trend. Experts suggest that the popularity of these videos stems from a desire for self-improvement and the satisfying feeling of accomplishment.",
+    "original_filename": "21_bbc-economic_20250420-060125.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Caris Harding",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "Caris is presented as a relatable mother who shares her cleaning routine to help others. The tone is generally positive and encouraging."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Her enjoyment of sharing helpful content and connecting with others."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Her emphasis on realism and not wanting others to feel inadequate inspires trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "A small amount of fear related to potential negative comparisons by viewers."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Her surprise at the popularity of her cleaning videos."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal sadness, perhaps related to the challenges of motherhood."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No indication of disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No indication of anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of helping other mothers and improving their lives."
+        }
+      }
+    },
+    {
+      "topic": "Emily Jones",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 85,
+        "reasoning": "Emily is portrayed as a realistic and transparent influencer who offers time-saving tips for cleaning. The article uses phrases like \"صادقة و 'شفافة مئة بالمئة'\" which conveys a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Satisfaction from providing helpful advice."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 80,
+          "reasoning": "Emphasis on honesty and transparency."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 65,
+          "reasoning": "Slight concern about unrealistic expectations."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Possible surprise at her own success."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No indication of disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No indication of anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Anticipation of helping others manage their time and homes."
+        }
+      }
+    },
+    {
+      "topic": "Ro Day",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 80,
+        "reasoning": "Ro Day is presented as a popular influencer who focuses on efficient cleaning methods. The article mentions \"ساعة تنظيف على السريع\" suggesting a focus on speed and efficiency, which is generally viewed positively."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Satisfaction from efficient cleaning."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Her focus on efficiency and inclusivity."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Possible surprise at the changing demographics of cleaning content creators."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 85,
+          "reasoning": "No indication of disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 85,
+          "reasoning": "No indication of anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 65,
+          "reasoning": "Anticipation of further changes in the cleaning content space."
+        }
+      }
+    },
+    {
+      "topic": "Social Media Cleaning Trend",
+      "sentiment_polarity": {
+        "score": 0.5,
+        "confidence": 75,
+        "reasoning": "The article explores the popularity of cleaning routines on social media. While acknowledging potential downsides like unrealistic expectations, the overall tone is neutral to slightly positive, focusing on the motivations and benefits for both creators and viewers."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "The satisfaction viewers get from watching cleaning videos."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The potential for helpful tips and relatable content."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "Fear of unrealistic expectations and negative comparisons."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The unexpected popularity of the trend."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "Possible sadness related to feeling inadequate."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No indication of disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No indication of anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 60,
+          "reasoning": "Anticipation of continued growth and evolution of the trend."
+        }
+      }
+    },
+    {
+      "topic": "Gender Dynamics in Cleaning",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 70,
+        "reasoning": "The article discusses the traditional association of cleaning with women and the increasing presence of men in the cleaning content space. Ro Day's comments suggest a desire for greater inclusivity and a rejection of gender stereotypes."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The positive feeling of inclusivity and breaking stereotypes."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 65,
+          "reasoning": "Trust in a more equitable future."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "Surprise at the changing demographics."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 45,
+          "reasoning": "Possible sadness related to past inequalities."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 75,
+          "reasoning": "No indication of disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Possible anger related to past inequalities."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 60,
+          "reasoning": "Anticipation of further progress towards gender equality in cleaning."
+        }
+      }
+    }
+  ]
+}

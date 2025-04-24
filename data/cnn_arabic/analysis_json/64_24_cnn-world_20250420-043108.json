@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "Trump's First Comment on the Bloody Russian Attack on the City of Sumy in Ukraine",
+    "text_summary_en": "Former President Donald Trump commented on the Russian attack on Sumy, Ukraine, which resulted in at least 34 deaths. Trump stated he was told Russia \"made a mistake\" and described the attack as \"horrific\" and the war as a \"disgrace.\" He reiterated his claim that the war wouldn't have started if he were president and blamed President Biden for the conflict. The attack involved Russian missiles striking civilians gathered for prayers at a church in Sumy. Trump also mentioned meeting with his special envoy, Steve Witkoff, who recently met with Vladimir Putin and Iranian officials. He indicated that discussions regarding Iran are ongoing and a decision will be made soon.",
+    "original_filename": "24_cnn-world_20250420-043108.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Russian Attack on Sumy",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The attack is described as 'bloody' and 'horrific,' resulting in numerous deaths and injuries, indicating a strong negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "The event is tragic and evokes no joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "The attack undermines trust."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The attack is violent and causes fear."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The sudden attack is surprising."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The loss of life is deeply saddening."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The violence of the attack is disgusting."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The attack is likely to provoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There is some anticipation of further conflict."
+        }
+      }
+    },
+    {
+      "topic": "Trump's Reaction to the Attack",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "Trump expresses negative feelings about the attack ('horrific,' 'disgrace') but also uses the opportunity to criticize Biden, resulting in a slightly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal joy, perhaps a slight satisfaction from criticizing Biden."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some trust in his own ability to handle the situation."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Concern about the situation."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Possible surprise at the scale of the attack."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Expresses sadness about the event."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Disgust at the violence."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger towards those responsible and Biden."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of further political developments."
+        }
+      }
+    },
+    {
+      "topic": "Trump blaming Biden for the war",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "This is a negative statement aimed at President Biden, shifting blame for the war."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No joy associated with this."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Lack of trust in Biden."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fear for the consequences of Biden's actions."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness at the current situation."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Disgust at Biden's actions (or inaction)."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Strong anger towards Biden."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation of political fallout."
+        }
+      }
+    },
+    {
+      "topic": "Steve Witkoff's Meetings",
+      "sentiment_polarity": {
+        "score": 0.5,
+        "confidence": 70,
+        "reasoning": "The meetings are described as 'good,' suggesting a positive sentiment, though details are limited."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Potential for positive outcomes."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trust in Witkoff's ability."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some underlying fear about the situation."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Possible surprise at the developments."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Strong anticipation of future developments."
+        }
+      }
+    }
+  ]
+}

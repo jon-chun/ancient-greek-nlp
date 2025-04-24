@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "DHL Suspends High Value US Deliveries Over Tariffs",
+    "text_summary_en": "DHL Express is halting deliveries to the US for shipments exceeding $800 due to increased customs red tape following the introduction of new tariffs by Donald Trump. This suspension, effective Monday, applies to shipments from companies to American consumers, while business-to-business shipments may face delays. The change stems from tighter customs checks and a lowered threshold, causing a surge in formal customs clearances. The White House plans to further clamp down on deliveries under $800, particularly from China and Hong Kong, by removing the \"de minimis\" rule on May 2, impacting companies like Shein and Temu, who anticipate price increases. The Trump administration claims the measures target illicit substances concealed in shipments from China, addressing the synthetic opioid crisis. In response, Hongkong Post is suspending sea shipments to the US and halting parcel acceptance from April 27, criticizing the US for \"unreasonable, bullying and imposing tariffs abusively.\"",
+    "original_filename": "1_news_news_articles_c1jx9ep5l63o.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "DHL's Suspension of High Value US Deliveries",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 95,
+        "reasoning": "The suspension is a negative business development, indicating disruptions and increased costs."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The suspension is unlikely to evoke joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The action might erode trust in DHL's reliability."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Businesses reliant on DHL might fear disruptions."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "The suddenness of the suspension might cause surprise."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "The impact on businesses could lead to sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Unlikely to evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Businesses affected may feel anger towards DHL or the tariffs."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Businesses will anticipate the duration and impact of the suspension."
+        }
+      }
+    },
+    {
+      "topic": "Trump's New Tariff Regime",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The tariff regime is presented as causing 'red tape' and disruptions, suggesting a negative impact."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Unlikely to evoke joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The policy might erode trust in international trade relations."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Businesses might fear the economic consequences."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The introduction of new tariffs might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The economic impact could lead to sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Some might find the policy distasteful."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The policy is likely to evoke anger from affected businesses and countries."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Businesses will anticipate further changes and impacts."
+        }
+      }
+    },
+    {
+      "topic": "Impact on Shein and Temu",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 90,
+        "reasoning": "The article states that Shein and Temu 'warned that they will increase prices,' indicating a negative impact on consumers and potentially on their business."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Unlikely to evoke joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The price increases might erode consumer trust."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Consumers might fear further price increases."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The price increases might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Consumers might be saddened by the increased costs."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Unlikely to evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Consumers might be angry about the price increases."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Consumers will anticipate further price changes."
+        }
+      }
+    },
+    {
+      "topic": "White House's Claim about Illicit Substances",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "The claim is accusatory and suggests a negative situation involving illicit activities."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Unlikely to evoke joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The claim might erode trust in international trade."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The claim could incite fear about illicit substances."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The claim might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The situation is inherently sad."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The claim is likely to evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The claim is likely to evoke anger from those accused."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The claim suggests further actions will be taken."
+        }
+      }
+    },
+    {
+      "topic": "Hongkong Post's Suspension and Criticism",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The suspension and criticism are negative developments, indicating strained relations and disruptions."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Unlikely to evoke joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 50,
+          "reasoning": "The criticism erodes trust in international relations."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The situation could escalate tensions."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The strong criticism might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The strained relations are inherently sad."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The criticism might evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The criticism is clearly an expression of anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The situation suggests further actions will be taken."
+        }
+      }
+    }
+  ]
+}

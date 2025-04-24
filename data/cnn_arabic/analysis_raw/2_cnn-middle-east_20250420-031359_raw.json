@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOHrbRcYrDIyfONIGrhy0lZzqNja5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nIsraeli Prime Minister Netanyahu vows to continue war in Gaza despite growing opposition\n\n### English Text Summary:\nIsraeli Prime Minister Benjamin Netanyahu pledged to persist in the military campaign in Gaza, emphasizing the necessity of fighting for Israel's existence and the elimination of Hamas. He cited Hamas's rejection of a ceasefire proposal as justification for ongoing attacks. Netanyahu's statements come amid increasing protests and calls from Israeli reservists and veterans for a ceasefire to secure the release of hostages. Recent polls indicate that a significant majority of Israelis support a deal for the hostages, even if it means ending the war. The article also mentions Netanyahu's commitment to preventing Iran from acquiring nuclear weapons and highlights criticism from opposition leaders regarding the government's handling of the hostage situation.\n\n[\n    {\n        \"topic\": \"Benjamin Netanyahu\",\n        \"sentiment_polarity\": { \"score\": 0.2, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.4, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Anger\": { \"weight\": 0.5, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Hamas\",\n        \"sentiment_polarity\": { \"score\": -0.6, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 80 },\n            \"Sadness\": { \"weight\": 0.4, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Anger\": { \"weight\": 0.8, \"confidence\": 95 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Iran\",\n        \"sentiment_polarity\": { \"score\": -0.4, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.3, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 90 },\n            \"Anger\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Israeli Military Campaign\",\n        \"sentiment_polarity\": { \"score\": -0.5, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 80 },\n            \"Sadness\": { \"weight\": 0.5, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.6, \"confidence\": 90 },\n            \"Anger\": { \"weight\": 0.8, \"confidence\": 95 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Hostage Situation\",\n        \"sentiment_polarity\": { \"score\": -0.3, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 80 },\n            \"Sadness\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.4, \"confidence\": 90 },\n            \"Anger\": { \"weight\": 0.5, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.7, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Public Opinion in Israel\",\n        \"sentiment_polarity\": { \"score\": 0.4, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Trust\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.3, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Anger\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 75 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745128239,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1365,
+    "prompt_tokens": 1910,
+    "total_tokens": 3275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

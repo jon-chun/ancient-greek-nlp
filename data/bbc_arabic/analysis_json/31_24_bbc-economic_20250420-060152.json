@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "What are Trump's Real Goals Behind Imposing Tariffs? - Washington Post",
+    "text_summary_en": "The article discusses the global reaction to the tariffs imposed by former US President Donald Trump and the potential for a trade war. The Washington Post attempts to understand the reasons behind the decision, finding the justifications \"weak.\" The article highlights the impact of these tariffs on various countries, including African nations like Lesotho, which relies heavily on exports to the US. It also mentions the effect on Russia, whose stock market suffered losses despite being excluded from the tariffs. The article suggests that the tariffs could push African countries towards greater dependence on China and that Russia might face financial difficulties due to falling oil prices. Overall, the article conveys a sense of concern and uncertainty regarding the economic consequences of Trump's trade policies.",
+    "original_filename": "24_bbc-economic_20250420-060152.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Donald Trump's Tariffs",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is negative due to concerns about a trade war and the description of Trump's justifications as 'weak' ('واهية'). The article highlights negative consequences for various countries."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is expressed regarding the tariffs."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There is little trust in the motivations or effectiveness of the tariffs."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Significant fear is expressed regarding a potential trade war and economic consequences."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The sudden imposition of tariffs likely caused surprise."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness is present due to the potential negative impacts on economies and livelihoods."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Some disgust is implied towards the perceived lack of logic and justification for the tariffs."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger is present, particularly concerning the disproportionate impact on poorer nations."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "There is anticipation of further negative consequences and adjustments to the new trade environment."
+        }
+      }
+    },
+    {
+      "topic": "Washington Post's Analysis",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "The sentiment is slightly negative as the Washington Post's analysis is critical of Trump's justifications, calling them 'weak'."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "No joy is expressed."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "The analysis is presented as trustworthy and objective."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some fear regarding the potential consequences is implied."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Some surprise at the perceived illogical nature of the tariffs."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some sadness related to the negative impacts."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 45,
+          "reasoning": "Slight disgust at the perceived lack of justification."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Mild anger at the perceived unfairness."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anticipation of further developments and consequences."
+        }
+      }
+    },
+    {
+      "topic": "Impact on African Nations (Lesotho, Madagascar, Botswana, Angola, South Africa)",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The sentiment is strongly negative due to the potential job losses and economic hardship in these nations, particularly Lesotho. The phrase 'العمل الوحيد الذي أعرفه' (the only work I know) highlights the vulnerability."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Little trust in the US trade policies."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High fear of job losses and economic hardship."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the imposition of high tariffs."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Significant sadness due to the potential negative consequences."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust at the perceived unfairness of the tariffs."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at the potential damage to their economies."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of further economic difficulties."
+        }
+      }
+    },
+    {
+      "topic": "Impact on Russia",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 90,
+        "reasoning": "The sentiment is negative due to the losses in the Russian stock market and the potential for economic difficulties related to oil prices."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Low trust in the stability of the economic situation."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of economic downturn and financial strain."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Surprise at the negative impact despite being excluded from the tariffs."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness due to potential economic hardship."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Some disgust at the perceived unfairness."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Anger at the potential damage to the economy."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of further economic challenges."
+        }
+      }
+    },
+    {
+      "topic": "Potential shift of African nations towards China",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 70,
+        "reasoning": "The sentiment is neutral, as it describes a potential shift in economic dependence. It is not inherently positive or negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Possible joy for China, but not for the African nations necessarily."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some trust might be placed in China as an alternative partner."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Fear of over-dependence on China."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Possible surprise at the speed of the shift."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Sadness at the loss of opportunities with the US."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Possible disgust if the shift is seen as forced."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anger at the situation that forces the shift."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Anticipation of the consequences of the shift."
+        }
+      }
+    }
+  ]
+}

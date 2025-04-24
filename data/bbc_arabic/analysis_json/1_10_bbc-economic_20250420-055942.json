@@ -1,0 +1,159 @@
+{
+  "article_metadata": {
+    "title_en": "Why is Trump attacking China on trade? And what might happen next?",
+    "text_summary_en": "The article discusses Donald Trump's renewed focus on trade tensions with China. It highlights Trump's view of China's economic model as detrimental to the US and his determination to reshape the global trade system. The article recalls the prevailing view in 2012 that increasing trade with China was beneficial, but notes that China's political and economic trajectory has not aligned with those expectations. Despite previous tariffs, China's economic dominance continues, particularly in sectors like electric vehicles. The article poses key questions about whether China will negotiate and make concessions, and whether the US still believes in free trade. It concludes that the world's two largest economies could be heading towards a struggle for economic dominance, potentially disrupting the established global order.",
+    "original_filename": "10_bbc-economic_20250420-055942.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "US-China Trade War",
+      "sentiment_polarity": {
+        "score": 0.1,
+        "confidence": 85,
+        "reasoning": "The article is analytical and informative, presenting different perspectives on the US-China trade relationship with a neutral tone overall."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "The article does not express joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There is some trust implied in the discussion of potential negotiations, but it is limited."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The article discusses the potential for a dangerous economic conflict."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The escalating trade war and Trump's actions could be seen as surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is a hint of sadness regarding the potential breakdown of economic cooperation."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "There might be some disgust at the perceived unfairness of trade practices."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Trump's actions suggest some anger towards China's trade practices."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The article focuses on what might happen next, creating a sense of anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Donald Trump's Trade Policy",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 80,
+        "reasoning": "Donald Trump's stance is portrayed as aggressive and confrontational towards China, particularly regarding trade. The text mentions his \"حرب تجارية\" (trade war) and his belief that China has \"أفرغ الاقتصاد الأمريكي من محتواه\" (hollowed out the American economy)."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Trump's approach is not associated with joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Trump's rhetoric indicates a lack of trust in China."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Trump might be motivated by a fear of China's economic power."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Trump's actions might be surprising to some, but they are consistent with his past rhetoric."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Trump's focus is not on sadness but on taking action."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Trump likely feels disgust toward China's trade practices."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Trump's aggressive stance suggests a significant level of anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Trump is anticipating a change in the trade relationship."
+        }
+      }
+    },
+    {
+      "topic": "China's Economic Power",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 75,
+        "reasoning": "China is portrayed as a major economic power that is being targeted by the US. The article mentions China's \"هيمنتها\" (dominance) and its plans to become a leader in key manufacturing sectors."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "The situation is not joyful for China."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "China likely has a lack of trust in the US."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "China might fear the impact of the trade war on its economy."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "China might be surprised by the extent of Trump's actions."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "China might feel sadness regarding the potential breakdown of economic cooperation."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "China might feel disgust towards the US's actions."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "China might feel anger towards the US's actions."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "China is anticipating a change in the trade relationship."
+        }
+      }
+    }
+  ]
+}

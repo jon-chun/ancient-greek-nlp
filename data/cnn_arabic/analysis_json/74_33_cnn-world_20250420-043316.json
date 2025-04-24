@@ -1,0 +1,159 @@
+{
+  "article_metadata": {
+    "title_en": "Bomb Explosion Outside Greek Train Company Offices in Athens",
+    "text_summary_en": "A bomb exploded outside the offices of Hellenic Train in Athens, Greece. Police were alerted after two Greek media outlets received warnings about an explosive device. The area was evacuated after a suspicious bag was found. Authorities believe the explosion was caused by a homemade bomb. No one has claimed responsibility for the incident. Hellenic Train is a subsidiary of the Italian company Ferrovie dello Stato, which operates passenger and freight lines in Greece. The article also references a deadly train accident in 2023, where 57 people, mostly students, were killed, highlighting public concerns about railway safety and perceived government negligence. The accident sparked widespread protests.",
+    "original_filename": "33_cnn-world_20250420-043316.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Bombing at Hellenic Train Offices",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The bombing event itself is negative. The text states 'انفجار قنبلة' (bomb explosion)."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "A bombing is not a joyous event."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "The event reduces trust in safety and security."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Bombings are inherently fear-inducing."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Bombings are unexpected events."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The potential for injuries or loss of life evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The act of violence can evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The attack can incite anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "There is anticipation regarding the investigation and potential consequences."
+        }
+      }
+    },
+    {
+      "topic": "2023 Greek Train Accident",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The 2023 train accident is a tragic event, leading to a negative sentiment. The text mentions 'أسوأ كارثة سكك حديدية' (worst railway disaster)."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "A deadly train accident is not a joyous event."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The accident and the alleged negligence erode trust."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Train accidents can generate fear of travel."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "While accidents happen, the scale of this one could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The loss of life evokes profound sadness."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The alleged negligence can evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The public protests indicate anger at the situation."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "There is anticipation regarding investigations and reforms."
+        }
+      }
+    },
+    {
+      "topic": "Greek Railway Safety and Negligence",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The article implies a negative sentiment towards the state of Greek railways, referencing 'إهمال سكك حديد البلاد' (neglect of the country's railways) and 'فشل الدولة المستمر' (the state's continued failure)."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Negligence and safety concerns do not evoke joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The article explicitly mentions a failure to address safety concerns, destroying trust."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Safety concerns naturally lead to fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "While negligence may be expected by some, the extent of it might still be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The consequences of negligence, like the train accident, evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Negligence and failure to address safety concerns can evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The public protests indicate anger at the perceived negligence."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "There is some anticipation about potential improvements or further failures."
+        }
+      }
+    }
+  ]
+}

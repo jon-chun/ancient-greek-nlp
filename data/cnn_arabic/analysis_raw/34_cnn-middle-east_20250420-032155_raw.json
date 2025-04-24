@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOHtAEwL9oHTlvGo6Q3ZVhMHD7UgU",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nHamas Rejects Israeli Ceasefire Proposal\n\n### English Text Summary:\nA Hamas leader stated that the group completely rejects the Israeli proposal for a ceasefire presented earlier this week. The proposal, which does not guarantee an end to the war and calls for the disarmament of Gaza, is considered a red line for Hamas, which insists on a comprehensive proposal for a permanent end to the conflict. The Israeli proposal includes a 45-day truce during which both sides would negotiate a lasting ceasefire. It also outlines the phased release of hostages in exchange for Palestinian prisoners, and demands information about remaining Israeli hostages in return for details about Palestinians held in Israeli prisons.\n\n[\n    {\n        \"topic\": \"Hamas\",\n        \"sentiment_polarity\": { \"score\": -0.8, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Fear\": { \"weight\": 0.6, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Sadness\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 70 },\n            \"Anger\": { \"weight\": 0.9, \"confidence\": 95 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Israeli Ceasefire Proposal\",\n        \"sentiment_polarity\": { \"score\": -0.7, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.4, \"confidence\": 70 },\n            \"Disgust\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.8, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Hostage Situation\",\n        \"sentiment_polarity\": { \"score\": -0.6, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.4, \"confidence\": 70 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.3, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Negotiations\",\n        \"sentiment_polarity\": { \"score\": -0.5, \"confidence\": 75 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.5, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745128336,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 951,
+    "prompt_tokens": 1336,
+    "total_tokens": 2287,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

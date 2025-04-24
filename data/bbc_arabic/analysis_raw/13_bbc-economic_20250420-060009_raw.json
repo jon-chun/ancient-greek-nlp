@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOIJ8TE5QgkAH5XPDXBRHhwzbkfRg",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nChina Imposes 84% Tariffs on US Imports in Response to New White House Tariffs\n\n### English Text Summary:\nThe Chinese Ministry of Finance announced an increase in tariffs on imported goods from the United States to 84%, in retaliation for new tariffs imposed by the White House. This increase coincides with the implementation of tariffs by President Donald Trump on Chinese goods, reaching 104%. China has called for global unity against these tariffs, which are impacting Chinese exporters significantly. The article discusses the economic implications of these tariffs, including the potential for reduced profits for Chinese companies and the challenges faced by businesses in adapting to the new trade environment. It also highlights the broader economic concerns, including the risk of a recession in the US and globally.\n\n[\n    {\n        \"topic\": \"Chinese Tariffs on US Imports\",\n        \"sentiment_polarity\": { \"score\": -0.8, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.6, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.8, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"US Tariffs on Chinese Goods\",\n        \"sentiment_polarity\": { \"score\": -0.9, \"confidence\": 95 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.8, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Sadness\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Anger\": { \"weight\": 0.9, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Impact on Chinese Exporters\",\n        \"sentiment_polarity\": { \"score\": -0.85, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.9, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 80 },\n            \"Sadness\": { \"weight\": 0.8, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 85 },\n            \"Anger\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Global Economic Concerns\",\n        \"sentiment_polarity\": { \"score\": -0.75, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.8, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.6, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.7, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"China's Call for Global Unity\",\n        \"sentiment_polarity\": { \"score\": -0.5, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.4, \"confidence\": 70 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Anger\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Economic Impact on Southeast Asia\",\n        \"sentiment_polarity\": { \"score\": -0.7, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.8, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745129946,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1381,
+    "prompt_tokens": 2588,
+    "total_tokens": 3969,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,1202 @@
+{
+    "source": "BBC",
+    "generation_timestamp": "2025-04-20 13:09:48 EDT",
+    "summary": {
+        "successful_count": 14,
+        "failed_count": 224
+    },
+    "successful_downloads": [
+        {
+            "url": "https://www.bbc.com/news/articles/crm347kpljko",
+            "title": "Portrait of injured Gazan boy named press photo of the year",
+            "filename": "18_news_news_articles_crm347kpljko.txt"
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/crlddd02w9jo",
+            "title": "What is Iran's nuclear programme and what does the US want?",
+            "filename": "19_news_news_articles_crlddd02w9jo.txt"
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c7931nvzd9qo",
+            "title": "Canadian workers on edge as car plant hits pause over US tariffs",
+            "filename": "20_news_news_articles_c7931nvzd9qo.txt"
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cvg838qq7zqo",
+            "title": "Why everyone is suddenly so interested in US bond markets",
+            "filename": "21_news_news_articles_cvg838qq7zqo.txt"
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/czx1g0q43gqo",
+            "title": "Oldest serving US astronaut returns to Earth on 70th birthday",
+            "filename": "22_news_news_articles_czx1g0q43gqo.txt"
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/czjn0410e3zo",
+            "title": "Thousands join anti-Trump protests across US",
+            "filename": "23_news_news_articles_czjn0410e3zo.txt"
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cjdx0gp0kd0o",
+            "title": "US senator says 'traumatised' man deported to El Salvador moved to new prison",
+            "filename": "24_news_news_articles_cjdx0gp0kd0o.txt"
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c15vl99dw0do",
+            "title": "What Trump really wants from Canada",
+            "filename": "25_news_news_articles_c15vl99dw0do.txt"
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cd9ljwgg9y0o",
+            "title": "Trump's chips strategy: The US will struggle to take on Asia",
+            "filename": "26_news_news_articles_cd9ljwgg9y0o.txt"
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c62jxe99e71o",
+            "title": "War has changed Zelensky - but now is the time for him to transform again",
+            "filename": "27_news_news_articles_c62jxe99e71o.txt"
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cp34nkj1kv2o",
+            "title": "Trump has turned his back on the foundation of US economic might - the fallout will be messy",
+            "filename": "28_news_news_articles_cp34nkj1kv2o.txt"
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cdjlr3mnlero",
+            "title": "Trump and Meloni talk up chances of US trade deal with Europe",
+            "filename": "29_news_news_articles_cdjlr3mnlero.txt"
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cy5rqvqg36qo",
+            "title": "Ukraine minerals deal may not buy peace after Trump threat",
+            "filename": "30_news_news_articles_cy5rqvqg36qo.txt"
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/clyw7g4zxwzo",
+            "title": "Police algorithm said Lina was at 'medium' risk. Then she was killed",
+            "filename": "31_news_news_articles_clyw7g4zxwzo.txt"
+        }
+    ],
+    "failed_attempts": [
+        {
+            "url": "https://www.bbc.com/arts/arts-in-motion",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/arts/arts-in-motion",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/arts/arts-in-motion",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/arts/arts-in-motion",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/business/executive-lounge",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/business/executive-lounge",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/business/executive-lounge",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/business/executive-lounge",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/business/future-of-business",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/business/future-of-business",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/business/future-of-business",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/business/future-of-business",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/business/technology-of-business",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/business/technology-of-business",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/business/technology-of-business",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/business/technology-of-business",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/green-living",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/green-living",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/green-living",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/green-living",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/natural-wonders",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/natural-wonders",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/natural-wonders",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/natural-wonders",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/solutions",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/solutions",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/solutions",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/solutions",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/sustainable-business",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/sustainable-business",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/sustainable-business",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/sustainable-business",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/weather-science",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/weather-science",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/weather-science",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/future-planet/weather-science",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/innovation/ai-v-the-mind",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/innovation/ai-v-the-mind",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/innovation/ai-v-the-mind",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/innovation/ai-v-the-mind",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/innovation/artificial-intelligence",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/innovation/artificial-intelligence",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/innovation/artificial-intelligence",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/innovation/artificial-intelligence",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/innovation/science",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/innovation/science",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/innovation/science",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/innovation/science",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/innovation/technology",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/innovation/technology",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/innovation/technology",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/innovation/technology",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/live/news",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/live/news",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/live/news",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/live/news",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/live/sport",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/live/sport",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/live/sport",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/live/sport",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c0kxznxyx5do",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c20l2evgny6o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c20x5xn1g92o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c20x5xxe4wzo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c20xq5nd8jeo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c20z63gr8mzo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c24q6201d8yo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c39j7k1n48mo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c3r88nxv1wyo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c4g2775v853o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c4g27n775j1o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c4grkzvlkwno",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c5yrl891j23o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c62z0dp5n0vo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c74z04j23pwo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c77ndzkz778o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c787v5gxny7o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c8073jzr1xko",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c89g0yn5yv5o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c99pg5yg0e3o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c9de28n71ldo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/ce3qq51dv7lo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/ce8gzm0p1y8o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/ce8gzvv47kjo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cg72d3zpj9xo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/ckg291ngq7qo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/ckgek8engwmo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/ckgekpvj3rko",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/ckgezj14w80o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cly15pp707go",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/clyq9d35ljro",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/clywg335680o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cm257qmvg25o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cn4mm3kx0v2o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cn4w2p79v9eo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cn7vje365rno",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cp8jwj90ejno",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cpwzywjwgvyo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cr4nqe3724vo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cr4nqe3724vo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cvgn50d9pywo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cwy0332y7xzo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cwy7n905jqdo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cwydlr3reqpo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cx28y8jj4lxo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cx2vpp8zzd7o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cy700rml36lo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cy70vj2eejzo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cyvq82e53l6o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cyvqnd7y5n0o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cz79wq00425o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/czd3ge7j92zo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/czd3rdjn81lo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/czx40yvzqk0o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/bbcindepth",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/bbcindepth",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/bbcindepth",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/bbcindepth",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/bbcverify",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/bbcverify",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/bbcverify",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/bbcverify",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/england",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/england",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/england",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/england",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/in_pictures",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/in_pictures",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/in_pictures",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/in_pictures",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/northern_ireland",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/northern_ireland",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/northern_ireland",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/northern_ireland",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/northern_ireland/northern_ireland_politics",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/northern_ireland/northern_ireland_politics",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/northern_ireland/northern_ireland_politics",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/northern_ireland/northern_ireland_politics",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/politics",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/politics",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/politics",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/politics",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/scotland",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/scotland",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/scotland",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/scotland",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/scotland/scotland_politics",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/scotland/scotland_politics",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/scotland/scotland_politics",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/scotland/scotland_politics",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/topics/c2vdnvdg6xxt",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/topics/c2vdnvdg6xxt",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/topics/c2vdnvdg6xxt",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/topics/c2vdnvdg6xxt",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/uk",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/uk",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/uk",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/uk",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/us-canada",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/us-canada",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/us-canada",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/us-canada",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/c078kenjgvpo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/c33zr4n8pm3o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/c3r8402l2qvo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/c3r8vx1y8eno",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/c5yrkw6zjp1o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/c789yk3l15eo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/c87pygvv8e0o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/c8rgvv7me58o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/ce8gm312zlro",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/cg5qmgdlgr8o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/cj45yl5dy42o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/cj68n028e00o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/cj9e22dezeno",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/ckg23qpnnlxo",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/cly2z4xxp9go",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/crkx7enk254o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/cz95kvx8pjno",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/czx101kldl2o",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/wales",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/wales",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/wales",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/wales",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/wales/wales_politics",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/wales/wales_politics",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/wales/wales_politics",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/wales/wales_politics",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/war-in-ukraine",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/war-in-ukraine",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/war-in-ukraine",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/war-in-ukraine",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/africa",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/africa",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/africa",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/africa",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/asia",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/asia",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/asia",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/asia",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/asia/china",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/asia/china",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/asia/china",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/asia/china",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/asia/india",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/asia/india",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/asia/india",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/asia/india",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/australia",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/australia",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/australia",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/australia",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/europe",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/europe",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/europe",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/europe",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/latin_america",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/latin_america",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/latin_america",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/latin_america",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/middle_east",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/middle_east",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/middle_east",
+            "reason": "Keywords Not Found",
+            "details": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world/middle_east",
+            "reason": "Keywords Not Found",
+            "details": ""
+        }
+    ]
+}

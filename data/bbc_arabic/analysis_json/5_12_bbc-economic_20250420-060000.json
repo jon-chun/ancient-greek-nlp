@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Trump Suspends Additional Tariffs for 90 Days, Says He's Open to Talks with China After Raising Tariffs to 125 Percent",
+    "text_summary_en": "US President Donald Trump announced a temporary 90-day halt to tariff increases on dozens of countries, but raised tariffs on China to 125 percent. Trump cited China's \"disrespect for global markets\" as the reason for the increase. He also stated his willingness to negotiate with countries that are open to it. Following the announcement, Wall Street experienced a significant rebound. Other countries and organizations reacted to the news, including the WTO, whose director warned of the potential damage to the global economy from the US-China trade dispute. Several world leaders commented on Trump's decision, including the new German Chancellor, the Italian Minister of Economy, and the interim President of Bangladesh. Latin American leaders also pledged to boost trade within the region to mitigate the impact of Trump's tariffs.",
+    "original_filename": "12_bbc-economic_20250420-060000.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Donald Trump's Trade Policy",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 85,
+        "reasoning": "The article presents Trump's actions as erratic and disruptive, highlighting both tariff increases and temporary suspensions. The phrase 'يترنح ويتراجع' (wavers and retreats) used by Chuck Schumer, further contributes to the negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Limited joy as the temporary suspension might bring some relief but the overall policy is unstable."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low trust due to the unpredictable nature of Trump's decisions."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Significant fear due to the potential economic consequences of the trade policies, as highlighted by the WTO's warning."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High surprise given the sudden shifts in policy, from tariff increases to temporary suspensions."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Moderate sadness related to the potential damage to international trade and economic stability."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Some disgust at the perceived unfairness of the trade practices."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Moderate anger directed at the disruptive nature of the policies and their potential impact on various countries."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of future developments and negotiations, given Trump's statement that he is open to talks."
+        }
+      }
+    },
+    {
+      "topic": "China-US Trade Relations",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The article clearly depicts a strained relationship, with Trump raising tariffs on China to 125%. The phrase 'عدم احترام الصين للأسواق العالمية' (China's disrespect for global markets) indicates a strongly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 40,
+          "reasoning": "Very little joy, as the relationship is primarily negative."
+        },
+        "Trust": {
+          "weight": 0.05,
+          "confidence": 30,
+          "reasoning": "Very low trust, given the trade disputes and accusations."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High fear regarding the potential economic consequences of the trade war between the two largest economies."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Moderate surprise at the escalation and de-escalation of tariffs."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Significant sadness due to the potential damage to global trade and economic stability."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Moderate disgust at the perceived unfair trade practices."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High anger at the perceived unfairness and the potential negative impact on various economies."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anticipation of future negotiations and potential resolutions, although the outlook is uncertain."
+        }
+      }
+    },
+    {
+      "topic": "Global Economic Impact",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 80,
+        "reasoning": "The article highlights the potential negative impact on the global economy, with the WTO warning of significant damage. The phrase 'يُمكن أن تلحق ضرراً بالغاً بالتوقعات الاقتصادية العالمية' (could severely damage global economic prospects) indicates a negative outlook."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No joy, as the focus is on the negative consequences."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Low trust in the stability of the global economy."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Very high fear regarding the potential for a global economic downturn."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some surprise at the extent of the potential damage."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High sadness due to the potential suffering caused by economic instability."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some disgust at the policies that contribute to the economic instability."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Moderate anger at the perceived unfairness of the situation."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "Anticipation of future developments and potential solutions, but with significant uncertainty."
+        }
+      }
+    },
+    {
+      "topic": "Reactions from Other Countries",
+      "sentiment_polarity": {
+        "score": 0.1,
+        "confidence": 70,
+        "reasoning": "The reactions are mixed, with some countries welcoming the temporary suspension and others expressing concern. The overall sentiment is slightly positive due to the relief expressed by some leaders."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Moderate joy expressed by countries that benefit from the suspension of tariffs."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Moderate trust in the potential for improved trade relations."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Moderate fear regarding the long-term impact of the trade policies."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Moderate surprise at the sudden shifts in policy."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Some sadness due to the potential for negative consequences."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 45,
+          "reasoning": "Slight disgust at the perceived unfairness of the trade practices."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Moderate anger at the potential negative impact on their economies."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "High anticipation of future negotiations and potential resolutions."
+        }
+      }
+    },
+    {
+      "topic": "Wall Street's Reaction",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 80,
+        "reasoning": "The article states that Wall Street experienced a 'significant rebound' ('انتعاشاً كبيراً') following the announcement, indicating a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "High joy due to the positive market reaction."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Moderate trust in the potential for continued market stability."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Low fear as the market is reacting positively."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Moderate surprise at the extent of the market rebound."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Very little sadness, as the market is performing well."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "No disgust, as the market is reacting positively."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 45,
+          "reasoning": "Slight anger if some believe the rebound is unsustainable."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "High anticipation of future market performance."
+        }
+      }
+    }
+  ]
+}

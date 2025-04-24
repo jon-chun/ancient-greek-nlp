@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "More than 40 Palestinian deaths in Israeli airstrikes on Gaza, and Hamas announces its rejection of \"partial deals\" and handing over weapons",
+    "text_summary_en": "The Israeli army announced it targeted approximately 40 locations in airstrikes on the Gaza Strip. This followed Hamas's rejection of a new Israeli truce proposal, calling for an agreement leading to a complete cessation of hostilities. Palestinian sources reported 43 deaths due to the airstrikes. The situation in Gaza is dire, with shortages of food and medicine. The Israeli military is conducting operations in the Shaboura and Tel Sultan areas near Rafah, as well as in the northern part of the Gaza Strip. Hamas rejected a temporary ceasefire proposal, insisting on a complete end to the war and Israeli withdrawal. Hamas also rejected \"partial truce deals\" and handing over weapons, stating its existence is tied to the Israeli occupation. International pressure is urged to end the Israeli blockade. The US criticized Hamas's stance. Israeli officials are calling for intensified military action against Hamas. The UN warns of deteriorating conditions and shortages in Gaza.",
+    "original_filename": "21_bbc-news_20250420-061825.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Israeli Airstrikes on Gaza",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The topic focuses on the Israeli airstrikes and military operations in Gaza, which inherently carries a negative sentiment due to the resulting casualties and destruction."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Airstrikes and military operations are not associated with joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The actions described erode trust between the parties involved."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Airstrikes and military operations naturally induce fear in the affected population."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The intensity or location of specific attacks might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The casualties and destruction caused by the airstrikes evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The violence and its impact on civilians can generate feelings of disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The perceived aggression and disproportionate force can lead to anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The ongoing nature of the conflict creates anticipation about what will happen next."
+        }
+      }
+    },
+    {
+      "topic": "Hamas's Rejection of Ceasefire Proposal",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "Hamas's rejection of the ceasefire proposal is presented as a negative development, as it prolongs the conflict and indicates a firm stance against de-escalation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The rejection of a ceasefire proposal is unlikely to evoke joy."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Hamas's supporters may view the rejection as a sign of strength and commitment."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The rejection could lead to increased violence and fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The firmness of the rejection might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The rejection prolongs the conflict and causes sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some may feel disgust at what they perceive as intransigence."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Those seeking peace may feel anger at Hamas's rejection."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The rejection creates uncertainty and anticipation about future actions."
+        }
+      }
+    },
+    {
+      "topic": "Humanitarian Crisis in Gaza",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "The humanitarian crisis in Gaza is overwhelmingly negative due to the suffering, shortages, and lack of access to basic necessities."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "A humanitarian crisis is devoid of joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "A humanitarian crisis erodes trust in institutions and aid organizations."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The lack of basic necessities and ongoing violence create intense fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The scale or specific aspects of the crisis might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The suffering and loss of life evoke profound sadness."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The conditions and lack of sanitation can lead to disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The perceived injustice and inaction can fuel anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "There is a strong sense of anticipation about how the crisis will unfold."
+        }
+      }
+    },
+    {
+      "topic": "Calls for Intensified Military Action by Israeli Officials",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 80,
+        "reasoning": "The article highlights calls from Israeli officials for intensified military action and the prevention of aid, reflecting a negative sentiment towards peace efforts and the well-being of Gazan civilians."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Calls for intensified military action are not associated with joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The calls erode trust in peaceful resolutions."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The threat of intensified military action induces fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The specific nature or timing of the calls might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The potential consequences of intensified action evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Some may feel disgust at the hawkish rhetoric."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The aggressive stance can lead to anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The calls create uncertainty and anticipation about future actions."
+        }
+      }
+    },
+    {
+      "topic": "Overall Conflict in Gaza",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The article primarily reports on conflict, casualties, and failed negotiations, creating a negative sentiment. Phrases like 'قتل 43 فلسطينياً' (43 Palestinians killed), 'نقص الغذاء والدواء' (shortage of food and medicine) and 'رفض حماس' (Hamas's rejection) contribute to this negative tone."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The article reports on a conflict situation with no indication of joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There is a lack of trust between the involved parties, especially given the failed negotiations."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The ongoing airstrikes and conflict create a climate of fear among the civilian population."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The intensity of the conflict and the shifting positions of the parties involved might cause some surprise."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The high death toll and humanitarian crisis in Gaza evoke a strong sense of sadness."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The violence and suffering inflicted on civilians could lead to feelings of disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The ongoing conflict and the rejection of ceasefire proposals fuel anger and resentment."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The uncertainty of the situation and the ongoing negotiations create anticipation about the future."
+        }
+      }
+    }
+  ]
+}

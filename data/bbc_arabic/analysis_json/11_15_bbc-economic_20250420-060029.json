@@ -1,0 +1,309 @@
+{
+  "article_metadata": {
+    "title_en": "Video: Gold Prices Rise 2% and the Dollar Declines... When Should I Buy Gold?",
+    "text_summary_en": "Gold prices rose by about 2% on Wednesday as the dollar weakened, following the implementation of tariffs imposed by US President Donald Trump on China. Most dealers resorted to gold as a safe haven amid escalating concerns about global trade and recession. Investors should study the options available in their market and choose the investment model that suits their circumstances.",
+    "original_filename": "15_bbc-economic_20250420-060029.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Gold Prices Rising",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The article states 'ارتفعت أسعار الذهب نحو 2%' (Gold prices rose by about 2%). This is a positive movement in price."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Potential for profit creates happiness."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Gold is seen as a reliable asset."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Market fluctuations can cause worry."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Unexpected price changes can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Not applicable in this context."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Investors anticipate further price movements."
+        }
+      }
+    },
+    {
+      "topic": "Dollar Weakening",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The article mentions 'مع ضَعف الدولار' (with the weakening of the dollar). This is a negative sentiment towards the dollar."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Potential for buying opportunities."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Uncertainty reduces trust."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Concern about the value of investments."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Unexpected currency fluctuations."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Loss of value can cause sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Frustration with economic conditions."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Hoping for a rebound."
+        }
+      }
+    },
+    {
+      "topic": "US Tariffs on China",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "The article states 'بعد دخول التعريفات الجمركية التي فرضها الرئيس الأمريكي دونالد ترامب على الصين حيز التنفيذ' (after the entry into force of the customs tariffs imposed by US President Donald Trump on China). This is generally viewed negatively as it can disrupt trade."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "Not applicable in this context."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Uncertainty reduces trust."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Concern about economic impact."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Unexpected policy changes."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Potential for negative economic outcomes."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Disapproval of trade policies."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Frustration with trade policies."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Waiting to see the effects of the tariffs."
+        }
+      }
+    },
+    {
+      "topic": "Global Trade Concerns and Recession",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The article mentions 'تصاعد المخاوف بشأن التجارة العالمية والركود' (escalating concerns about global trade and recession). This clearly indicates a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "Not applicable in this context."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "Lack of confidence in the economy."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High level of anxiety about economic stability."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Uncertainty about future events."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Pessimism about the economy."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Disapproval of economic conditions."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Frustration with economic conditions."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Waiting to see how the situation unfolds."
+        }
+      }
+    },
+    {
+      "topic": "Gold as a Safe Haven",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 90,
+        "reasoning": "The article states 'فيما لجأ معظم المتعاملين إلى الذهب كملاذ آمن' (Most dealers resorted to gold as a safe haven). This suggests a positive sentiment towards gold in times of economic uncertainty."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Sense of security."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Confidence in gold as a store of value."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Reduced fear due to safe haven."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Less surprise due to expected behavior."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Reduced sadness due to safe haven."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipating stable returns."
+        }
+      }
+    },
+    {
+      "topic": "Investment Advice",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 70,
+        "reasoning": "The article advises 'ينبغي على المستثمرين دراسة الخيارات المتاحة في سوقهم، واختيار نموذج الاستثمار المناسب لظروفهم.' (Investors should study the options available in their market and choose the investment model that suits their circumstances). This is neutral advice."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Potential for positive outcomes."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Belief in sound advice."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Uncertainty about investment outcomes."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Potential for unexpected results."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Risk of losses."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Hoping for successful investments."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "How did Egyptians react to the authorities' decision to close famous food and sweets stores?",
+    "text_summary_en": "Egyptian authorities have closed several food and sweets stores, including the popular \"Balaben,\" due to food safety concerns and reported cases of food poisoning. The National Food Safety Authority cited complaints and found pathogenic bacteria and banned food coloring in samples taken from various branches. While Balaben initially attributed the closures to administrative issues, they later acknowledged struggling to resolve the situation with authorities. The closures followed similar actions in Saudi Arabia due to poisoning complaints. The decision has sparked widespread reactions, with some supporting the government's action to protect public health, while others express concern over the job losses resulting from the closures, with Balaben claiming over 25,000 workers are affected. Some users also questioned the ownership of Balaben, alleging the owner is not Egyptian and owns other closed restaurants.",
+    "original_filename": "15_bbc-news_20250420-061731.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Egyptian Authorities' decision to close food and sweets stores",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 85,
+        "reasoning": "The overall sentiment is slightly negative due to the disruption caused by the closures, but also positive due to the intention of ensuring food safety. The phrase \"إجراءات مشددة بلغت حد الإغلاق\" (strict measures reaching the point of closure) suggests a serious situation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No indication of joy."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Some trust in authorities to protect public health."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of food poisoning and economic consequences."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Surprise at the scale of the closures."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness due to job losses and business closures."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust at the potential for unsanitary food practices."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Some anger at the authorities' actions, perceiving them as excessive."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation for how the situation will be resolved and the long-term impact."
+        }
+      }
+    },
+    {
+      "topic": "Balaben (the sweets store)",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The sentiment towards Balaben is negative due to the food safety issues and closures, despite their initial denial. The phrases \"حالات تسمم غذائي\" (food poisoning cases) and \"بكتريا ممرضه\" (pathogenic bacteria) strongly contribute to the negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No indication of joy related to this topic."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Low trust due to the allegations and closures."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Fear related to food safety and potential health risks."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise at the extent of the problems."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Sadness for the business and its employees."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Disgust at the alleged unsanitary practices."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger from those affected by the closures or who feel misled."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Uncertainty about the future of the business."
+        }
+      }
+    },
+    {
+      "topic": "Egyptian Consumers/Public Reaction",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 80,
+        "reasoning": "The sentiment is mixed. Some support the closures for safety reasons (positive), while others are concerned about job losses (negative). The phrases \"تفاعل واسع\" (wide reaction) and the contrasting opinions expressed on social media indicate a divided sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal joy, perhaps relief for those who prioritize food safety."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Some trust in the authorities' actions."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Fear about food safety and potential health risks."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the closures and the scale of the issue."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness for the job losses and economic impact."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust at the potential for unsanitary food practices."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger from those who feel the closures are unjustified or excessive."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation for the future and the resolution of the situation."
+        }
+      }
+    },
+    {
+      "topic": "Food Safety",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The sentiment is predominantly negative due to the presence of bacteria and unsafe practices. The phrases \"بكتريا ممرضه\" (pathogenic bacteria) and \"ألوان محظورة دوليا\" (internationally banned colors) create a strong negative impression."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No indication of joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Very low trust in the food safety standards of the affected establishments."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High fear due to the risk of food poisoning."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise at the extent of the violations."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sadness related to the potential harm caused."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Very high disgust due to the unsanitary conditions and harmful substances."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at those responsible for the food safety violations."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Hope for improved food safety standards in the future."
+        }
+      }
+    }
+  ]
+}

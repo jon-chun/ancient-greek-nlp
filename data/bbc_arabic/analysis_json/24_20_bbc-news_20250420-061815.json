@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "Video, Al-Maqdashi's Team on No Restrictions: American Strikes Against the Houthis are Disciplinary, Duration 1:54",
+    "text_summary_en": "General Mohammed al-Maqdashi, military advisor to the Presidential Leadership Council in Yemen, stated that the American strikes against the Houthis in Yemen achieved several goals, including the destruction of weapons and equipment, and the killing of a number of Houthi leaders. Regarding a potential military operation by the legitimate government forces against the Houthis, al-Maqdashi emphasized that military operations are usually planned secretly and are surprising, casting doubt on reports from unnamed Yemeni military sources. He believes the Houthis will be defeated with regional or American support, pointing to the starvation and humiliation they have inflicted on Yemenis, arguing they exploit the Palestinian cause despite all Yemenis supporting Palestine. Regarding alleged weapons smuggling from Oman to the Houthis, al-Maqdashi said they have information but no confirmed evidence, questioning Oman's potential involvement. The article previews an episode of the \"No Restrictions\" program that will discuss the situation of Yemeni forces, coordination between them, the current truce, and civilian casualties from American strikes. The episode will air on Saturday at 5:30 PM GMT.",
+    "original_filename": "20_bbc-news_20250420-061815.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "American Strikes Against the Houthis",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 80,
+        "reasoning": "The strikes are described as achieving goals like destroying weapons and killing Houthi leaders, suggesting a positive outcome. However, civilian casualties introduce a negative aspect, resulting in a slightly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Success of the strikes could evoke joy among opponents of the Houthis."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "There is trust in the effectiveness of the strikes."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The strikes also bring fear due to potential escalation and civilian casualties."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The strikes themselves might have been a surprise."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Due to civilian casualties."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Some might feel disgust towards the violence."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The strikes could trigger anger, especially among Houthi supporters."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "There is anticipation regarding the consequences and future actions."
+        }
+      }
+    },
+    {
+      "topic": "The Houthis",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The article portrays the Houthis negatively, mentioning 'تجويع وإهانة لليمنيين' (starvation and humiliation of Yemenis) and exploitation of the Palestinian cause. Al-Maqdashi believes they will be defeated."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with the Houthis in this context."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Very little trust towards the Houthis."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The Houthis inspire fear due to their actions."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Potential for surprise in their actions."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness due to their impact on Yemenis."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Strong disgust towards their actions."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Significant anger directed at the Houthis."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Anticipation of their defeat or future actions."
+        }
+      }
+    },
+    {
+      "topic": "Al-Maqdashi's Statements",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 75,
+        "reasoning": "Al-Maqdashi's statements express confidence in the eventual defeat of the Houthis and provide insights into the Yemeni government's perspective. The sentiment is cautiously optimistic."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some joy stemming from the anticipated defeat of the Houthis."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trust in the planning and strategy."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some fear regarding the risks of military operations."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Potential for surprise in the unfolding events."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Awareness of the suffering caused by the conflict."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Limited disgust expressed directly."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some anger towards the Houthis."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Strong anticipation of future developments."
+        }
+      }
+    },
+    {
+      "topic": "Alleged Weapons Smuggling from Oman",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 60,
+        "reasoning": "The article presents conflicting information regarding weapons smuggling from Oman. Al-Maqdashi states they have information but no confirmed evidence, and questions Oman's potential involvement. This creates uncertainty and suspicion."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No joy associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Low trust due to the allegations."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Fear of the implications of weapons smuggling."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Surprise at the possibility of Omani involvement."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Sadness about the continued conflict."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Disgust at the potential for illegal arms trade."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anger towards those involved in smuggling."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation of further investigation and potential consequences."
+        }
+      }
+    }
+  ]
+}

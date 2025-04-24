@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "Trump administration makes major cuts to Native American boarding school research projects",
+    "text_summary_en": "The Trump administration has cut at least $1.6 million in federal funding for projects documenting the abuse of Indigenous children in U.S. government-run boarding schools. These cuts, part of a broader cost-cutting effort, affect initiatives like the National Native American Boarding School Healing Coalition's database, which helps Native Americans find relatives who attended these schools. The cuts are seen as a setback following a federal investigation and apology by the previous Biden administration. Advocates like Deborah Parker emphasize the importance of truth in American history and the impact of these cuts on healing. The article highlights personal stories of individuals who have benefited from the research, as well as the perspectives of officials like Deb Haaland and Bryan Newland, who criticize the cuts. The cuts also affect other projects, such as oral history recordings of elders in Alaska.",
+    "original_filename": "16_us_us_trump-funding-cut-native-american-abuse-hnk_index.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Trump Administration Funding Cuts",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is negative due to the cuts in funding for projects aimed at addressing historical injustices. The article highlights the negative impact on healing and reconciliation efforts."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy is expressed in the context of the funding cuts and historical trauma."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Trust in the government is low given the history and the current cuts."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "Fear that the historical truth will be suppressed and healing will be hampered."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Surprise at the cuts, given the recent focus on addressing historical injustices."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Sadness due to the historical trauma and the impact of the cuts on healing."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "Disgust at the historical treatment of Native American children and the current cuts."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anger at the perceived injustice of the cuts and the attempt to erase history."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Low anticipation, as the cuts are seen as a setback."
+        }
+      }
+    },
+    {
+      "topic": "Native American Boarding School Abuse",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 99,
+        "reasoning": "The historical abuse of Indigenous children in boarding schools is a deeply negative topic. The text explicitly mentions 'systemic abuse' and the stripping of culture and language."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No joy associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No trust in the system that perpetrated the abuse."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Fear associated with the trauma experienced by the children."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Low surprise, as the historical abuse is well-documented."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 99,
+          "reasoning": "High sadness due to the suffering of the children."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 99,
+          "reasoning": "High disgust at the treatment of the children."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 99,
+          "reasoning": "High anger at the perpetrators of the abuse."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "No positive anticipation associated with this topic."
+        }
+      }
+    },
+    {
+      "topic": "Trump Administration",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The Trump administration's decision to cut funding is viewed negatively, as it hinders efforts to address historical injustices."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy associated with the funding cuts."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Lack of trust in the administration's motives."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "Fear that the historical truth will be suppressed."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Some surprise at the extent of the cuts."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Sadness due to the impact on healing efforts."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Disgust at the administration's decision."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Anger at the perceived injustice of the cuts."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "No positive anticipation associated with this topic."
+        }
+      }
+    },
+    {
+      "topic": "National Native American Boarding School Healing Coalition",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The work of the National Native American Boarding School Healing Coalition is viewed positively, as it helps Native Americans connect with their history and heal from trauma."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Joy associated with finding information about family history."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High trust in the coalition's work."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Low fear associated with the coalition's work."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at discovering new information."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Some sadness associated with the historical trauma."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Low disgust associated with the coalition's work."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Some anger at the historical injustices."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High anticipation for future discoveries and healing."
+        }
+      }
+    }
+  ]
+}

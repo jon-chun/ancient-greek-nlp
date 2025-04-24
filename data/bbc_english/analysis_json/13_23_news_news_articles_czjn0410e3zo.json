@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Thousands Join Anti-Trump Protests Across US",
+    "text_summary_en": "Thousands of people protested across the US against President Trump's recent actions, coinciding with the 250th anniversary of the American Revolutionary War. The protests, dubbed \"50501,\" addressed various grievances, including the deportation of Kilmar Ábrego García and Trump's government efficiency initiative. While protests were largely peaceful, some confrontations occurred. Trump's approval rating is edging down, particularly concerning the economy. The article also mentions previous larger protests against Trump earlier in the month.",
+    "original_filename": "23_news_news_articles_czjn0410e3zo.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Anti-Trump Protests",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The protests are explicitly 'anti-Trump,' indicating a negative sentiment. The article describes them as expressing 'grievances,' further supporting the negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Protests are generally not joyful events, though participants may feel a sense of solidarity."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Protesters likely trust in the power of collective action."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Protesters may fear the consequences of Trump's policies."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "The scale or intensity of the protests might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Protesters may feel sadness about the issues they are protesting."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust towards Trump's actions is a likely motivator."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger is a primary emotion driving the protests."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Protesters anticipate change or a response to their demands."
+        }
+      }
+    },
+    {
+      "topic": "Donald Trump",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "The article presents Trump as a polarizing figure, with both approval and disapproval ratings. The protests are directly against him."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 10,
+          "reasoning": "The article doesn't focus on positive emotions associated with Trump."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some voters approve of Trump, indicating some level of trust."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Many people fear Trump's policies and actions."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 40,
+          "reasoning": "Trump's actions and policies can often be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some may feel sadness or disappointment regarding Trump's presidency."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Many people express disgust with Trump's behavior and policies."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trump evokes strong anger in many individuals."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "People are likely anticipating the future impact of Trump's actions."
+        }
+      }
+    },
+    {
+      "topic": "Kilmar Ábrego García's Deportation",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The deportation is described as a 'mistake,' suggesting a negative sentiment towards the action. The protests calling for his return further emphasize this."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No joy is associated with a wrongful deportation."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Little trust is present in the system that led to the deportation."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear for Ábrego García's safety and well-being."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The deportation being labeled a mistake suggests an element of surprise."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Sadness for Ábrego García and his situation."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Disgust at the injustice of the deportation."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at the authorities responsible for the deportation."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anticipation for his potential return."
+        }
+      }
+    },
+    {
+      "topic": "Department of Government Efficiency (Doge)",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 70,
+        "reasoning": "The department is described as Trump's 'initiative to cut US government jobs and other spending,' which can be seen as negative by those affected."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 10,
+          "reasoning": "Unlikely to evoke joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "Some may trust the initiative to improve efficiency."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Fear of job losses and reduced services."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "The scope of the cuts might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Sadness about potential job losses."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Disgust at the perceived lack of empathy."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anger at the potential negative consequences."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation of the impact of the cuts."
+        }
+      }
+    },
+    {
+      "topic": "Trump's Approval Rating",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 75,
+        "reasoning": "The article presents both positive and negative aspects of Trump's approval rating, noting that it is higher than in his first term but lower than the historical average. Overall, the trend is slightly negative as it is 'edging down'."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "Those who approve may feel joy."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Approval implies trust."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Those who disapprove may feel fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "Fluctuations in approval can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Disapproval can lead to sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Strong disapproval might involve disgust."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Disapproval can also manifest as anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "People anticipate how approval will affect future actions."
+        }
+      }
+    }
+  ]
+}

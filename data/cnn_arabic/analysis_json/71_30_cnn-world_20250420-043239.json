@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "US Customs: Smartphones and Computers Exempt from Trump's Tariffs",
+    "text_summary_en": "The US Customs and Border Protection announced that imported electronic devices, including smartphones and computer components, would be exempt from tariffs previously imposed by former President Trump. This decision, effective from April 5th, follows the imposition of a 145% tariff on Chinese goods. Analysts view this as positive news for tech companies like Apple, which manufactures a significant portion of its products in China. The exemption could prevent price increases for consumers. While some companies have welcomed the news, others remain cautious, with Nintendo delaying pre-orders for its Switch 2 to assess the impact of tariffs and market conditions. Experts warn that the cost of tariffs could ultimately be passed on to consumers. Trump criticized the Biden administration's grant to TSMC, threatening high taxes if they don't build their factory in the US.",
+    "original_filename": "30_cnn-world_20250420-043239.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "US Customs Tariff Exemption",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 80,
+        "reasoning": "The article is slightly positive due to immediate relief for tech companies but tempered by uncertainty about the future."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The exemption is described as 'أفضل خبر يمكن سماعه لمستثمري التكنولوجيا' (best news for tech investors)."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "There's cautious optimism about the potential benefits of the exemption."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Concerns about potential price increases and the broader trade war are mentioned."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The exemption seems to have been unexpected."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The article mentions potential negative consequences for consumers if prices increase."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some may feel negatively about the back-and-forth tariff policies."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Trump's criticism of the Biden administration's grant to TSMC suggests some anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "The article discusses the potential impact of the exemption on future trade negotiations."
+        }
+      }
+    },
+    {
+      "topic": "US Customs and Border Protection",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 85,
+        "reasoning": "The topic focuses on the agency's decision, which has positive implications for tech companies."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The exemption is seen as positive news for tech companies."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The decision is made by a government agency, suggesting a degree of trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "There's a slight concern about the potential for future policy changes."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The exemption may have been unexpected by some."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal negative sentiment associated with this topic."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "Very little reason to feel disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 35,
+          "reasoning": "Some may disagree with the decision, but it's not a dominant emotion."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The decision is likely to have a significant impact on the tech industry."
+        }
+      }
+    },
+    {
+      "topic": "Donald Trump's Tariff Policies",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "Trump's stance is aggressive, especially his comments about tariffs on TSMC."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Very little joy associated with Trump's tariff policies."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some may trust Trump's approach to trade, but it's not a widespread sentiment."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trump's threats of increased tariffs can create fear and uncertainty."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trump's actions can sometimes be unpredictable."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Trump's policies can lead to negative consequences for some businesses and consumers."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Some may find Trump's protectionist policies distasteful."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trump's rhetoric often evokes anger and frustration."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "There's always anticipation about Trump's next move."
+        }
+      }
+    },
+    {
+      "topic": "Potential Impact on Consumers",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 90,
+        "reasoning": "The potential impact of tariffs on consumers is generally negative, as it could lead to higher prices."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No joy associated with higher prices."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Consumers may not trust that companies will absorb the costs of tariffs."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The fear of higher prices is a dominant emotion."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The extent of the price increases may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Higher prices can lead to sadness and frustration."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some may feel disgusted by the unfairness of the situation."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Consumers may be angry towards those responsible for the tariffs."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "There's anticipation about how high prices will rise."
+        }
+      }
+    }
+  ]
+}

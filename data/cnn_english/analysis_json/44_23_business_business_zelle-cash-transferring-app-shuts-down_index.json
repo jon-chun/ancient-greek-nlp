@@ -1,0 +1,159 @@
+{
+  "article_metadata": {
+    "title_en": "Zelle is shutting down its app. Here’s how you can still use the payment service",
+    "text_summary_en": "Zelle, a person-to-person money transfer service, has shut down its standalone app, but the service itself remains operational. The shutdown was announced last year due to low app usage, with most users accessing Zelle through their bank's website or app. Affected users were notified and must re-enroll through their bank to continue using Zelle. Launched in 2017 by a consortium of banks to compete with Venmo and Cash App, Zelle has seen significant growth, processing over $1 trillion in transactions in 2024. However, Zelle faced a lawsuit from the CFPB alleging that it allowed fraud to occur, resulting in substantial losses for customers. The lawsuit was later dropped. The company highlights the service's value in facilitating secure money transfers between trusted individuals.",
+    "original_filename": "23_business_business_zelle-cash-transferring-app-shuts-down_index.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Zelle App Shutdown",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 80,
+        "reasoning": "The app shutdown is negative, but the continued service and growth are positive. The lawsuit is a significant negative, resulting in a slightly negative sentiment overall."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal joy, related to the continued service."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Zelle emphasizes trust and security, but the shutdown impacts it."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The fraud allegations and potential loss of funds evoke fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The app shutdown might surprise some users."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The app shutdown and financial losses are causes for sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The fraud allegations may cause disgust."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Some users might be angry about the app shutdown and fraud."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Users might anticipate continued improvements or changes to the service."
+        }
+      }
+    },
+    {
+      "topic": "Zelle's Growth and Usage",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "The growth of Zelle and the amount of money transferred are positive aspects, indicating success and widespread adoption."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Success and widespread adoption evoke joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Users trust the service with large sums of money."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear, related to potential security concerns."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "The rapid growth might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 40,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 40,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Users anticipate continued growth and improvements."
+        }
+      }
+    },
+    {
+      "topic": "CFPB Lawsuit Against Zelle",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "The lawsuit and allegations of fraud are negative, indicating problems with the service's security and oversight."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "No joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Reduced trust due to the lawsuit."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The fraud allegations evoke fear of financial loss."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The lawsuit might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Financial losses cause sadness."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The fraud and lack of oversight evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Users who lost money might be angry."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Users might anticipate changes to address the issues."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "\"We Don't Know Where to Refer Difficult Cases,\" a Doctor from Gaza Speaks to the BBC About the Collapse of the Health Sector",
+    "text_summary_en": "A doctor in Gaza describes the dire state of the healthcare system after 18 months of conflict. Due to fuel shortages, she walks 50 minutes to reach her clinic. Only 21 of 36 hospitals are partially functioning, and medical supplies are severely limited due to the ongoing Israeli blockade. The clinic, a converted office after the original was targeted, sees around 150 patients daily, mostly displaced people living in shelters or on the streets. Malnutrition and diseases are rampant, especially among the elderly, young, and infants. The doctor highlights the lack of essential medicines, including insulin and epilepsy treatments, and the increasing cases of severe burns due to the shortage of cooking gas. The Al-Ahli Arab Hospital, a key medical center, was damaged by Israeli shelling, further crippling the healthcare system. The doctor expresses her frustration and despair, struggling to provide care with limited resources and facing a constant influx of patients. She worries about providing for her children and the lack of hope for an end to the conflict.",
+    "original_filename": "10_bbc-news_20250420-061643.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Gaza Health Sector Collapse",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The article describes a complete breakdown of the health sector: 'انهيار القطاع الصحي', 'النظام الصحي في غزة انهار'. The lack of resources, damaged hospitals, and overwhelmed medical staff contribute to a very negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 60,
+          "reasoning": "Almost no positive aspects are mentioned, so joy is minimal."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There's some trust in the medical professionals, but the overall situation diminishes it."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High fear due to the ongoing conflict, lack of medical care, and uncertain future. The doctor's statement 'أشعر أنني أعيش في كابوس لا نهاية له' reflects intense fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "While the situation is dire, the extent of the collapse and the specific details might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Overwhelming sadness due to the suffering of the people, especially children, and the hopelessness of the situation. 'من الصعب حقاً أن يكون لديك أي أمل' indicates deep sadness."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Disgust at the conditions, the lack of resources, and the targeting of medical facilities."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger at the situation, the blockade, and the attacks on hospitals. The doctor's frustration is palpable."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Very little anticipation of a positive outcome. The doctor questions 'متى ستنتهي هذه الحرب؟' with little hope."
+        }
+      }
+    },
+    {
+      "topic": "Dr. Wissam Sakr",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "Dr. Wissam is portrayed as dedicated but overwhelmed. Her personal struggles and the challenges she faces create a negative sentiment, though her dedication is admirable."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal joy, likely stemming from helping patients despite the circumstances."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "High trust in her abilities as a doctor and her commitment to her patients."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear for her safety, her family's well-being, and the future of Gaza."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Possibly surprised by the extent of the devastation and the challenges she faces daily."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Sadness due to the suffering she witnesses and her inability to provide adequate care."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust at the conditions and the lack of resources."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anger at the situation and the factors contributing to it."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 45,
+          "reasoning": "Limited anticipation of a positive change. Her question reflects her despair."
+        }
+      }
+    },
+    {
+      "topic": "Israeli Blockade of Gaza",
+      "sentiment_polarity": {
+        "score": -0.95,
+        "confidence": 98,
+        "reasoning": "The blockade is presented as the primary cause of the shortages and suffering. The phrase 'الحصار الإسرائيلي المستمر على غزة' clearly indicates a very negative sentiment. The claim that 'أغلقت إسرائيل جميع المعابر المؤدية إلى غزة' further reinforces this."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No positive aspects associated with the blockade."
+        },
+        "Trust": {
+          "weight": 0.05,
+          "confidence": 30,
+          "reasoning": "Minimal trust, as the blockade is seen as harmful."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High fear due to the consequences of the blockade, such as lack of medical supplies and food."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The continued blockade might be surprising to some, but it's a long-standing issue."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Overwhelming sadness due to the suffering caused by the blockade."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong disgust at the blockade and its impact on the population."
+        },
+        "Anger": {
+          "weight": 0.95,
+          "confidence": 98,
+          "reasoning": "Extreme anger at the blockade, which is seen as a deliberate act of harm."
+        },
+        "Anticipation": {
+          "weight": 0.05,
+          "confidence": 20,
+          "reasoning": "Very little anticipation of the blockade being lifted."
+        }
+      }
+    },
+    {
+      "topic": "Al-Ahli Arab Hospital Bombing",
+      "sentiment_polarity": {
+        "score": -0.98,
+        "confidence": 99,
+        "reasoning": "The bombing of a hospital is an extremely negative event, especially given the already dire circumstances. The destruction of the hospital's key facilities ('غرفة الطوارئ والمختبر وأجهزة الأشعة والصيدلية، كلّها دُمرت بالكامل') contributes to this very negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with this event."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Complete lack of trust in the actors involved in the bombing."
+        },
+        "Fear": {
+          "weight": 0.95,
+          "confidence": 98,
+          "reasoning": "High fear due to the danger of attacks on medical facilities."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Surprise and shock at the bombing of a hospital."
+        },
+        "Sadness": {
+          "weight": 0.98,
+          "confidence": 99,
+          "reasoning": "Overwhelming sadness due to the loss of life and the destruction of a vital medical facility."
+        },
+        "Disgust": {
+          "weight": 0.95,
+          "confidence": 98,
+          "reasoning": "Strong disgust at the act of bombing a hospital."
+        },
+        "Anger": {
+          "weight": 0.98,
+          "confidence": 99,
+          "reasoning": "Extreme anger at the bombing and the disregard for human life."
+        },
+        "Anticipation": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anticipation of a positive outcome from this event."
+        }
+      }
+    },
+    {
+      "topic": "Shortage of Medical Supplies",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The lack of essential medicines ('ليس لدينا الأنسولين. كما ليس لدينا علاجات للصرع، ولا حتى أدوية أساسية مثل أدوية خفض الحرارة') directly impacts the ability to provide care, leading to a very negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy associated with this situation."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Limited trust in the ability to obtain supplies."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High fear due to the consequences of the shortage, such as inability to treat patients."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Possibly surprised by the extent of the shortages."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Overwhelming sadness due to the suffering caused by the shortage."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Disgust at the situation and the factors contributing to it."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger at the causes of the shortage."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Limited anticipation of the supply situation improving."
+        }
+      }
+    }
+  ]
+}

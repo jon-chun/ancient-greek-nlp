@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOHtfNyxrIPHmDMts2GFXaa59nNYx",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nSecond Round of US-Iran Talks Begins in Rome\n\n### English Text Summary:\nIn Rome, the second round of high-level US-Iran talks, mediated by Oman, commenced with cautious optimism for a diplomatic resolution regarding Iran's nuclear program. Iranian Foreign Minister Abbas Araghchi led the Iranian delegation, while the US was represented by Middle East envoy Steve Hanke. Araghchi emphasized Iran's commitment to diplomacy and the importance of seizing the opportunity for understanding. The talks follow previous indirect discussions in Oman and come amid US President Donald Trump's threats of military action against Iranian nuclear sites if no agreement is reached. Trump later stated he is not in a hurry to take military action, expressing a desire for Iran to thrive peacefully. Iranian officials acknowledged the challenges ahead in negotiations, stressing the need for sincere dialogue.\n\n[\n    {\n        \"topic\": \"US-Iran Nuclear Talks\",\n        \"sentiment_polarity\": { \"score\": 0.5, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.2, \"confidence\": 65 },\n            \"Anticipation\": { \"weight\": 0.7, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Abbas Araghchi\",\n        \"sentiment_polarity\": { \"score\": 0.6, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.4, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Fear\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Surprise\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.1, \"confidence\": 55 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Donald Trump\",\n        \"sentiment_polarity\": { \"score\": 0.2, \"confidence\": 75 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 65 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Disgust\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Oman as Mediator\",\n        \"sentiment_polarity\": { \"score\": 0.7, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.5, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.8, \"confidence\": 85 },\n            \"Fear\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Sadness\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.1, \"confidence\": 55 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Iran's Nuclear Program\",\n        \"sentiment_polarity\": { \"score\": 0.3, \"confidence\": 70 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Trust\": { \"weight\": 0.4, \"confidence\": 65 },\n            \"Fear\": { \"weight\": 0.7, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Disgust\": { \"weight\": 0.1, \"confidence\": 55 },\n            \"Anger\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745128367,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1184,
+    "prompt_tokens": 1720,
+    "total_tokens": 2904,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

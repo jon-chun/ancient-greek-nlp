@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOHZKQsixaATQwVbojbbBT7yDy66e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nTrump Clarifies U.S. Tariffs on High-Tech Products from China\n\n### English Text Summary:\nOn Sunday, President Donald Trump attempted to clarify the status of U.S. tariffs on high-tech products imported from China following a weekend of confusion regarding his global trade strategy. He emphasized that no exemptions from tariffs were announced and that certain products would still be subject to existing tariffs. The Customs and Border Protection agency had issued a rule exempting some high-tech items, which relieved the tech sector and raised expectations for stock prices. However, Trump’s administration insisted that these exemptions are temporary and part of a broader review of national security implications related to semiconductor imports. Trump reiterated the need for domestic manufacturing to avoid reliance on adversarial nations like China.\n\n[\n    {\n        \"topic\": \"U.S. Tariffs on High-Tech Products\",\n        \"sentiment_polarity\": { \"score\": -0.3, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 60 },\n            \"Sadness\": { \"weight\": 0.2, \"confidence\": 65 },\n            \"Disgust\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Anger\": { \"weight\": 0.5, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Trump's Trade Policy\",\n        \"sentiment_polarity\": { \"score\": -0.4, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 65 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.4, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Disgust\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.7, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"China\",\n        \"sentiment_polarity\": { \"score\": -0.5, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 60 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 90 },\n            \"Anger\": { \"weight\": 0.7, \"confidence\": 95 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Semiconductors\",\n        \"sentiment_polarity\": { \"score\": -0.2, \"confidence\": 75 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 65 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Disgust\": { \"weight\": 0.1, \"confidence\": 55 },\n            \"Anger\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"U.S. Customs and Border Protection\",\n        \"sentiment_polarity\": { \"score\": 0.1, \"confidence\": 70 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.3, \"confidence\": 65 },\n            \"Trust\": { \"weight\": 0.4, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 55 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 45 },\n            \"Anger\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 65 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745127106,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1173,
+    "prompt_tokens": 1431,
+    "total_tokens": 2604,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

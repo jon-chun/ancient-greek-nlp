@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "US stocks get boost from tariff exemptions but trade war confusion persists",
+    "text_summary_en": "US stocks experienced a boost due to tariff exemptions on electronics imported from China, but uncertainty surrounding the US-China trade war remains. The Dow, S&P 500, and Nasdaq all closed higher after a volatile trading day. The tariff exemptions, issued after a previous tariff hike, do not apply to tariffs related to fentanyl. While tech stocks rallied, Commerce Secretary Lutnick indicated the electronics exemptions are temporary and will face separate levies later. Trump is also considering short-term tariff exemptions for automakers. The market's optimism is tempered by concerns about the economy, as indicated by rising inflation expectations and warnings from financial leaders about a potential recession. The Treasury market's recent volatility and a weakening dollar add to the uncertainty. Oil prices remained relatively stable, while gold prices declined after reaching record highs, reflecting investor demand for safe-haven assets.",
+    "original_filename": "29_investing_investing_us-stock-market_index.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "US Stock Market",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 85,
+        "reasoning": "The market saw gains due to tariff exemptions, but uncertainty and volatility persist, creating a mixed sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Initial market gains contribute to joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Uncertainty reduces trust in stability."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Concerns about recession and market volatility induce fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Unexpected tariff exemptions and market fluctuations generate surprise."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Concerns about economic slowdown contribute to sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust at the unpredictable nature of the situation."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 45,
+          "reasoning": "Frustration with the trade war's impact."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Uncertainty about future trade policies and economic conditions fuels anticipation."
+        }
+      }
+    },
+    {
+      "topic": "US-China Trade War",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The trade war is viewed negatively due to its associated confusion, uncertainty, and potential economic damage."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The trade war is not a source of joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "The trade war erodes trust in trade relations."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 95,
+          "reasoning": "The trade war raises fears about economic consequences."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The unpredictable nature of the trade war generates surprise."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "The trade war's potential economic impact induces sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Disgust at the negative consequences."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "Frustration with the trade war's impact."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Uncertainty about the future of the trade war fuels anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Tariff Exemptions (Electronics)",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 75,
+        "reasoning": "The tariff exemptions are initially positive, but the temporary nature and potential for future levies temper the sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The exemptions provide initial relief and joy."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The temporary nature reduces trust in long-term stability."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Uncertainty about future levies induces some fear."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The exemptions were unexpected."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The temporary nature contributes to some sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 35,
+          "reasoning": "Slight frustration with the temporary nature."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Uncertainty about future levies fuels anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Potential Recession",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The discussion of a potential recession is inherently negative, reflecting concerns about economic slowdown and uncertainty."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Recession is not a source of joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 95,
+          "reasoning": "Recession erodes trust in the economy."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Recession is a significant source of fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The possibility of a recession is surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 97,
+          "reasoning": "Recession induces sadness about economic hardship."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust at the potential negative consequences."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Frustration with the economic situation."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Uncertainty about the future economic outlook fuels anticipation."
+        }
+      }
+    },
+    {
+      "topic": "US Dollar Weakening",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 80,
+        "reasoning": "A weakening dollar is generally viewed negatively, indicating a loss of investor confidence and potential economic instability."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "A weakening dollar is not a source of joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 90,
+          "reasoning": "A weakening dollar erodes trust in the US economy."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "A weakening dollar raises fears about economic consequences."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The weakening dollar may be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "A weakening dollar induces sadness about economic hardship."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Disgust at the potential negative consequences."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Frustration with the economic situation."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Uncertainty about the future value of the dollar fuels anticipation."
+        }
+      }
+    }
+  ]
+}

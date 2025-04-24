@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "\"No one will escape punishment\"... New statement by Trump on tariff exceptions",
+    "text_summary_en": "President Trump clarified the US tariffs on high-tech products from China after a weekend of confusion. He stated that \"no one will escape punishment\" for unfair trade practices, especially China. Trump denied any tariff exemptions were announced, stating the products are subject to existing fentanyl tariffs, just moved to a different category. The Customs and Border Protection had issued a rule exempting some high-tech products from tariffs, which caused optimism in the tech sector. However, Trump administration officials claimed the exemption was temporary, part of a review of national security implications of semiconductor imports. New tariffs will be implemented after the review, which could take one to two months. Trump emphasized the need to manufacture products in the US to avoid being held hostage by other countries, particularly hostile trading partners like China.",
+    "original_filename": "25_cnn-world_20250420-043121.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Donald Trump",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 75,
+        "reasoning": "The sentiment towards Donald Trump is mixed, reflecting both his assertive statements and the confusion surrounding his policies."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal joy is directly expressed or implied."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Some trust from supporters in his trade policies."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Possible fear from those who disagree with his policies or worry about trade wars."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise due to the initial confusion about tariff exemptions."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Limited sadness is directly expressed or implied."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Slight disgust towards perceived unfair trade practices."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "His statements express anger towards unfair trade practices."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Strong anticipation for future actions related to trade policies."
+        }
+      }
+    },
+    {
+      "topic": "US-China Trade Relations",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "The article portrays a tense and competitive relationship, with negative sentiment towards China's trade practices."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No joy is expressed in this context."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Very little trust between the two countries regarding trade."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of trade wars and economic consequences."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some surprise due to policy changes."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Sadness related to potential economic downturn."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Disgust towards perceived unfair trade practices."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Strong anger over perceived unfair trade practices."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of future trade negotiations and actions."
+        }
+      }
+    },
+    {
+      "topic": "Tariffs on High-Tech Products",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 70,
+        "reasoning": "The sentiment is mixed and uncertain, leaning towards negative due to the potential for increased costs and trade tensions."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Initial joy from the exemption, but quickly diminished."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Limited trust in the stability of trade policies."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Fear of increased costs and trade tensions."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise due to the initial exemption and subsequent clarification."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Sadness related to potential economic downturn."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Disgust towards perceived unfairness of the tariffs."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anger from affected industries."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of future tariff changes and trade negotiations."
+        }
+      }
+    },
+    {
+      "topic": "Semiconductor Industry",
+      "sentiment_polarity": {
+        "score": -0.1,
+        "confidence": 65,
+        "reasoning": "The sentiment is neutral to slightly negative, with concerns about the industry's supply chain and reliance on foreign sources."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No joy is expressed in this context."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 40,
+          "reasoning": "Limited trust in the current supply chain."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Fear related to national security implications."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Surprise due to the review."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "Slight sadness related to potential economic downturn."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Limited disgust is directly expressed or implied."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "Slight anger towards reliance on foreign sources."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of future policy changes related to the semiconductor industry."
+        }
+      }
+    }
+  ]
+}

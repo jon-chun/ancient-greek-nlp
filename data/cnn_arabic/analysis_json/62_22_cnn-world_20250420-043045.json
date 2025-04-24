@@ -1,0 +1,309 @@
+{
+  "article_metadata": {
+    "title_en": "\"Don't fight someone 20 times your size\"... Trump responds to Zelensky's request to buy Patriot systems",
+    "text_summary_en": "Former US President Donald Trump acknowledged that Russian President Vladimir Putin started the war against Ukraine but continued to blame Ukrainian President Volodymyr Zelensky and former US President Joe Biden. Trump stated that the war should not have started and that Biden and Zelensky could have stopped it. He also criticized Zelensky's request to purchase more Patriot missile systems, arguing that one should not start a war with someone significantly larger and then expect others to provide assistance. Trump characterized the war as \"Biden's war\" and claimed he is trying to stop it.",
+    "original_filename": "22_cnn-world_20250420-043045.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Donald Trump",
+      "sentiment_polarity": {
+        "score": 0.1,
+        "confidence": 80,
+        "reasoning": "The article presents a mixed view of Trump. He acknowledges Putin started the war but also blames others, creating a somewhat neutral sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No indication of joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some trust due to his former position, but also distrust due to his controversial statements."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Slight fear due to his unpredictable nature."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "His statements are often surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No indication of sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some disgust from those who disagree with his views."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "His blaming of others evokes anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Anticipation regarding his potential future actions."
+        }
+      }
+    },
+    {
+      "topic": "Vladimir Putin",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The article states Trump acknowledges Putin started the war, which is a negative action, thus a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No indication of joy associated with Putin's actions."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No trust given the context."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "High fear due to the war."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some surprise at the scale of the invasion."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "Sadness due to the war and its consequences."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "Disgust at the violence and destruction."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anger at the aggression."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anticipation regarding the future of the conflict."
+        }
+      }
+    },
+    {
+      "topic": "Volodymyr Zelensky",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "Trump blames Zelensky for the war, which is a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with Zelensky's situation."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Some trust as a leader defending his country."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "Fear due to the war."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Limited surprise."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Sadness due to the war and its consequences."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some disgust at the situation."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some anger at the aggression."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation regarding the future of the conflict and his leadership."
+        }
+      }
+    },
+    {
+      "topic": "Joe Biden",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "Trump blames Biden for the war, which is a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with Biden's alleged role."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some trust due to his former position, but also distrust due to Trump's claims."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some fear due to potential implications."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Limited surprise."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness due to the alleged failure to prevent the war."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some disgust at the alleged failure."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger at the alleged failure."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation regarding the political fallout."
+        }
+      }
+    },
+    {
+      "topic": "Russia-Ukraine War",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The war is inherently negative, causing destruction and suffering."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No joy associated with the war."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No trust associated with the war."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 99,
+          "reasoning": "High fear due to the violence and uncertainty."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the scale and duration of the war."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 99,
+          "reasoning": "High sadness due to the loss of life and destruction."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Disgust at the brutality and atrocities."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 99,
+          "reasoning": "High anger at the aggression and injustice."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anticipation regarding the future of the conflict and its global impact."
+        }
+      }
+    },
+    {
+      "topic": "Patriot Missile Systems",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 70,
+        "reasoning": "The request for Patriot missile systems implies a need for defense, suggesting a negative situation but also hope for protection."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Slight joy if the systems provide protection."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trust in the technology to provide defense."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Fear due to the underlying threat that necessitates the systems."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Limited surprise."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some sadness due to the need for such systems."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Limited disgust."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some anger at the situation that necessitates the systems."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation regarding the effectiveness of the systems in providing defense."
+        }
+      }
+    }
+  ]
+}

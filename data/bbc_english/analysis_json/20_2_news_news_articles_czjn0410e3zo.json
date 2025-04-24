@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "Thousands Join Anti-Trump Protests Across US",
+    "text_summary_en": "Thousands of people protested against President Trump's recent actions across the US, coinciding with the 250th anniversary of the American Revolutionary War. The protests, known as \"50501,\" addressed various grievances, including the deportation of Kilmar Ábrego García and Trump's government efficiency initiative. While protests were mainly peaceful, one incident involved a confrontation with a Democrat representative. Trump's approval ratings have slightly decreased since he took office, especially regarding his handling of the economy. The article also mentions larger nationwide protests earlier in the month. The protests reflect growing opposition to Trump's policies and performance, with demonstrators expressing concerns about liberty and government actions.",
+    "original_filename": "2_news_news_articles_czjn0410e3zo.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Anti-Trump Protests",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The protests are explicitly against Trump, indicating a negative sentiment. The article mentions 'grievances' and 'opposition,' further supporting this."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Protests are generally not joyful events."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Low trust in the current administration is implied."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Protesters are likely fearful of the consequences of Trump's policies."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The scale of the protests might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness about the current state of affairs and the deportation of Ábrego García."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Disgust at Trump's policies and actions."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger is a primary motivator for protesting."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation for a change in government or policy."
+        }
+      }
+    },
+    {
+      "topic": "Donald Trump's Performance",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "The article presents a mixed view. His approval ratings are mentioned, showing some support, but also a decline and comparison to historical averages, suggesting criticism. Overall, slightly negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some supporters may feel joy, but overall low."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some voters still trust him."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Opponents fear his policies."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "His performance might surprise some."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Disappointment from some voters."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Disgust from opponents."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anger from those who disapprove."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anticipation for future changes."
+        }
+      }
+    },
+    {
+      "topic": "Kilmar Ábrego García's Deportation",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "The deportation is presented as a mistake and a grievance, indicating a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with deportation."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Lack of trust in the system that led to the deportation."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear for Ábrego García's safety and the precedent it sets."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The deportation might have been unexpected."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Sadness for Ábrego García and his situation."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Disgust at the perceived injustice."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at the deportation process."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Hope for his return."
+        }
+      }
+    },
+    {
+      "topic": "US Economy under Trump",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 85,
+        "reasoning": "The article mentions a dip in approval regarding Trump's performance on the economy, indicating a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Some may be satisfied, but overall low."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Limited trust in Trump's economic policies."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of economic downturn."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Economic fluctuations can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness about economic hardship."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Disgust at perceived mismanagement."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at economic policies."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Hope for economic improvement."
+        }
+      }
+    }
+  ]
+}

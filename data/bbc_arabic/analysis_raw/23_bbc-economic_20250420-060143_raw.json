@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOIFbrko8iqsTzVOaYVS89LfMZDMT",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nThousands of Protesters Gather in U.S. Cities Against Trump's Policies\n\n### English Text Summary:\nThousands of protesters gathered in various U.S. cities to express their opposition to President Donald Trump's policies, marking the largest wave of protests since he took office. Organized under the slogan \"Hands Off,\" events were planned in around 1,200 locations across all 50 states. Demonstrators voiced their concerns over Trump's policies affecting social and economic issues, particularly after he announced tariffs on imports. The protests also extended internationally, with solidarity events in cities like London and Paris. Critics highlighted Trump's authoritarian governance style and the influence of wealthy donors, including Elon Musk. Amidst declining approval ratings for Trump, the protests reflect growing discontent with his administration's actions.\n\n[\n    {\n        \"topic\": \"Protests Against Trump\",\n        \"sentiment_polarity\": { \"score\": -0.8, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Anger\": { \"weight\": 0.9, \"confidence\": 95 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 85 }\n        }\n    },\n    {\n        \"topic\": \"Donald Trump\",\n        \"sentiment_polarity\": { \"score\": -0.7, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.8, \"confidence\": 90 },\n            \"Anger\": { \"weight\": 0.9, \"confidence\": 95 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 85 }\n        }\n    },\n    {\n        \"topic\": \"Elon Musk\",\n        \"sentiment_polarity\": { \"score\": -0.6, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 65 },\n            \"Fear\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Disgust\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Anger\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Tariffs on Imports\",\n        \"sentiment_polarity\": { \"score\": -0.5, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.4, \"confidence\": 70 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Democratic Congress Members\",\n        \"sentiment_polarity\": { \"score\": 0.4, \"confidence\": 75 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.5, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.6, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 65 },\n            \"Sadness\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Disgust\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Anger\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Anticipation\": { \"weight\": 0.7, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"International Protests\",\n        \"sentiment_polarity\": { \"score\": -0.4, \"confidence\": 75 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.4, \"confidence\": 65 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.4, \"confidence\": 70 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Public Sentiment on Trump\",\n        \"sentiment_polarity\": { \"score\": -0.5, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 65 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.4, \"confidence\": 70 },\n            \"Disgust\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Anger\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745129727,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1574,
+    "prompt_tokens": 2967,
+    "total_tokens": 4541,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

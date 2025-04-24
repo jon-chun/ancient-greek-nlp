@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Opinion.. Omar Harkous writes: Farewell to the \"Alhurra\" story",
+    "text_summary_en": "This article is an opinion piece by Lebanese journalist and writer Omar Harkous, reflecting on his seven years working at Alhurra TV. He describes the challenges of reporting on news, revolutions, wars, protests, and explosions, while striving for neutrality and objectivity, but always siding with victims. He recounts the establishment of the news department in Dubai, the pursuit of truth amidst competition, and the constant changes influenced by political shifts in Washington. He highlights the threats faced by colleagues on the ground, requiring caution when covering sensitive issues. He mentions specific cases in Iraq, Beirut, and Sudan, as well as the coverage of events in Iran and Gaza. The author emphasizes Alhurra's commitment to covering topics often avoided in Arab media, such as the plight of the Yazidis and Baha'is, and the conflicts in Syria and Palestine. He concludes by lamenting the closure of Alhurra after 21 years, attributing it to the influence of Donald Trump.",
+    "original_filename": "17_cnn-world_20250420-042936.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Alhurra TV",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "The article expresses sadness and regret over the closure of Alhurra, referring to it as 'انتهت' (ended) and 'من الماضي' (from the past). While acknowledging its past efforts, the overall sentiment is negative due to its demise."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Limited joy, primarily related to past achievements."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The author expresses trust in the channel's past commitment to truth and objectivity, mentioning 'البحث عن الحقيقة' (the search for truth)."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Some fear is implied due to the threats faced by journalists."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the sudden closure after 21 years."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The dominant emotion is sadness over the station's closure, expressed through phrases like 'وداعاً' (farewell) and 'انتهت' (ended)."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal disgust, perhaps related to the political influences that led to its closure."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Some anger is directed towards the circumstances leading to the closure, possibly linked to Trump's influence."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Little anticipation, as the focus is on the past and the present closure."
+        }
+      }
+    },
+    {
+      "topic": "Omar Harkous's Experience",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 70,
+        "reasoning": "The author reflects positively on his experiences, highlighting the challenges and achievements of working at Alhurra. The phrase '7 أعوام مليئة' (7 years full of) suggests a rich and meaningful experience, though not without difficulties."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Joy associated with the accomplishments and impact of his work."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in his own commitment to journalistic integrity and the pursuit of truth."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fear stemming from the threats faced by journalists and the challenges of reporting in conflict zones."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some surprise at the unexpected events and changes he witnessed."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness related to the suffering he witnessed and the eventual closure of the channel."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal disgust, possibly towards the political forces at play."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some anger at the injustices and challenges he encountered."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation for a future where justice and freedom prevail."
+        }
+      }
+    },
+    {
+      "topic": "Donald Trump",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The article directly blames Trump's influence for the closure of Alhurra, stating 'ولم تستطع الصمود أمام قبضة ترامب القاضية' (and it could not withstand Trump's decisive grip). This indicates a strong negative sentiment towards Trump."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with Trump in this context."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Very little trust is implied, given the negative portrayal."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of the consequences of Trump's actions on the media landscape."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some surprise at the extent of Trump's influence."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Sadness over the negative impact of Trump's policies."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Strong disgust towards Trump's perceived role in the closure."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Significant anger directed at Trump for his actions."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Uncertainty about the future under Trump's influence."
+        }
+      }
+    },
+    {
+      "topic": "Conflicts and Suffering (Iraq, Beirut, Sudan, Iran, Gaza)",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The article describes numerous instances of violence, death, and suffering in various countries, including 'قتلى انفجار المرفأ' (victims of the port explosion), 'المتظاهرين في السودان حين هاجمهم العسكر' (the protesters in Sudan when the military attacked them), and 'أهالي غزة منذ اليوم الأسود المشؤوم' (the people of Gaza since the ominous black day). These descriptions evoke a strong negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No joy associated with these events."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal trust in the systems to resolve these conflicts."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High fear due to the violence and instability described."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the scale and brutality of some of the events."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Overwhelming sadness due to the loss of life and suffering."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Disgust at the perpetrators of violence and injustice."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 92,
+          "reasoning": "Significant anger directed at those responsible for the suffering."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Very little anticipation of positive outcomes in the short term."
+        }
+      }
+    },
+    {
+      "topic": "Search for Truth and Objectivity",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 80,
+        "reasoning": "The author emphasizes the commitment to 'البحث عن الحقيقة' (the search for truth) and striving for neutrality and objectivity, suggesting a positive sentiment towards these values. However, the challenges and compromises mentioned temper this positivity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Joy associated with the pursuit of truth and the impact of their reporting."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High trust in the importance of truth and objectivity in journalism."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Fear of the consequences of reporting truthfully in dangerous situations."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal surprise, as the pursuit of truth is presented as a core value."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness related to the challenges and limitations in achieving complete objectivity."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal disgust, possibly towards those who obstruct the truth."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some anger at the obstacles to truthful reporting."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation for a future where truth and justice prevail."
+        }
+      }
+    }
+  ]
+}

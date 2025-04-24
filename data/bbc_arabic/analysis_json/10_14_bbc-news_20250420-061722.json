@@ -1,0 +1,309 @@
+{
+  "article_metadata": {
+    "title_en": "Washington Threatens to \"Abandon\" Talks to Stop the War in Ukraine if No Progress is Made",
+    "text_summary_en": "The US, under President Trump, threatens to withdraw from mediating peace talks between Ukraine and Russia if no progress is made. Secretary of State Rubio warns of other priorities. The backdrop is continued Russian strikes on Ukrainian cities, with casualties reported. Russia has set conditions for a ceasefire, and while the US initially expressed confidence in securing a quick agreement, a full ceasefire hasn't been achieved. The US blames both sides. A potential deal involving Ukrainian minerals and infrastructure is under discussion, but faces resistance and complexities. Zelenskyy seeks security guarantees in any ceasefire agreement. A memorandum of intent for an investment fund has been signed. Discussions continue at various levels, including meetings between US and Ukrainian officials in Paris.",
+    "original_filename": "14_bbc-news_20250420-061722.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "US Mediation in Ukraine-Russia War",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "The sentiment is somewhat negative due to the threat of withdrawal, indicating potential failure. The phrase 'التخلي' (abandon) carries negative connotations. However, the article also mentions attempts at mediation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is expressed in the context of potential mediation failure."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Low trust due to the threat of withdrawal."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Fear of escalation or continued conflict if mediation fails."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise at the potential withdrawal after initial confidence."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Sadness at the prospect of failed peace talks."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Slight disgust at the lack of progress."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Anger at the parties for making it difficult to reach an agreement."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of either success or failure of the mediation."
+        }
+      }
+    },
+    {
+      "topic": "Donald Trump's Stance on the War",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 80,
+        "reasoning": "Trump's stance is presented as decisive but also potentially impatient. The threat to 'abandon' talks suggests a negative outlook if his conditions are not met."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal joy, mostly related to the hypothetical stopping of the war."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Low trust due to the uncertainty of his approach."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fear of unpredictable actions."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at his strong statements and potential actions."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sadness at the potential for continued conflict."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Anger potentially directed towards the parties involved in the conflict."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "High anticipation due to his promises and potential actions."
+        }
+      }
+    },
+    {
+      "topic": "Russian Strikes on Ukraine",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "This topic is clearly negative due to the violence and casualties. The text mentions 'الضربات الروسية على أوكرانيا' (Russian strikes on Ukraine), 'قُتل شخصان وأصيب أكثر من 100' (two people were killed and more than 100 injured)."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No joy associated with violence."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No trust in the context of attacks."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High fear due to the ongoing attacks and casualties."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise at the continued attacks despite mediation efforts."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High sadness due to the loss of life and injuries."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Disgust at the violence and destruction."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High anger towards the aggressor."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Low anticipation, mostly related to potential future attacks."
+        }
+      }
+    },
+    {
+      "topic": "Potential Deal on Ukrainian Minerals and Infrastructure",
+      "sentiment_polarity": {
+        "score": 0.1,
+        "confidence": 70,
+        "reasoning": "The sentiment is mixed. While a deal could be positive for Ukraine's reconstruction, the potential for US control over key infrastructure raises concerns. The phrase 'السيطرة على البنية التحتية للطاقة' (control over energy infrastructure) suggests potential exploitation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Joy at the prospect of reconstruction."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust in the potential benefits of the deal."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear of exploitation and loss of control."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Surprise at the scope of the deal."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sadness at the potential for unfavorable terms."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Slight disgust at potential exploitation."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anger at the potential for unfair terms."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "High anticipation of the deal's outcome."
+        }
+      }
+    },
+    {
+      "topic": "Zelenskyy's Need for Security Guarantees",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 75,
+        "reasoning": "The sentiment is somewhat positive but also anxious. Zelenskyy's desire for security guarantees is understandable given the situation, but it also highlights the ongoing threat and uncertainty. The phrase 'وقف إطلاق النار بدون ضمانات أمنية يشكل خطراً على أوكرانيا' (a ceasefire without security guarantees poses a danger to Ukraine) clearly expresses concern."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal joy, related to the potential for a ceasefire."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Low trust in the absence of guarantees."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High fear of renewed aggression without guarantees."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Sadness at the potential for continued conflict."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anger towards the aggressor."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "High anticipation of the outcome of negotiations."
+        }
+      }
+    },
+    {
+      "topic": "Dmitry Peskov's Statements",
+      "sentiment_polarity": {
+        "score": 0.1,
+        "confidence": 70,
+        "reasoning": "Peskov's statements are presented as cautiously optimistic but also acknowledging difficulties. Phrases like 'المفاوضات الجارية صعبة للغاية' (ongoing negotiations are very difficult) and 'الجانب الروسي يسعى إلى التوصل إلى تسوية سلمية' (the Russian side seeks a peaceful settlement) create a mixed sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal joy, related to the potential for a peaceful resolution."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Moderate trust due to the stated desire for a peaceful settlement."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fear of continued conflict despite negotiations."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness at the ongoing conflict."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anger potentially directed towards the opposing side."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "High anticipation of the outcome of negotiations."
+        }
+      }
+    }
+  ]
+}

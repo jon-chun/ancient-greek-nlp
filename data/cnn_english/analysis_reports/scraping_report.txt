@@ -1,0 +1,518 @@
+CNN Scraping Report
+Generated: 2025-04-20 11:05:26 EDT
+==============================
+
+Successful Downloads (42):
+-------------------------
+  File:  1_us_us_parkland-florida-state-university-shooting_index.txt
+  URL:   https://www.cnn.com/2025/04/19/us/parkland-florida-state-university-shooting/index.html
+  Title: These Parkland students experienced their second deadly school shooting in 7 years
+
+  File:  2_us_us_easter-christianity-resistance-movement-cec_index.txt
+  URL:   https://www.cnn.com/2025/04/20/us/easter-christianity-resistance-movement-cec/index.html
+  Title: Before Easter became a holy day, it was the beginning of the Resistance
+
+  File:  3_business_business_four-twenty-deals-restaurant-discounts_index.txt
+  URL:   https://www.cnn.com/2025/04/20/business/four-twenty-deals-restaurant-discounts/index.html
+  Title: It’s 4/20: Here’s where to score some food deals
+
+  File:  4_us_us_international-students-universities-funding-trump_index.txt
+  URL:   https://www.cnn.com/2025/04/18/us/international-students-universities-funding-trump/index.html
+  Title: Already facing Trump administration cuts, US colleges risk losses from another revenue source: foreign students
+
+  File:  5_us_us_visa-revoked-students-trump-ice_index.txt
+  URL:   https://www.cnn.com/2025/04/19/us/visa-revoked-students-trump-ice/index.html
+  Title: International students are being told by email that their visas are revoked and that they must ‘self-deport.’ What to know
+
+  File:  6_politics_politics_chris-van-hollen-kilmar-abrego-garcia_index.txt
+  URL:   https://www.cnn.com/2025/04/20/politics/chris-van-hollen-kilmar-abrego-garcia/index.html
+  Title: Sen. Chris Van Hollen argues Trump administration’s actions in Abrego Garcia case ‘threaten everybody’s rights’
+
+  File:  7_business_business_whats-open-and-closed-on-easter-day-2025_index.txt
+  URL:   https://www.cnn.com/2025/04/19/business/whats-open-and-closed-on-easter-day-2025/index.html
+  Title: What’s open and closed on Easter Day 2025
+
+  File:  8_us_us_lopez-gomez-citizen-detained-ice-florida_index.txt
+  URL:   https://www.cnn.com/2025/04/17/us/lopez-gomez-citizen-detained-ice-florida/index.html
+  Title: Mid-commute traffic stop left US citizen detained under an ICE order. Then, a Florida judge verified his US birth certificate
+
+  File:  9_us_us_international-visa-revocations-traffic-stops_index.txt
+  URL:   https://www.cnn.com/2025/04/16/us/international-visa-revocations-traffic-stops/index.html
+  Title: Judge issues temporary restraining order against deportation of more than 100 international students whose visas were revoked
+
+  File:  10_us_us_florida-state-university-shooting-phoenix-ikner-invs_index.txt
+  URL:   https://www.cnn.com/2025/04/17/us/florida-state-university-shooting-phoenix-ikner-invs/index.html
+  Title: What we know about the Florida State University shooting suspect
+
+  File:  11_us_us_gun-fsu-shooting-suspect-mother_index.txt
+  URL:   https://www.cnn.com/2025/04/20/us/gun-fsu-shooting-suspect-mother/index.html
+  Title: ‘It’s all about what was known and when’: Will the mother of FSU shooting suspect face charges?
+
+  File:  12_us_us_harvard-kristi-noem-international-students_index.txt
+  URL:   https://www.cnn.com/2025/04/16/us/harvard-kristi-noem-international-students/index.html
+  Title: DHS threatens to revoke Harvard’s eligibility to host foreign students amid broader battle over universities’ autonomy
+
+  File:  13_economy_economy_us-small-businesses-tariffs_index.txt
+  URL:   https://www.cnn.com/2025/04/20/economy/us-small-businesses-tariffs/index.html
+  Title: ‘Chaotic’ tariff regime and trade war are leaving small businesses in their wake
+
+  File:  14_us_us_what-we-know-victims-florida-state-university-shooting_index.txt
+  URL:   https://www.cnn.com/2025/04/18/us/what-we-know-victims-florida-state-university-shooting/index.html
+  Title: A loving father of two and a dining coordinator dedicated to service were killed in the Florida State University shooting
+
+  File:  15_tv_tv_schedule_cnn.txt
+  URL:   https://www.cnn.com/tv/schedule/cnn
+  Title: TV Schedule
+
+  File:  16_us_us_trump-funding-cut-native-american-abuse-hnk_index.txt
+  URL:   https://www.cnn.com/2025/04/19/us/trump-funding-cut-native-american-abuse-hnk/index.html
+  Title: Trump administration makes major cuts to Native American boarding school research projects
+
+  File:  17_us_us_us-citizen-detained-canada_index.txt
+  URL:   https://www.cnn.com/2025/04/18/us/us-citizen-detained-canada/index.html
+  Title: US citizen says he and his wife detained without explanation after returning from Canada
+
+  File:  18_politics_politics_boasberg-deportation-flights-alien-enemies-act_index.txt
+  URL:   https://www.cnn.com/2025/04/18/politics/boasberg-deportation-flights-alien-enemies-act/index.html
+  Title: Supreme Court temporarily pauses deportations under Alien Enemies Act
+
+  File:  19_success_success_last-minute-tax-filing-tips_index.txt
+  URL:   https://www.cnn.com/2025/04/13/success/last-minute-tax-filing-tips/index.html
+  Title: It’s Tax Day. Still haven’t filed? Tips on how to get an extension and more
+
+  File:  20_tech_tech_nvidia-plunge-h20-chip-china-export-intl-hnk_index.txt
+  URL:   https://www.cnn.com/2025/04/16/tech/nvidia-plunge-h20-chip-china-export-intl-hnk/index.html
+  Title: Nvidia, caught in the US-China trade war, takes a $5.5 billion hit
+
+  File:  21_business_business_tariffs-economy-trump-china_index.txt
+  URL:   https://www.cnn.com/2025/04/13/business/tariffs-economy-trump-china/index.html
+  Title: Trump official says tariff exemptions on tech are temporary. Elizabeth Warren calls trade war ‘red light, green light’ game
+
+  File:  22_business_business_capital-one-discover-merger-conditional-approval_index.txt
+  URL:   https://www.cnn.com/2025/04/18/business/capital-one-discover-merger-conditional-approval/index.html
+  Title: The Capital One merger with Discover just cleared a major hurdle
+
+  File:  23_business_business_zelle-cash-transferring-app-shuts-down_index.txt
+  URL:   https://www.cnn.com/2025/04/03/business/zelle-cash-transferring-app-shuts-down/index.html
+  Title: Zelle is shutting down its app. Here’s how you can still use the payment service
+
+  File:  24_business_business_ford-car-prices-tariffs_index.txt
+  URL:   https://www.cnn.com/2025/04/17/business/ford-car-prices-tariffs/index.html
+  Title: Ford tells dealers prices could go up in June if Trump’s tariffs remain
+
+  File:  25_business_business_dhl-global-shipments-us-suspension-intl-hnk_index.txt
+  URL:   https://www.cnn.com/2025/04/20/business/dhl-global-shipments-us-suspension-intl-hnk/index.html
+  Title: DHL to suspend global shipments of over $800 to US consumers
+
+  File:  26_economy_economy_trump-tariffs-whats-next-economy_index.txt
+  URL:   https://www.cnn.com/2025/04/09/economy/trump-tariffs-whats-next-economy/index.html
+  Title: The next round of Trump’s tariffs could hurt even more. Here’s what to expect
+
+  File:  27_economy_economy_recession-trump-tariffs-intl_index.txt
+  URL:   https://www.cnn.com/2025/04/04/economy/recession-trump-tariffs-intl/index.html
+  Title: Trump’s tariffs will be bad for you. And you, and you, and you, and you
+
+  File:  28_business_business_yiwu-china-market-impact-trump-tariffs-intl-hnk-dst_index.txt
+  URL:   https://www.cnn.com/2025/04/18/business/yiwu-china-market-impact-trump-tariffs-intl-hnk-dst/index.html
+  Title: In China’s ‘Christmas Town,’ Trump’s tariffs are dimming the lights
+
+  File:  29_investing_investing_us-stock-market_index.txt
+  URL:   https://www.cnn.com/2025/04/14/investing/us-stock-market/index.html
+  Title: US stocks get boost from tariff exemptions but trade war confusion persists
+
+  File:  30_tech_tech_trump-tariffs-china-tech-products-price_index.txt
+  URL:   https://www.cnn.com/2025/04/16/tech/trump-tariffs-china-tech-products-price/index.html
+  Title: ‘It’s going to be the small stuff’: Trump’s tariffs could make cheap tech gadgets not so cheap
+
+  File:  31_economy_economy_global-trade-relationships-trump-tariffs_index.txt
+  URL:   https://www.cnn.com/2025/04/18/economy/global-trade-relationships-trump-tariffs/index.html
+  Title: Trump wants his tariffs to reset the world. He might get his wish
+
+  File:  32_business_business_stock-futures-trump-tariffs_index.txt
+  URL:   https://www.cnn.com/2025/04/13/business/stock-futures-trump-tariffs/index.html
+  Title: US stock futures rise amid temporary tariff exemptions for tech products
+
+  File:  33_media_media_white-house-pool-wire-services-ap-reuters-bloomberg_index.txt
+  URL:   https://www.cnn.com/2025/04/15/media/white-house-pool-wire-services-ap-reuters-bloomberg/index.html
+  Title: The Trump White House is axing the wire service spot from the coverage pool, the latest salvo in its battle with the AP
+
+  File:  34_media_media_pbs-npr-funding-fight_index.txt
+  URL:   https://www.cnn.com/2025/04/16/media/pbs-npr-funding-fight/index.html
+  Title: PBS and NPR are in a once-in-a-generation funding fight. They might well lose
+
+  File:  35_media_media_meta-ftc-trial_index.txt
+  URL:   https://www.cnn.com/2025/04/14/media/meta-ftc-trial/index.html
+  Title: If Meta loses in antitrust case, it could be forced to break itself up by selling Instagram and WhatsApp
+
+  File:  36_food_food_taco-bell-chicken-nuggets-return-date_index.txt
+  URL:   https://www.cnn.com/2025/04/17/food/taco-bell-chicken-nuggets-return-date/index.html
+  Title: Taco Bell is bringing back a wildly popular menu item
+
+  File:  37_business_business_china-us-decoupling-trade-war-nightcap_index.txt
+  URL:   https://www.cnn.com/2025/04/16/business/china-us-decoupling-trade-war-nightcap/index.html
+  Title: The US–China ‘decoupling’ would be a messy divorce
+
+  File:  38_business_business_ray-dalio-recession-trump-tariffs-intl_index.txt
+  URL:   https://www.cnn.com/2025/04/14/business/ray-dalio-recession-trump-tariffs-intl/index.html
+  Title: Billionaire Ray Dalio is worried Trump’s tariff war could spark ‘something worse’ than a recession
+
+  File:  39_middleeast_middleeast_us-iran-nuclear-talks-what-we-know-intl_index.txt
+  URL:   https://www.cnn.com/2025/04/18/middleeast/us-iran-nuclear-talks-what-we-know-intl/index.html
+  Title: The US and Iran concluded a second round of nuclear talks. Here’s what we know
+
+  File:  40_middleeast_middleeast_israel-proposes-gaza-ceasefire-deal-to-release-hostages-intl_index.txt
+  URL:   https://www.cnn.com/2025/04/15/middleeast/israel-proposes-gaza-ceasefire-deal-to-release-hostages-intl/index.html
+  Title: Israel proposes Gaza ceasefire deal to release 10 hostages for hundreds of Palestinians, Hamas says
+
+  File:  41_middleeast_middleeast_hamas-agrees-to-egyptian-ceasefire-proposal-israel-counters_index.txt
+  URL:   https://www.cnn.com/2025/03/29/middleeast/hamas-agrees-to-egyptian-ceasefire-proposal-israel-counters/index.html
+  Title: Hamas agrees to Egyptian ceasefire proposal, Israel counters
+
+  File:  42_middleeast_middleeast_dozens-killed-us-airstrikes-yemen-intl-hnk_index.txt
+  URL:   https://www.cnn.com/2025/04/18/middleeast/dozens-killed-us-airstrikes-yemen-intl-hnk/index.html
+  Title: Yemen’s Houthis vow to continue attacks after more than 70 killed in US airstrikes on port
+
+Failed Attempts (114):
+--------------------
+  URL:    https://www.cnn.com/2024/03/01/tech/aiscout-app-soccer-scouting-spc-intl/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2024/07/27/success/fed-interest-rate-cuts-debt-savings/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2024/10/04/success/job-interview-how-to-do-well-gen-z-wellness/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/03/30/middleeast/syria-new-transitional-government-intl-hnk/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/03/31/middleeast/aid-workers-found-gaza-mass-grave-intl-hnk/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/03/31/middleeast/israel-netanyahu-strategy-gaza-future-intl/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/03/31/middleeast/uae-death-sentences-killing-zvi-kogan-intl-latam/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/01/middleeast/uday-rabie-palestinian-tortured-hamas-intl-latam/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/02/middleeast/israel-expands-military-operations-gaza-intl-hnk/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/03/middleeast/netanyahu-israel-gaza-dividing-morag-intl/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/06/middleeast/iran-deputy-fired-antarctica-trip-shahram-dabiri-intl-latam/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/06/middleeast/palestinian-teen-malnutrition-death-intl/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/07/middleeast/gaza-aid-workers-killed-audio-intl-invs/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/07/middleeast/israel-gaza-buffer-zone-troops-intl/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/10/middleeast/ahmad-manasra-release-intl-latam/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/10/middleeast/israeli-military-fires-air-force-reservists-who-publicly-called-for-immediate-hostage-return-intl/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/12/middleeast/israel-gaza-offensive-displaced-rafah-intl/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/13/food/marshmallow-egg-easter-coloring-kits/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/14/business/video/khan-former-ftc-zuckerberg-meta-antitrust-monopoly-digvid
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/14/media/trump-fcc-60-minutes-cbs/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/14/media/zuckerberg-meta-monopoly-trial/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/15/business/video/how-to-lower-interest-rates-digvid
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/15/business/video/jon-stewart-daily-show-trump-oval-office-gold-digvid
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/15/business/video/the-lead-greg-ahearn-toys-christmas-president-trump-tariffs-china-jake-tapper
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/15/middleeast/israeli-ministers-accuse-shin-bet-chief-of-waging-political-vendetta-intl/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/16/tech/zoom-down-outage/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/17/business/video/the-economist-donald-trump-jerome-powell-nn-digvid
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/17/economy/ecb-cuts-interest-rates-tariffs-intl/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/17/investing/us-stock-market/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/17/tech/google-adtech-trial-decision/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/17/us/video/florida-state-university-shooting-student-cnc-digvid
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/17/us/video/fsu-shooting-woman-shot-student-witness-heeter-intv-digvid
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/18/business/scammers-are-texting-drivers-about-unpaid-tolls-causing-chaos-amongst-some-consumers/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/18/business/tesla-black-worker-harassment-settlement-intl/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/18/business/video/google-monopoly-shelly-palmer-intv-ctw-041810aseg1-cnni-business-fast
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/18/business/video/hong-kong-kai-tak-stadium-airport-marketplace-asia-hnk-spc-intl
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/18/business/video/mme-clicks
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/18/business/video/spc-marketplace-middle-east-b
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/18/middleeast/fatima-hassouna-killed-israeli-airstrike-gaza-intl-latam/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/18/us/bryan-kohberger-idaho-murder-trial-autism/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/18/us/student-voices-fsu-shooting-gun-violence/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/18/us/tufts-student-detained-vermont-louisiana/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/18/us/video/bride-wedding-driver-speeding-car-ldn-digvid
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/18/us/video/community-helps-bookstore-move-digvid
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/18/us/video/fsu-president-richard-mccullough-phoenix-ikner-suspect-digvid
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/18/us/video/southern-border-kids-legal-services-alvarez-digvid
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/19/middleeast/israel-netanyahu-war-gaza-intl-latam/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/19/politics/video/trump-immigration-stance-hignfy-digvid
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/19/us/50501-protests-trump-administration/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/19/us/florida-state-university-shooting-what-we-know/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/19/us/harvard-trump-administration-letter-mistake/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/19/us/oklahoma-city-bombing-30-years/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/19/us/video/cody-blamer-911-phone-call-josh-shaprio-pennsylvania-digvid
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/19/us/video/smr-irs-faces-massive-cuts-as-audit-rates-plunge
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/19/us/video/smr-nyt-reports-trumpofficial-sent-letter-to-harvard-by-mistake
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/19/us/visual-timeline-fsu-shooting/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/20/business/boeing-china-trump-tariffs/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/20/business/boeing-china-trump-tariffs/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/20/media/elon-musk-interviews-media/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/20/media/elon-musk-interviews-media/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/20/middleeast/israeli-military-professional-failures-gaza-medics-intl/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/20/politics/democrat-crisis-recruitment-campaigns/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/20/politics/medicaid-expansion-congress-gop-budget/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/20/us/anne-marie-hochhalter-columbine-shooting-anniversary/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/2025/04/20/us/start-your-week-smart-5-things-for-april-20-earth-day-pope-francis-alien-enemies-act-ukraine-russia-truce-50501-protests/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/business/markets/fear-and-greed/index.html
+  Reason: Fetch Error (HTTP Error 404 Not Found)
+
+  URL:    https://www.cnn.com/business/markets/nightcap
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/business/markets/nightcap
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/business/tech/foreseeable-future
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/business/tech/foreseeable-future
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/business/tech/innovate
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/business/tech/innovate
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/business/tech/innovate
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/business/tech/innovative-cities
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/business/tech/innovative-cities
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/business/tech/innovative-cities
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/business/tech/mission-ahead
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/business/tech/mission-ahead
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/business/tech/mission-ahead
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/games/play/cnn-crossword
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/games/play/cnn-crossword
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/games/play/cnn-crossword
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/games/play/gd-sudoku-a197ee3904d04e9d8b64dcd9fa3ace63
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/games/play/gd-sudoku-a197ee3904d04e9d8b64dcd9fa3ace63
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/games/play/gd-sudoku-a197ee3904d04e9d8b64dcd9fa3ace63
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/games/play/jumble-crossword-daily
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/games/play/jumble-crossword-daily
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/games/play/jumble-crossword-daily
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/games/play/sudoblock
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/games/play/sudoblock
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/games/play/sudoblock
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/health/life-but-better/fitness
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/health/life-but-better/fitness
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/health/life-but-better/fitness
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/health/life-but-better/food
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/health/life-but-better/food
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/health/life-but-better/mindfulness
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/health/life-but-better/mindfulness
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/health/life-but-better/mindfulness
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/health/life-but-better/relationships
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/health/life-but-better/relationships
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/health/life-but-better/relationships
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/health/life-but-better/sleep
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/health/life-but-better/sleep
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/subscription/video/flashdocs/library
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/subscription/video/flashdocs/library
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/subscription/video/flashdocs/library
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/us/live-news/fsu-campus-shooting-04-17-25/index.html
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/world/europe/ukraine
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/world/europe/ukraine
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/world/europe/ukraine
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/world/middleeast/israel
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/world/middleeast/israel
+  Reason: Keywords Not Found
+
+  URL:    https://www.cnn.com/world/middleeast/israel
+  Reason: Keywords Not Found
+

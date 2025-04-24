@@ -1,0 +1,10 @@
+###FORMAT:
+Title: Watch DeepSeek AI bot respond to question about China
+URL: https://www.bbc.com/news/videos/c77rd5ddxn8o
+Scraped Date: 2025-04-20 12:51:47
+Published Date: 2025-01-28
+
+--- Text ---
+Watch DeepSeek AI bot respond to question about China
+An AI-powered chatbot by the Chinese company DeepSeek has quickly become the most downloaded free app on Apple's store, following its January release in the US.
+The app has sparked chaos in the US markets and raised questions about the future of America's AI dominance. The BBC takes a look at how the app works.

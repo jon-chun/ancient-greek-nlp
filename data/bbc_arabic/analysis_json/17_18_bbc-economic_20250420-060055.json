@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Fears of Trump's Tariffs Deal a Blow to the Saudi Economy: \"The Biggest in 5 Years\"",
+    "text_summary_en": "The Saudi financial market experienced its biggest hit in 5 years following US President Donald Trump's imposition of tariffs on Saudi Arabian exports. The Saudi stock exchange fell by 6.78%, its largest drop since the COVID pandemic, triggering investor panic. The Saudi stock index lost approximately 800 points. While there was a partial recovery on Monday, several sectors, including public utilities, banking, telecommunications, and energy, experienced significant declines. Saudi Aramco's stock also fell. The tariffs, reportedly 10% on Saudi products, prompted declines in European and Asian stock markets as well. Experts suggest the tariffs are impacting the Saudi economy, with market losses exceeding 540 billion riyals. Some analysts view the tariffs as a tool for fair trade and potentially negotiable, while others anticipate retaliatory measures from Saudi Arabia. Despite the challenges, some see opportunities for strengthened trade relations and investment. The Saudi economy, the largest in the Arab world, is pursuing diversification under its \"Vision 2030\" plan.",
+    "original_filename": "18_bbc-economic_20250420-060055.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Saudi Financial Market",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The article describes the market experiencing 'the biggest hit in 5 years' and a significant drop of 6.78%. Phrases like 'state of panic' among investors indicate a negative sentiment. The phrase 'جلسة دامية' (bloody session) further reinforces the negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal joy is present as the market experiences a downturn. The slight recovery offers a glimmer of hope, but not enough to significantly increase the joy emotion."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Trust in the stability of the market is shaken, as evidenced by the investor panic. The recovery provides a small boost to trust, but overall it remains low."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Fear is a dominant emotion due to the significant market drop and investor panic. The phrase 'حالة من الهلع' (state of panic) explicitly indicates fear."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The sudden imposition of tariffs and the subsequent market reaction likely caused surprise among investors and analysts. The magnitude of the drop was unexpected."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Sadness is present due to the financial losses experienced by investors and the overall negative impact on the Saudi economy. The term 'خسائر' (losses) contributes to this emotion."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "There might be some disgust or resentment towards the tariffs, but it's not a primary emotion. The article doesn't focus on strong negative feelings towards the policy itself."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger could be directed at the tariffs and their impact. However, the article focuses more on the economic consequences rather than expressing explicit anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "There's anticipation regarding the future impact of the tariffs and potential responses from Saudi Arabia, including possible negotiations or retaliatory measures. The discussion of 'مجال للتفاوض' (room for negotiation) and potential counter-tariffs contributes to this emotion."
+        }
+      }
+    },
+    {
+      "topic": "Donald Trump's Tariffs",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "The tariffs are presented as the cause of the negative economic impact on Saudi Arabia, leading to a negative sentiment. The article highlights the 'ثقلها على الأسواق العالمية وعلى الأسواق السعودية تحديداً' (weight on global markets and Saudi markets specifically), indicating a negative impact."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "There's little to no joy associated with the tariffs from the perspective of the Saudi economy."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some sources suggest the tariffs are based on a 'formula for ensuring reciprocity,' which could inspire some trust in their rationale, but overall trust is low due to the negative impact."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The tariffs cause fear and uncertainty about future economic relations and potential trade wars."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The sudden imposition of the tariffs likely caused surprise, especially given the close relationship between the US and Saudi Arabia."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The tariffs lead to sadness due to the economic losses and potential damage to trade relations."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "There may be some disgust or resentment towards the tariffs, but it's not a dominant emotion in the article."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anger is a possible reaction to the tariffs, particularly if they are seen as unfair or punitive."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "There's anticipation about how Saudi Arabia will respond to the tariffs and whether negotiations will be possible. The phrase 'مجال للتفاوض' (room for negotiation) suggests this."
+        }
+      }
+    },
+    {
+      "topic": "Saudi Aramco",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 80,
+        "reasoning": "The article mentions that Aramco's stock fell significantly, contributing to the overall negative sentiment. The phrase 'تراجعت قيمتها السوقية أكثر من 340 مليار ريال' (its market value fell by more than 340 billion riyals) clearly indicates a negative impact."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal joy is associated with Aramco's stock decline."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The stock decline may erode some trust in the company's stability."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The significant stock drop likely causes fear among Aramco investors."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The magnitude of the stock decline may have been surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The stock decline leads to sadness due to financial losses."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Disgust is unlikely to be a significant emotion in this context."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anger could be directed at the factors causing the stock decline, such as the tariffs."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "There's anticipation about how Aramco will recover from the stock decline. The mention of 'تعزيز للسوق السعودي' (strengthening of the Saudi market) suggests potential for recovery."
+        }
+      }
+    },
+    {
+      "topic": "US-Saudi Trade Relations",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 70,
+        "reasoning": "While the article mentions existing trade and potential for future cooperation, the imposition of tariffs casts a shadow on the relationship, leading to a slightly negative sentiment. The phrase 'بقاء العلاقات قوية ومتينة' (the relationship remains strong and solid) suggests a positive aspect, but the tariffs create uncertainty."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "There's some joy associated with the existing trade relationship, but it's tempered by concerns about the tariffs."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The historical relationship between the two countries suggests a degree of trust, but the tariffs may erode this trust."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The tariffs create fear about the future of the trade relationship."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The imposition of tariffs may have been surprising, given the close relationship."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "There's some sadness about the potential damage to the trade relationship."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Disgust is unlikely to be a significant emotion in this context."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anger could be directed at the tariffs, but it's not a dominant emotion."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "There's anticipation about how the trade relationship will evolve in light of the tariffs and whether negotiations will be possible. The mention of 'تعزيز التعاون مع المملكة في المستقبل القريب' (strengthening cooperation with the Kingdom in the near future) suggests potential for positive developments."
+        }
+      }
+    },
+    {
+      "topic": "Saudi Vision 2030",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 60,
+        "reasoning": "The article mentions that Saudi Arabia is trying to diversify its economy, and the overall sentiment is slightly positive. This is because the vision is about reducing dependency on oil, and this event highlights the need for it. However, the tariffs could be a setback."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 50,
+          "reasoning": "Joy related to the long-term goals of the vision."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 60,
+          "reasoning": "Trust in the plan and the ability to execute it."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 40,
+          "reasoning": "Fear that the tariffs could hinder progress."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "The tariffs could be a surprise setback."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 40,
+          "reasoning": "Sadness related to the potential impact on the plan."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Not much disgust."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "Anger at the tariffs."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Anticipation about the future and the success of the plan."
+        }
+      }
+    }
+  ]
+}

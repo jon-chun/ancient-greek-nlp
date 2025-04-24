@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "Satellites Reveal North Korean Military Secret... Experts Warn",
+    "text_summary_en": "New satellite images reveal what could be North Korea's largest warship ever, potentially twice the size of any ship in Kim Jong Un's naval fleet. The ship is under construction at the Nampo shipyard and is likely a guided-missile frigate (FFG) designed to carry missiles for use against land and sea targets. Analysts suggest the ship's construction is ongoing, with weapons and internal systems being installed. The existence of the warship isn't surprising given North Korea's push to modernize its military, despite UN sanctions. However, closer ties with Russia may be helping North Korea circumvent these sanctions. Experts caution against overstating the ship's capabilities, highlighting the challenges of integrating complex systems. The article raises questions about North Korea's technical capabilities and the financial burden of operating such a warship. The potential deployment of a hypersonic ballistic missile on the frigate could significantly impact regional security. Despite North Korea's large naval fleet, most of its ships are outdated, making this new warship a significant development.",
+    "original_filename": "20_cnn-world_20250420-043022.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "North Korea's new warship",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 85,
+        "reasoning": "The article presents the warship as a potential threat and a sign of North Korea's military ambitions, but also acknowledges the challenges in its construction and operation. The overall sentiment is slightly negative due to the potential implications for regional security."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is expressed; the topic is a potential threat."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There's a small degree of trust in the analysts' assessments, but also skepticism about North Korea's capabilities."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The warship raises concerns about regional security and North Korea's military power."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The size and potential capabilities of the warship are somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The situation reflects the ongoing tensions and potential for conflict."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "A slight sense of disgust at North Korea's military build-up despite sanctions."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The warship could provoke anger from neighboring countries."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "There's anticipation about the warship's final capabilities and its impact on regional security."
+        }
+      }
+    },
+    {
+      "topic": "UN Sanctions on North Korea",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 75,
+        "reasoning": "The article notes that North Korea is developing weapons despite UN sanctions, implying the sanctions are not fully effective. The sentiment is slightly negative as the sanctions' purpose is being undermined."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Low trust in the effectiveness of the sanctions."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The failure of sanctions raises concerns about North Korea's nuclear ambitions."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The ability of North Korea to circumvent sanctions is somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness over the ineffectiveness of international efforts to curb North Korea's military development."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust at the apparent failure of the sanctions regime."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anger that North Korea is able to develop weapons despite sanctions."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation about future sanctions and their potential impact."
+        }
+      }
+    },
+    {
+      "topic": "Russia's potential assistance to North Korea",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 80,
+        "reasoning": "The article suggests that Russia may be helping North Korea bypass UN sanctions, which is viewed negatively due to the implications for international security and the violation of sanctions."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Very low trust in Russia's intentions."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Concerns about the potential for Russia to escalate tensions in the region."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some surprise at the extent of the potential cooperation."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness over the deteriorating international relations."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Disgust at Russia's potential support for North Korea."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anger at Russia for potentially undermining international sanctions."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation about the future of Russia-North Korea relations and their impact on regional security."
+        }
+      }
+    },
+    {
+      "topic": "Kim Jong Un",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 70,
+        "reasoning": "Kim Jong Un is presented as the leader driving North Korea's military modernization, including the development of the new warship. The sentiment is slightly negative due to the association with military build-up and potential threats."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Very low trust in Kim Jong Un's intentions."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High fear associated with his leadership and military ambitions."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some surprise at the pace of military development."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness over the state of North Korea and its international isolation."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Disgust at the human rights situation in North Korea and Kim Jong Un's authoritarian rule."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anger at his policies and actions."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "High anticipation about his future actions and their impact on regional security."
+        }
+      }
+    }
+  ]
+}

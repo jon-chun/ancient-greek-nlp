@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Police algorithm said Lina was at 'medium' risk. Then she was killed",
+    "text_summary_en": "Lina, a victim of domestic abuse in Spain, was assessed as \"medium\" risk by the VioGén algorithm. Despite her fears and a request for a restraining order, which was denied, she was murdered by her ex-partner. This incident raises questions about the efficacy and potential biases of VioGén, a system used to assess the risk of repeat domestic violence. While VioGén is considered \"super-important\" and helpful in allocating resources, critics suggest police may be over-reliant on it. Studies on algorithmic bias show that similar systems have misclassified risk for minority groups. An independent audit of VioGén was proposed but denied. The article explores the debate around the algorithm's accuracy, transparency, and impact on judicial decisions, highlighting the need for further investigation and potential improvements to ensure women's safety.",
+    "original_filename": "31_news_news_articles_clyw7g4zxwzo.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Lina's Case",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The case of Lina is tragic and negative due to her murder after being assessed as medium risk. The article highlights the failure of the system to protect her, leading to a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with this tragic case."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Low trust in the system that failed her."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Lina experienced fear due to the threats from her ex-partner."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The sudden escalation to murder was unexpected, even with a medium risk assessment."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Overwhelming sadness due to her death and the circumstances."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Disgust at the violence and the perpetrator's actions."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger at the system's failure and the perpetrator's actions."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some anticipation of a better outcome that did not materialize."
+        }
+      }
+    },
+    {
+      "topic": "VioGén Algorithm",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "The sentiment towards VioGén is mixed. While intended to be helpful, its failure in Lina's case and concerns about bias create a negative sentiment. The article presents both its potential benefits and drawbacks."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Limited joy, as it's a tool with potential benefits but also flaws."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Trust in the system is diminished due to its failures and potential biases."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Fear that the algorithm might misclassify cases and fail to protect women."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the algorithm's potential inaccuracies and biases."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Sadness related to the algorithm's failure to prevent Lina's death."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Disgust at the potential for algorithmic bias and its consequences."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anger at the system's shortcomings and potential for harm."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of the algorithm's potential to improve domestic violence prevention."
+        }
+      }
+    },
+    {
+      "topic": "Spanish Legal System (Restraining Orders)",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 75,
+        "reasoning": "The sentiment is slightly negative due to the denial of Lina's restraining order and concerns about inconsistencies in granting such orders."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Little joy associated with the legal system's handling of restraining orders in this context."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Limited trust in the system due to inconsistencies and the denial of Lina's order."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear that the legal system might fail to protect victims of domestic abuse."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Surprise at the \"postcode lottery\" and inconsistencies in granting restraining orders."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Sadness related to the denial of Lina's restraining order and its consequences."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Disgust at the potential for inconsistencies and unfairness in the legal system."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Anger at the system's shortcomings and potential for harm."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of potential improvements in the legal system's response to domestic violence."
+        }
+      }
+    },
+    {
+      "topic": "Algorithmic Bias",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "The sentiment is negative due to the potential for unfair or discriminatory outcomes resulting from algorithmic bias."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No joy associated with algorithmic bias."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Very low trust in systems that may exhibit bias."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High fear of the potential consequences of biased algorithms."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the extent and impact of algorithmic bias."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness related to the potential for unfair outcomes."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Disgust at the potential for discrimination and unfairness."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at the potential for harm caused by biased algorithms."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some anticipation of efforts to mitigate algorithmic bias."
+        }
+      }
+    },
+    {
+      "topic": "Domestic Violence in Spain",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "Overwhelmingly negative due to the prevalence and severity of domestic violence."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No joy associated with domestic violence."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low trust in systems to prevent domestic violence."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High fear due to the threat of violence."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Limited surprise, as domestic violence is a known issue."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Overwhelming sadness due to the suffering caused by domestic violence."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Disgust at the perpetrators and the violence itself."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger at the injustice and the harm caused by domestic violence."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Limited anticipation of a quick resolution to the problem."
+        }
+      }
+    }
+  ]
+}

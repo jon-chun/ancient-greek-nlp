@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOIT5Xi3f0FveBen5yBkADaJiRGgN",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nRussian President Putin Orders Ceasefire in Ukraine for Easter\n\n### English Text Summary:\nRussian President Vladimir Putin announced a \"Easter ceasefire\" in Ukraine, lasting 30 hours until midnight Sunday Moscow time. He stated that Russian forces must be prepared to respond to any potential violations. Ukrainian President Volodymyr Zelensky confirmed Ukraine's commitment to the ceasefire but accused Russia of breaching it. Zelensky indicated that Ukraine would be open to extending the ceasefire beyond April 20, referencing a previous U.S. proposal for a 30-day ceasefire. The article also mentions skepticism regarding Putin's intentions, citing past failures of ceasefire agreements. The U.S. is engaged in direct talks with Russia to end the war but faces challenges in making progress.\n\n[\n    {\n        \"topic\": \"Putin's Ceasefire Announcement\",\n        \"sentiment_polarity\": { \"score\": 0.3, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 85 }\n        }\n    },\n    {\n        \"topic\": \"Zelensky's Response\",\n        \"sentiment_polarity\": { \"score\": 0.2, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.1, \"confidence\": 60 },\n            \"Sadness\": { \"weight\": 0.3, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Anger\": { \"weight\": 0.3, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"U.S. Involvement\",\n        \"sentiment_polarity\": { \"score\": 0.1, \"confidence\": 70 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Anger\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Historical Context of Ceasefires\",\n        \"sentiment_polarity\": { \"score\": -0.2, \"confidence\": 75 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.5, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Anticipation\": { \"weight\": 0.2, \"confidence\": 70 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745130563,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 981,
+    "prompt_tokens": 1977,
+    "total_tokens": 2958,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

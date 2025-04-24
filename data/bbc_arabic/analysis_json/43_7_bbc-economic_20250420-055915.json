@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Trump Exempts Smartphones and Computers from New Tariffs",
+    "text_summary_en": "The Trump administration has exempted smartphones, computers, and some other electronic devices from reciprocal tariffs, including those imposed on Chinese imports, which had reached 125%. This decision follows concerns from American tech companies about potentially significant price increases due to most devices being manufactured in China. This exemption is considered a major reversal of Trump's tariff policy on China. Other electronic components like semiconductors and solar cells are also included in the exemptions, but remain subject to a 20% tariff related to fentanyl smuggling. Analysts suggest the move allows companies like Apple, Nvidia, and Microsoft to breathe a sigh of relief. The White House stated the exemptions aim to provide companies more time to relocate production to the US, emphasizing the need to reduce reliance on China for vital technologies. Apple, for example, sells over half its smartphones in the US, with around 80% manufactured in China. The article also mentions Apple's efforts to diversify its supply chain by increasing production in India and Vietnam.",
+    "original_filename": "7_bbc-economic_20250420-055915.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Trump's decision to exempt smartphones and computers from tariffs",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 85,
+        "reasoning": "The overall sentiment is slightly positive as the decision is presented as a relief for tech companies and potentially beneficial for consumers. The phrase \"سيناريو يغير قواعد اللعبة\" (game-changing scenario) suggests a positive impact."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The exemption brings relief to tech companies."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The decision might build some trust with the tech industry."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Some fear remains about future policy changes."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The exemption was somewhat unexpected given Trump's previous stance."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some may be disappointed if they wanted tariffs to remain."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Not applicable."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some may be angered by the perceived inconsistency in policy."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "There is anticipation about the long-term effects of this decision."
+        }
+      }
+    },
+    {
+      "topic": "Concerns of American tech companies",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The sentiment is negative due to the \"مخاوف أبدتْها شركات التقنية الأمريكية\" (concerns expressed by American tech companies) regarding price increases."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Not applicable."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Limited trust in the situation."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "High fear of price increases."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some surprise at the potential impact."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness about the potential negative consequences."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some disgust at the situation."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger at the potential for increased costs."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anticipation of how the situation will unfold."
+        }
+      }
+    },
+    {
+      "topic": "US-China trade relations and tariffs",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 80,
+        "reasoning": "The sentiment is mixed but leans slightly negative due to the ongoing trade tensions and the high tariffs mentioned. The phrase \"تأهُّب الأخيرة للانتقام بفرض رسوم جمركية بنسبة 84 في المئة على الواردات الأمريكية\" (the latter's readiness to retaliate by imposing tariffs of 84 percent on American imports) indicates tension."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Limited joy in the situation."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low trust between the two countries."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Fear of further escalation."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Uncertainty and surprises in the trade war."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Sadness about the negative impact on trade."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Disgust at the trade war tactics."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Anger at the perceived unfairness."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High anticipation about the future of the trade relationship."
+        }
+      }
+    },
+    {
+      "topic": "White House's justification for exemptions",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 75,
+        "reasoning": "The sentiment is neutral as the White House provides a rationale for the decision, focusing on relocating production to the US and reducing reliance on China. It's presented as a strategic move."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Limited joy, more of a strategic justification."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Attempt to build trust in the strategy."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some fear of potential negative consequences."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Limited surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Limited sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 70,
+          "reasoning": "Not applicable."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Limited anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "High anticipation about the success of the strategy."
+        }
+      }
+    },
+    {
+      "topic": "Apple's efforts to diversify supply chain",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 70,
+        "reasoning": "The sentiment is slightly positive as diversification is generally seen as a good strategy to mitigate risk."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some joy in reducing risk."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust in the diversification strategy."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fear of relying too much on one source."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Limited surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Limited sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 70,
+          "reasoning": "Not applicable."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Limited anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "High anticipation about the success of diversification."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "US Plans Port Fees on Chinese Ships",
+    "text_summary_en": "The US is planning to impose port fees on Chinese ships to revitalize American shipbuilding and challenge China's industry dominance. Starting mid-October, Chinese ship-owners will face fees of $50 per ton of cargo, increasing annually for three years. While concerns exist about further global trade disruption following President Trump's tariffs, the fees are less severe than initially proposed. China's foreign ministry argues the fees will raise prices for US consumers and fail to revitalize the US shipbuilding industry. The fees will be based on cargo weight, container count, or vehicle number, with exemptions for empty vessels and those moving goods between US ports and territories. A second phase will favor US-built LNG ships. Trump's existing tariffs have already caused cargo diversions to Europe, increasing congestion and prices.",
+    "original_filename": "11_news_news_articles_cly517p1zgqo.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "US Port Fees on Chinese Ships",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 80,
+        "reasoning": "The article presents a mix of concerns and potential benefits, leading to a slightly negative sentiment. The US aims to challenge China's dominance, which is a potential positive for the US but negative for China. The mention of disrupted global trade and increased prices contributes to the negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal joy as the situation is largely about economic competition and potential negative impacts."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "Low trust due to the potential for negative consequences and trade disruptions."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Fear of trade disruptions and increased prices for consumers."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Surprise at the new policy and its potential impact."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Sadness due to the potential economic impact and increased prices."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal disgust as the situation is primarily about economic policy."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anger from China regarding the new fees and their potential impact."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation regarding the effects of the new fees and their long-term impact."
+        }
+      }
+    },
+    {
+      "topic": "China's Dominance in Shipbuilding",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 70,
+        "reasoning": "The fees are presented as a challenge to China's dominance. The USTR's statement indicates a negative view of China's current position."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal joy as the situation is about economic competition."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 10,
+          "reasoning": "Low trust in the current situation."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Fear of the consequences of China's dominance."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "Some surprise at the extent of China's dominance."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Sadness due to the disadvantaging of US companies and workers."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Disgust at China's dominance and its impact on the US economy."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger towards China's actions and their consequences."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of a change in the situation and a better outcome for the US."
+        }
+      }
+    },
+    {
+      "topic": "Chinese Foreign Ministry's Response",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "The Chinese foreign ministry's statement expresses a negative sentiment towards the fees, predicting they will raise prices for American consumers and fail to revitalize the US shipbuilding industry."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 5,
+          "reasoning": "No joy as the statement expresses negative sentiment."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 15,
+          "reasoning": "Low trust in the US's intentions."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of increased prices for American consumers."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some surprise at the US's actions."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness due to the potential negative impact on the US economy."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Disgust at the US's protectionist measures."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anger towards the fees and their potential impact."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "Anticipation of negative consequences."
+        }
+      }
+    },
+    {
+      "topic": "Global Trade Disruptions",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 80,
+        "reasoning": "The imposition of tariffs and fees is causing disruption and uncertainty, leading to a negative sentiment. The redirection of cargoes and congestion at ports are also negative consequences."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 5,
+          "reasoning": "No joy as the situation is about negative consequences."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 10,
+          "reasoning": "Low trust in the stability of the global trade system."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Fear of the consequences of trade disruptions and increased prices."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some surprise at the extent of the disruptions."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness due to the economic impact and increased prices."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Disgust at the policies causing the disruptions."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anger towards the policies causing the trade disruptions."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of further problems and uncertainty."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "Source to CNN on Rubio's statements about Ukraine: Expresses Trump's \"frustration\"",
+    "text_summary_en": "A source familiar with the peace negotiations in Ukraine told CNN that US Secretary of State Marco Rubio was \"expressing the President's views\" in his comments that the United States would \"move on\" if the war in Ukraine could not be ended. The source described the administration's thinking on the conflict, stating that Trump \"has no unlimited patience for some to play games and brag.\" The source said Rubio was expressing the President's \"frustration\" with the lack of progress toward peace in Ukraine, as he feels it \"hasn't reached what he expected at this stage.\" The source pointed to Trump envoy Steve Witkoff's three meetings with Russian President Vladimir Putin, as well as numerous meetings with Ukrainian President Volodymyr Zelensky to discuss ending the conflict, which has lasted for more than three years, adding, \"Now is the time to get serious.\"",
+    "original_filename": "4_cnn-world_20250420-042643.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Marco Rubio's Statements on Ukraine",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "Rubio's statements suggest a potential shift in US policy, indicating a less patient approach to the conflict. The phrase 'move on' implies a negative outlook on the current situation and a willingness to disengage if progress is not made."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Low joy as the statements suggest a potential negative outcome."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Some trust in Rubio representing the President's views, but uncertainty remains."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Fear that the US might disengage, leading to a worse outcome for Ukraine."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Some surprise at the shift in tone."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Sadness about the potential failure of peace efforts."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Low disgust."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Some anger at the lack of progress."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of future developments and potential policy changes."
+        }
+      }
+    },
+    {
+      "topic": "Trump's Frustration with Ukraine Peace Process",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The article explicitly states Trump's 'frustration' ('إحباط') with the lack of progress. The phrases 'no unlimited patience' and 'hasn't reached what he expected' further reinforce this negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy associated with frustration."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Low trust in the peace process."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Some fear about the consequences of the stalled process."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Some surprise at the lack of progress."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "High sadness about the stalled peace process."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Some disgust at the perceived inaction."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "High anger and frustration."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Anticipation of potential changes in strategy."
+        }
+      }
+    },
+    {
+      "topic": "Ukraine-Russia Conflict",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "The article refers to the 'conflict that has lasted for more than three years' ('الصراع المستمر منذ أكثر من ثلاث سنوات'). This indicates a prolonged and unresolved negative situation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with a prolonged conflict."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Very little trust in either side."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High fear due to the ongoing conflict."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Low surprise as the conflict is ongoing."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High sadness due to the conflict."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Disgust at the violence and destruction."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at the perpetuation of the conflict."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Uncertain anticipation of the future."
+        }
+      }
+    },
+    {
+      "topic": "Peace Negotiations in Ukraine",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "While the article mentions 'peace negotiations' ('مفاوضات اتفاق السلام'), the overall tone suggests a lack of progress and potential failure. The phrase 'Now is the time to get serious' implies that previous efforts have been inadequate."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Some hope for a positive outcome, but limited."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Moderate trust in the negotiators."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Fear that the negotiations will fail."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Some surprise at the lack of progress."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness about the potential failure of the negotiations."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Low disgust."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Some anger at the perceived obstacles to peace."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "High anticipation of the outcome."
+        }
+      }
+    }
+  ]
+}

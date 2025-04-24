@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Canadian workers on edge as car plant hits pause over US tariffs",
+    "text_summary_en": "A Stellantis plant in Windsor, Ontario, is temporarily shutting down due to US President Trump's car tariffs, causing anxiety among Canadian workers. The US has implemented a 25% tariff on foreign-made vehicles, which is halved for cars with at least 50% US-made components. Canada plans to retaliate with its own 25% tariff on American-made cars, with exemptions for vehicles compliant with the existing North American free trade agreement. Canadian political leaders are proposing solutions, such as removing federal tax on Canadian-made cars or issuing \"Victory Bonds.\" The integrated nature of North America's car manufacturing sector, where components cross borders multiple times, complicates the situation. The shutdown affects workers in Canada, Mexico, and the US. Car prices are expected to rise, and the tariffs pose administrative challenges. Workers hope for a negotiated deal but also believe Canada must stand up for itself.",
+    "original_filename": "20_news_news_articles_c7931nvzd9qo.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "US Tariffs on Foreign-Made Vehicles",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The tariffs are presented as a negative event, causing disruption and anxiety, with potential for increased car prices and administrative difficulties."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Tariffs are not a source of joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There is little trust in the tariffs to improve the situation."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The tariffs are causing fear among workers about job security."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The sudden implementation of tariffs could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The potential job losses and economic disruption can cause sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Some may feel disgust towards the policy."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The tariffs are likely to cause anger among those affected."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "There is anticipation about the future impact of the tariffs."
+        }
+      }
+    },
+    {
+      "topic": "Stellantis Plant Shutdown in Windsor",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 98,
+        "reasoning": "The shutdown is a negative event, causing job insecurity and economic disruption in Windsor; the phrase 'on edge' indicates negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "A plant shutdown is not a source of joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is little trust in a quick resolution."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The shutdown causes significant fear among workers."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The shutdown could be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Job losses and economic hardship cause sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Some may feel disgust at the situation."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The shutdown can cause anger among workers."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "There is anticipation about the future of the plant."
+        }
+      }
+    },
+    {
+      "topic": "Canadian Government's Response",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 80,
+        "reasoning": "The Canadian government's response is presented as a measure to mitigate the negative impact of the US tariffs; while retaliatory, it aims to protect Canadian interests."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The response is not necessarily joyful but necessary."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "There is some trust that the government is acting in the best interest of Canadians."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "There is still fear about the overall impact."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "The response may not be entirely surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The situation overall is still sad."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 45,
+          "reasoning": "Some may disagree with the government's approach."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "The response could also generate anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "There is anticipation about the effectiveness of the response."
+        }
+      }
+    },
+    {
+      "topic": "Canadian Auto Workers",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The workers are portrayed as being anxious and fearful about their job security and the future of the auto industry in Canada, representing a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The workers' situation is not joyful."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Trust in the future is low."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The primary emotion is fear about job security."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The situation might have been unexpected for some."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The situation is causing sadness and distress."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Some might feel disgust at the situation."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "There is likely anger towards the situation."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "There is some anticipation about the future, but it's largely negative."
+        }
+      }
+    },
+    {
+      "topic": "Donald Trump",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 85,
+        "reasoning": "The article presents Trump as the initiator of the tariffs, which are causing negative consequences; while not explicitly stated, the tone implies a negative sentiment towards his actions."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Trump's actions are not a source of joy in this context."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Trust in Trump's policies is low within the context of the article."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "His actions are causing fear and uncertainty."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "His policies can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "His actions can lead to sadness for those affected."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Some may feel disgust towards his policies."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "His policies are likely to cause anger."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "There is anticipation about the long-term effects of his policies."
+        }
+      }
+    }
+  ]
+}

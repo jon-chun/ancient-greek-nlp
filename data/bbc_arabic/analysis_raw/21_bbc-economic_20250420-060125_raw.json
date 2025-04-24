@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOIGf3dpT6FkYJiuBr1GL9AGVerl6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nCleaning and Organizing: The Rise of Influencers in Household Management\n\n### English Text Summary:\nThe article discusses the phenomenon of influencers, particularly mothers, who share their daily cleaning and organizing routines on social media platforms like TikTok and Instagram. It highlights the experiences of Karis Harding, Emily Jones, and Ro Day, who have gained significant followings by showcasing their household tasks. The article emphasizes the empowerment these women feel by monetizing their content, while also addressing the societal expectations surrounding domestic work. Researchers note the psychological impact of such content on viewers, including feelings of accomplishment and the potential for comparison. The article concludes with a reflection on the evolving gender dynamics in household chores and the increasing visibility of male influencers in this space.\n\n[\n    {\n        \"topic\": \"Karis Harding\",\n        \"sentiment_polarity\": { \"score\": 0.8, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Trust\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Emily Jones\",\n        \"sentiment_polarity\": { \"score\": 0.7, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Trust\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Ro Day\",\n        \"sentiment_polarity\": { \"score\": 0.9, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.8, \"confidence\": 85 },\n            \"Trust\": { \"weight\": 0.7, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Social Media Influence\",\n        \"sentiment_polarity\": { \"score\": 0.8, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Trust\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Gender Dynamics in Household Chores\",\n        \"sentiment_polarity\": { \"score\": 0.6, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Trust\": { \"weight\": 0.4, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Psychological Impact of Cleaning Content\",\n        \"sentiment_polarity\": { \"score\": 0.7, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Trust\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745129793,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1369,
+    "prompt_tokens": 2617,
+    "total_tokens": 3986,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

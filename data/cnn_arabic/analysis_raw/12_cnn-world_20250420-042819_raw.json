@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOHVNAytjK2qJBDumGnkyRKuZhyFL",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nAnalysis by Andrew Carey and Victoria Butenko from CNN\n\n### English Text Summary:\nThe article discusses the implications of Ukraine showcasing Chinese prisoners of war (POWs) during a press conference, which is considered a violation of international humanitarian law. Ukraine's decision to present these POWs, who claimed financial incentives motivated their involvement, reflects its strategic interests amid the ongoing conflict with Russia. The article highlights the role of foreign fighters in the war, the recruitment of Chinese nationals, and the geopolitical tensions involving China, the U.S., and Ukraine. It also notes the timing of the press conference, suggesting it was aimed at influencing perceptions regarding China's support for Russia.\n\n[\n    {\n        \"topic\": \"Showcasing Chinese POWs\",\n        \"sentiment_polarity\": { \"score\": -0.6, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.8, \"confidence\": 90 },\n            \"Anger\": { \"weight\": 0.9, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 70 }\n        }\n    },\n    {\n        \"topic\": \"Recruitment of Chinese Fighters\",\n        \"sentiment_polarity\": { \"score\": -0.4, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.4, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Geopolitical Tensions Involving China\",\n        \"sentiment_polarity\": { \"score\": -0.5, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Anger\": { \"weight\": 0.8, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"U.S. and Ukraine Relations\",\n        \"sentiment_polarity\": { \"score\": -0.3, \"confidence\": 75 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Trust\": { \"weight\": 0.4, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 70 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745126861,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 959,
+    "prompt_tokens": 2855,
+    "total_tokens": 3814,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

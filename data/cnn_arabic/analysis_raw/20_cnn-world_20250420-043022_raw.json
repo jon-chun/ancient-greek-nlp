@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOHaI3pZV8dGK7mAWl4rFReD8k4Ia",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nNew Satellite Images Reveal North Korea's Largest Warship Under Construction\n\n### English Text Summary:\nNew satellite images indicate that North Korea is constructing what may be its largest warship ever, potentially more than double the size of any existing vessel in its fleet. The ship, likely a guided missile frigate, is being built at the Nampo shipyard and is approximately 140 meters long. Analysts suggest that despite UN sanctions, North Korea's close ties with Russia could help it acquire necessary technology. The article discusses the challenges of building modern warships and questions North Korea's capability to operate such a vessel effectively. It also highlights the aging state of North Korea's naval fleet and the leader's push for modernization.\n\n[\n    {\n        \"topic\": \"North Korea's Warship Construction\",\n        \"sentiment_polarity\": { \"score\": 0.5, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Surprise\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.2, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"UN Sanctions on North Korea\",\n        \"sentiment_polarity\": { \"score\": -0.3, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"North Korea-Russia Relations\",\n        \"sentiment_polarity\": { \"score\": 0.4, \"confidence\": 70 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Challenges of Modern Naval Warfare\",\n        \"sentiment_polarity\": { \"score\": -0.2, \"confidence\": 75 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Anger\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"North Korean Naval Fleet\",\n        \"sentiment_polarity\": { \"score\": -0.4, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Anger\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.3, \"confidence\": 75 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745127166,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1169,
+    "prompt_tokens": 2446,
+    "total_tokens": 3615,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

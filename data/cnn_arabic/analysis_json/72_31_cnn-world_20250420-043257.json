@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Russian Foreign Minister Calls on World Countries Regarding Trump's Tariffs",
+    "text_summary_en": "Russian Foreign Minister Sergey Lavrov stated that the World Trade Organization (WTO) is \"paralyzed\" due to successive US administrations and called for peaceful agreements on tariffs between the US and other countries. He expressed hope that countries can reach mutually beneficial agreements with the US. Lavrov also noted the lack of a globally trusted institution. The Kremlin earlier this week said it was closely monitoring global oil prices, which fell after President Trump imposed high tariffs on numerous countries. The article conveys a sense of concern about the current state of global trade and the impact of US tariff policies.",
+    "original_filename": "31_cnn-world_20250420-043257.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "WTO (World Trade Organization)",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The article states the WTO is 'paralyzed' ('مشلولة'), which carries a negative connotation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "The WTO being paralyzed evokes no joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "The statement implies a lack of trust in the WTO's current state."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "A paralyzed WTO could cause fear for the future of global trade."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The statement of paralysis may be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "The 'paralyzed' state of the WTO induces sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Some may feel disgust at the ineffectiveness of the WTO."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some may feel anger towards the situation of WTO."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "There is some anticipation about the future of the WTO."
+        }
+      }
+    },
+    {
+      "topic": "US Tariffs (Trump's Tariffs)",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The article refers to a 'tariff war' ('حرب الرسوم الجمركية') and mentions 'high tariffs' ('رسوم جمركية باهظة'), both phrases indicating negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Tariffs are generally not a source of joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "Tariffs can erode trust between nations."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Tariffs can induce fear of economic consequences."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The imposition of tariffs may surprise some."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Tariffs can lead to economic hardship and sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some may find tariffs distasteful."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Tariffs often provoke anger and resentment."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "There is anticipation about the outcome of the tariff war."
+        }
+      }
+    },
+    {
+      "topic": "Sergey Lavrov (Russian Foreign Minister)",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 70,
+        "reasoning": "Lavrov's statements are presented neutrally. He expresses hope for peaceful resolutions."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Lavrov expresses hope for peaceful agreements, which is a positive emotion."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "His call for peaceful agreements implies a degree of trust in diplomacy."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "He acknowledges the potential negative consequences of the tariff war."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "His statements are not particularly surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "He acknowledges the negative impacts of the current situation."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 60,
+          "reasoning": "No indication of disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "No indication of anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "He is anticipating peaceful resolutions."
+        }
+      }
+    },
+    {
+      "topic": "Peaceful Agreements",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The phrase 'peaceful agreements' ('بشكل سلمي') inherently carries a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Peaceful agreements are a source of joy and satisfaction."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Peaceful agreements build trust between parties."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Peaceful agreements alleviate fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Peaceful agreements are not always surprising, but welcome."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Peaceful agreements eliminate sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Peaceful agreements evoke no disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Peaceful agreements prevent anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Peaceful agreements are anticipated."
+        }
+      }
+    },
+    {
+      "topic": "Oil Prices",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 80,
+        "reasoning": "The article mentions 'falling' ('انخفاضًا') oil prices, which can be interpreted as negative, especially if it impacts economies."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Falling oil prices may bring joy to consumers, but not producers."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Falling prices may erode trust in the stability of the oil market."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Falling prices can cause fear for oil-dependent economies."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fluctuations in oil prices can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Falling prices can lead to sadness for oil-producing nations."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some may feel disgust at market volatility."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Falling prices can anger oil-producing nations."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "There is anticipation about the future of oil prices."
+        }
+      }
+    }
+  ]
+}

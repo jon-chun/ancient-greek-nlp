@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "CNN Analysis: Why a US-China \"Decoupling\" Would Be a \"Messy Divorce\"?",
+    "text_summary_en": "This CNN analysis discusses the potential \"divorce\" or decoupling between the US and China, highlighting the economic consequences and the lack of willingness from both sides to negotiate effectively. The article points out that trade between the two countries is expected to decline significantly, impacting global trade and various industries. It mentions specific examples like Boeing facing restrictions, China limiting exports of rare earth minerals, and Nvidia incurring losses. The article also notes the potential for increased prices for consumers and a warning from the Federal Reserve about the risks of tariffs leading to economic slowdown, unemployment, and inflation. The analysis suggests that the US might be aiming to weaken China's economy and is preparing to pressure other countries to reduce trade with China. China, having learned from past experiences, is now better equipped to retaliate and is trying to maintain a positive image with other trading partners.",
+    "original_filename": "13_cnn-world_20250420-042831.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "US-China Decoupling",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The article uses terms like 'messy divorce' and discusses negative economic consequences, indicating a negative sentiment. The phrase 'الأضرار الجانبية الحقيقية تتراكم بالفعل' (real collateral damage is already accumulating) further supports this."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "The topic is inherently negative, with no aspect of joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There's a lack of trust implied in the decoupling."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The potential economic consequences and instability evoke fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The speed and extent of the decoupling could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The breakdown of a long-standing relationship and potential economic hardship evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "The messy nature of the decoupling and potential unfair practices might evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Frustration and resentment due to the conflict can cause anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Uncertainty about the future and potential outcomes creates anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Trump Administration's Trade Policies",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "The article portrays Trump's policies as disruptive and harmful to global trade, using phrases like 'حرب ترامب التجارية' (Trump's trade war). The mention of tariffs and potential economic damage contributes to a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Trump's trade policies are not presented as positive."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The article suggests a lack of trust in Trump's approach."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The potential economic consequences of the policies evoke fear."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The unpredictable nature of Trump's policies can cause surprise."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The negative impact on trade and the economy can evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The perceived unfairness and aggression of the policies might evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The disruptive and potentially harmful nature of the policies can cause anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Uncertainty about the future impact of the policies creates anticipation."
+        }
+      }
+    },
+    {
+      "topic": "China's Response to Trade Tensions",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 80,
+        "reasoning": "While the article mentions China's retaliatory measures, it also highlights their efforts to maintain a positive image with other trading partners. This suggests a more nuanced sentiment, not entirely negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "China's efforts to maintain a positive image suggest a desire for positive outcomes."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "China's actions are aimed at building trust with other nations."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The trade tensions and potential economic consequences evoke fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "China's specific retaliatory measures might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The trade tensions and potential economic consequences can evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Perceived unfairness from the US might evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Frustration with US policies can cause anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Uncertainty about the future of trade relations creates anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Global Trade Outlook",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The article explicitly states that global trade is expected to shrink, indicating a negative sentiment. The phrase 'تقرير مماثلا قاتما حول التجارة العالمية' (a similarly grim report on global trade) reinforces this."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "The global trade outlook is presented as negative."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The negative outlook undermines trust in the global trade system."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The potential economic consequences of shrinking global trade evoke fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The extent of the expected decline might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The negative impact on global trade and the economy can evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The factors contributing to the decline might evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Frustration with the situation can cause anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Uncertainty about the future of global trade creates anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Rare Earth Minerals",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "China's control over rare earth minerals and its use as leverage in the trade war suggests a potentially negative impact on other countries, leading to a slightly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 50,
+          "reasoning": "No joy associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Other countries might question China's reliability."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Dependence on China for these crucial minerals can evoke fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The extent of China's control might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Potential disruptions to supply chains can evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The potential for manipulation might evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Frustration with China's control can cause anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Uncertainty about the future availability of these minerals creates anticipation."
+        }
+      }
+    }
+  ]
+}

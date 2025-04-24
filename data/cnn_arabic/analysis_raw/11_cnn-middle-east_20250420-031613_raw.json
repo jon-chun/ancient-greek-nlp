@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOHpAGH9OaQfjKrmnNoAmUfQSB6uO",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nJordanian Army Thwarts Drug Smuggling Attempt via Drone\n\n### English Text Summary:\nThe Jordanian army announced that it successfully thwarted an attempt to smuggle drugs into the country using a drone. A military source stated that the operation took place in the southern military region, where the army coordinated with security agencies and drug enforcement. The drone was detected and shot down within Jordanian territory, with the seized materials handed over to the relevant authorities. The military emphasized its commitment to preventing drug trafficking and protecting national security.\n\n---\n\n**Topics Analysis:**\n\n1. **Topic: Drug Smuggling Attempt**\n   - **Sentiment Polarity Analysis:**\n     - **Explanation/Justification:** The article conveys a positive sentiment regarding the thwarting of the drug smuggling attempt, highlighting the effectiveness of the military's actions. Phrases like \"تمكن من إحباط\" (managed to thwart) indicate a successful outcome.\n     - **Polarity Score:** 0.8\n     - **Confidence:** 90\n\n   - **Emotional Weights Analysis:**\n     - **Justification:** The successful prevention of drug smuggling evokes feelings of trust and anticipation for safety, while fear and disgust may arise from the nature of drug trafficking.\n     - **Emotion Dictionary:**\n       - \"Joy\": { \"weight\": 0.3, \"confidence\": 80 }\n       - \"Trust\": { \"weight\": 0.7, \"confidence\": 90 }\n       - \"Fear\": { \"weight\": 0.2, \"confidence\": 85 }\n       - \"Surprise\": { \"weight\": 0.1, \"confidence\": 70 }\n       - \"Sadness\": { \"weight\": 0.0, \"confidence\": 99 }\n       - \"Disgust\": { \"weight\": 0.5, \"confidence\": 80 }\n       - \"Anger\": { \"weight\": 0.1, \"confidence\": 75 }\n       - \"Anticipation\": { \"weight\": 0.6, \"confidence\": 85 }\n\n2. **Topic: Jordanian Army**\n   - **Sentiment Polarity Analysis:**\n     - **Explanation/Justification:** The article portrays the Jordanian army positively, emphasizing its proactive measures and effectiveness in maintaining national security. Phrases like \"تعمل بكل قوة وحزم\" (works with strength and determination) reflect a strong, positive sentiment.\n     - **Polarity Score:** 0.9\n     - **Confidence:** 95\n\n   - **Emotional Weights Analysis:**\n     - **Justification:** The portrayal of the army's actions fosters trust and anticipation among citizens regarding their safety and security.\n     - **Emotion Dictionary:**\n       - \"Joy\": { \"weight\": 0.2, \"confidence\": 75 }\n       - \"Trust\": { \"weight\": 0.8, \"confidence\": 95 }\n       - \"Fear\": { \"weight\": 0.1, \"confidence\": 80 }\n       - \"Surprise\": { \"weight\": 0.1, \"confidence\": 70 }\n       - \"Sadness\": { \"weight\": 0.0, \"confidence\": 99 }\n       - \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 }\n       - \"Anger\": { \"weight\": 0.0, \"confidence\": 99 }\n       - \"Anticipation\": { \"weight\": 0.7, \"confidence\": 90 }\n\n3. **Topic: National Security**\n   - **Sentiment Polarity Analysis:**\n     - **Explanation/Justification:** The emphasis on protecting national security conveys a strong positive sentiment, as the military's actions are framed as essential for the safety of the nation. The phrase \"التأثير على الأمن الوطني\" (impact on national security) underscores the importance of these efforts.\n     - **Polarity Score:** 0.85\n     - **Confidence:** 90\n\n   - **Emotional Weights Analysis:**\n     - **Justification:** The focus on national security evokes trust and anticipation, as citizens feel reassured by the military's commitment to their safety.\n     - **Emotion Dictionary:**\n       - \"Joy\": { \"weight\": 0.1, \"confidence\": 70 }\n       - \"Trust\": { \"weight\": 0.9, \"confidence\": 95 }\n       - \"Fear\": { \"weight\": 0.2, \"confidence\": 80 }\n       - \"Surprise\": { \"weight\": 0.1, \"confidence\": 70 }\n       - \"Sadness\": { \"weight\": 0.0, \"confidence\": 99 }\n       - \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 }\n       - \"Anger\": { \"weight\": 0.0, \"confidence\": 99 }\n       - \"Anticipation\": { \"weight\": 0.6, \"confidence\": 85 }\n\n**Final Results for JSON Extraction:**\n[\n    {\n        \"topic\": \"Drug Smuggling Attempt\",\n        \"sentiment_polarity\": { \"score\": 0.8, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.3, \"confidence\": 80 },\n            \"Trust\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Fear\": { \"weight\": 0.2, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.1, \"confidence\": 75 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 85 }\n        }\n    },\n    {\n        \"topic\": \"Jordanian Army\",\n        \"sentiment_polarity\": { \"score\": 0.9, \"confidence\": 95 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Trust\": { \"weight\": 0.8, \"confidence\": 95 },\n            \"Fear\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anticipation\": { \"weight\": 0.7, \"confidence\": 90 }\n        }\n    },\n    {\n        \"topic\": \"National Security\",\n        \"sentiment_polarity\": { \"score\": 0.85, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.9, \"confidence\": 95 },\n            \"Fear\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 85 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745128088,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1652,
+    "prompt_tokens": 1176,
+    "total_tokens": 2828,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

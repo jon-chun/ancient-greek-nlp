@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Video: Al-Mazouna Institute in Tunisia... What did Kais Saied say after the death of 3 students due to a wall collapse?, Duration 7:20",
+    "text_summary_en": "In an attempt to contain the anger, Tunisian President Kais Saied visited the Al-Mazouna area on Friday morning, which witnessed protests after the death of 3 students and the injury of two others due to the collapse of their high school wall. Al-Mazouna is located in the Sidi Bouzid governorate, the birthplace of the Tunisian revolution and the spark that launched the movement against marginalization and corruption more than 10 years ago. The incident sparked widespread outrage on social media, with some condemning the deterioration of infrastructure, especially in educational and health institutions. Others criticized the \"continued adoption of policies that perpetuate centralization and marginalize the internal states.\" You can watch daily episodes of the program at 3:00 PM GMT, from Monday to Friday, and you can also view trending stories by clicking here.",
+    "original_filename": "17_bbc-news_20250420-061750.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Death of 3 students in Al-Mazouna",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The death of students due to a wall collapse is inherently negative. The text describes it as a tragedy that sparked outrage. The phrase \"مقتل 3 تلاميذ\" (death of 3 students) clearly indicates a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "The topic is about death and tragedy; there is no joy associated with it."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There is little trust expressed related to this event, perhaps some trust in the president to address the issue."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The event generates fear about the safety of school infrastructure."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The sudden collapse of the wall and the resulting deaths are surprising."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The death of students is a cause for deep sadness and grief."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Disgust at the negligence that may have led to the collapse."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The incident sparked anger, as mentioned in the text: \"في خطوة لاحتواء الغضب\" (in a step to contain the anger)."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some anticipation about the government's response and future safety measures."
+        }
+      }
+    },
+    {
+      "topic": "President Kais Saied's visit to Al-Mazouna",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 70,
+        "reasoning": "The visit is a positive action, indicating concern and a response to the tragedy. However, it's described as \"في خطوة لاحتواء الغضب\" (in a step to contain the anger), suggesting a reactive rather than proactive approach, limiting the positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal joy, as the visit is in response to a tragic event."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The visit may inspire some trust in the president's willingness to address the issue."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Slight fear about whether the visit will lead to meaningful change."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The visit itself might be somewhat surprising, depending on expectations of the president's actions."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "The visit is linked to a sad event, so some sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal disgust directly related to the visit itself."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some anger might remain if the visit is seen as insufficient."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation about the outcome of the visit and any actions that might follow."
+        }
+      }
+    },
+    {
+      "topic": "Deterioration of infrastructure in Tunisia",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The text mentions \"تردي البنى التحتية\" (deterioration of infrastructure), which is a clear negative statement. The incident highlights a problem with the country's infrastructure, especially in educational and health institutions."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with deteriorating infrastructure."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Low trust in the government's ability to maintain infrastructure."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Fear about the safety of public spaces due to poor infrastructure."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Surprise that the infrastructure has been allowed to deteriorate to such an extent."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Sadness about the state of the country's infrastructure and its impact on people's lives."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Disgust at the neglect and mismanagement that have led to the deterioration."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger at the government for failing to maintain infrastructure."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Limited anticipation about improvements to the infrastructure."
+        }
+      }
+    },
+    {
+      "topic": "Marginalization of internal states in Tunisia",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "The text mentions \"تهميش الولايات الداخلية\" (marginalization of the internal states), which is a negative statement. This refers to the unequal distribution of resources and opportunities between the capital and other regions."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with marginalization."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low trust in the government to address the issue of marginalization."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Fear about the consequences of continued marginalization."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Little surprise, as this is a long-standing issue."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Sadness about the unequal distribution of resources and opportunities."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Disgust at the unfairness of the situation."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger at the government for perpetuating marginalization."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Limited anticipation about improvements in the situation."
+        }
+      }
+    },
+    {
+      "topic": "Sidi Bouzid and the Tunisian Revolution",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 60,
+        "reasoning": "Sidi Bouzid is mentioned as the birthplace of the Tunisian Revolution, which had both positive (hope for change) and negative (instability) aspects. The overall sentiment is slightly positive, acknowledging the revolutionary spirit, but tempered by the current situation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Joy associated with the initial hopes of the revolution."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some trust in the ideals of the revolution."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Fear about the current state of affairs and the unfulfilled promises of the revolution."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some surprise at how the revolution has unfolded."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness about the current situation and the challenges facing Tunisia."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some disgust at the corruption and inequality that persist."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anger at the unfulfilled promises of the revolution."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation about the future of Tunisia and the possibility of positive change."
+        }
+      }
+    }
+  ]
+}

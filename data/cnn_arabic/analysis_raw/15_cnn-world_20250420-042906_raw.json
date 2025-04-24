@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOHTByZhNdqbnNouR7JGpGYJAp7s2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nFormer President Biden Criticizes Trump's Administration's Handling of Social Security\n\n### English Text Summary:\nFormer President Joe Biden publicly criticized Donald Trump's second administration, particularly its management of Social Security, calling it \"devastating.\" Speaking at a conference in Chicago, Biden condemned Republican policies and defended entitlement programs that benefit millions of Americans with disabilities and retirees. He highlighted concerns over staff reductions and policy changes within the Social Security Administration, warning that these could harm citizens relying on its services. Biden accused Republicans of deliberately undermining Social Security to fund tax cuts for the wealthy. The Social Security Administration responded by denying Biden's claims and defending its actions. Biden also made light-hearted comments about his age and the ongoing political divide in the country.\n\n[\n    {\n        \"topic\": \"Joe Biden's Criticism of Trump\",\n        \"sentiment_polarity\": { \"score\": -0.8, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 90 },\n            \"Anger\": { \"weight\": 0.7, \"confidence\": 95 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 85 }\n        }\n    },\n    {\n        \"topic\": \"Social Security Administration Policies\",\n        \"sentiment_polarity\": { \"score\": -0.7, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.5, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.6, \"confidence\": 90 },\n            \"Anger\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Republican Policies\",\n        \"sentiment_polarity\": { \"score\": -0.9, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 95 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Fear\": { \"weight\": 0.8, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Sadness\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Anger\": { \"weight\": 0.8, \"confidence\": 95 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Public Reaction to Biden's Statements\",\n        \"sentiment_polarity\": { \"score\": -0.5, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.3, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.4, \"confidence\": 85 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Biden's Age and Humor\",\n        \"sentiment_polarity\": { \"score\": 0.2, \"confidence\": 75 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Trust\": { \"weight\": 0.4, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 95 },\n            \"Anger\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.2, \"confidence\": 80 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745126725,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1173,
+    "prompt_tokens": 2405,
+    "total_tokens": 3578,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

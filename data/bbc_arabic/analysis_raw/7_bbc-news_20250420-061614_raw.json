@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOINH4oZaD6srAOqPpTGQme5O7JUz",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nEmirati Authorities Limit Use of Emirati Dialect in Official Media to Citizens Only\n\n### English Text Summary:\nThe UAE authorities have recently issued a decision restricting the use of the Emirati dialect in official media to citizens only, requiring speakers to wear national attire when discussing projects in the local dialect. This policy, implemented three months ago, aims to protect cultural identity and prevent the distortion of Emirati symbols. The National Media Council's decision is a response to perceived misrepresentation of the dialect in media by non-citizens. While many citizens welcome the move as a bold step to preserve heritage, some non-citizen media professionals express concerns about its impact on cultural diversity and creativity. The authorities are monitoring compliance with the new regulations, which may affect the employment of non-citizens proficient in the dialect.\n\n[\n    {\n        \"topic\": \"UAE Authorities Decision\",\n        \"sentiment_polarity\": { \"score\": 0.6, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Anger\": { \"weight\": 0.2, \"confidence\": 65 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Cultural Identity Protection\",\n        \"sentiment_polarity\": { \"score\": 0.7, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Trust\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Fear\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Surprise\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Sadness\": { \"weight\": 0.0, \"confidence\": 95 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.1, \"confidence\": 60 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Public Reaction\",\n        \"sentiment_polarity\": { \"score\": 0.5, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Trust\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Anger\": { \"weight\": 0.2, \"confidence\": 65 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Impact on Non-Citizen Media Professionals\",\n        \"sentiment_polarity\": { \"score\": -0.4, \"confidence\": 75 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Fear\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Disgust\": { \"weight\": 0.1, \"confidence\": 60 },\n            \"Anger\": { \"weight\": 0.4, \"confidence\": 65 },\n            \"Anticipation\": { \"weight\": 0.3, \"confidence\": 70 }\n        }\n    },\n    {\n        \"topic\": \"Monitoring Compliance\",\n        \"sentiment_polarity\": { \"score\": 0.5, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Surprise\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Sadness\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.1, \"confidence\": 65 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 75 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745130203,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1184,
+    "prompt_tokens": 1890,
+    "total_tokens": 3074,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

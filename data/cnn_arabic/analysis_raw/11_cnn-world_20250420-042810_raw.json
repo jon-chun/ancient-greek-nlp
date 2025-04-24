@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOHS9GyUis70rzT9RgqCbv8lb4hGo",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nConcerns of Democratic State Treasurers Regarding the Impact of Trump's Trade War on Farmers\n\n### English Text Summary:\nState treasurers from Colorado, Washington, California, New Mexico, and Illinois expressed deep concerns about the effects of President Donald Trump's trade war on farmers and the agricultural sector during a press call with the organization \"Americans for Responsible Growth.\" Colorado Treasurer Dave Young warned that if the trade war continues unchecked, it could lead to the closure of small and large production facilities nationwide. Minnesota Auditor Julie Blaha highlighted farmers' anxiety over uncertainty caused by the administration's tariff policies, particularly the risk of losing Chinese customers to competitors like Brazil. She emphasized that the previous aid plan from 2018 would not suffice to address current challenges and called for a clear strategy regarding tariffs and their implications.\n\n[\n    {\n        \"topic\": \"Trump's Trade War\",\n        \"sentiment_polarity\": { \"score\": -0.8, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.9, \"confidence\": 95 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.8, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.7, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Impact on Farmers\",\n        \"sentiment_polarity\": { \"score\": -0.7, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.8, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.9, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.4, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Minnesota Farmers' Concerns\",\n        \"sentiment_polarity\": { \"score\": -0.6, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.8, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Anger\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 70 }\n        }\n    },\n    {\n        \"topic\": \"Trade Policy Uncertainty\",\n        \"sentiment_polarity\": { \"score\": -0.5, \"confidence\": 75 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.7, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Anger\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 70 }\n        }\n    },\n    {\n        \"topic\": \"Need for a Clear Plan\",\n        \"sentiment_polarity\": { \"score\": -0.4, \"confidence\": 70 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.4, \"confidence\": 60 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.6, \"confidence\": 75 },\n            \"Disgust\": { \"weight\": 0.2, \"confidence\": 65 },\n            \"Anger\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 75 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745126661,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1183,
+    "prompt_tokens": 1374,
+    "total_tokens": 2557,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

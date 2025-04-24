@@ -1,0 +1,12 @@
+cltk>=1.4,<2.0          # CLTK wheel uploaded Dec‑2024 :contentReference[oaicite:1]{index=1}
+gensim>=4.3.3,<5.0      # latest wheel 4.3.3 (Jul‑2024) satisfies CLTK :contentReference[oaicite:2]{index=2}
+stanza>=1.8             # Apr‑2024 release :contentReference[oaicite:3]{index=3}
+spacy[transformers]>=3.7
+sentence-transformers>=2.6   # Apr‑2025 wheel :contentReference[oaicite:4]{index=4}
+transformers>=4.40
+pyldavis>=3.4
+ruamel.yaml>=0.18       # Jan‑2025 :contentReference[oaicite:5]{index=5}
+matplotlib>=3.9
+seaborn>=0.13
+pytest>=8.0
+pytest-cov>=4.1

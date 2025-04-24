@@ -1,0 +1,51 @@
+###FORMAT:
+Title: Why everyone is suddenly so interested in US bond markets
+URL: https://www.bbc.com/news/articles/cvg838qq7zqo
+Scraped Date: 2025-04-20 13:04:42
+Published Date: 2025-04-19
+
+--- Text ---
+Why everyone is suddenly so interested in US bond markets
+Stock markets around the world have been relatively settled this week after a period of chaos, sparked by US trade tariffs.
+But investors are still closely watching a part of the market which rarely moves dramatically - the US bond market.
+Governments sell bonds - essentially an IOU - to raise money for public spending and in return they pay interest.
+Recently, in an extremely rare move the rate the US government had to pay on its bonds rose sharply, while the price of bonds themselves fell.
+The volatility suggests investors were losing confidence in the world's biggest economy.
+You may think it's too esoteric to bother you, but here's why it matters and how it may change President Trump's mind on tariffs.
+What is a government bond?
+When a government wants to borrow money, it usually does so by selling bonds - known as "Treasuries" in the US - to investors on financial markets.
+Such payments are made over a number of pre-agreed years before a full and final payment is made when the bond "matures" - in other words, expires.
+Investors who buy bonds are mainly made up of financial institutions, ranging from pension funds to central banks like the Bank of England.
+What is happening with US bonds?
+Investors buy government bonds because they are seen as a safe place to invest their money. There is little risk a government will not repay the money, especially an economic superpower like the US.
+So when the economy is turbulent and investors want to take money out of volatile stocks and shares markets, they usually place that cash in US bonds.
+But recently that hasn't happened.
+Initially, following the so-called "Liberation Day" tariffs announcement on 2 April when shares fell, investors did appear to flock to US bonds.
+However, when the first of these tariffs kicked in on 5 April and Trump doubled down on his policies that weekend, investors began dumping government bonds, sending the interest rate the US government would have to pay to borrow money up sharply.
+The so-called yield for US government borrowing over 10 years shot up from 3.9% to 4.5%, while the 30-year yield spiked at almost 5%. Movements of 0.2% in either direction are considered a big deal.
+Why the dramatic sell-off? In short, the uncertainty over the impact of tariffs on the US economy led to investors no longer seeing government bonds as such a safe bet, so demanded bigger returns to buy them.
+The higher the perceived risk, the higher the yield investors want to compensate for taking it.
+How does this affect ordinary Americans?
+If the US government is spending more on debt interest repayments, it can affect budgets and public spending as it becomes more costly for the government to sustain itself.
+But it can also have a direct impact on households and even more so on businesses.
+John Canavan, lead analyst at Oxford Economics, says when investors charge higher rates to lend the government money, other rates for lending that have more risk attached, such as mortgages, credit cards and car loans, also tend to rise.
+Businesses, especially small ones, are likely to be hardest hit by any immediate change in borrowing rates, as most homeowners in the US have fixed-rate deals of between 15 and 30 years. If businesses can't get access to credit, that can halt economic growth and lead to job losses over time.
+Mr Canavan adds that banks can become more cautious in lending money, which could impact the US economy.
+First-time buyers and those wishing to move home could also face higher costs, he says, which could impact the housing market in the longer term. It's common in the US for small business owners starting out to use the equity in their home as collateral.
+Why does Trump care?
+Following the introduction of tariffs, Trump urged his nation to "hang tough", but it appears the potential threat to jobs and the US economy stopped the president in his tracks.
+Following the ructions in the bond markets, he introduced a 90-day pause for the higher tariffs on every country except China. The 10% blanket tariff, however, on all countries remains.
+It proved a pressure point for Trump - and now the world knows it.
+"Although President Donald Trump was able to resist the stock market sell-off, once the bond market began to weaken too, it was only a matter of time before he folded," says Paul Ashworth, chief North America economist at Capital Economics.
+According to US media reports, it was Treasury Secretary Scott Bessent, inundated with calls from business leaders, who played a key part in swaying Trump.
+Is this similar to Liz Truss's mini-Budget?
+The bond market reaction has led to comparisons with former UK Prime Minister Liz Truss's infamous mini-Budget of September 2022. The unfunded tax cuts announced then spooked investors, who dumped UK government bonds, resulting in the Bank of England stepping in to buy bonds to save pension funds from collapse.
+Some analysts suggested that America's central bank, the US Federal Reserve, might have been forced to step in if the sell-off had worsened.
+While bond yields have settled, some might argue the damage has already been done as they remain higher than before the blanket tariffs kicked in.
+"Arguably the most worrying aspect of the [recent] turmoil... is an emerging risk premium in US Treasury bonds and the dollar, akin to what the UK experienced in 2022," according to Jonas Goltermann, deputy chief markets economist at Capital Economics.
+But unless you're a first-time buyer or selling your home, Americans are unlikely to be immediately hit by higher mortgage costs, unlike Brits who were securing new shorter-term fixed deals.
+How is China being linked to US bonds?
+Since 2010, foreign ownership of US bonds has almost doubled, rising by $3 trillion, according to Deutsche Bank.
+Japan holds the most US Treasuries, but China, the US's arch enemy in this global trade war, is the second biggest holder of US government debt globally.
+Questions were raised about whether it sparked the debt sell-off in response to being hit with huge tariffs.
+However, this is unlikely as any fire sale "would impoverish China more than it would hurt the US", according to Capital Economics.

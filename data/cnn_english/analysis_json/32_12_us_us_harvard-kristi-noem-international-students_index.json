@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "DHS threatens to revoke Harvard’s eligibility to host foreign students amid broader battle over universities’ autonomy",
+    "text_summary_en": "The Trump administration is increasing pressure on Harvard University by threatening to revoke its eligibility to host international students after freezing $2 billion in federal funding. Homeland Security Secretary Kristi Noem sent a letter demanding records on foreign student visa holders' activities, citing a \"hostile learning environment\" for Jewish students. This follows Harvard's refusal to comply with demands to eliminate DEI programs, ban masks at protests, and enact merit-based reforms. The administration aims to combat antisemitism and DEI practices it deems discriminatory. Jewish students at Harvard expressed concern about being used as pawns in a political agenda. The administration is also moving to revoke visas of students and faculty at other universities and considering rescinding Harvard's tax-exempt status. Noem canceled violence prevention grants for Harvard programs. Harvard maintains it will not surrender its independence. Losing SEVP certification could significantly impact Harvard's international student population and finances.",
+    "original_filename": "12_us_us_harvard-kristi-noem-international-students_index.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "DHS threat to revoke Harvard's eligibility to host foreign students",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "Describes a conflict and potential negative consequences for Harvard, with an overall negative tone."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "There is no joy expressed in this topic."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There is a lack of trust between Harvard and the administration."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The threat of losing SEVP certification and funding creates significant fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The sudden escalation of the conflict could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The potential loss for students and the university evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some may feel disgust at the administration's tactics."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The administration's actions and Harvard's resistance generate anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "People are waiting to see what will happen next."
+        }
+      }
+    },
+    {
+      "topic": "Kristi Noem's actions against Harvard",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "Describes aggressive and punitive actions by Kristi Noem, perceived as hostile."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "There is no joy expressed in this topic."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There is a lack of trust in the actions of Kristi Noem."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The potential consequences for Harvard create fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The escalation of actions could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The potential harm to students evokes some sadness."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The perceived unfairness of the actions generates disgust."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The aggressive and punitive nature of the actions generates anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "People are waiting to see the impact of these actions."
+        }
+      }
+    },
+    {
+      "topic": "Harvard's response",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 80,
+        "reasoning": "Focuses on Harvard's resistance and defense of its independence, with a somewhat neutral tone."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "There is little joy, but perhaps a sense of resolve."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Harvard trusts in its own principles and rights."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "There is some fear of the potential consequences."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The situation may still hold some surprises."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "There is sadness about the situation, but also resolve."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some disgust at the administration's actions."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "There is anger at the perceived overreach of the administration."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Harvard anticipates the next steps and their impact."
+        }
+      }
+    },
+    {
+      "topic": "Concerns of Jewish students at Harvard",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "Describes the concerns of Jewish students, who feel they are being used as political pawns, with a negative tone."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "There is no joy expressed in this topic."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There is a lack of trust in the administration's motives."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The students fear being used as political pawns."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The situation may have been surprising to some students."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The students are saddened by the situation and their position."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 50,
+          "reasoning": "Some students may feel disgust at being manipulated."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The students are angry at being used in a political agenda."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The students are uncertain about the future and the impact on them."
+        }
+      }
+    },
+    {
+      "topic": "Trump administration's broader actions against universities",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "Describes the administration's aggressive actions against universities, with a negative tone."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "There is no joy expressed in this topic."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There is a lack of trust in the administration's motives."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The potential consequences for students and universities create fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The extent of the actions may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The potential loss for those affected evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 50,
+          "reasoning": "Some may feel disgust at the administration's tactics."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The administration's actions generate anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "People are waiting to see the full impact of these actions."
+        }
+      }
+    }
+  ]
+}

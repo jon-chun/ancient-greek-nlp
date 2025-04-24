@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Trump’s tariffs will be bad for you. And you, and you, and you, and you",
+    "text_summary_en": "The article discusses the potential negative impacts of President Trump's decision to impose new tariffs on America's trading partners. Economists predict a likely recession in the US and globally if the tariffs remain in place, leading to increased prices, job losses, and economic downturns. The tariffs are described as a \"US tax increase\" that will exacerbate inflation. Retaliatory measures from other countries like the EU and China are expected, further impacting the global economy. While the US aims to boost its manufacturing sector, the tariffs could disrupt supply chains, increase bureaucracy, and harm businesses. Consumers both in the US and abroad could face higher prices due to these tariffs and retaliatory measures. Despite some analysts believing a global recession can be avoided, the overall economic growth is expected to weaken significantly.",
+    "original_filename": "27_economy_economy_recession-trump-tariffs-intl_index.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Trump's Tariffs",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The topic of Trump's tariffs is inherently negative due to the predicted economic consequences, including potential recession and increased prices."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The tariffs are expected to have negative consequences, so joy is minimal."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "There might be a degree of trust in the stated goals of the tariffs, but overshadowed by negative predictions."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The potential for economic downturn and job losses evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The announcement and scope of the tariffs could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The potential negative economic consequences contribute to sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The policy itself might be seen as distasteful by some."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The tariffs could evoke anger due to their potential negative impacts."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "There's anticipation about the effects and potential retaliatory measures."
+        }
+      }
+    },
+    {
+      "topic": "US Recession",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The prospect of a US recession is inherently negative, with implications for job losses and economic hardship. The article explicitly states that recession is a likely outcome if the tariffs continue."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Recession is the opposite of joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There's no trust associated with a recession."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Recession evokes strong fear and anxiety."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "A recession might be unexpected by some, but the article suggests it's likely."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Recession brings sadness due to job losses and economic hardship."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The idea of a recession can be distasteful."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Recession can lead to anger directed at those perceived to be responsible."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "There's anticipation about the potential effects of a recession."
+        }
+      }
+    },
+    {
+      "topic": "Retaliatory Measures",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "The article mentions retaliatory measures from other countries as a consequence of the tariffs. This is generally viewed negatively as it can escalate trade tensions and harm global trade."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Retaliation is unlikely to bring joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Retaliation implies a breakdown of trust."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Retaliation can lead to fear of escalating trade wars."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The extent and nature of retaliation might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Retaliation can lead to economic hardship and sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Retaliation can be seen as distasteful and unproductive."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Retaliation is often driven by anger and resentment."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "There's anticipation about the potential consequences of retaliation."
+        }
+      }
+    },
+    {
+      "topic": "Impact on Consumers",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The article discusses the potential impact on consumers, including higher prices. This is generally viewed negatively as it reduces purchasing power and can lead to economic hardship."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Higher prices and economic hardship are the opposite of joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There's little trust associated with higher prices."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The prospect of higher prices can evoke fear of financial strain."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The extent of price increases might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Higher prices can lead to sadness due to reduced living standards."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The idea of being exploited by higher prices can be distasteful."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Higher prices can lead to anger directed at those perceived to be responsible."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "There's anticipation about the potential impact of higher prices on household budgets."
+        }
+      }
+    },
+    {
+      "topic": "Job Losses",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The article mentions potential job losses as a consequence of the tariffs and recession. This is inherently negative as it leads to financial insecurity and hardship for individuals and families."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Job losses are the opposite of joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There's no trust associated with job losses."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Job losses evoke strong fear and anxiety about the future."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Job losses might be unexpected by some, but the article suggests they are a likely outcome."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Job losses bring profound sadness due to financial insecurity and loss of purpose."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 60,
+          "reasoning": "The idea of being unemployed can be distasteful."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Job losses can lead to anger directed at those perceived to be responsible."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "There's anticipation about the potential for job losses and their impact on the economy."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "article_metadata": {
+    "title_en": "How Egyptians Reacted to the Authorities' Decision to Close Famous Food and Dessert Shops",
+    "text_summary_en": "Egyptian authorities have closed several food and dessert shops, including the popular \"Balaben,\" due to food safety concerns and violations. The closures followed reports of food poisoning and inspections revealing bacteria and unsafe practices. While authorities cited health risks, \"Balaben\" initially claimed the closures were due to administrative reasons, later admitting to struggling to understand and rectify the issues. The closures have sparked widespread debate, with some supporting the government's actions to protect public health, while others express concern over job losses, as \"Balaben\" claims the shutdown affects over 25,000 workers. The situation is further complicated by reports that the owner of \"Balaben\" is not Egyptian and owns other establishments that have also been closed. The incident echoes a similar situation in Saudi Arabia, where \"Balaben\" branches were also shut down due to food poisoning concerns.",
+    "original_filename": "1_bbc-economic_20250420-055821.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Egyptian Authorities' Actions",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 85,
+        "reasoning": "The sentiment is slightly negative as actions are 'strict' and involve closures, but justified by 'ensuring food safety and consumer health'."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No indication of joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Some trust due to the stated goal of ensuring food safety."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Fear due to potential health risks."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sudden closures may have surprised some."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some sadness due to business closures."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Disgust related to the food safety violations."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger from business owners affected by the closures."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of future actions and outcomes."
+        }
+      }
+    },
+    {
+      "topic": "\"Balaben\" Company",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "Negative sentiment due to closures, accusations of food safety violations, and the company's struggle to address the issues."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No indication of joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Low trust due to the food safety concerns."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear about the future of the company and its employees."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the extent of the closures."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Sadness due to business closures and job losses."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Disgust related to the food safety violations."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger from employees and stakeholders affected by the closures."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Uncertain anticipation of the company's future."
+        }
+      }
+    },
+    {
+      "topic": "Food Safety Concerns/Food Poisoning",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "Highly negative due to bacteria, unsafe practices leading to 'food poisoning', and 'internationally banned colors'."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No joy associated with food poisoning."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Complete lack of trust in food safety."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High fear due to the health risks of food poisoning."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise at the extent of the violations."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Sadness for those affected by food poisoning."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High disgust related to the bacteria and unsafe practices."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger towards those responsible for the violations."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Low anticipation, mostly concern about future incidents."
+        }
+      }
+    },
+    {
+      "topic": "Job Losses (25,000 workers)",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "Negative as job losses are a significant concern. 'More than 25,000 workers were laid off and without a job in their homes' highlights the negative impact."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No joy associated with job losses."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No trust in the situation."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High fear about financial security and future employment."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the scale of the job losses."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High sadness due to the loss of livelihoods."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some disgust at the situation."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High anger towards those perceived as responsible."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Very low anticipation of positive outcomes."
+        }
+      }
+    },
+    {
+      "topic": "Saudi Arabia's Actions Regarding \"Balaben\"",
+      "sentiment_polarity": {
+        "score": -0.1,
+        "confidence": 75,
+        "reasoning": "Neutral to slightly negative. Closing branches is negative, but presented as parallel to Egypt. Mention of 'criticism and attack' adds negativity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with the closures."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some trust in the Saudi authorities' actions."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Fear related to the food safety concerns."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Surprise at the closures."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some sadness due to the business closures."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Disgust related to the food safety violations."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger from those who viewed the actions as targeting Egyptian products."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Low anticipation of positive outcomes."
+        }
+      }
+    },
+    {
+      "topic": "Non-Egyptian Ownership of \"Balaben\"",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 60,
+        "reasoning": "Neutral as presented as a claim in media reports ('media reports say that the owner of the shops is someone who does not hold Egyptian nationality')."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with the ownership."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some distrust related to the ownership."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some fear related to the potential implications."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Surprise at the ownership."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Some sadness related to the potential implications."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Some disgust related to potential corruption."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some anger related to potential exploitation."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 45,
+          "reasoning": "Some anticipation of future developments."
+        }
+      }
+    }
+  ]
+}

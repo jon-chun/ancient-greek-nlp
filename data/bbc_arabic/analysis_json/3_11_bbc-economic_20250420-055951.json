@@ -1,0 +1,359 @@
+{
+  "article_metadata": {
+    "title_en": "Learn about the Most Prominent Economic Terms Occupying the World After Trump's Announcement of Tariffs",
+    "text_summary_en": "The article discusses key economic terms that have gained prominence following Donald Trump's tariff announcements. It defines terms like \"stock market crash,\" explaining its causes and historical examples. It also explains \"bear market\" and \"bull market,\" relating them to market trends. The article further elaborates on \"economic recession\" and \"depression,\" detailing their characteristics and the historical \"Great Depression.\" It clarifies \"tariff,\" its purpose, and its impact on consumers and international trade, including the concept of \"reciprocal tariffs\" as promoted by Trump. The article concludes by noting that while tariffs aim to protect domestic industries, they can also lead to higher prices and hinder free competition. The article also references trade agreements like the EU customs union and NAFTA.",
+    "original_filename": "11_bbc-economic_20250420-055951.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Economic Terms",
+      "sentiment_polarity": {
+        "score": 0.1,
+        "confidence": 85,
+        "reasoning": "The article is largely neutral, providing definitions and explanations of economic terms in an informative way."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "The article is not intended to be joyful."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "The article aims to provide reliable information."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "Discussion of crashes and recessions evokes some fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The article doesn't present many surprising elements."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The discussion of economic downturns might evoke a slight sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "The article is not intended to be disgusting."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The discussion of tariffs might evoke some anger in those negatively affected."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The article discusses potential economic outcomes, creating anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Stock Market Crash",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The topic is inherently negative due to its association with significant financial losses and economic instability."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "A stock market crash is not a joyful event."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "A stock market crash erodes trust in the market."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Fear is a dominant emotion due to potential financial losses."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Crashes often occur unexpectedly."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Sadness is associated with financial losses."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some might feel disgust at the factors leading to the crash."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Some might feel anger towards those perceived as responsible."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "There may be anticipation of further market decline."
+        }
+      }
+    },
+    {
+      "topic": "Bear Market",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The phrase 'سوق الدب' (Bear Market) is associated with declining stock prices and economic stagnation, indicating a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "A bear market is not a joyful event."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "A bear market erodes trust in the market."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Fear is a significant emotion due to potential losses."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The start of a bear market might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Sadness is associated with declining investments."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Some might feel disgust at the factors leading to the bear market."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some might feel anger towards those perceived as responsible."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "There's anticipation for the market to recover."
+        }
+      }
+    },
+    {
+      "topic": "Economic Recession and Depression",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "'Economic recession and depression' are inherently negative concepts, representing periods of economic decline and hardship."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Recession and depression are not joyful events."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "These events erode trust in the economy and government."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Fear is a dominant emotion due to potential job losses and financial insecurity."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The onset of a recession or depression might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Sadness is associated with economic hardship and loss."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some might feel disgust at the factors leading to the economic downturn."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger is directed towards those perceived as responsible for the crisis."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "There's anticipation for the economy to recover."
+        }
+      }
+    },
+    {
+      "topic": "Tariff",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 85,
+        "reasoning": "While the term 'tariff' itself is neutral, the discussion around it acknowledges both potential benefits and drawbacks, indicating a slightly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Tariffs might bring joy to protected industries."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some might trust tariffs to protect domestic jobs."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear about higher prices and trade wars."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The impact of tariffs can sometimes be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness for consumers facing higher prices."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Some might feel disgust at protectionist policies."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger from those negatively affected by trade restrictions."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation about the economic consequences of tariffs."
+        }
+      }
+    },
+    {
+      "topic": "Tariff of Reciprocity",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 80,
+        "reasoning": "'Tariff of Reciprocity' as promoted by Trump implies a potentially confrontational trade policy, suggesting a retaliatory approach."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Might bring joy to domestic industries feeling protected."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some might trust this policy to level the playing field."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Fear of trade wars and economic disruption."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The impact of reciprocal tariffs can be unpredictable."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness for consumers and businesses affected by trade restrictions."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some might feel disgust at protectionist policies."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anger towards countries imposing tariffs and potential trade partners."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation about the economic consequences of this policy."
+        }
+      }
+    },
+    {
+      "topic": "Donald Trump",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "Trump's involvement is presented as a catalyst for economic discussion, but also as a source of 'مخاوف كبيرة في أسواق المال' (great fears in the financial markets)."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some supporters may feel joy due to perceived protection of domestic industries."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some might trust his policies."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of economic instability and trade wars."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Trump's policies are often unpredictable."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness for those negatively affected by the tariffs."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some might feel disgust towards his policies."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger from those negatively affected by the tariffs."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation about the economic consequences of his actions."
+        }
+      }
+    }
+  ]
+}

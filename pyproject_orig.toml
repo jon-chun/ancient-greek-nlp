@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]    # Setuptools gained stable PEP 621 support in 61+ :contentReference[oaicite:1]{index=1}
+build-backend = "setuptools.build_meta"
+
+[project]                                  # PEP 621 core metadata
+name = "ancient-greek-nlp"                 # ← mandatory!
+version = "0.1.0"                          # ← mandatory unless `dynamic = ["version"]`
+description = "Configurable Ancient‑Greek NLP pipeline"
+readme = "README.md"
+requires-python = ">=3.9,<3.12"
+dependencies = [
+    "cltk>=1.4,<2.0",
+    "gensim>=4.3.3,<5.0",
+    "stanza>=1.8",
+    "spacy[transformers]>=3.7",
+    "sentence-transformers>=2.6",
+    "transformers>=4.40",
+    "pyldavis>=3.4",
+    "ruamel.yaml>=0.18",
+    "matplotlib>=3.9",
+    "seaborn>=0.13",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "pytest-cov>=4.1"]

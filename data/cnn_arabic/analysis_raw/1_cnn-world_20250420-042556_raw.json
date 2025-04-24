@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOHZVYcOLEeYFkWnsYGeBRAJ46Yek",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nTrump Renewed His Attack on Biden, Blaming Him for Allowing Criminals and Drug Dealers into the U.S.\n\n### English Text Summary:\nIn a recent post on X (formerly Twitter), former President Donald Trump criticized President Joe Biden, accusing him of permitting millions of criminals, including murderers and drug dealers, to enter the United States through open and dangerous borders. Trump referred to Biden as \"Sleepy Joe\" and labeled him the worst president in U.S. history. He emphasized his role in removing these criminals, stating that he was elected for this purpose. Trump also shared an image of an individual he claimed was a member of the MS-13 gang, arguing that Democrats want to reinstate such individuals despite their criminal backgrounds. He reiterated his commitment to making America great again by expelling dangerous individuals.\n\n[\n    {\n        \"topic\": \"Donald Trump\",\n        \"sentiment_polarity\": { \"score\": 0.5, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 60 },\n            \"Fear\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Sadness\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Joe Biden\",\n        \"sentiment_polarity\": { \"score\": -0.7, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Disgust\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Anger\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.3, \"confidence\": 70 }\n        }\n    },\n    {\n        \"topic\": \"Immigration Policy\",\n        \"sentiment_polarity\": { \"score\": -0.6, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Fear\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Disgust\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.5, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"MS-13 Gang\",\n        \"sentiment_polarity\": { \"score\": -0.8, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Fear\": { \"weight\": 0.9, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 60 },\n            \"Disgust\": { \"weight\": 0.9, \"confidence\": 95 },\n            \"Anger\": { \"weight\": 0.8, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.3, \"confidence\": 70 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745127117,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 977,
+    "prompt_tokens": 1332,
+    "total_tokens": 2309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

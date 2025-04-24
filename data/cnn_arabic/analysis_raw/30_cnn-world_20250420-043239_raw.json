@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOHRzFigFLQVEaN3JQKsLHWofuJhZ",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nUS Exempts Imported Electronics from Tariffs Imposed by Trump\n\n### English Text Summary:\nThe US Customs and Border Protection announced that imported electronic devices, including smartphones and computer screens, will be exempt from tariffs imposed by President Donald Trump. This exemption applies to products entering the US or withdrawn from warehouses starting April 5. The decision follows a 145% tariff on Chinese goods, which could significantly impact major tech companies like Apple, as 90% of iPhones are produced in China. Analysts view this exemption as positive news for tech investors. However, experts warn that tariffs could ultimately raise consumer prices. Nintendo has postponed pre-orders for its Switch 2 console due to potential tariff impacts. Trump criticized the Biden administration's semiconductor funding for TSMC, emphasizing the need for domestic manufacturing.\n\n[\n    {\n        \"topic\": \"US Tariff Exemption for Electronics\",\n        \"sentiment_polarity\": { \"score\": 0.8, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Trust\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Impact on Tech Companies\",\n        \"sentiment_polarity\": { \"score\": 0.7, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Trust\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Surprise\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Consumer Price Concerns\",\n        \"sentiment_polarity\": { \"score\": -0.4, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Anger\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Nintendo's Delay of Switch 2\",\n        \"sentiment_polarity\": { \"score\": -0.3, \"confidence\": 75 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.3, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Trump's Criticism of Biden's Semiconductor Funding\",\n        \"sentiment_polarity\": { \"score\": -0.5, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745126651,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1191,
+    "prompt_tokens": 1986,
+    "total_tokens": 3177,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

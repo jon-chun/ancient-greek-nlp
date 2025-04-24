@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOIHCNTWwzd7Kxmy03HZTD2U7RuCw",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nGlobal Financial Markets Experience Severe Decline Amid US Tariff Announcements\n\n### English Text Summary:\nThis week, global financial markets faced one of the worst downturns since the COVID-19 pandemic, triggered by US President Donald Trump's announcement of extensive tariffs on imports from numerous countries. Trump described these tariffs as necessary \"medicine\" to address financial imbalances, stating that foreign governments must pay significantly more to lift these tariffs. The new tariffs, ranging from 10% to 50%, led to sharp declines in Asian markets, with losses exceeding 9% in Hong Kong and 10% in Taiwan. The article discusses the implications of these tariffs on various economies, including China, New Zealand, and India, and highlights the potential for increased unemployment and economic slowdown in the US. It also notes the reactions of various countries and business leaders to the tariffs.\n\n[\n    {\n        \"topic\": \"Global Financial Markets\",\n        \"sentiment_polarity\": { \"score\": -0.8, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 95 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Fear\": { \"weight\": 0.8, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 80 },\n            \"Sadness\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 75 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 85 }\n        }\n    },\n    {\n        \"topic\": \"Donald Trump\",\n        \"sentiment_polarity\": { \"score\": -0.5, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.3, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Anger\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"US Tariffs\",\n        \"sentiment_polarity\": { \"score\": -0.7, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 95 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Fear\": { \"weight\": 0.9, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Sadness\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.7, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.8, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"China's Response\",\n        \"sentiment_polarity\": { \"score\": -0.6, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Economic Impact on Other Countries\",\n        \"sentiment_polarity\": { \"score\": -0.7, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.8, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Market Reactions\",\n        \"sentiment_polarity\": { \"score\": -0.9, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 95 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Fear\": { \"weight\": 0.9, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Sadness\": { \"weight\": 0.8, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Anger\": { \"weight\": 0.8, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 85 }\n        }\n    },\n    {\n        \"topic\": \"Federal Reserve\",\n        \"sentiment_polarity\": { \"score\": -0.4, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.3, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 85 }\n        }\n    },\n    {\n        \"topic\": \"International Negotiations\",\n        \"sentiment_polarity\": { \"score\": -0.3, \"confidence\": 75 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Trust\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Disgust\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Anger\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745129826,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1793,
+    "prompt_tokens": 2724,
+    "total_tokens": 4517,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

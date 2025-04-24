@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOHUP4xFVkAiunYKh8cYZUk3C9RtG",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nTesla Reaches Settlement in Racial Discrimination Lawsuit Filed by Black Employee\n\n### English Text Summary:\nTesla has reached a settlement in a racial discrimination lawsuit filed by a Black employee, Raina Pierce, who alleged that a manager at the Fremont, California factory made racist remarks. The settlement, proposed by a mediator, has not disclosed its terms. Pierce reported extensive harassment, including racist graffiti and gender-based insults, and claimed she faced disciplinary actions for behavior that was overlooked for non-Black employees. Tesla has faced other discrimination allegations at the Fremont factory, including a previous case where a plaintiff received a $3.2 million settlement after a jury verdict.\n\n[\n    {\n        \"topic\": \"Tesla\",\n        \"sentiment_polarity\": { \"score\": -0.5, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Surprise\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.5, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Racial Discrimination\",\n        \"sentiment_polarity\": { \"score\": -0.8, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Fear\": { \"weight\": 0.6, \"confidence\": 90 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Sadness\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.8, \"confidence\": 95 },\n            \"Anger\": { \"weight\": 0.9, \"confidence\": 95 },\n            \"Anticipation\": { \"weight\": 0.3, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Raina Pierce\",\n        \"sentiment_polarity\": { \"score\": -0.6, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.2, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Elon Musk\",\n        \"sentiment_polarity\": { \"score\": 0.0, \"confidence\": 70 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Trust\": { \"weight\": 0.5, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 60 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Disgust\": { \"weight\": 0.1, \"confidence\": 60 },\n            \"Anger\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 70 }\n        }\n    },\n    {\n        \"topic\": \"California\",\n        \"sentiment_polarity\": { \"score\": 0.1, \"confidence\": 60 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.3, \"confidence\": 50 },\n            \"Trust\": { \"weight\": 0.4, \"confidence\": 60 },\n            \"Fear\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 50 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Disgust\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Anger\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Anticipation\": { \"weight\": 0.3, \"confidence\": 50 }\n        }\n    },\n    {\n        \"topic\": \"Settlement\",\n        \"sentiment_polarity\": { \"score\": 0.2, \"confidence\": 70 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.4, \"confidence\": 60 },\n            \"Trust\": { \"weight\": 0.5, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 60 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Disgust\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Anger\": { \"weight\": 0.1, \"confidence\": 50 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 60 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745126801,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1345,
+    "prompt_tokens": 1436,
+    "total_tokens": 2781,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

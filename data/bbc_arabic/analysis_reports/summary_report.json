@@ -1,0 +1,5172 @@
+{
+  "summary": {
+    "total_input_files": 24,
+    "final_successful_files": 24,
+    "final_failed_files": 0,
+    "success_rate": 100.0,
+    "total_api_calls_made": 24,
+    "total_api_retries": 0,
+    "processing_time_seconds": 454.780843,
+    "start_time": "2025-04-20T02:23:06.861256",
+    "end_time": "2025-04-20T02:30:41.642099"
+  },
+  "topic_counts": {
+    "Public Reaction": 2,
+    "Bashar al-Assad": 2,
+    "U.S. Involvement": 2,
+    "Iran's Nuclear Program": 2,
+    "Arsenic in Rice": 1,
+    "Climate Change Impact": 1,
+    "Health Risks of Arsenic": 1,
+    "Research on Rice Cultivation": 1,
+    "Global Rice Consumption": 1,
+    "Regulatory Measures": 1,
+    "UAE Authorities Decision": 1,
+    "Cultural Identity Protection": 1,
+    "Impact on Non-Citizen Media Professionals": 1,
+    "Monitoring Compliance": 1,
+    "Yasar Ibrahim": 1,
+    "Smuggling Operation": 1,
+    "Syrian Economy": 1,
+    "International Relations (Russia and UAE)": 1,
+    "Meeting between Iraqi PM and Syrian Leader": 1,
+    "Iraqi Government's Stance on Normalizing Relations with Syria": 1,
+    "Regional Stability and Cooperation": 1,
+    "Arab Summit in Iraq": 1,
+    "Opposition to Normalization with Syria": 1,
+    "Trump's Mediation Role": 1,
+    "US Withdrawal from Negotiations": 1,
+    "Ongoing Russian Strikes": 1,
+    "Ukraine-US Mineral Deal": 1,
+    "Reconstruction Fund for Ukraine": 1,
+    "U.S. Strikes Against Houthis": 1,
+    "Military Operations by the Yemeni Government": 1,
+    "Humanitarian Impact of Houthis": 1,
+    "Allegations of Arms Smuggling from Oman": 1,
+    "Civilian Casualties from U.S. Strikes": 1,
+    "Iran Nuclear Talks": 1,
+    "Abbas Araghchi": 1,
+    "Oman as Mediator": 1,
+    "Libyan Model Rejection": 1,
+    "Freedom of Expression in Britain": 1,
+    "Donald Trump's First Hundred Days": 1,
+    "Artificial Intelligence in Occupational Safety": 1,
+    "Closure of Food Shops": 1,
+    "Food Safety Concerns": 1,
+    "Impact on Employees": 1,
+    "Government Response": 1,
+    "President Qais Saeed's Visit": 1,
+    "Death of Students": 1,
+    "Infrastructure Issues": 1,
+    "Social Media Reactions": 1,
+    "Criticism of Centralization Policies": 1,
+    "Finland's Happiness Ranking": 1,
+    "Finnish Lifestyle and Values": 1,
+    "Tourism in Finland": 1,
+    "Cultural Concepts: Sisu": 1,
+    "Culinary Scene in Finland": 1,
+    "Challenges in Finland": 1,
+    "Daily Program Schedule": 1,
+    "Trending Stories": 1,
+    "Meeting between Iraqi Prime Minister and Syrian Transitional President": 1,
+    "Bilateral Relations between Iraq and Syria": 1,
+    "Role of Qatar in the Meeting": 1,
+    "United Arab Emirates (UAE)": 1,
+    "Investigative Journalism": 1,
+    "Israeli Airstrikes on Gaza": 1,
+    "Hamas's Rejection of Ceasefire": 1,
+    "Humanitarian Crisis in Gaza": 1,
+    "International Response and Pressure": 1,
+    "Israeli Government's Stance": 1,
+    "Health Sector in Gaza": 1,
+    "Dr. Wissam Sukkar": 1,
+    "Israeli Blockade": 1,
+    "Displacement of Families": 1,
+    "Increased Health Issues": 1,
+    "Malak Abu Al-Amrin": 1,
+    "Ahmad Gharab": 1,
+    "Israeli Airstrike": 1,
+    "Gaza Strip": 1,
+    "Israeli Army Warnings": 1,
+    "Apple's Dependency on China": 1,
+    "U.S.-China Trade Relations": 1,
+    "Tariffs Imposed by Trump": 1,
+    "Competition from Chinese Companies": 1,
+    "Apple's Investment in the U.S.": 1,
+    "Putin's Ceasefire Announcement": 1,
+    "Zelensky's Response": 1,
+    "Historical Context of Ceasefires": 1,
+    "Netanyahu's Speech": 1,
+    "Hostage Situation": 1,
+    "Civilian Casualties in Gaza": 1,
+    "Humanitarian Situation in Gaza": 1,
+    "Turkey's Role": 1,
+    "Migration of Egyptian Doctors": 1,
+    "Government Policy on Doctors": 1,
+    "Statements by Prime Minister Mustafa": 1,
+    "Meeting between Mahmoud Abbas and Ahmad al-Shara": 1,
+    "Israeli Restrictions on Palestinian Travel": 1,
+    "Palestinian Refugees in Syria": 1,
+    "Potential Displacement of Palestinians from Gaza": 1,
+    "Impact of the Syrian Civil War on Palestinian Communities": 1,
+    "Syria's Foreign Relations": 1,
+    "Ahmad al-Shara": 1,
+    "Gulf States": 1,
+    "Regional Security": 1,
+    "Historical Context of Syrian-Gulf Relations": 1,
+    "Economic Cooperation": 1,
+    "Iran-US Nuclear Talks": 1,
+    "Trump's Military Threats": 1,
+    "Israel's Role": 1,
+    "Diplomatic Activities": 1
+  },
+  "topic_type_counts": {},
+  "avg_sentiment_by_topic": {
+    "Finland's Happiness Ranking": {
+      "average": 0.9,
+      "avg_confidence": 95.0,
+      "count": 1
+    },
+    "Gulf States": {
+      "average": 0.9,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Finnish Lifestyle and Values": {
+      "average": 0.8,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Cultural Concepts: Sisu": {
+      "average": 0.8,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Culinary Scene in Finland": {
+      "average": 0.8,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Daily Program Schedule": {
+      "average": 0.8,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Syria's Foreign Relations": {
+      "average": 0.8,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Regional Security": {
+      "average": 0.8,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Cultural Identity Protection": {
+      "average": 0.7,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "U.S. Strikes Against Houthis": {
+      "average": 0.7,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Oman as Mediator": {
+      "average": 0.7,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Tourism in Finland": {
+      "average": 0.7,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Trending Stories": {
+      "average": 0.7,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Role of Qatar in the Meeting": {
+      "average": 0.7,
+      "avg_confidence": 75.0,
+      "count": 1
+    },
+    "Meeting between Mahmoud Abbas and Ahmad al-Shara": {
+      "average": 0.7,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Ahmad al-Shara": {
+      "average": 0.7,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Economic Cooperation": {
+      "average": 0.7,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "UAE Authorities Decision": {
+      "average": 0.6,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Iran Nuclear Talks": {
+      "average": 0.6,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Artificial Intelligence in Occupational Safety": {
+      "average": 0.6,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Bilateral Relations between Iraq and Syria": {
+      "average": 0.6,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Investigative Journalism": {
+      "average": 0.6,
+      "avg_confidence": 75.0,
+      "count": 1
+    },
+    "Monitoring Compliance": {
+      "average": 0.5,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Arab Summit in Iraq": {
+      "average": 0.5,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Reconstruction Fund for Ukraine": {
+      "average": 0.5,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Abbas Araghchi": {
+      "average": 0.5,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Meeting between Iraqi Prime Minister and Syrian Transitional President": {
+      "average": 0.5,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Historical Context of Syrian-Gulf Relations": {
+      "average": 0.5,
+      "avg_confidence": 75.0,
+      "count": 1
+    },
+    "Regional Stability and Cooperation": {
+      "average": 0.4,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Ukraine-US Mineral Deal": {
+      "average": 0.4,
+      "avg_confidence": 75.0,
+      "count": 1
+    },
+    "Diplomatic Activities": {
+      "average": 0.4,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Meeting between Iraqi PM and Syrian Leader": {
+      "average": 0.3,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Iran's Nuclear Program": {
+      "average": 0.3,
+      "avg_confidence": 80.0,
+      "count": 2
+    },
+    "President Qais Saeed's Visit": {
+      "average": 0.3,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "International Response and Pressure": {
+      "average": 0.3,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Apple's Investment in the U.S.": {
+      "average": 0.3,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Putin's Ceasefire Announcement": {
+      "average": 0.3,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Turkey's Role": {
+      "average": 0.3,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Government Policy on Doctors": {
+      "average": 0.3,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "U.S. Involvement": {
+      "average": 0.25,
+      "avg_confidence": 72.5,
+      "count": 2
+    },
+    "Iraqi Government's Stance on Normalizing Relations with Syria": {
+      "average": 0.2,
+      "avg_confidence": 75.0,
+      "count": 1
+    },
+    "Zelensky's Response": {
+      "average": 0.2,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Netanyahu's Speech": {
+      "average": 0.2,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Statements by Prime Minister Mustafa": {
+      "average": 0.2,
+      "avg_confidence": 75.0,
+      "count": 1
+    },
+    "Iran-US Nuclear Talks": {
+      "average": 0.2,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Hostage Situation": {
+      "average": 0.1,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Public Reaction": {
+      "average": 0.0,
+      "avg_confidence": 82.5,
+      "count": 2
+    },
+    "Allegations of Arms Smuggling from Oman": {
+      "average": 0.0,
+      "avg_confidence": 75.0,
+      "count": 1
+    },
+    "Military Operations by the Yemeni Government": {
+      "average": -0.2,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Historical Context of Ceasefires": {
+      "average": -0.2,
+      "avg_confidence": 75.0,
+      "count": 1
+    },
+    "Global Rice Consumption": {
+      "average": -0.3,
+      "avg_confidence": 70.0,
+      "count": 1
+    },
+    "Challenges in Finland": {
+      "average": -0.3,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Israel's Role": {
+      "average": -0.3,
+      "avg_confidence": 75.0,
+      "count": 1
+    },
+    "Research on Rice Cultivation": {
+      "average": -0.4,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Impact on Non-Citizen Media Professionals": {
+      "average": -0.4,
+      "avg_confidence": 75.0,
+      "count": 1
+    },
+    "Opposition to Normalization with Syria": {
+      "average": -0.4,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Libyan Model Rejection": {
+      "average": -0.4,
+      "avg_confidence": 70.0,
+      "count": 1
+    },
+    "Government Response": {
+      "average": -0.4,
+      "avg_confidence": 75.0,
+      "count": 1
+    },
+    "Social Media Reactions": {
+      "average": -0.4,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Regulatory Measures": {
+      "average": -0.5,
+      "avg_confidence": 75.0,
+      "count": 1
+    },
+    "International Relations (Russia and UAE)": {
+      "average": -0.5,
+      "avg_confidence": 75.0,
+      "count": 1
+    },
+    "Trump's Mediation Role": {
+      "average": -0.5,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Criticism of Centralization Policies": {
+      "average": -0.5,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Migration of Egyptian Doctors": {
+      "average": -0.5,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Potential Displacement of Palestinians from Gaza": {
+      "average": -0.5,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Trump's Military Threats": {
+      "average": -0.5,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Syrian Economy": {
+      "average": -0.6,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "US Withdrawal from Negotiations": {
+      "average": -0.6,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Civilian Casualties from U.S. Strikes": {
+      "average": -0.6,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Food Safety Concerns": {
+      "average": -0.6,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Infrastructure Issues": {
+      "average": -0.6,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Israeli Army Warnings": {
+      "average": -0.6,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Competition from Chinese Companies": {
+      "average": -0.6,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Palestinian Refugees in Syria": {
+      "average": -0.6,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Climate Change Impact": {
+      "average": -0.7,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Yasar Ibrahim": {
+      "average": -0.7,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Freedom of Expression in Britain": {
+      "average": -0.7,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Closure of Food Shops": {
+      "average": -0.7,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "United Arab Emirates (UAE)": {
+      "average": -0.7,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Israeli Government's Stance": {
+      "average": -0.7,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Apple's Dependency on China": {
+      "average": -0.7,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Impact of the Syrian Civil War on Palestinian Communities": {
+      "average": -0.7,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "Arsenic in Rice": {
+      "average": -0.8,
+      "avg_confidence": 95.0,
+      "count": 1
+    },
+    "Bashar al-Assad": {
+      "average": -0.8,
+      "avg_confidence": 87.5,
+      "count": 2
+    },
+    "Ongoing Russian Strikes": {
+      "average": -0.8,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Humanitarian Impact of Houthis": {
+      "average": -0.8,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Impact on Employees": {
+      "average": -0.8,
+      "avg_confidence": 80.0,
+      "count": 1
+    },
+    "Death of Students": {
+      "average": -0.8,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Hamas's Rejection of Ceasefire": {
+      "average": -0.8,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Dr. Wissam Sukkar": {
+      "average": -0.8,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Gaza Strip": {
+      "average": -0.8,
+      "avg_confidence": 85.0,
+      "count": 1
+    },
+    "U.S.-China Trade Relations": {
+      "average": -0.8,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Civilian Casualties in Gaza": {
+      "average": -0.8,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Israeli Restrictions on Palestinian Travel": {
+      "average": -0.8,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Humanitarian Crisis in Gaza": {
+      "average": -0.85,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Displacement of Families": {
+      "average": -0.85,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Health Risks of Arsenic": {
+      "average": -0.9,
+      "avg_confidence": 95.0,
+      "count": 1
+    },
+    "Smuggling Operation": {
+      "average": -0.9,
+      "avg_confidence": 95.0,
+      "count": 1
+    },
+    "Donald Trump's First Hundred Days": {
+      "average": -0.9,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Israeli Airstrikes on Gaza": {
+      "average": -0.9,
+      "avg_confidence": 95.0,
+      "count": 1
+    },
+    "Health Sector in Gaza": {
+      "average": -0.9,
+      "avg_confidence": 95.0,
+      "count": 1
+    },
+    "Israeli Blockade": {
+      "average": -0.9,
+      "avg_confidence": 95.0,
+      "count": 1
+    },
+    "Increased Health Issues": {
+      "average": -0.9,
+      "avg_confidence": 95.0,
+      "count": 1
+    },
+    "Malak Abu Al-Amrin": {
+      "average": -0.9,
+      "avg_confidence": 95.0,
+      "count": 1
+    },
+    "Tariffs Imposed by Trump": {
+      "average": -0.9,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Humanitarian Situation in Gaza": {
+      "average": -0.9,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Ahmad Gharab": {
+      "average": -1.0,
+      "avg_confidence": 90.0,
+      "count": 1
+    },
+    "Israeli Airstrike": {
+      "average": -1.0,
+      "avg_confidence": 95.0,
+      "count": 1
+    }
+  },
+  "avg_sentiment_by_topic_type": {},
+  "avg_emotions_by_topic": {
+    "Arsenic in Rice": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.5,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.6,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.7,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Climate Change Impact": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.4,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.8,
+        "avg_confidence": 85.0,
+        "count": 1
+      }
+    },
+    "Health Risks of Arsenic": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.9,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.8,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.6,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Research on Rice Cultivation": {
+      "Joy": {
+        "average": 0.1,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.4,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.5,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.3,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.2,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.3,
+        "avg_confidence": 55.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.7,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Global Rice Consumption": {
+      "Joy": {
+        "average": 0.2,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.4,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.5,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.4,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.3,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.2,
+        "avg_confidence": 55.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.6,
+        "avg_confidence": 70.0,
+        "count": 1
+      }
+    },
+    "Regulatory Measures": {
+      "Joy": {
+        "average": 0.1,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.3,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.4,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.4,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.5,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.4,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.5,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.6,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "UAE Authorities Decision": {
+      "Joy": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.2,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Cultural Identity Protection": {
+      "Joy": {
+        "average": 0.4,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.6,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.0,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.1,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Public Reaction": {
+      "Joy": {
+        "average": 0.25,
+        "avg_confidence": 77.5,
+        "count": 2
+      },
+      "Trust": {
+        "average": 0.35,
+        "avg_confidence": 77.5,
+        "count": 2
+      },
+      "Fear": {
+        "average": 0.35,
+        "avg_confidence": 75.0,
+        "count": 2
+      },
+      "Surprise": {
+        "average": 0.35,
+        "avg_confidence": 65.0,
+        "count": 2
+      },
+      "Sadness": {
+        "average": 0.35,
+        "avg_confidence": 67.5,
+        "count": 2
+      },
+      "Disgust": {
+        "average": 0.15,
+        "avg_confidence": 85.0,
+        "count": 2
+      },
+      "Anger": {
+        "average": 0.44999999999999996,
+        "avg_confidence": 70.0,
+        "count": 2
+      },
+      "Anticipation": {
+        "average": 0.45,
+        "avg_confidence": 72.5,
+        "count": 2
+      }
+    },
+    "Impact on Non-Citizen Media Professionals": {
+      "Joy": {
+        "average": 0.1,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.2,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.1,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.4,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      }
+    },
+    "Monitoring Compliance": {
+      "Joy": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.2,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.0,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.1,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Bashar al-Assad": {
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 50.0,
+        "count": 2
+      },
+      "Fear": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 2
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 65.0,
+        "count": 2
+      },
+      "Sadness": {
+        "average": 0.45,
+        "avg_confidence": 75.0,
+        "count": 2
+      },
+      "Disgust": {
+        "average": 0.6000000000000001,
+        "avg_confidence": 75.0,
+        "count": 2
+      },
+      "Anger": {
+        "average": 0.7,
+        "avg_confidence": 80.0,
+        "count": 2
+      },
+      "Anticipation": {
+        "average": 0.35,
+        "avg_confidence": 67.5,
+        "count": 2
+      }
+    },
+    "Yasar Ibrahim": {
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.3,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.4,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.7,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.8,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Smuggling Operation": {
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.4,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.3,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.6,
+        "avg_confidence": 85.0,
+        "count": 1
+      }
+    },
+    "Syrian Economy": {
+      "Trust": {
+        "average": 0.2,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.2,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.4,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "International Relations (Russia and UAE)": {
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.4,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.2,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Meeting between Iraqi PM and Syrian Leader": {
+      "Joy": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.4,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.5,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.2,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.3,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.4,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.6,
+        "avg_confidence": 85.0,
+        "count": 1
+      }
+    },
+    "Iraqi Government's Stance on Normalizing Relations with Syria": {
+      "Joy": {
+        "average": 0.1,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.4,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.2,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.2,
+        "avg_confidence": 55.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Regional Stability and Cooperation": {
+      "Joy": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.1,
+        "avg_confidence": 55.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.2,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      }
+    },
+    "Arab Summit in Iraq": {
+      "Joy": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.2,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.1,
+        "avg_confidence": 55.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.1,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      }
+    },
+    "Opposition to Normalization with Syria": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.2,
+        "avg_confidence": 60.0,
+        "count": 1
+      }
+    },
+    "Trump's Mediation Role": {
+      "Joy": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.6,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.4,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.5,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "US Withdrawal from Negotiations": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.6,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Ongoing Russian Strikes": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.9,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.4,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.5,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.7,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Ukraine-US Mineral Deal": {
+      "Joy": {
+        "average": 0.5,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.6,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.7,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Reconstruction Fund for Ukraine": {
+      "Joy": {
+        "average": 0.6,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.8,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "U.S. Strikes Against Houthis": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 85.0,
+        "count": 1
+      }
+    },
+    "Military Operations by the Yemeni Government": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Humanitarian Impact of Houthis": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.8,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.7,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      }
+    },
+    "Allegations of Arms Smuggling from Oman": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Civilian Casualties from U.S. Strikes": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.3,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      }
+    },
+    "Iran Nuclear Talks": {
+      "Joy": {
+        "average": 0.3,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.0,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      }
+    },
+    "Abbas Araghchi": {
+      "Joy": {
+        "average": 0.4,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.6,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.2,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.0,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "U.S. Involvement": {
+      "Joy": {
+        "average": 0.1,
+        "avg_confidence": 84.5,
+        "count": 2
+      },
+      "Trust": {
+        "average": 0.30000000000000004,
+        "avg_confidence": 67.5,
+        "count": 2
+      },
+      "Fear": {
+        "average": 0.4,
+        "avg_confidence": 77.5,
+        "count": 2
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 60.0,
+        "count": 2
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 85.0,
+        "count": 2
+      },
+      "Disgust": {
+        "average": 0.05,
+        "avg_confidence": 87.5,
+        "count": 2
+      },
+      "Anger": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 2
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 2
+      }
+    },
+    "Oman as Mediator": {
+      "Joy": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.1,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.0,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      }
+    },
+    "Iran's Nuclear Program": {
+      "Joy": {
+        "average": 0.25,
+        "avg_confidence": 70.0,
+        "count": 2
+      },
+      "Trust": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 2
+      },
+      "Fear": {
+        "average": 0.5,
+        "avg_confidence": 82.5,
+        "count": 2
+      },
+      "Surprise": {
+        "average": 0.15000000000000002,
+        "avg_confidence": 65.0,
+        "count": 2
+      },
+      "Sadness": {
+        "average": 0.15,
+        "avg_confidence": 85.0,
+        "count": 2
+      },
+      "Disgust": {
+        "average": 0.05,
+        "avg_confidence": 77.5,
+        "count": 2
+      },
+      "Anger": {
+        "average": 0.30000000000000004,
+        "avg_confidence": 77.5,
+        "count": 2
+      },
+      "Anticipation": {
+        "average": 0.6,
+        "avg_confidence": 85.0,
+        "count": 2
+      }
+    },
+    "Libyan Model Rejection": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.4,
+        "avg_confidence": 70.0,
+        "count": 1
+      }
+    },
+    "Freedom of Expression in Britain": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.6,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.7,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.8,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.4,
+        "avg_confidence": 70.0,
+        "count": 1
+      }
+    },
+    "Donald Trump's First Hundred Days": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.4,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.6,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Artificial Intelligence in Occupational Safety": {
+      "Joy": {
+        "average": 0.7,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.6,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.8,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Closure of Food Shops": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.6,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.7,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.8,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      }
+    },
+    "Food Safety Concerns": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.7,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.6,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.9,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      }
+    },
+    "Impact on Employees": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.8,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.9,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.4,
+        "avg_confidence": 70.0,
+        "count": 1
+      }
+    },
+    "Government Response": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.3,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.4,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.3,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.2,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.6,
+        "avg_confidence": 70.0,
+        "count": 1
+      }
+    },
+    "President Qais Saeed's Visit": {
+      "Joy": {
+        "average": 0.1,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.4,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.3,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Death of Students": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.5,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.4,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.6,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Infrastructure Issues": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.4,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.7,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.5,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.7,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.3,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Social Media Reactions": {
+      "Joy": {
+        "average": 0.1,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.6,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.4,
+        "avg_confidence": 70.0,
+        "count": 1
+      }
+    },
+    "Criticism of Centralization Policies": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.4,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.6,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.7,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Finland's Happiness Ranking": {
+      "Joy": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Finnish Lifestyle and Values": {
+      "Joy": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Tourism in Finland": {
+      "Joy": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.1,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Cultural Concepts: Sisu": {
+      "Joy": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Culinary Scene in Finland": {
+      "Joy": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.1,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Challenges in Finland": {
+      "Joy": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.6,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Daily Program Schedule": {
+      "Joy": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.6,
+        "avg_confidence": 85.0,
+        "count": 1
+      }
+    },
+    "Trending Stories": {
+      "Joy": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Meeting between Iraqi Prime Minister and Syrian Transitional President": {
+      "Joy": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.2,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.1,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.7,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Bilateral Relations between Iraq and Syria": {
+      "Joy": {
+        "average": 0.4,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.8,
+        "avg_confidence": 85.0,
+        "count": 1
+      }
+    },
+    "Role of Qatar in the Meeting": {
+      "Joy": {
+        "average": 0.5,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.7,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.9,
+        "avg_confidence": 85.0,
+        "count": 1
+      }
+    },
+    "United Arab Emirates (UAE)": {
+      "Trust": {
+        "average": 0.2,
+        "avg_confidence": 30.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.3,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.4,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.2,
+        "avg_confidence": 40.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.6,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.7,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.3,
+        "avg_confidence": 55.0,
+        "count": 1
+      }
+    },
+    "Investigative Journalism": {
+      "Joy": {
+        "average": 0.5,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.7,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.1,
+        "avg_confidence": 20.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.4,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 30.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.1,
+        "avg_confidence": 20.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.8,
+        "avg_confidence": 85.0,
+        "count": 1
+      }
+    },
+    "Israeli Airstrikes on Gaza": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.8,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Hamas's Rejection of Ceasefire": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.7,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.6,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Humanitarian Crisis in Gaza": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.9,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.95,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "International Response and Pressure": {
+      "Joy": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.4,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.8,
+        "avg_confidence": 85.0,
+        "count": 1
+      }
+    },
+    "Israeli Government's Stance": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.5,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.9,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Health Sector in Gaza": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.5,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Dr. Wissam Sukkar": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.4,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Israeli Blockade": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Displacement of Families": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.5,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Increased Health Issues": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.5,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Malak Abu Al-Amrin": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.2,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.0,
+        "avg_confidence": 90.0,
+        "count": 1
+      }
+    },
+    "Ahmad Gharab": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.3,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.9,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.2,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.0,
+        "avg_confidence": 90.0,
+        "count": 1
+      }
+    },
+    "Israeli Airstrike": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.7,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.5,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      }
+    },
+    "Gaza Strip": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.7,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.4,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.6,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      }
+    },
+    "Israeli Army Warnings": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.3,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.4,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Apple's Dependency on China": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.3,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.4,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.1,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "U.S.-China Trade Relations": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.2,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.5,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Tariffs Imposed by Trump": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.4,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.3,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.7,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Competition from Chinese Companies": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.3,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.6,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.4,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.1,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Apple's Investment in the U.S.": {
+      "Joy": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.6,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.4,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.7,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Putin's Ceasefire Announcement": {
+      "Joy": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 85.0,
+        "count": 1
+      }
+    },
+    "Zelensky's Response": {
+      "Joy": {
+        "average": 0.1,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.4,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.3,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.3,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Historical Context of Ceasefires": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.4,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.5,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      }
+    },
+    "Netanyahu's Speech": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.3,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.5,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.4,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.6,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Hostage Situation": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.6,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.5,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.3,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Civilian Casualties in Gaza": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.7,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.6,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Humanitarian Situation in Gaza": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.9,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Turkey's Role": {
+      "Joy": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.6,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Migration of Egyptian Doctors": {
+      "Joy": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.6,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.5,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Government Policy on Doctors": {
+      "Joy": {
+        "average": 0.4,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.2,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.1,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.2,
+        "avg_confidence": 55.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Statements by Prime Minister Mustafa": {
+      "Joy": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.1,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.1,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.2,
+        "avg_confidence": 55.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 70.0,
+        "count": 1
+      }
+    },
+    "Meeting between Mahmoud Abbas and Ahmad al-Shara": {
+      "Joy": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Israeli Restrictions on Palestinian Travel": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.6,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.7,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Palestinian Refugees in Syria": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.8,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.2,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Potential Displacement of Palestinians from Gaza": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.3,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.6,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.3,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Impact of the Syrian Civil War on Palestinian Communities": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.9,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.3,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Syria's Foreign Relations": {
+      "Joy": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.7,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.5,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.1,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.8,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Ahmad al-Shara": {
+      "Joy": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.6,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.3,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.4,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.1,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.7,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Gulf States": {
+      "Joy": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.8,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.1,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.9,
+        "avg_confidence": 90.0,
+        "count": 1
+      }
+    },
+    "Regional Security": {
+      "Joy": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.6,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.4,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.1,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.8,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Historical Context of Syrian-Gulf Relations": {
+      "Joy": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.4,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.5,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.4,
+        "avg_confidence": 55.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.3,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.2,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.6,
+        "avg_confidence": 75.0,
+        "count": 1
+      }
+    },
+    "Economic Cooperation": {
+      "Joy": {
+        "average": 0.6,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.7,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.2,
+        "avg_confidence": 65.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.1,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.8,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Iran-US Nuclear Talks": {
+      "Joy": {
+        "average": 0.1,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.3,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.6,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.4,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.1,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.5,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.7,
+        "avg_confidence": 90.0,
+        "count": 1
+      }
+    },
+    "Trump's Military Threats": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.1,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.8,
+        "avg_confidence": 95.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.2,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.4,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.7,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Israel's Role": {
+      "Joy": {
+        "average": 0.0,
+        "avg_confidence": 99.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.2,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.7,
+        "avg_confidence": 85.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.3,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.1,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.4,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.6,
+        "avg_confidence": 90.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.5,
+        "avg_confidence": 80.0,
+        "count": 1
+      }
+    },
+    "Diplomatic Activities": {
+      "Joy": {
+        "average": 0.5,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Trust": {
+        "average": 0.6,
+        "avg_confidence": 80.0,
+        "count": 1
+      },
+      "Fear": {
+        "average": 0.3,
+        "avg_confidence": 70.0,
+        "count": 1
+      },
+      "Surprise": {
+        "average": 0.4,
+        "avg_confidence": 75.0,
+        "count": 1
+      },
+      "Sadness": {
+        "average": 0.2,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Disgust": {
+        "average": 0.1,
+        "avg_confidence": 50.0,
+        "count": 1
+      },
+      "Anger": {
+        "average": 0.2,
+        "avg_confidence": 60.0,
+        "count": 1
+      },
+      "Anticipation": {
+        "average": 0.7,
+        "avg_confidence": 90.0,
+        "count": 1
+      }
+    }
+  },
+  "avg_emotions_by_topic_type": {},
+  "topic_taxonomy": []
+}

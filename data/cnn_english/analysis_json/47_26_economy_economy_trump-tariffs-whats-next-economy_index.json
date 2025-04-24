@@ -1,0 +1,359 @@
+{
+  "article_metadata": {
+    "title_en": "The next round of Trump’s tariffs could hurt even more. Here’s what to expect",
+    "text_summary_en": "The article discusses the potential negative impacts of President Trump's new tariffs on the US and global economy. These tariffs, including a baseline 10% tariff on all imported goods and steeper tariffs on specific countries, have already unsettled markets and increased recession risks. The article highlights immediate consequences like retaliatory tariffs and inflationary pressures, as well as near- and long-term risks such as decreased investment and a potential dollar devaluation. It also explores the possibility of additional tariffs on crucial materials like copper, computer chips, and lumber. Economists warn of potential GDP contraction, job losses, and increased inflation. The article further examines the potential impact of sectoral tariffs on industries like copper, lumber, pharmaceuticals, and semiconductors, noting that these tariffs could exacerbate existing challenges like housing affordability and healthcare costs.",
+    "original_filename": "26_economy_economy_trump-tariffs-whats-next-economy_index.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Trump's Tariffs",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is negative due to the potential harm and negative consequences of the tariffs, such as 'battering markets' and 'escalated recession odds.'"
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "The tariffs are presented as a negative event."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 85,
+          "reasoning": "The article questions the economic basis of the tariffs."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The article highlights potential negative economic consequences."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The tariffs are described as unexpected and disruptive."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The potential economic downturn elicits sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The 'wrongheaded economics' mentioned evokes disgust."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The tariffs and their potential consequences could cause anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The article discusses future impacts and potential escalations."
+        }
+      }
+    },
+    {
+      "topic": "US Economy",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "The sentiment is mixed but leans negative due to potential GDP contraction, job losses, and increased inflation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "There is limited optimism about the US economy's resilience."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The article expresses some trust in the US economy's ability to withstand the tariffs, but also raises concerns."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "The potential for economic downturn contributes to fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The potential economic impacts could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The potential for job losses and economic hardship elicits sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The potential economic mismanagement could evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The potential economic consequences could cause anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The article discusses future economic performance."
+        }
+      }
+    },
+    {
+      "topic": "Global Economy",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The sentiment is negative, describing the tariffs as 'flinging a powder keg into the global economy' and pushing 'recession forecasts higher.'"
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The tariffs are presented as a negative event for the global economy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "The tariffs erode trust in the stability of the global economic order."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The potential for a global recession contributes to fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The tariffs are described as disruptive."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The potential for economic hardship on a global scale elicits sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "The perceived mismanagement of the global economy could evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The potential for a global recession could cause anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The article discusses future global economic performance."
+        }
+      }
+    },
+    {
+      "topic": "Copper and Critical Minerals",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 80,
+        "reasoning": "The sentiment is negative due to the potential for tariffs to disrupt supply chains and increase costs, particularly in industries reliant on these materials."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 75,
+          "reasoning": "Low, as tariffs are not a positive development."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Low, as tariffs introduce uncertainty."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Moderate, due to supply chain disruptions and increased costs."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Moderate, as the tariffs could be unexpected."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Low, stemming from potential economic difficulties."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low, related to potential mismanagement."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Moderate, directed at the policies causing disruption."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "High, as the future impact needs to be considered."
+        }
+      }
+    },
+    {
+      "topic": "Lumber",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 85,
+        "reasoning": "The sentiment is negative because tariffs on lumber could exacerbate the housing affordability crisis."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Low, as tariffs are not a positive development."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Low, as tariffs introduce uncertainty."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Moderate, due to the potential for increased housing costs."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Moderate, as the tariffs could be unexpected."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Moderate, stemming from potential housing affordability issues."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "Low, related to potential policy mismanagement."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Moderate, directed at the policies causing disruption."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High, as the future impact needs to be considered."
+        }
+      }
+    },
+    {
+      "topic": "Pharmaceuticals",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The sentiment is negative because tariffs on pharmaceuticals could drive up healthcare costs and hamper the affordability of medication."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 85,
+          "reasoning": "Low, as tariffs are not a positive development."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 75,
+          "reasoning": "Low, as tariffs introduce uncertainty."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "High, due to the potential for increased healthcare costs."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Moderate, as the tariffs could be unexpected."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "High, stemming from potential healthcare affordability issues."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Moderate, related to potential policy mismanagement."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "High, directed at the policies causing disruption."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "High, as the future impact needs to be considered."
+        }
+      }
+    },
+    {
+      "topic": "Semiconductors",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 85,
+        "reasoning": "The sentiment is negative because tariffs on semiconductors could disrupt supply chains and increase costs for various products."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Low, as tariffs are not a positive development."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Low, as tariffs introduce uncertainty."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Moderate, due to supply chain disruptions and increased costs."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Moderate, as the tariffs could be unexpected."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Low, stemming from potential economic difficulties."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "Low, related to potential mismanagement."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Moderate, directed at the policies causing disruption."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High, as the future impact needs to be considered."
+        }
+      }
+    }
+  ]
+}

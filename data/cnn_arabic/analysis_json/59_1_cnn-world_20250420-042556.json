@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "Trump Renews Attack on Biden: Allowed Millions of \"Killer Immigrants\" to Enter America",
+    "text_summary_en": "Donald Trump has renewed his attacks on Joe Biden, accusing him of allowing millions of \"killer immigrants\" and drug dealers to enter the United States through open and dangerous borders. Trump stated on his social media account that Biden, whom he describes as the \"worst president in US history,\" permitted criminals, including murderers, drug dealers, and individuals released from prisons and mental institutions, to enter the country. Trump defended his policy of deporting such individuals, stating that it was the reason he was elected. He also posted a picture of a deported individual allegedly belonging to the MS-13 gang, emphasizing the need to remove \"bad guys\" from the United States. He criticizes Democrats for wanting to allow such individuals back into the country, despite evidence of their criminal activity.",
+    "original_filename": "1_cnn-world_20250420-042556.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Donald Trump",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The article reflects Trump's negative sentiment towards his political opponents and immigration policies through accusatory language."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The text expresses no joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "A small amount of trust might be inferred by Trump's supporters."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The language used is designed to instill fear about immigrants and crime."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The claims might surprise some readers."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The situation described could evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The descriptions of criminals and gang members evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Trump's tone and accusations are filled with anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Trump's statements are intended to create anticipation for his policies if he were to be re-elected."
+        }
+      }
+    },
+    {
+      "topic": "Joe Biden",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "Biden is presented negatively due to Trump's criticism, using phrases like 'Sleepy Joe Biden, the worst president in US history'."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is expressed towards Biden."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Trump's statements actively undermine trust in Biden."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some might fear the consequences of Biden's policies as described."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The accusations might surprise some."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Supporters of Biden might feel sadness."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Those aligned with Trump might feel disgust towards Biden."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trump's statements are filled with anger towards Biden."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The statements might create anticipation of a change in leadership."
+        }
+      }
+    },
+    {
+      "topic": "Immigrants",
+      "sentiment_polarity": {
+        "score": -0.95,
+        "confidence": 99,
+        "reasoning": "Immigrants are presented very negatively, labeled as 'killer immigrants' and associated with crime and drug dealing."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No joy is associated with the immigrants in the context."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "The statements actively undermine trust in immigrants."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The portrayal is designed to instill fear of immigrants."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The claims might surprise some."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some might feel sadness for the immigrants, but it is overshadowed by fear."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The association with crime and violence evokes disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The statements are filled with anger towards the immigrants."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "There is little anticipation associated with this portrayal."
+        }
+      }
+    },
+    {
+      "topic": "US Borders",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "The phrase 'open and dangerous borders' carries a negative sentiment, implying a threat to national security and public safety."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with the borders being described."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The description undermines trust in border security."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The description is designed to instill fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The claim might surprise some."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some might feel sadness at the situation."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The perceived lack of control might evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The description is filled with anger."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The statements might create anticipation of stricter border control."
+        }
+      }
+    }
+  ]
+}

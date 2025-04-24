@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Nvidia, caught in the US-China trade war, takes a $5.5 billion hit",
+    "text_summary_en": "Nvidia faces a $5.5 billion financial setback due to new US export restrictions on its H20 AI chips to China, amidst escalating US-China trade tensions. The restrictions, part of a broader effort to limit China's access to advanced technology, have led to a slump in Nvidia's stock. The H20 chip, designed to comply with previous export rules, is now subject to licensing requirements. Analysts view this as a strategic blow to Nvidia's engagement with Chinese customers. The move follows the rise of Chinese AI models like DeepSeek's R1, trained using H20 chips, prompting calls for tighter export controls. The US Commerce Department confirmed the new licensing requirements, citing national and economic security. The WTO forecasts reduced global economic growth due to the trade war. Nvidia warns that the restrictions jeopardize global AI progress and innovation. Other companies like AMD are also affected.",
+    "original_filename": "20_tech_tech_nvidia-plunge-h20-chip-china-export-intl-hnk_index.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Nvidia's Financial Loss",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The text explicitly states a '$5.5 billion financial hit' and 'slumped 6.87%,' indicating a negative impact on Nvidia."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No indication of joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Limited trust in the stability of trade policies."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Concern about future financial performance and market access."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The abruptness of the restrictions was unexpected."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Disappointment over the financial loss."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Mild disgust at the trade war's impact."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Frustration with the inconsistent trade policy."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Uncertainty about future trade relations."
+        }
+      }
+    },
+    {
+      "topic": "US-China Trade War",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "The phrase 'escalating trade war' and mentions of 'tariffs roiling global markets' suggest a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No indication of joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No trust in the trade war."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High fear due to economic uncertainty."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Some surprise at the escalation."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Sadness over potential economic damage."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Disgust at the trade war itself."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger at the restrictions."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Uncertainty about the future."
+        }
+      }
+    },
+    {
+      "topic": "US Export Restrictions on AI Chips",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The restrictions are described as a 'strategic blow' and 'hurdles in selling to China,' indicating a negative impact."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No indication of joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Limited trust in the fairness of the restrictions."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Concern about market access."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Some surprise at the abruptness of the restrictions."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Sadness over lost opportunities."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "Mild disgust at the restrictions."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at the limitations."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Uncertainty about future regulations."
+        }
+      }
+    },
+    {
+      "topic": "DeepSeek's R1 AI Model",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 75,
+        "reasoning": "The model's successful development is described positively as 'stunned the tech industry' and 'sparked an AI revolution,' but the context of export restrictions casts a shadow. Overall, slightly positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Excitement about the AI revolution."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Trust in the model's capabilities."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Slight fear of competition."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Surprise at the model's impact."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No indication of disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 45,
+          "reasoning": "Minimal anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation about future developments."
+        }
+      }
+    },
+    {
+      "topic": "Global Economic Growth",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The WTO forecasts 'deteriorated sharply' expectations and projects global economies will grow 'more slowly,' indicating a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No indication of joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low trust in the economy."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High fear about economic prospects."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some surprise at the severity of the slowdown."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High sadness about economic prospects."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "Mild disgust at the economic situation."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anger at the policies affecting the economy."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Uncertainty about the future."
+        }
+      }
+    }
+  ]
+}

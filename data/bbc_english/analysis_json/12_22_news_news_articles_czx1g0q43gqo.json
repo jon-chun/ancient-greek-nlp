@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Oldest Serving US Astronaut Returns to Earth on 70th Birthday",
+    "text_summary_en": "Astronaut Don Pettit, the oldest serving US astronaut, returned to Earth on his 70th birthday along with Russian crewmates Alexey Ovchinin and Ivan Vagner after spending 220 days on the International Space Station (ISS). Their Soyuz MS-26 capsule landed safely in Kazakhstan. This was Pettit's fourth mission, bringing his total time in space to 590 days, although John Glenn remains the oldest person to fly in orbit. The crew will readjust to gravity before Pettit returns to Houston and his colleagues to Star City near Moscow. Command of the ISS was handed over to Japanese astronaut Takuya Onishi. The article also mentions the delayed return of Nasa astronauts Butch Wilmore and Suni Williams, who spent over nine months on the ISS due to technical issues.",
+    "original_filename": "22_news_news_articles_czx1g0q43gqo.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Don Pettit's Return to Earth",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The article describes a successful return to Earth, which is generally positive. The phrase 'parachute-assisted landing' suggests a safe and controlled descent."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Returning safely to Earth after a long mission is a joyous occasion."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The successful landing indicates trust in the technology and the team involved."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Space travel inherently carries some element of fear, though the successful return mitigates it."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "While planned, the actual return can still bring a sense of surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "A small amount of sadness may be associated with the end of the mission."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is associated with this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is associated with this topic."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of returning home and readjusting to life on Earth."
+        }
+      }
+    },
+    {
+      "topic": "International Space Station (ISS)",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The ISS is presented as a functional and important research facility, but the article also mentions technical issues, leading to a moderately positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The ISS enables scientific discovery and international collaboration, which can be viewed as positive."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The ISS is a complex and reliable structure, inspiring trust in its capabilities."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Potential risks associated with space travel and the technical challenges of maintaining the ISS contribute to some fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Scientific discoveries made on the ISS can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The article does not evoke significant sadness related to the ISS itself."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is associated with this topic."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Frustration with technical issues might lead to slight anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of future discoveries and missions on the ISS."
+        }
+      }
+    },
+    {
+      "topic": "Butch Wilmore and Suni Williams' Delayed Return",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "The delayed return due to 'technical issues' introduces a negative sentiment, indicating a problem or setback."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Relief that they eventually returned safely, but overshadowed by the delay."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Trust in the eventual resolution of the technical issues, but diminished by the initial problem."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Concern and fear associated with the technical issues delaying their return."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the unexpected delay and the nature of the technical problems."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Sadness and disappointment related to the prolonged stay in space and the uncertainty of the situation."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "A slight sense of frustration or disgust with the technical malfunctions."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anger or frustration at the circumstances causing the delay."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Anticipation of their eventual return, but tempered by the negative situation."
+        }
+      }
+    },
+    {
+      "topic": "Space Travel",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 75,
+        "reasoning": "Space travel is inherently risky but also involves exploration and discovery, leading to a moderately positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 60,
+          "reasoning": "Joy associated with the wonder of space exploration and scientific discovery."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Trust in the technology and training required for space travel."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Significant fear associated with the inherent risks of space travel."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 50,
+          "reasoning": "Surprise at the unexpected challenges and discoveries encountered in space."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Sadness associated with the isolation and potential dangers of space travel."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is associated with this topic."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Frustration with technical difficulties or setbacks in space travel."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of future missions, discoveries, and advancements in space travel."
+        }
+      }
+    },
+    {
+      "topic": "John Glenn",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 80,
+        "reasoning": "John Glenn is mentioned as a record holder, representing a positive achievement and legacy."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Joy associated with his accomplishment and contribution to space exploration."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 75,
+          "reasoning": "Trust in his abilities and the legacy he left behind."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear associated with his historical achievement."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Surprise at his age when he flew on a Nasa mission."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Sadness associated with his passing in 2016."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is associated with this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is associated with this topic."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Anticipation of future generations being inspired by his achievements."
+        }
+      }
+    }
+  ]
+}

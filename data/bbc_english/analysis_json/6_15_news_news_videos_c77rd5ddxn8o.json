@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "DeepSeek AI Chatbot: China's Response",
+    "text_summary_en": "A Chinese company, DeepSeek, has launched an AI-powered chatbot that has rapidly become the most downloaded free app on Apple's US store after its January release. This app is causing disruption in the US markets and prompting discussions about the future of American dominance in the AI sector. The BBC is examining the functionality and impact of the DeepSeek AI chatbot. The article highlights the app's rapid rise to popularity and the concerns it raises regarding the competitive landscape of AI technology.",
+    "original_filename": "15_news_news_videos_c77rd5ddxn8o.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "DeepSeek AI Chatbot",
+      "sentiment_polarity": {
+        "score": 0.5,
+        "confidence": 70,
+        "reasoning": "The topic of DeepSeek AI is presented neutrally. It's described as an AI-powered chatbot that is successful, but the article doesn't explicitly endorse or criticize it."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Success of the AI would bring joy to the creators."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "AI is generally viewed with a degree of trust and caution."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "AI is generally viewed with a degree of fear and caution."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "AI is constantly surprising with new capabilities."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "No sadness is directly expressed."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No disgust is evident in the text."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "AI is generally viewed with a degree of anger and caution."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "AI is constantly anticipated for new capabilities."
+        }
+      }
+    },
+    {
+      "topic": "US Markets",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "The US markets are described as experiencing 'chaos,' which is a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No joy is associated with market chaos."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Market chaos erodes trust."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Chaos evokes strong fear."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Market chaos can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Market instability brings sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Market chaos can be disgusting."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Chaos evokes anger."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "There's uncertainty about the future."
+        }
+      }
+    },
+    {
+      "topic": "America's AI Dominance",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 75,
+        "reasoning": "The article questions 'America's AI dominance,' implying a potential threat or challenge to that dominance. This has a slightly negative sentiment from an American perspective."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No joy is associated with a potential loss of dominance."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Trust in American AI dominance might be shaken."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The questioning of dominance evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The challenge to dominance might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "A potential loss of dominance brings sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "A potential loss of dominance can be disgusting."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The challenge to dominance evokes anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "There's uncertainty about the future of AI dominance."
+        }
+      }
+    },
+    {
+      "topic": "China",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 70,
+        "reasoning": "China is mentioned as the origin of DeepSeek AI. There is no positive or negative sentiment expressed towards China in the text."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The success of DeepSeek AI might bring joy to China."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "China is generally viewed with a degree of trust and caution."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "China is generally viewed with a degree of fear and caution."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "China's technological advancements are constantly surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "No sadness is directly expressed."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No disgust is evident in the text."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "China is generally viewed with a degree of anger and caution."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "China's technological advancements are constantly anticipated."
+        }
+      }
+    }
+  ]
+}

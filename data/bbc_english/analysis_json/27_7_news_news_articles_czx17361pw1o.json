@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Designed in US, made in China: Why Apple is stuck",
+    "text_summary_en": "The article discusses Apple's reliance on China for manufacturing, highlighting both the benefits and vulnerabilities this creates, especially in light of US-China trade tensions and potential tariffs. Apple's deep integration with China's manufacturing ecosystem, particularly through Foxconn, has been crucial to its success. However, this dependence makes Apple susceptible to political and economic pressures. The article explores the possibility of Apple shifting production to the US or other countries like Vietnam and India, but notes the challenges and limitations. It also mentions the rising competition from Chinese smartphone companies and the impact of Chinese government policies on Apple's operations in China. The article concludes that while Apple has mitigated some immediate risks, the long-term uncertainty surrounding US-China relations and potential tariffs will continue to pressure Apple's supply chain.",
+    "original_filename": "7_news_news_articles_czx17361pw1o.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Apple's reliance on China for manufacturing",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 90,
+        "reasoning": "Mixed sentiment. While it acknowledges benefits, it also highlights vulnerabilities due to the geopolitical climate."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal joy, as the situation is complex and potentially problematic."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Some trust remains in the established supply chain, but it's diminishing."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Significant fear due to the potential for tariffs and supply chain disruptions."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Surprise at the rapid shift in the US-China relationship."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some sadness over the potential loss of a beneficial relationship."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal disgust, as the situation is more about strategic concerns."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Some anger at the political factors influencing the situation."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High anticipation about the future of Apple's supply chain and its relationship with China."
+        }
+      }
+    },
+    {
+      "topic": "US-China trade tensions and tariffs",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "Negative sentiment due to the disruptive nature of tariffs and their potential harm to both Apple and China."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy associated with trade tensions and tariffs."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Very little trust in the stability of the trade relationship."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High fear due to the potential economic consequences."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the sudden escalation of trade tensions."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness over the potential damage to the US-China relationship."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some disgust at the political maneuvering involved."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Significant anger at the perceived unfairness of the tariffs."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High anticipation about the future of the trade relationship."
+        }
+      }
+    },
+    {
+      "topic": "Trump's policies and statements regarding Apple and China",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 90,
+        "reasoning": "Negative sentiment due to the uncertainty and potential threats posed by Trump's policies."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with Trump's policies."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Very little trust in the consistency or predictability of Trump's policies."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "High fear due to the potential for tariffs and other disruptive measures."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Surprise at the unexpected policy shifts."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness over the potential damage to the economy and international relations."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Some disgust at the perceived political motivations behind the policies."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Significant anger at the perceived unfairness and unpredictability of the policies."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High anticipation about the future impact of Trump's policies."
+        }
+      }
+    },
+    {
+      "topic": "Apple's potential shift of manufacturing out of China",
+      "sentiment_polarity": {
+        "score": -0.1,
+        "confidence": 85,
+        "reasoning": "Neutral to slightly negative. Diversification is positive, but challenges and limitations exist; moving to the US is 'pure fantasy'."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some joy at the prospect of diversifying the supply chain."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some trust in Apple's ability to adapt, but uncertainty remains."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Fear about the challenges and uncertainties involved in shifting production."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Surprise at the difficulties encountered in diversifying the supply chain."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Some sadness over the potential loss of a beneficial relationship with China."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 45,
+          "reasoning": "Minimal disgust, as the situation is more about strategic concerns."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some anger at the political factors hindering diversification."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "High anticipation about the future of Apple's supply chain and its geographic distribution."
+        }
+      }
+    },
+    {
+      "topic": "Competition from Chinese smartphone companies (Huawei, Xiaomi, Oppo)",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "Negative for Apple, indicating a loss of market share and increased competition ('Apple lost its place as China's biggest smartphone seller')."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy for Apple in this situation."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Low trust in Apple's ability to maintain its market position."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High fear of losing further market share."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some surprise at the rapid rise of Chinese competitors."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness over the loss of market share and competitive advantage."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some disgust at the perceived unfair competition."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anger at the increased competition and the factors contributing to it."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation about the future of Apple's market position in China."
+        }
+      }
+    }
+  ]
+}

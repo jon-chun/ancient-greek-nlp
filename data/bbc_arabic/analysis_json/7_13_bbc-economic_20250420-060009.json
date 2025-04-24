@@ -1,0 +1,309 @@
+{
+  "article_metadata": {
+    "title_en": "China Responds to Trump's \"Trade Tyranny\" with 84 Percent Tariffs",
+    "text_summary_en": "China has announced an 84% tariff on goods imported from the US in response to new tariffs imposed by the Trump administration, which raised tariffs on Chinese goods to 104%. Beijing calls for global unity against Trump's tariffs, as Chinese exporters suffer. The article highlights the impact on Chinese businesses, with rising costs and shrinking profit margins. Some analysts predict that tariffs exceeding 35% will eliminate profits for Chinese companies exporting to the US or Southeast Asia. China is reportedly considering countermeasures like banning Hollywood films and suspending fentanyl cooperation. Businesses are adjusting supply chains, with some relocating production to countries like Indonesia, though even those exports now face tariffs. The tariffs are causing uncertainty and concern among businesses and economists, who warn of potential recession. The American Chamber of Commerce in China expressed concern that the tariffs will do more harm than good. Some analysts believe China will be forced to restructure its economy to rely more on domestic consumption.",
+    "original_filename": "13_bbc-economic_20250420-060009.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "China's Retaliatory Tariffs",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 85,
+        "reasoning": "China is responding to US tariffs with its own, indicating a defensive and assertive stance. The act of retaliation suggests a negative sentiment toward the initial action."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is expressed in imposing retaliatory tariffs."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "Low trust between the countries is evident."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of further economic damage is present."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The specific tariff amount may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Sadness about the deteriorating trade relationship."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Disgust at the perceived unfair trade practices."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anger at the initial tariffs imposed by the US."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of the impact of the tariffs."
+        }
+      }
+    },
+    {
+      "topic": "Trump's Trade Policies",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "Trump's trade policies are portrayed negatively due to the 'trade tyranny' label and the adverse effects on businesses and the global economy."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.05,
+          "confidence": 85,
+          "reasoning": "There is a lack of trust in Trump's policies."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "There is fear of the consequences of these policies."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "There is surprise at the scale of the tariffs."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "There is sadness about the harm to trade relations."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 92,
+          "reasoning": "There is disgust at the perceived unfairness."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "There is anger towards Trump's policies."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "There is anticipation of the future impact."
+        }
+      }
+    },
+    {
+      "topic": "Chinese Economic Slowdown",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The article describes the economic slowdown in China, which is inherently negative. The mention of weak domestic consumption and reliance on exports further reinforces this negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with an economic slowdown."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "There is reduced trust in the economy's stability."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "There is fear of further economic decline."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The extent of the slowdown may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "There is sadness about the economic difficulties."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "There is disgust at the factors contributing to the slowdown."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "There is anger at the policies that may have contributed to the slowdown."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "There is anticipation of potential recovery or further decline."
+        }
+      }
+    },
+    {
+      "topic": "Potential Ban on Hollywood Films",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 80,
+        "reasoning": "The potential ban on Hollywood films is a retaliatory measure, indicating a negative sentiment towards the US. It also suggests a willingness to use cultural tools in the trade war."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy in this retaliatory measure."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There is reduced trust in US-China relations."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "There is fear of further escalation."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The possibility of a ban may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "There is sadness about the deteriorating relationship."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "There is disgust at the situation leading to this measure."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "There is anger at the US policies."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "There is anticipation of the impact of the ban."
+        }
+      }
+    },
+    {
+      "topic": "Economists' Warning of Recession",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The article mentions economists warning of a potential recession, which is a negative outlook for the future. The warning itself carries a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with a recession warning."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Reduced trust in the economic stability."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "High fear of a recession."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The possibility of a recession may be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Sadness about the potential economic hardship."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust at the factors that could lead to a recession."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger at the policies that may contribute to a recession."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "High anticipation of the future economic situation."
+        }
+      }
+    },
+    {
+      "topic": "Overall Impact of Tariffs",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is negative due to the disruptive impact of the tariffs on trade and the potential for economic harm. The article focuses on the negative consequences for businesses and the global economy."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The article expresses no joy, as it deals with negative economic consequences."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "There is a lack of trust between the US and China, as evidenced by the trade war."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The article expresses fear of economic recession and harm to businesses."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 85,
+          "reasoning": "The sudden imposition of tariffs and the scale of the trade war are surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 88,
+          "reasoning": "The article conveys sadness about the potential loss of profits and economic hardship."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "The article expresses disgust at the 'trade tyranny' of Trump's tariffs."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 92,
+          "reasoning": "China is clearly angry about the tariffs, as evidenced by its retaliatory measures."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "There is anticipation about the future of the trade war and its impact on the global economy."
+        }
+      }
+    }
+  ]
+}

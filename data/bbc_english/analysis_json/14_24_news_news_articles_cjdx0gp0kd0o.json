@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "US senator says 'traumatised' man deported to El Salvador moved to new prison",
+    "text_summary_en": "US Senator Chris Van Hollen reports that Kilmar Ábrego García, mistakenly deported to El Salvador by the Trump administration and accused of MS-13 membership, has been moved to a new prison after being \"traumatised\" in the notorious Cecot mega-jail. Despite a Supreme Court order to facilitate his return, the White House opposes his return, citing his alleged gang affiliation. Van Hollen visited Ábrego García in El Salvador and advocates for his due process rights, regardless of the allegations against him. The case highlights a conflict between the Trump administration and the US courts on immigration issues. Ábrego García's family denies his gang membership, and Van Hollen criticizes the administration for making claims outside of court. The article also mentions past allegations of criminal activity against Ábrego García that did not result in convictions.",
+    "original_filename": "24_news_news_articles_cjdx0gp0kd0o.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Kilmar Ábrego García's Deportation and Imprisonment",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is negative due to the injustice of the mistaken deportation and the harsh conditions of imprisonment. Phrases like 'traumatised,' 'notorious mega-jail,' and 'no access to any news' contribute to this negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with this topic, given the circumstances."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There is a low level of trust in the system to resolve the situation fairly."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The descriptions of the prison conditions and the man's 'traumatised' state strongly suggest fear."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The initial mistaken deportation was a surprising event."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The man's 'traumatised' state and lack of communication with the outside world evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The conditions in the initial prison and the alleged reasons for his deportation could evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The injustice of the situation and the administration's stance could evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "There's some anticipation regarding the legal fight and his potential return."
+        }
+      }
+    },
+    {
+      "topic": "Trump Administration's Stance on Immigration and MS-13",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The sentiment is negative due to the administration's firm stance against allowing Ábrego García's return and the use of the Alien Enemies Act. The phrase 'never live in the US again' contributes to this."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Low trust in the administration's handling of the situation."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The administration's actions could instill fear in other immigrants."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The administration's strong stance might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The consequences of the administration's policies could evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The administration's methods and justifications could evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The perceived injustice of the situation could evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "There's anticipation regarding future immigration policies."
+        }
+      }
+    },
+    {
+      "topic": "Senator Chris Van Hollen's Advocacy",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The sentiment is positive due to the senator's efforts to ensure due process and his visit to Ábrego García. Phrases like 'defending the rights of this man to due process' and 'helped facilitate a meeting' contribute to this."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "There's a slight sense of hope associated with his advocacy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "There's a high level of trust in the senator's intentions."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Limited fear associated with this topic."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Not much surprise associated with the senator's actions."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some sadness due to the circumstances of the case."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal disgust associated with the senator's actions."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Limited anger associated with the senator's actions."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High anticipation regarding the outcome of his advocacy."
+        }
+      }
+    },
+    {
+      "topic": "US Courts System and Due Process",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 85,
+        "reasoning": "The sentiment is generally positive, emphasizing the importance of due process and the Supreme Court's order. However, the conflict with the Trump administration introduces a negative element."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "The upholding of due process brings a sense of justice and hope."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The courts are generally seen as a trustworthy institution."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "There's fear that due process might be undermined."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The conflict with the administration could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The potential failure of due process could evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal disgust associated with the court system itself."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The administration's disregard for court orders could evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High anticipation regarding the courts' role in resolving the situation."
+        }
+      }
+    },
+    {
+      "topic": "Allegations of MS-13 Membership",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 80,
+        "reasoning": "The sentiment is negative due to the serious nature of the allegations and their impact on Ábrego García's case."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Low trust in the validity of the allegations."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The allegations instill fear due to their potential consequences."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The allegations might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The impact of the allegations on Ábrego García's life evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Gang affiliation is generally viewed with disgust."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The potential for false accusations could evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "There's anticipation regarding the investigation of the allegations."
+        }
+      }
+    }
+  ]
+}

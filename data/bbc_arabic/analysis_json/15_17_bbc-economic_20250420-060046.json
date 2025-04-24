@@ -1,0 +1,309 @@
+{
+  "article_metadata": {
+    "title_en": "US Tariffs Imposed on About 60 Countries Come into Effect",
+    "text_summary_en": "US President Donald Trump's decision to impose tariffs on approximately 60 countries took effect. This is the final stage of Trump's comprehensive global tariff plan, which includes higher import taxes on countries he considers the \"worst abusers of trade.\" This phase includes a significant increase in tariffs on China, with some goods facing tariffs exceeding 100%. China accuses Trump of acting like a \"thug\" and refuses to eliminate retaliatory tariffs on the US. Trump stated his tariffs will be \"legendary, in a positive way.\" Global markets have lost trillions due to investor uncertainty. Asian markets declined, except for the Shanghai Stock Exchange, which opened slightly higher. China stated they \"do not stir up trouble, but do not fear it\" and will \"fight to the end\" while keeping the door open for dialogue. South Korea launched emergency support for its auto sector after the US imposed 25% tariffs, while Taiwan activated a $15 billion stabilization fund.",
+    "original_filename": "17_bbc-economic_20250420-060046.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "US Tariffs",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "The article discusses negative impacts of tariffs, such as market losses and trade disputes. However, it also mentions some countries taking measures to mitigate the effects, which introduces a slightly mixed sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The article does not contain any positive sentiments or events that would elicit joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "The article highlights a lack of trust between countries engaging in trade disputes."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The article explicitly mentions market losses and uncertainty, indicating fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "The sudden implementation of tariffs and the strong reactions from affected countries can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The economic losses and potential negative impacts of the tariffs can evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "China's accusation of Trump acting like a \"thug\" suggests disgust."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 88,
+          "reasoning": "The retaliatory tariffs and strong statements from both sides indicate anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The article discusses the potential outcomes of the trade war, indicating anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Donald Trump's Statement on Tariffs",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 60,
+        "reasoning": "Trump's statement is presented as positive from his perspective, but the overall context of the article suggests negative consequences."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Trump likely intended to convey a sense of joy or optimism."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 50,
+          "reasoning": "Trump's statement aims to build trust in his economic policies."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The statement can evoke fear among those negatively affected by the tariffs."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The statement itself is not particularly surprising, but the context of the tariffs might be."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The statement can evoke sadness among those negatively affected by the tariffs."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The statement can evoke disgust among those who disagree with Trump's policies."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "The statement can evoke anger among those negatively affected by the tariffs."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 60,
+          "reasoning": "The statement aims to create anticipation about the positive outcomes of the tariffs."
+        }
+      }
+    },
+    {
+      "topic": "China's Response to Tariffs",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 80,
+        "reasoning": "China's stance is defiant and resistant, indicating a negative sentiment towards the tariffs."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "China's statement does not contain any positive sentiments or events that would elicit joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "China's statement reflects a lack of trust in the US."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "China's statement suggests fear about the economic consequences of the tariffs."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The statement itself is not particularly surprising, but the context of the tariffs might be."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The statement can evoke sadness about the potential negative impacts of the tariffs."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "China's accusation of Trump acting like a \"thug\" suggests disgust."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "China's defiant stance indicates anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "China's statement suggests anticipation about the outcome of the trade war."
+        }
+      }
+    },
+    {
+      "topic": "Global Market Reaction",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The market reaction is negative due to uncertainty and instability."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The market reaction does not contain any positive sentiments or events that would elicit joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Market instability reflects a lack of trust."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Market losses indicate fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The sudden market reaction can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Market losses evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The market reaction is not particularly disgusting."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The market reaction might evoke anger among investors."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Investors are likely anticipating the future direction of the market."
+        }
+      }
+    },
+    {
+      "topic": "South Korea's Response",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "South Korea's response is a reactive measure to mitigate negative impacts, indicating a negative sentiment towards the tariffs."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "South Korea's response does not contain any positive sentiments or events that would elicit joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "South Korea's response might reflect some trust in its ability to mitigate the negative impacts."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "South Korea's response suggests fear about the economic consequences of the tariffs."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The sudden implementation of tariffs can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The economic losses and potential negative impacts of the tariffs can evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "South Korea's response is not particularly disgusting."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "South Korea's response might evoke anger among those negatively affected by the tariffs."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "South Korea is likely anticipating the future direction of the trade war."
+        }
+      }
+    },
+    {
+      "topic": "Taiwan's Response",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "Taiwan's activation of a stabilization fund is a reactive measure to mitigate negative impacts, indicating a negative sentiment towards the tariffs."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Taiwan's response does not contain any positive sentiments or events that would elicit joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Taiwan's response might reflect some trust in its ability to mitigate the negative impacts."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Taiwan's response suggests fear about the economic consequences of the tariffs."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The sudden implementation of tariffs can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The economic losses and potential negative impacts of the tariffs can evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Taiwan's response is not particularly disgusting."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Taiwan's response might evoke anger among those negatively affected by the tariffs."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Taiwan is likely anticipating the future direction of the trade war."
+        }
+      }
+    }
+  ]
+}

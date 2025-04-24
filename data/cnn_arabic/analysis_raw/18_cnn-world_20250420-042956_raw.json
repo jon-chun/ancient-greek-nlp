@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOHUDG22S9GOqyyLxy1AXHhmV7vzV",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nTensions Rise Between Trump Administration and Harvard University Over Funding\n\n### English Text Summary:\nTensions escalated between the Trump administration and Harvard University after the administration announced it would freeze $2.2 billion in grants and $60 million in contracts due to Harvard's refusal to comply with its policy demands. Harvard's president stated that no government should dictate what private universities can teach or whom they can hire. In response to the funding freeze, Harvard reiterated its commitment to independence and constitutional rights. Meanwhile, Columbia University announced new initiatives to support international students amid concerns over federal actions affecting them. Columbia's interim president emphasized ongoing negotiations with the government while rejecting excessive demands regarding university management and diversity.\n\n[\n    {\n        \"topic\": \"Trump Administration\",\n        \"sentiment_polarity\": { \"score\": -0.7, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Anger\": { \"weight\": 0.8, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Harvard University\",\n        \"sentiment_polarity\": { \"score\": 0.6, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Trust\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Fear\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Surprise\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.2, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.6, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Columbia University\",\n        \"sentiment_polarity\": { \"score\": 0.5, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Trust\": { \"weight\": 0.6, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.1, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"International Students\",\n        \"sentiment_polarity\": { \"score\": -0.4, \"confidence\": 75 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 90 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.7, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Anger\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 70 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745126789,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 949,
+    "prompt_tokens": 1857,
+    "total_tokens": 2806,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

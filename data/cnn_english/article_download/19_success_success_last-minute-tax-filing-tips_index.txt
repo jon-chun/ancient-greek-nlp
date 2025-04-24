@@ -1,0 +1,41 @@
+###FORMAT:
+Title: It’s Tax Day. Still haven’t filed? Tips on how to get an extension and more
+URL: https://www.cnn.com/2025/04/13/success/last-minute-tax-filing-tips/index.html
+Scraped Date: 2025-04-20 11:02:20
+Published Date: 2025-04-13
+
+--- Text ---
+Editor’s Note: This is an updated version of an article that first ran on April 13.
+It’s April 15 — otherwise known as “Tax Day” in the United States.
+While the IRS has already received a majority of the 2024 federal income tax returns typically filed by Tax Day — 101.422 million as of April 4, to be precise — US tax filers are expected to send in tens of millions more by today.
+But the agency also expects to receive millions more returns in the months ahead due to the automatic extensions the IRS granted to people in federally declared disaster areas. At current count, all residents and businesses in seven states have already been granted filing and payment extensions, on top of people in select areas of other states. More on that below.
+Plus, millions of individual filers have requested — or will request today — automatic six-month filing extensions because they won’t make the April 15 deadline.
+If you are racing to file your return today — or think you won’t make it in time — here are some last-minute tips to keep in mind.
+Get all your documents in order
+If you’re starting cold, make sure you pull together all the documents you’ll need to fill out your return. You’ll want to look for income reporting forms from your employer (a W-2 for your earnings) or from your clients if you’re self-employed as a freelancer or contractor (a 1099-NEC or 1099-MISC).
+You may even get a 1099-K from any payment apps you use like Venmo if you received payments for your goods or services. If you are receiving any income distributions from an IRA or pension, you should have a 1099-R.
+Also look for other 1099 forms from your bank and brokerage for other types of income you received during the year (e.g., interest, dividends and capital gains).
+All these forms will have been sent to you by mail, electronically or both.
+Consider, too, any major changes that took place in your life in 2024 that could affect your taxes either through new tax breaks or new types of reportable income — for instance, if you got married, had children, received alimony, started a small business on the side, bought or sold a home, inherited an IRA or collected unemployment benefits.
+Figure out if you should itemize deductions
+Most filers now take the standard deduction — a flat amount you deduct from your income ($14,600 for single filers and those who are married filing separately; $29,200 for married couples filing jointly; and $21,900 for head-of-household filers).
+But if the standard deduction amounts to less than the total of the value of itemized deductions you’re eligible to take (e.g., state and local taxes, mortgage interest, charitable contributions, etc.) you might want to itemize.
+If you do, gather the documentation you will need to back up those deductions (e.g. a Form 1098 for mortgage interest from your lender, contribution receipts from charities, etc.).
+See if this 11th hour tax break is right for you
+Speaking of deductions, if you qualify to deduct contributions to a traditional tax-deferred IRA, you can put away up to $7,000 ($8,000 if you’re 50 or older) by 11:59 pm on April 15 and still have it count as your 2024 contribution.
+Since it’s an “above-the-line deduction” you’re allowed to take it even if you claim the standard deduction. Here are the eligibility rules if you have a retirement plan at work and if you don’t.
+Consider using the free Direct File program
+If you have a fairly straightforward tax situation with a household income below $250,000, and if you take the standard deduction and only a handful of credits pertaining mostly to family, you may be eligible to use the IRS’ free Direct File program. (Here’s how to figure out if it would be right for you.)
+The Direct File option is currently available in 25 states: Alaska, Arizona, California, Connecticut, Florida, Idaho, Illinois, Kansas, Maine, Maryland, Massachusetts, Nevada, New Jersey, New Hampshire, New Mexico, New York, North Carolina, Oregon, Pennsylvania, South Dakota, Tennessee, Texas, Washington State, Wisconsin and Wyoming.
+The program works on mobile phones, laptops, tablets or desktop computers. And it will help guide you to fill out your state tax return, too.
+You also can file for free using one of several private-sector tax preparation software programs approved by the IRS. These free filing options, however, are for those with adjusted gross incomes of $84,000 or less. Other eligibility criteria may apply.
+No matter how you file, do this
+Whether you’re preparing your return on your own, working with a tax preparer or using Direct File, you always want to double check that everything is correct on your return before submitting it. Dopey little mistakes — getting a number wrong, misspelling your name, selecting the wrong filing status, etc. — can hold up the processing of your return. And if you’re due a refund, those errors could delay that money getting to you.
+If possible, electronically file your return, which is generally considered to be safer and faster, according to the Taxpayer Advocate Service.
+What to do if you can’t file by 11:59 pm tonight
+While April 15 is the deadline for most US tax filers, there are certain groups of filers whose official due date is later this year, such as people living and working in certain federally declared disaster areas. This now includes all the residents and businesses operating in seven states: Alabama, Arkansas, Florida, Georgia, North Carolina, South Carolina and Tennessee. It also includes some US citizens living abroad; and military members stationed outside the US or in a combat zone.
+But if you’re not among any of those groups and you really can’t file your taxes today, do these three things before 11:59 p.m. local time tonight:
+1. File for an automatic six-month filing extension here.
+2. If you think you still owe money to the IRS for tax year 2024, it must be paid by Tuesday, even if you request a filing extension. One way to ballpark whether you still do is to multiply your 2024 income by 20% and make sure that you have already paid that much, according to Tom O’Saben, director of tax content at the National Association of Tax Professionals. If you haven’t, send the IRS the difference.
+3. Send that payment no later than 11:59 pm tonight. If you’re mailing it, do so by certified mail, so you’ll have confirmation that it was sent and received. If you can’t pay all that you owe, pay however much you can by April 15, then explore the various payment agreements you can make with the IRS.
+If you don’t file and haven’t requested an extension — or if you don’t pay the rest of what you owe the IRS for 2024 today — you may be subject to a failure-to-file penalty equal to 5% of the balance you owe plus interest for every month you don’t file; and/or a failure-to-pay penalty equal to to 0.5% of what you owe plus interest every month until you pay in full.

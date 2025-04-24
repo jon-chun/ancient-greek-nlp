@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-BOIPchFogOv0mZMlNW3YpL4kEKBRb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### English Title:\nIn a Step to Contain Anger, Tunisian President Qais Saeed Visits Al-Mazouna Area\n\n### English Text Summary:\nIn an effort to address public outrage, Tunisian President Qais Saeed visited the Al-Mazouna area early Friday following protests triggered by the death of three students and injuries to two others due to the collapse of their high school wall. Al-Mazouna is located in Sidi Bouzid, the birthplace of the Tunisian revolution and the spark for the movement against marginalization and corruption over a decade ago. The incident has sparked widespread discontent on social media, with many condemning the deteriorating infrastructure, particularly in educational and health institutions. Others criticized the ongoing reliance on policies that reinforce centralization and marginalize interior regions.\n\n[\n    {\n        \"topic\": \"President Qais Saeed's Visit\",\n        \"sentiment_polarity\": { \"score\": 0.3, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Surprise\": { \"weight\": 0.1, \"confidence\": 60 },\n            \"Sadness\": { \"weight\": 0.3, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.0, \"confidence\": 90 },\n            \"Anger\": { \"weight\": 0.2, \"confidence\": 80 },\n            \"Anticipation\": { \"weight\": 0.5, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Death of Students\",\n        \"sentiment_polarity\": { \"score\": -0.8, \"confidence\": 90 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 80 },\n            \"Fear\": { \"weight\": 0.5, \"confidence\": 85 },\n            \"Surprise\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Sadness\": { \"weight\": 0.9, \"confidence\": 95 },\n            \"Disgust\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.2, \"confidence\": 75 }\n        }\n    },\n    {\n        \"topic\": \"Infrastructure Issues\",\n        \"sentiment_polarity\": { \"score\": -0.6, \"confidence\": 85 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.2, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 85 },\n            \"Anger\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.3, \"confidence\": 80 }\n        }\n    },\n    {\n        \"topic\": \"Social Media Reactions\",\n        \"sentiment_polarity\": { \"score\": -0.4, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Trust\": { \"weight\": 0.3, \"confidence\": 75 },\n            \"Fear\": { \"weight\": 0.3, \"confidence\": 70 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 65 },\n            \"Sadness\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Disgust\": { \"weight\": 0.4, \"confidence\": 75 },\n            \"Anger\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Anticipation\": { \"weight\": 0.4, \"confidence\": 70 }\n        }\n    },\n    {\n        \"topic\": \"Criticism of Centralization Policies\",\n        \"sentiment_polarity\": { \"score\": -0.5, \"confidence\": 80 },\n        \"emotions\": {\n            \"Joy\": { \"weight\": 0.0, \"confidence\": 99 },\n            \"Trust\": { \"weight\": 0.1, \"confidence\": 70 },\n            \"Fear\": { \"weight\": 0.4, \"confidence\": 80 },\n            \"Surprise\": { \"weight\": 0.2, \"confidence\": 75 },\n            \"Sadness\": { \"weight\": 0.6, \"confidence\": 85 },\n            \"Disgust\": { \"weight\": 0.5, \"confidence\": 80 },\n            \"Anger\": { \"weight\": 0.7, \"confidence\": 90 },\n            \"Anticipation\": { \"weight\": 0.3, \"confidence\": 75 }\n        }\n    }\n]",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1745130348,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_f7d56a8a2c",
+  "usage": {
+    "completion_tokens": 1180,
+    "prompt_tokens": 1154,
+    "total_tokens": 2334,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

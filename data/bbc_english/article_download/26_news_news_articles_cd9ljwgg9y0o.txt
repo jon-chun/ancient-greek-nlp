@@ -1,0 +1,54 @@
+###FORMAT:
+Title: Trump's chips strategy: The US will struggle to take on Asia
+URL: https://www.bbc.com/news/articles/cd9ljwgg9y0o
+Scraped Date: 2025-04-20 13:06:23
+Published Date: 2025-04-15
+
+--- Text ---
+Trump's chips strategy: The US will struggle to take on Asia
+The US has "dropped the ball" on chip manufacturing over the years, allowing China and other Asian hubs to steam ahead. So said Gina Raimondo, who at the time was the US Commerce Secretary, in an interview with me back in 2021.
+Four years on, chips remain a battleground in the US-China race for tech supremacy, and US President Donald Trump now wants to turbocharge a highly complex and delicate manufacturing process that has taken other regions decades to perfect.
+He says his tariff policy will liberate the US economy and bring jobs home, but it is also the case that some of the biggest companies have long struggled with a lack of skilled workers and poor-quality products in their American factories.
+So what will Trump do differently? And, given that Taiwan and other parts of Asia have the secret sauce on creating high-precision chips, is it even possible for the US to produce them too, and at scale?
+Microchips: The secret sauce
+Semiconductors are central to powering everything from washing machines to iPhones, and military jets to electric vehicles. These tiny wafers of silicon, known as chips, were invented in the United States, but today, it is in Asia that the most advanced chips are being produced at phenomenal scale.
+Making them is expensive and technologically complex. An iPhone for example may contain chips that were designed in the US, manufactured in Taiwan, Japan or South Korea, using raw materials like rare earths which are mostly mined in China. Next they may be sent to Vietnam for packaging, then to China for assembly and testing, before being shipped to the US.
+It is a deeply integrated ecosystem, one that has evolved over the decades.
+Trump has praised the chip industry but also threatened it with tariffs. He has told industry leader, Taiwan Semiconductor Manufacturing Company (TSMC), it would have to pay a tax of 100% if it did not build factories in the US.
+With such a complex ecosystem, and fierce competition, they need to be able to plan for higher costs and investment calls in the long term, well beyond Trump's administration. The constant changes to policies aren't helping. So far, some have shown a willingness to invest in the US.
+The significant subsidies that China, Taiwan, Japan and South Korea have given to private companies developing chips are a big reason for their success.
+That was largely the thinking behind the US Chips and Science Act, which became law in 2022 under President Joe Biden – an effort to re-shore the manufacture of chips and diversify supply chains - by allocating grants, tax credits, and subsidies to incentivise domestic manufacturing.
+Some companies like the world's largest chipmaker TSMC and the world's largest smartphone maker Samsung have become major beneficiaries of the legislation, with TSMC receiving $6.6 billion in grants and loans for plants in Arizona, and Samsung receiving an estimated $6 billion for a facility in Taylor, Texas.
+TSMC announced a further $100 billion investment into the US with Trump, on top of $65 billion pledged for three plants. Diversifying chip production works for TSMC too, with China repeatedly threatening to take control of the island.
+But both TSMC and Samsung have faced challenges with their investments, including surging costs, difficulty recruiting skilled labour, construction delays and resistance from local unions.
+"This isn't just a factory where you make boxes," says Marc Einstein, research director at market intelligence firm Counterpoint. "The factories that make chips are such high-tech sterile environments, they take years and years to build."
+And despite the US investment, TSMC has said that most of its manufacturing will remain in Taiwan, especially its most advanced computer chips.
+Did China try to steal Taiwan's prowess?
+Today, TSMC's plants in Arizona produce high-quality chips. But Chris Miller, author of Chip War: The Fight for the World's Most Critical Technology, argues that "they're a generation behind the cutting edge in Taiwan".
+"The question of scale depends on how much investment is made in the US versus Taiwan," he says. "Today, Taiwan has far more capacity."
+The reality is, it took decades for Taiwan to build up that capacity, and despite the threat of China spending billions to steal Taiwan's prowess in the industry, it continues to thrive.
+TSMC was the pioneer of the "foundry model" where chip makers took US designs and manufactured chips for other companies.
+Riding on a wave of Silicon Valley start-ups like Apple, Qualcomm and Intel, TSMC was able to compete with US and Japanese giants with the best engineers, highly skilled labour and knowledge sharing.
+"Could the US make chips and create jobs?" asks Mr Einstein. "Sure, but are they going to get chips down to a nanometre? Probably not."
+One reason is Trump's immigration policy, which can potentially limit the arrival of skilled talent from China and India.
+"Even Elon Musk has had an immigration problem with Tesla engineers," says Mr Einstein, referring to Musk's support for the US's H-1B visa programme that brings skilled workers to the US.
+"That's a bottleneck and there's nothing they can do, unless they change their stance on immigration entirely. You can't just magic PhDs out of nowhere."
+The global knock-on effect
+Even so, Trump has doubled down on tariffs, ordering a national security trade investigation into the semiconductor sector.
+"It's a wrench in the machine – a big wrench," says Mr Einstein. "Japan for example was basing its economic revitalisation on semiconductors and tariffs were not in the business plan."
+The longer-term impact on the industry, according to Mr Miller, is likely to be a renewed focus on domestic manufacturing in many of the world's key economies: China, Europe, the US.
+Some companies could look for new markets. Chinese technology giant Huawei, for example, expanded into Europe and emerging markets including Thailand, the UAE, Saudi Arabia, Malaysia and many countries in Africa in the face of export controls and tariffs, although the margins in developing nations are small.
+"China ultimately will want to win – it has to innovate and invest in R&D. Look at what it did with Deepseek," says Mr Einstein, referring to the China-built AI chatbot.
+"If they build better chips, everyone is going to go to them. Cost-effectiveness is something they can do now, and looking forward, it's the ultra-high-tech fabrication."
+In the meantime, new manufacturing hubs may emerge. India has a lot of promise, according to experts who say there is more chance of it becoming integrated into the chip supply chain than the US – it's geographically closer, labour is cheap and education is good.
+India has signalled a willingness that it is open to chip manufacturing, but it faces a number of challenges, including land acquisition for factories, and water – chip production needs the highest quality water and a lot of it.
+Bargaining chips
+Chip companies are not completely at the mercy of tariffs. The sheer reliance and demand for chips from major US companies like Microsoft, Apple and Cisco could apply pressure on Trump to reverse any levies on the chip sector.
+Some insiders believe intense lobbying by Apple CEO Tim Cook secured the exemptions to smartphone, laptop and electronic tariffs, and Trump reportedly lifted a ban on the chips Nvidia can sell to China as a result of lobbying.
+Asked specifically about Apple products on Monday in the Oval Office, Trump said, "I'm a very flexible person," adding that "there will be maybe things coming up, I speak to Tim Cook, I helped Tim Cook recently."
+Mr Einstein thinks it all comes down to Trump ultimately trying to make a deal - he and his administration know they can't just build a bigger building when it comes to chips.
+"I think what the Trump administration is trying to do is what it has done with TikTok's owner Bytedance. He is saying I'm not going to let you operate in the US anymore unless you give Oracle or another US company a stake," says Mr Einstein.
+"I think they're trying to fandangle something similar here – TSMC isn't going anywhere, let's just force them to do a deal with Intel and take a slice of the pie."
+But the blueprint of the Asia semiconductor ecosystem has a valuable lesson: no one country can operate a chip industry on its own, and if you want to make advanced semiconductors, efficiently and at scale – it will take time.
+Trump is trying to create a chip industry through protectionism and isolation, when what allowed the chip industry to emerge throughout Asia is the opposite: collaboration in a globalised economy.
+BBC InDepth is the new home on the website and app for the best analysis and expertise from our top journalists. Under a distinctive new brand, we’ll bring you fresh perspectives that challenge assumptions, and deep reporting on the biggest issues to help you make sense of a complex world. And we’ll be showcasing thought-provoking content from across BBC Sounds and iPlayer too. We’re starting small but thinking big, and we want to know what you think - you can send us your feedback by clicking on the button below.

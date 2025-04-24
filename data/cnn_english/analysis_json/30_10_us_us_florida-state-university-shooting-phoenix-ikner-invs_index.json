@@ -1,0 +1,309 @@
+{
+  "article_metadata": {
+    "title_en": "What we know about the Florida State University shooting suspect",
+    "text_summary_en": "Phoenix Ikner, a Florida State University student, is accused of a shooting that killed two and injured six. He is the son of a local sheriff’s deputy and had prior involvement with law enforcement training programs. The motive is unknown, and there appears to be no connection between Ikner and the victims. Classmates described Ikner's political beliefs as extreme, citing instances of concerning rhetoric. Ikner had a tumultuous childhood, including a custody battle where his biological mother was accused of taking him out of the country. Authorities recovered multiple firearms from Ikner's car. He is currently hospitalized with non-life-threatening injuries and will face charges, including first-degree murder. Ikner had been prescribed medication for emotional dysregulation but had reportedly stopped taking it. The investigation is ongoing, and authorities are exploring potential connections to a student protest.",
+    "original_filename": "10_us_us_florida-state-university-shooting-phoenix-ikner-invs_index.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Florida State University Shooting",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The article presents factual information about the shooting and the suspect's background. The overall sentiment is negative due to the violent nature of the event and the suspect's troubling history."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The article reports on a tragic event, devoid of joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Trust in institutions is potentially damaged by the suspect's connection to law enforcement."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The shooting incident is inherently fear-inducing."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The sudden and unexpected nature of the shooting."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The loss of life and injuries caused by the shooting."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The suspect's alleged extremist views and violent actions."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The violence and potential motivations behind the shooting."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The ongoing investigation and potential future developments."
+        }
+      }
+    },
+    {
+      "topic": "Phoenix Ikner",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "This topic covers the suspect, Phoenix Ikner. The sentiment is negative due to his alleged actions of killing and injuring people. The article also presents information about his troubling past and alleged extremist views."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Ikner's actions are the antithesis of joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "His alleged actions completely erode trust."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "His alleged actions caused fear."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The sudden and unexpected nature of his actions."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The loss of life and injuries he allegedly caused."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "His alleged extremist views and violent actions."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The violence he allegedly perpetrated."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anticipation of his trial and potential consequences."
+        }
+      }
+    },
+    {
+      "topic": "The Shooting",
+      "sentiment_polarity": {
+        "score": -0.95,
+        "confidence": 99,
+        "reasoning": "The shooting itself is a negative event, causing harm and fear. The sentiment is strongly negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "The shooting is a tragic event, devoid of joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "The shooting undermines trust in safety and security."
+        },
+        "Fear": {
+          "weight": 0.99,
+          "confidence": 99,
+          "reasoning": "The shooting is inherently fear-inducing."
+        },
+        "Surprise": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The sudden and unexpected nature of the shooting."
+        },
+        "Sadness": {
+          "weight": 0.95,
+          "confidence": 99,
+          "reasoning": "The loss of life and injuries caused by the shooting."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The violence of the shooting."
+        },
+        "Anger": {
+          "weight": 0.95,
+          "confidence": 99,
+          "reasoning": "The senselessness and harm caused by the shooting."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The ongoing investigation and potential future similar events."
+        }
+      }
+    },
+    {
+      "topic": "The Victims",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The victims of the shooting are presented in a sympathetic light. The sentiment is negative due to the harm they suffered."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The victims suffered harm and loss."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The event may undermine trust in safety."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The victims experienced fear during the shooting."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The shooting was unexpected."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The victims suffered harm and loss."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Disgust at the violence inflicted upon them."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at the perpetrator for harming them."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Uncertain future for the injured."
+        }
+      }
+    },
+    {
+      "topic": "The Investigation",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 80,
+        "reasoning": "The investigation is a neutral process aimed at uncovering the truth. The sentiment is neutral."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "The investigation aims to bring justice, but is not inherently joyful."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in the authorities to conduct a fair investigation."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fear of potential further violence or unanswered questions."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Potential for unexpected findings during the investigation."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The investigation is related to a tragic event."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Potential for uncovering disturbing details."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anger at the perpetrator may fuel the investigation."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of the investigation's findings and outcomes."
+        }
+      }
+    },
+    {
+      "topic": "Phoenix Ikner's Past Political Views and Rhetoric",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The past political views and rhetoric of the shooter are presented as negative and concerning. This contributes to a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "The views are negative and do not elicit joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "The views erode trust."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Some of the views could be interpreted as threatening."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The extremity of the views might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The views are related to a tragic event."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The views are offensive and elicit disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The views are potentially hateful and elicit anger."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The potential impact of these views is uncertain."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "article_metadata": {
+    "title_en": "Trump and Meloni Discuss Opportunities for a Trade Agreement Between the United States and Europe",
+    "text_summary_en": "US President Donald Trump and Italian Prime Minister Giorgia Meloni discussed the possibility of reaching a trade agreement between the US and Europe during Meloni's visit to Washington. Trump stated that a trade agreement is possible but must be fair, while Meloni expressed confidence in reaching an agreement, aiming to \"make the West great again.\" Meloni is the first European leader to visit Washington since Trump imposed tariffs on EU imports. They discussed military spending, immigration, and tariffs. Meloni hopes to act as a bridge between the EU and the US, given strained relations and concerns about Trump's tariffs. Trump had previously criticized the EU's trade practices. Meloni secured a commitment from Trump to visit Rome and potentially meet with other European leaders. She also aligned herself with Trump's views on immigration and \"woke ideology.\" She promoted Italy's strong economic performance under her leadership. While no immediate tariff breakthroughs were achieved, Meloni's visit is seen as a potential victory in improving US-EU relations.",
+    "original_filename": "2_bbc-economic_20250420-055830.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "US-Europe Trade Agreement",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The article discusses the possibility of a trade agreement, with both Trump and Meloni expressing optimism. The phrase 'اتفاق عادل' ('fair agreement') suggests a positive, though cautious, outlook."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The prospect of an agreement brings some joy, but it's tempered by uncertainty."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Meloni's confidence ('متأكدة') contributes to a sense of trust in the possibility of an agreement."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Concerns about tariffs and past trade disputes introduce some fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The rapid progress or potential collapse of the agreement could bring surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The history of trade disputes contributes a small amount of sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Some might feel disgust towards unfair trade practices."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Trump's past criticisms of the EU suggest some anger towards their trade policies."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The ongoing negotiations and potential outcomes generate anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Donald Trump",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 75,
+        "reasoning": "Trump is portrayed as open to a trade agreement but insists on fairness. His past actions and statements create a mixed sentiment. His previous criticism of the EU: 'زاعماً أن الاتحاد تأسس للإضرار بالولايات المتحدة' ('claiming that the union was founded to harm the United States') shows negative sentiment, but his current openness tempers it."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Potentially pleased with the attention and negotiation."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some trust in his ability to negotiate a favorable deal."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "His unpredictable nature generates fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Known for surprising policy shifts."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Some sadness from past trade disputes."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 45,
+          "reasoning": "His protectionist policies may cause disgust."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "His confrontational style can provoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Uncertainty about his future actions creates anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Giorgia Meloni",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 80,
+        "reasoning": "Meloni is presented positively as a bridge between the US and EU and as a strong leader. Her statement 'أفخر بالجلوس هنا رئيسةً لوزراء إيطاليا التي تتمتع اليوم بوضع ممتاز' ('I am proud to sit here as Prime Minister of Italy, which today enjoys an excellent position') shows confidence and pride."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Her success and influence bring joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Seen as a reliable and capable leader."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Limited fear, mostly related to potential political risks."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Potential for surprising diplomatic achievements."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 25,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 35,
+          "reasoning": "Some anger from political opponents."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Anticipation of her future role in international relations."
+        }
+      }
+    },
+    {
+      "topic": "EU-US Relations",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 70,
+        "reasoning": "The article mentions 'علاقات متصدعة' ('strained relations') and 'مخاوف متزايدة' ('growing concerns'), indicating a negative sentiment. However, Meloni's efforts to bridge the gap offer some hope."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Limited joy due to strained relations."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Limited trust due to past disputes."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Fear of further deterioration in relations."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Potential for surprising developments."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Sadness over the current state of relations."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Disgust at the perceived unfairness of trade practices."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anger over past disputes and policies."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 65,
+          "reasoning": "Anticipation of future developments and potential improvements."
+        }
+      }
+    },
+    {
+      "topic": "Trump's Tariffs",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "The article highlights 'رسوماً جمركية بنسبة 20 في المئة' ('20 percent tariffs') and 'تأثير العالمي للرسوم الجمركية التي فرضها ترامب' ('global impact of tariffs imposed by Trump'), indicating a negative sentiment due to the potential economic harm. Meloni calling the tariffs 'أمر خاطئ تماماً' ('completely wrong') reinforces this negative view."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No joy associated with tariffs."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Limited trust in the benefits of tariffs."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Fear of economic consequences."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Potential for surprising economic effects."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness over economic damage."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Disgust at the perceived unfairness of tariffs."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anger over the imposition of tariffs."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anticipation of the long-term effects of tariffs."
+        }
+      }
+    },
+    {
+      "topic": "Italy's Economic Situation",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 80,
+        "reasoning": "Meloni's statement that Italy is 'بلد مستقر وموثوق' ('a stable and reliable country') and that her government has 'خفض التضخم وتحسين مستوى التوظيف' ('reduced inflation and improved employment levels') indicates a very positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Joy over the improved economic situation."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in the stability and reliability of the Italian economy."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal fear related to the economy."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "Potential for surprising economic growth."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 15,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Some anger from political opponents."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 75,
+          "reasoning": "Anticipation of continued economic growth."
+        }
+      }
+    },
+    {
+      "topic": "NATO Military Spending",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 65,
+        "reasoning": "The article mentions that Italy doesn't meet the 2% spending target, which is a point of contention with Trump. This indicates a somewhat negative sentiment. The phrase 'نقطة خلاف رئيسية' ('a major point of contention') highlights the negative aspect."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No joy associated with insufficient spending."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Limited trust in Italy's commitment to the target."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Fear of repercussions from not meeting the target."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Potential for surprising increases in spending."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Sadness over the inability to meet the target."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "Some disgust at the perceived lack of commitment."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anger from Trump over the insufficient spending."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation of future spending increases."
+        }
+      }
+    },
+    {
+      "topic": "Immigration",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 70,
+        "reasoning": "Meloni's support for the 'الحرب ضد الهجرة غير الشرعية' ('war against illegal immigration') suggests a negative sentiment towards illegal immigration. The term 'war' implies a strong negative stance."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Limited joy, perhaps from supporters of stricter immigration policies."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "Trust from those who believe stricter policies are necessary."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Fear related to the perceived negative impacts of illegal immigration."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Potential for surprising policy changes."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Sadness over the humanitarian aspects of immigration."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Disgust at the perceived negative consequences of illegal immigration."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anger towards illegal immigrants or the policies that allow it."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation of future policy changes and their impacts."
+        }
+      }
+    },
+    {
+      "topic": "Woke Ideology",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 60,
+        "reasoning": "Meloni's criticism of 'أيديولوجيا اليقظة' ('woke ideology') suggests a negative sentiment towards it. The criticism implies a disapproval of the ideology's principles."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Limited joy, perhaps from those who oppose the ideology."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Limited trust in the ideology's principles."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 65,
+          "reasoning": "Fear related to the perceived negative impacts of the ideology."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Potential for surprising developments related to the ideology."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Sadness over the perceived negative impacts of the ideology."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 65,
+          "reasoning": "Disgust at the ideology's principles."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 65,
+          "reasoning": "Anger towards the ideology and its proponents."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anticipation of future developments related to the ideology."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "article_metadata": {
+    "title_en": "Video: Why did tens of thousands protest against Trump in the United States?, Duration 3:45",
+    "text_summary_en": "Tens of thousands of protesters gathered in several American cities to express their rejection of President Donald Trump's policies, in what was considered the largest wave of protests since he took office in January. Organizers of the \"Rise Up\" protests planned events in about 1200 locations, including all fifty U.S. states.",
+    "original_filename": "22_bbc-economic_20250420-060135.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Donald Trump's Policies",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 95,
+        "reasoning": "The phrase 'رفضهم لسياسات الرئيس دونالد ترامب' (their rejection of President Donald Trump's policies) indicates a negative sentiment towards Donald Trump's policies."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Rejecting policies is not associated with joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Rejection implies a lack of trust."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 85,
+          "reasoning": "Policies can be rejected due to fear of their consequences."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "The rejection itself might not be surprising, but the intensity could be."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Disapproval can lead to sadness."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Strong rejection can be rooted in disgust."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "Rejection is often fueled by anger."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Rejection can imply a desire for change."
+        }
+      }
+    },
+    {
+      "topic": "Donald Trump's Presidency",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 90,
+        "reasoning": "The phrase 'أكبر موجة احتجاج منذ توليه المنصب' (largest wave of protest since he took office) suggests a significant level of opposition to Trump's presidency."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Protests are not associated with joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Protests imply a lack of trust."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "Protests can be motivated by fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The size of the wave might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Dissatisfaction can lead to sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Strong opposition can be rooted in disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Protests are often fueled by anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Protests imply a desire for change."
+        }
+      }
+    },
+    {
+      "topic": "US Protests",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 90,
+        "reasoning": "The article reports on protests against Donald Trump's policies. The tone is neutral, reporting the facts of the protests. Therefore, the sentiment is slightly negative towards Trump, but not strongly so, as it's simply reporting on opposition."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "The article describes protests, which are not typically associated with joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "The protests indicate a lack of trust in the president and his policies."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 85,
+          "reasoning": "Protests against policies often stem from fear of the consequences of those policies."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The scale of the protests might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "Disapproval of policies can lead to sadness about the direction of the country."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Opposition to policies can be rooted in disgust."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 90,
+          "reasoning": "Protests are often fueled by anger towards the policies being protested."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 80,
+          "reasoning": "Protests often aim to create change, reflecting anticipation of a different future."
+        }
+      }
+    }
+  ]
+}

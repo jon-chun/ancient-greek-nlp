@@ -1,0 +1,159 @@
+{
+  "article_metadata": {
+    "title_en": "Two Killed, 5 Injured in Shooting at Florida University, Trump Comments",
+    "text_summary_en": "A shooting at Florida State University resulted in two deaths and five injuries, none of whom were students. The shooter was apprehended. Donald Trump described the shooting as \"shameful\" but stated he is unlikely to pursue changes to gun laws, reaffirming his support for the Second Amendment. He emphasized that \"shooting is not from the weapon, but from the people.\" During his presidency, Trump had previously considered expanding background checks for gun purchases but later retracted those considerations. During his 2024 campaign, Trump said the Second Amendment was under siege and praised the NRA's endorsement.",
+    "original_filename": "6_cnn-world_20250420-042710.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Florida State University Shooting",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The event is inherently negative due to the loss of life and injuries, indicated by words like 'مقتل' (killing), 'إصابة' (injury), and 'إطلاق نار' (shooting)."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The event is tragic, so joy is absent."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Low trust due to the violence and uncertainty."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "High fear due to the shooting and potential danger. The phrase 'المخيف جداً' ('very scary') confirms this."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "A shooting is generally unexpected."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Deaths and injuries evoke strong sadness."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Disgust at the violence and senselessness of the act."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anger at the shooter and the situation."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some anticipation of potential policy changes or further events, but low confidence."
+        }
+      }
+    },
+    {
+      "topic": "Donald Trump's Response to the Shooting",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "Trump's response is complex. Describing the shooting as 'shameful' has negative connotations, but his defense of the Second Amendment is more neutral. The overall sentiment is slightly negative due to the context."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy present in the context."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Low trust due to his shifting stances on gun control."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some fear related to potential inaction on gun control."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at his consistent stance on the Second Amendment despite the tragedy."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness related to the shooting, which he acknowledges."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some disgust at the potential inaction on gun control."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Anger from those who disagree with his stance on gun control."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Anticipation of potential future actions or policy changes, but uncertainty remains."
+        }
+      }
+    },
+    {
+      "topic": "Gun Control Debate",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "The gun control debate is highly polarized. The article highlights Trump's opposition to changes in gun laws, suggesting a negative sentiment from those who advocate for stricter controls."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Limited joy, potentially from those who support current gun laws."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Trust from those who support the Second Amendment."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Fear from those who worry about gun violence."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at the lack of progress on gun control."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness related to gun violence."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Disgust at the ongoing gun violence and perceived inaction."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "High anger from those who advocate for stricter gun control."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of potential future policy changes, but uncertainty remains."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "article_metadata": {
+    "title_en": "Widespread Protests in the United States Against Trump's Policies Under the Slogan \"Hands Off\" - Photos",
+    "text_summary_en": "Thousands of protesters gathered in several American cities to express their rejection of President Donald Trump's policies, in what was considered the largest wave of protests since he took office. The \"Hands Off\" protests were planned in approximately 1200 locations across all fifty US states. Demonstrators protested Trump's policies on social issues, economic matters, and foreign policy, including tariffs on imports. Solidarity protests also took place outside the US, including in London, Paris, and Berlin. Protesters criticized Trump's \"authoritarian style of governance,\" including the dismissal of federal employees and the dismantling of the Department of Education. Trump's foreign policy also drew criticism, with some protesters carrying Ukrainian flags and others holding signs saying \"Free Palestine.\" The role of wealthy donors, particularly Elon Musk, in the Trump administration was also criticized. Polls show a slight decline in Trump's approval rating.",
+    "original_filename": "23_bbc-economic_20250420-060143.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Protests against Trump's policies",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The article describes the protests as a widespread expression of rejection, indicating a negative sentiment towards Trump's policies. The article uses phrases like \"رفضهم لسياسات الرئيس دونالد ترامب\" (their rejection of President Donald Trump's policies) which clearly shows negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "The protests are not joyful events."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Low trust in the current administration."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Protesters are fearful of the consequences of Trump's policies."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some surprise at the extent of the policies."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness about the direction of the country."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Disgust at the policies being protested."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The protests are fueled by anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Hope for a change in policy."
+        }
+      }
+    },
+    {
+      "topic": "Donald Trump",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "The overall sentiment towards Trump is negative, given the protests and criticisms detailed in the article. The text mentions \"أسلوب حكم ترامب الاستبدادي\" (Trump's authoritarian style of governance), indicating negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Some supporters may feel joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some trust from his base."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear among those protesting his policies."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some surprise at his actions."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness among those opposing him."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Disgust among his opponents."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger from those protesting."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation from his supporters."
+        }
+      }
+    },
+    {
+      "topic": "Elon Musk's involvement in the Trump administration",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "The article presents Elon Musk's involvement as a negative influence, particularly due to his role in cutting spending and reducing the federal workforce. The phrase \"استيلاء المليارديرات على الحكومة\" (billionaires taking over the government) shows negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Little joy associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some trust from those who support his policies."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of his influence on government."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Surprise at his level of involvement."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness about the direction of government."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Disgust at his influence."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at his policies and involvement."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Uncertainty about the future."
+        }
+      }
+    },
+    {
+      "topic": "Tariffs on imports",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 80,
+        "reasoning": "The imposition of tariffs is presented as a negative event, leading to protests and international concern. The phrase \"رسوم جمركية على الواردات القادمة من معظم دول العالم\" (tariffs on imports from most countries in the world) indicates a negative economic impact."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "No joy associated with tariffs."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Little trust in their effectiveness."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear of economic consequences."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Some surprise at the scope of the tariffs."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness about potential economic damage."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Disgust at the policy."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at the economic impact."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Uncertainty about the future."
+        }
+      }
+    },
+    {
+      "topic": "Immigration Raids",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "The immigration raids are presented negatively, causing fear and outrage. The phrase \"حملات المداهمة التي تستهدف طلاب الجامعات من المهاجرين\" (raids targeting immigrant university students) indicates a negative impact on a vulnerable population."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No joy associated with the raids."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "No trust in the fairness of the raids."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High fear among those targeted."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Surprise at the intensity of the raids."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Sadness about the impact on students."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Disgust at the policy."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High anger at the raids."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Uncertainty about the future."
+        }
+      }
+    },
+    {
+      "topic": "Ukraine",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 70,
+        "reasoning": "The article mentions protesters carrying Ukrainian flags and Trump being accused of failing to reach a peace agreement. This suggests a mixed sentiment, but leaning towards negative due to the ongoing conflict."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No joy in the context of the conflict."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low trust in the peace process."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High fear due to the conflict."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some surprise at the ongoing conflict."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Sadness about the human cost."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some disgust at the violence."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anger at the aggression."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Hope for a resolution."
+        }
+      }
+    },
+    {
+      "topic": "Proposed annexation of Canada and Greenland",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 80,
+        "reasoning": "The article presents Trump's expressed desire to annex Canada and Greenland as a point of ridicule and concern, contributing to a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No joy associated with this proposal."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No trust in the rationality of the proposal."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Fear of the implications."
+        },
+        "Surprise": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High surprise at the proposal."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Sadness at the state of affairs."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Disgust at the idea."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at the proposal."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Uncertainty about the future."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "article_metadata": {
+    "title_en": "Ford Warns Dealers Prices Could Rise in June If Trump's Tariffs Remain",
+    "text_summary_en": "Ford is alerting its dealers that President Trump's 25% tariffs on imported cars, which went into effect on April 3rd, may lead to increased vehicle prices. A memo to dealers indicates that these tariffs are expected to remain in place, potentially impacting vehicle deliveries starting in June, particularly those produced in May. While current inventory won't see immediate price hikes, future pricing adjustments are anticipated if the tariff policy persists. Experts predict that these tariffs could significantly raise the cost of building or importing cars, reduce vehicle supply, and potentially increase prices further with tariffs on auto parts. Despite Ford's earlier \"employee pricing\" discount, the memo suggests that tariff impacts on car prices may become unavoidable. Trump has hinted at potential changes to the auto parts tariff policy, offering some hope. The article also discusses how tariffs affect car production, supply, and demand, and consumer confidence.",
+    "original_filename": "24_business_business_ford-car-prices-tariffs_index.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Ford's warning about price increases",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 90,
+        "reasoning": "The sentiment is slightly negative because Ford is warning about potential price increases, which is generally unfavorable news for consumers. The phrase 'tariffs will likely raise prices' indicates a negative impact."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No indication of joy in this topic."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Ford is communicating with its dealers, suggesting some level of trust in the information provided."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The warning about price increases generates fear among consumers."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The announcement might be unexpected for some."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Potential price increases can lead to consumer sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some might find the situation distasteful."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Consumers may feel anger towards the situation."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "People anticipate the actual price changes."
+        }
+      }
+    },
+    {
+      "topic": "Trump's tariffs on imported cars",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 95,
+        "reasoning": "The sentiment is negative because tariffs are generally seen as harmful to trade and consumers, leading to higher prices. The text states the tariffs could 'upend the market.'"
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Tariffs are unlikely to cause joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low trust in the policy's effectiveness."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Tariffs create fear about economic consequences."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The extent of the tariffs' impact may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Tariffs can cause sadness due to negative economic effects."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some may find the policy distasteful."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Tariffs can provoke anger due to perceived unfairness."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "People anticipate the consequences of the tariffs."
+        }
+      }
+    },
+    {
+      "topic": "Impact on car buyers",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The sentiment is negative because the tariffs are expected to raise car prices and reduce the supply of vehicles, which is unfavorable for car buyers."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No indication of joy for car buyers."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Low trust in the affordability of cars."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Fear of higher prices and limited supply."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The extent of the price increases may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Sadness due to reduced affordability and choice."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some may find the situation distasteful."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger towards the situation affecting car prices."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of the actual price increases."
+        }
+      }
+    },
+    {
+      "topic": "Potential changes to auto parts tariff policy",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 70,
+        "reasoning": "The sentiment is slightly positive because there's a possibility that Trump might change the policy on auto parts tariffs, which could alleviate some of the negative impacts."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "Slight possibility of joy if prices are lowered."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some trust in the possibility of policy changes."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fear that the changes might not be significant."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The actual changes could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Sadness if the changes are not beneficial."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Some may find the situation distasteful regardless."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Anger if the changes are insufficient."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Strong anticipation of the policy changes."
+        }
+      }
+    },
+    {
+      "topic": "Impact on car production",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 85,
+        "reasoning": "The sentiment is negative because tariffs are expected to cut North American car production by 10% to 20%, which means fewer cars will be available."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No indication of joy in this topic."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Low trust in the stability of car production."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear due to reduced car production."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The extent of the reduction might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness due to fewer cars being available."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Some may find the situation distasteful."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anger towards the situation affecting car production."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of the impact on car availability."
+        }
+      }
+    }
+  ]
+}

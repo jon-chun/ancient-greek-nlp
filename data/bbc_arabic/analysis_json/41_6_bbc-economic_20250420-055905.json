@@ -1,0 +1,209 @@
+{
+  "article_metadata": {
+    "title_en": "Sony Raises Prices After Trump Denies Exempting Some Electronics from China from Tariffs",
+    "text_summary_en": "President Trump stated that smartphones and other electronics made in China would not be exempt from tariffs, placing them in a different tariff category. European stock markets rose initially following an earlier announcement that some products might be exempt from tariffs up to 145%, but this was later contradicted. China urged the US to completely remove tariffs and return to mutual respect. The US clarified that these products would instead be subject to \"semiconductor tariffs.\" Sony announced a price increase of nearly 10% for its PlayStation 5 in Europe, Australia, and New Zealand, citing a difficult economic environment, inflation, and exchange rate fluctuations. The Chinese Ministry of Commerce called the initially announced exemptions a \"small step,\" while officials in the Trump administration suggest future tariffs, potentially hindering a resolution between the US and China. Trump views tariffs as a negotiating tactic to improve trade agreements and bring manufacturing back to the US, but they also cause market instability and raise concerns about global trade decline.",
+    "original_filename": "6_bbc-economic_20250420-055905.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "US-China Trade Relations",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The article describes a tense situation with conflicting statements and escalating tariffs, indicating a negative sentiment. Phrases like 'الإلغاء الكامل' (complete cancellation) and 'الحرب التجارية' (trade war) contribute to the negative tone."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 60,
+          "reasoning": "Minimal joy due to the overall negative context."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low trust due to conflicting statements and uncertainty."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Significant fear due to the potential for economic disruption and escalating tensions. The phrase 'تراجُع معدلات التجارة العالمية' (decline in global trade rates) contributes to this."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Surprise due to the conflicting announcements and policy changes."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Sadness due to the potential negative impact on the global economy."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Some disgust at the perceived unfairness or manipulation of the trade situation."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger due to the potential for economic harm and the perceived aggressive tactics. The phrase 'الاستفزاز بالرسوم الجمركية' (provocation with tariffs) suggests anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Anticipation of further developments and potential resolutions."
+        }
+      }
+    },
+    {
+      "topic": "Donald Trump's Trade Policies",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "The article portrays Trump's policies as disruptive and unpredictable, leading to a negative sentiment. His actions are described as causing 'اضطرابات بسوق الأسهم' (disruptions in the stock market)."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 50,
+          "reasoning": "Minimal joy associated with Trump's policies in this context."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Low trust due to the perceived inconsistency and unpredictability."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of the potential negative consequences of these policies."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Surprise at the sudden changes and conflicting statements."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness due to the potential negative impact on the economy and global trade."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some disgust at the perceived unfairness or manipulation."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anger at the perceived aggressive tactics."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anticipation of further developments and potential resolutions."
+        }
+      }
+    },
+    {
+      "topic": "Sony's PlayStation 5 Price Increase",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "The price increase is generally negative for consumers, though the company's reasoning provides some context. 'بيئة اقتصادية صعبة' (difficult economic environment) suggests a challenging situation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "Minimal joy, mainly for Sony's financial stability perhaps."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Moderate trust in Sony's explanation for the price increase."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear of further price increases and economic instability."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Surprise at the price increase itself."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness due to the increased cost for consumers."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Slight disgust at perceived corporate greed, perhaps."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Anger at the increased cost for consumers."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Anticipation of potential consumer reactions and market adjustments."
+        }
+      }
+    },
+    {
+      "topic": "Semiconductors and National Security",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 75,
+        "reasoning": "The dependence on foreign semiconductors is viewed as a risk, creating a slightly negative sentiment. 'خطراً كبيراً على الأمن القومي' (a significant threat to national security) indicates a negative view."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 40,
+          "reasoning": "Minimal joy associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Limited trust in the current supply chain."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "High fear due to the potential national security risks."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Some surprise at the extent of the dependence."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness due to the potential vulnerabilities."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 45,
+          "reasoning": "Slight disgust at the perceived lack of foresight."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger at the potential risks to national security."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of potential solutions and policy changes."
+        }
+      }
+    }
+  ]
+}

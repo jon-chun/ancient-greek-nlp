@@ -1,0 +1,14 @@
+###FORMAT:
+Title: DHL to suspend global shipments of over $800 to US consumers
+URL: https://www.cnn.com/2025/04/20/business/dhl-global-shipments-us-suspension-intl-hnk/index.html
+Scraped Date: 2025-04-20 11:02:51
+Published Date: 2025-04-20
+
+--- Text ---
+DHL Express, a division of Germany’s Deutsche Post, said it would suspend global business-to-consumer shipments worth over $800 to individuals in the United States from April 21, as US customs regulatory changes have lengthened clearance.
+The notice on the company website was not dated, but its metadata showed it was compiled on Saturday.
+DHL blamed the halt on new US customs rules which require formal entry processing on all shipments worth over $800. The minimum had been $2,500 until a change on April 5.
+DHL said business-to-business shipments would not be suspended but could face delays. Shipments under $800 to either businesses or consumers were not affected by the changes.
+The move is a temporary measure, the company said in its statement.
+DHL said last week in response to Reuters questions that it would continue to process shipments from Hong Kong to the United States “in accordance with the applicable customs rules and regulations” and would “work with our customers to help them understand and adapt to the changes that are planned for May 2.”
+That came after Hongkong Post said last week it had suspended mail services for goods sent by sea to the United States, accusing the US of “bullying” after Washington canceled tariff-free trade provisions for packages from China and Hong Kong.

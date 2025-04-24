@@ -1,0 +1,309 @@
+{
+  "article_metadata": {
+    "title_en": "How much does he weigh and what is his heart rate? Trump's health and cognitive condition after his annual physical examination",
+    "text_summary_en": "A White House physician's memo stated that Donald Trump is \"completely fit\" to perform the duties of the presidency after his annual physical. The memo detailed lab tests, physical exams, and a cognitive test, concluding Trump is in excellent health. His weight is 224 pounds (101.6 kg), height is 75 inches (190 cm), resting heart rate is 62 bpm, and blood pressure is 128/74 mmHg. He scored 30/30 on the Montreal Cognitive Assessment. Physical exams of various bodily systems were normal. The doctor noted scars from an assassination attempt in Pennsylvania last year. A colonoscopy revealed diverticulitis. Trump also underwent cataract surgery at some point. The memo concludes Trump is in excellent cognitive and physical health and fit to perform his duties.",
+    "original_filename": "26_cnn-world_20250420-043134.txt"
+  },
+  "topic_analysis": [
+    {
+      "topic": "Donald Trump's Overall Health",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The article presents a positive assessment of Trump's health, stating he is \"لائق تماما\" (\"completely fit\") and in \"صحة ممتازة\" (\"excellent health\"). The overall tone is reassuring."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The positive health assessment evokes a mild sense of joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The report from the White House physician inspires trust."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Health reports can inherently trigger some fear, even when positive."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The report is generally expected, so low surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low sadness as the report is positive."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No indication of disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No indication of anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation for his continued health and performance."
+        }
+      }
+    },
+    {
+      "topic": "Trump's Weight and Height",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 100,
+        "reasoning": "This is a factual statement of Trump's weight and height. No inherent sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy associated with weight and height facts."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Trust in the accuracy of the measurement."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Very minor fear depending on one's own health concerns."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minor sadness if one is concerned about weight."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Trump's Cognitive Abilities",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The article highlights his perfect score on the Montreal Cognitive Assessment, indicating positive cognitive function."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Positive cognitive assessment evokes joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the validity of the cognitive assessment."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Fear regarding cognitive decline is lessened."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The perfect score might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Reduced sadness due to positive results."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of continued cognitive function."
+        }
+      }
+    },
+    {
+      "topic": "Assassination Attempt",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The mention of an assassination attempt is inherently negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Reduced trust due to the violent event."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "High fear associated with an assassination attempt."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Surprise at the occurrence of such an event."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Sadness related to the violence."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Disgust at the violence."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anger towards the perpetrator."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation of future safety concerns."
+        }
+      }
+    },
+    {
+      "topic": "Diverticulitis",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 80,
+        "reasoning": "The mention of diverticulitis is concerning, although the article notes it's often asymptomatic."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 60,
+          "reasoning": "Trust in the diagnosis."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear about health complications."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at the diagnosis."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness related to the health issue."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Mild disgust related to the medical condition."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Possible anger at the body's malfunction."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation of managing the condition."
+        }
+      }
+    },
+    {
+      "topic": "Cataract Surgery",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 70,
+        "reasoning": "Cataract surgery is generally a positive procedure to improve vision, but surgery always carries some risk and concern."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Potential joy from improved vision."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Trust in the medical procedure."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Fear associated with surgery."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Low surprise."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Minor sadness related to undergoing surgery."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 60,
+          "reasoning": "Anticipation of improved vision."
+        }
+      }
+    }
+  ]
+}
