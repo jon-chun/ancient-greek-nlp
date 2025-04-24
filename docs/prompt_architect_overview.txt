@@ -35,3 +35,5 @@ please create:
 2. test files under /tests/ to test each pipeline segment in isolation, common and difficult interfaces between segments and all end-to-end together 
 3. add /log subdir and redirect datetime stamped (e.g. log_full-run_{YYYYMMDD-HHMMSS}.txt and 
 log_test-{test-name}_{YYYYMMDD-HHMMSS}.txt for full runs and test runs
+
+
