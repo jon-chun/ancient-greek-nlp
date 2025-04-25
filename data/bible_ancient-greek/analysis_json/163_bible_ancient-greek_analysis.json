@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "163",
+    "segment_filename": "163_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the Book of Hebrews, due to its discussion of the Old Testament sacrificial system, the role of the high priest, and the superiority of Christ's sacrifice.",
+    "text_summary": "This passage contrasts the Old Testament sacrificial system with the sacrifice of Jesus Christ. The Old Testament required repeated sacrifices and a high priest entering the Holy of Holies annually with blood for atonement. This system, however, could not truly cleanse the conscience. Jesus, as the ultimate high priest, entered the heavenly sanctuary once for all with his own blood, securing eternal redemption. His sacrifice is superior, cleansing the conscience and offering true forgiveness. The passage highlights the inadequacy of the old covenant and the perfection of the new covenant established through Christ's sacrifice. It also touches upon the concept of death and judgment, and Christ's second coming for salvation. The text emphasizes that Christ's sacrifice is a one-time event that perfects those who are sanctified and anticipates his return to bring full salvation to those who await him."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Old Testament Sacrifices",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "The Old Testament sacrifices are presented as imperfect and inadequate, suggesting a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with the inadequacy of the sacrifices."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Some trust is placed in the system, but it's limited."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 80,
+          "reasoning": "The sacrifices address a need to atone for sins, implying some fear of judgment."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Not much surprise is present."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 85,
+          "reasoning": "The sacrifices are imperfect, leading to a sense of sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "A slight sense of disgust at the repetitive nature and imperfection."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Not much anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Anticipation of a better sacrifice."
+        }
+      }
+    },
+    {
+      "topic": "Jesus Christ's Sacrifice",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Christ's sacrifice is presented as perfect, complete, and eternally redemptive, implying a strongly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The sacrifice brings joy and hope."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Strong trust in Christ's sacrifice."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "The sacrifice reduces fear of judgment."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise at the completeness of the sacrifice."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "The sacrifice alleviates sadness associated with sin."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anticipation of salvation and Christ's return."
+        }
+      }
+    },
+    {
+      "topic": "Cleansing of Conscience",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The cleansing of conscience is a positive outcome of Christ's sacrifice, leading to a sense of peace and freedom from guilt."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Joy at being cleansed."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Trust in the cleansing power."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 75,
+          "reasoning": "Reduced fear of judgment."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise at the depth of cleansing."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 75,
+          "reasoning": "Reduced sadness associated with guilt."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of continued peace."
+        }
+      }
+    },
+    {
+      "topic": "Death and Judgment",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 80,
+        "reasoning": "The passage mentions that humans are destined to die once and then face judgment. This carries a somber and serious tone."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with death and judgment."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Limited trust in the process."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Strong fear of judgment."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise at the nature of judgment."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Sadness associated with death."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Slight disgust at the decay of death."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some anger at the inevitability of death."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of what's to come after death."
+        }
+      }
+    },
+    {
+      "topic": "Christ's Second Coming",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "Christ's second coming is presented as a future event of salvation for those who await him. This evokes hope and anticipation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Joy at the prospect of salvation."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in Christ's promise."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Reduced fear due to salvation."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at the manner of his coming."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Reduced sadness due to hope."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong anticipation of Christ's return."
+        }
+      }
+    }
+  ]
+}

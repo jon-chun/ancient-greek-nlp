@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "85",
+    "segment_filename": "85_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the Gospel of John, chapters 17 and 18. Chapter 17 contains Jesus's prayer for his disciples and future believers. Chapter 18 describes Jesus's betrayal and arrest.",
+    "text_summary": "This passage encompasses Jesus's prayer to God for his disciples, emphasizing their separation from the world, their sanctification through truth, and their unity. Jesus also prays for future believers who will come to faith through the disciples' message, desiring that they all be one, as he and the Father are one. He expresses his love for them, mirroring the Father's love for him. The passage then shifts to the narrative of Jesus's betrayal by Judas, his arrest in the Garden of Gethsemane, and his initial interaction with the arresting soldiers. He identifies himself, causing them to fall back. He also protects his disciples, ensuring their safety as he faces his impending suffering. Peter's impulsive act of cutting off the ear of the high priest's servant is also described, followed by Jesus's rebuke and healing of the servant."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Overall Sentiment",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 85,
+        "reasoning": "The overall sentiment is positive due to the themes of love, unity, and protection, but the betrayal introduces negative elements."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Present due to the love and unity aspects, but tempered by the somber context."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Strong due to Jesus's prayer and faith in God."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Present due to the impending betrayal and arrest."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The soldiers falling back in surprise."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Due to the impending suffering and separation."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Possible feeling towards Judas' betrayal."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Peter's reaction and Jesus's mild rebuke."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Jesus's awareness of the events to come."
+        }
+      }
+    },
+    {
+      "topic": "Prayer for Disciples' Sanctification and Protection",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "This topic involves Jesus's prayer for his disciples' sanctification and protection, which is a positive and hopeful sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Reflects the hope and blessing in the prayer."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Jesus's unwavering faith in God's protection."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "A small amount of fear for the disciples' safety in the world."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low, as the prayer is more about steadfastness than unexpected events."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "A touch of sadness at the separation from the disciples."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal, perhaps directed at the 'world' from which they are being protected."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Very low, as the prayer is about love and protection, not anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Jesus looks forward to the disciples' future and their work."
+        }
+      }
+    },
+    {
+      "topic": "Desire for Unity Among Believers",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "Jesus's desire for unity among believers is a positive and harmonious concept."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The joy of believers being united as one."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's plan for unity."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal fear, perhaps related to potential divisions."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Low, as the focus is on a planned and desired outcome."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal sadness, perhaps reflecting on past disunity."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "None, as unity is the opposite of disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "None, as unity is the opposite of anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of the future unity of believers."
+        }
+      }
+    },
+    {
+      "topic": "Betrayal and Arrest",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The betrayal and arrest are negative events, filled with tension and foreboding."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal, perhaps a faint hope for a different outcome."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Limited trust, as betrayal is a violation of trust."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Strong fear due to the impending suffering and danger."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The unexpected nature of the betrayal."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Sadness at the betrayal and coming suffering."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Disgust at Judas's actions."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Peter's anger and the injustice of the arrest."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation of the events that will unfold."
+        }
+      }
+    },
+    {
+      "topic": "Jesus Protecting His Disciples",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Jesus protecting his disciples is a positive act of love and sacrifice."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The joy of ensuring the disciples' safety."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Jesus's commitment to his disciples."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Reduced fear, as Jesus is taking the danger upon himself."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Low, as the protection is a deliberate act."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Some sadness at the circumstances requiring protection."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal, perhaps directed at the forces threatening the disciples."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some anger at the injustice of the situation."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of the disciples' future safety and mission."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "13",
+    "segment_filename": "13_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the Gospel of Mark, based on the content about Jesus performing miracles, questioning his disciples, Peter's confession, and the transfiguration.",
+    "text_summary": "This segment from the Gospel describes several events. Jesus reminds his disciples of past miracles (feeding the multitudes) to highlight their lack of understanding. He heals a blind man in stages, symbolizing spiritual insight. Jesus then travels to Caesarea Philippi, where Peter confesses Jesus as the Christ. Jesus predicts his suffering, death, and resurrection, which Peter rebukes, leading to Jesus's strong rebuke of Peter. Jesus teaches about self-denial, taking up one's cross, and the value of the soul. He speaks of the coming Kingdom of God. Finally, Jesus is transfigured before Peter, James, and John, with Moses and Elijah appearing, and a voice from heaven affirms Jesus as the beloved Son. The disciples are commanded to keep the transfiguration a secret until after the resurrection. The passage concludes with a discussion about Elijah's coming and the healing of a boy with an unclean spirit."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Disciples' Lack of Understanding",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "The tone is somewhat negative as Jesus is pointing out the disciples' failure to grasp his teachings and miracles."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal joy as the situation is not positive."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Some trust remains that they will learn."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "A little fear related to the consequences of misunderstanding."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Some surprise that they still don't understand."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Disappointment and sadness at their lack of comprehension."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "Slight frustration."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Hope that they will eventually understand."
+        }
+      }
+    },
+    {
+      "topic": "Healing of the Blind Man",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The healing is a positive event, demonstrating Jesus's power and compassion."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Happiness at the restoration of sight."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Trust in Jesus's ability to heal."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Initial fear of the unknown."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Surprise at the method of healing."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Relief from the sadness of blindness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Hope for complete healing."
+        }
+      }
+    },
+    {
+      "topic": "Peter's Confession and Jesus's Prediction of Suffering",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 80,
+        "reasoning": "Peter's confession is positive, but Jesus's prediction of suffering introduces a somber tone."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Happiness at Peter's correct confession."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Trust in Jesus as the Christ."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Fear and anxiety about Jesus's impending suffering."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise at the prediction of suffering."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Sadness and grief over the prediction of suffering."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Slight anger at the injustice of the suffering."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Uncertainty about the future."
+        }
+      }
+    },
+    {
+      "topic": "Jesus's Rebuke of Peter",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "This is a negative event as Jesus strongly rebukes Peter for misunderstanding God's will."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy is present."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Diminished trust in Peter's understanding."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Fear of the consequences of Peter's misunderstanding."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some surprise at Peter's reaction."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Sadness at the conflict."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Disgust at Peter's worldly perspective."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Strong anger at Peter's opposition to God's will."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Uncertainty about Peter's future actions."
+        }
+      }
+    },
+    {
+      "topic": "Teaching on Self-Denial and Taking Up One's Cross",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 75,
+        "reasoning": "The teaching is challenging and demanding, requiring sacrifice and commitment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some joy in the long-term reward."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trust in Jesus's teachings and promises."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Fear of the sacrifice required."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Little surprise is present."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Sadness at the loss of worldly desires."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Slight disgust at worldly attachments."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some frustration at the difficulty of the teaching."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Hope for the ultimate reward."
+        }
+      }
+    },
+    {
+      "topic": "The Transfiguration",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "This is a highly positive and awe-inspiring event, demonstrating Jesus's divine glory."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Overwhelming joy at witnessing Jesus's glory."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strengthened trust in Jesus as the Son of God."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Awe and fear at the divine manifestation."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Astonishment at the transfiguration."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Anticipation of the coming Kingdom of God."
+        }
+      }
+    }
+  ]
+}

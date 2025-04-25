@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "151",
+    "segment_filename": "151_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from one of the Pastoral Epistles (1 Timothy or Titus) due to the instructions to a younger leader and the discussion of widows and church leadership.",
+    "text_summary": "This passage provides instructions to a younger leader on various aspects of church life and personal conduct. It emphasizes the importance of sound doctrine, rejecting false teachings, and training oneself in godliness. The leader is encouraged to be an example to believers in speech, conduct, love, faith, and purity. The text also addresses the care of widows, distinguishing between those who are truly in need and those who are prone to idleness and gossip. Younger widows are encouraged to remarry and manage their households, avoiding opportunities for criticism. The passage concludes by stressing the responsibility to provide for one's own family, warning that neglecting this duty is a denial of the faith and makes one worse than an unbeliever."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Receiving God's Creation with Thanksgiving",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The text states that 'everything created by God is good' and should be received with thanksgiving, indicating a positive sentiment. The confidence is high because it's a direct statement."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The affirmation of God's good creation evokes joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "The passage emphasizes trusting in God's provision."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of fear in this particular topic."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Surprise is minimal in this context."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of sadness in this particular topic."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of disgust in this particular topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of anger in this particular topic."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "There is an expectation of continued blessings from God."
+        }
+      }
+    },
+    {
+      "topic": "Personal Godliness and Rejecting False Teachings",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "This topic encourages personal discipline and rejecting ungodly myths, suggesting a positive sentiment towards spiritual growth and a negative sentiment towards falsehood. The overall sentiment is positive due to the emphasis on godliness."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Joy is associated with spiritual growth and understanding."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The passage emphasizes trusting in sound doctrine and rejecting falsehood."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Fear of being led astray by false teachings is present."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise is minimal in this context."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Sadness could be associated with the consequences of following false teachings."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Disgust towards false teachings and ungodliness is present."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Anger towards those who promote false teachings is possible."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of spiritual growth and a closer relationship with God is present."
+        }
+      }
+    },
+    {
+      "topic": "Being an Example to Believers",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "This topic encourages the younger leader to be a positive example in various aspects of life, indicating a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The positive impact of a good example evokes joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "The passage emphasizes being a trustworthy example."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Fear of failing to be a good example is possible."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Surprise is minimal in this context."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Sadness could be associated with the consequences of failing to be a good example."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of disgust in this particular topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of anger in this particular topic."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of influencing others positively is present."
+        }
+      }
+    },
+    {
+      "topic": "The Care of Widows",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 75,
+        "reasoning": "This topic addresses the care of widows, distinguishing between those who are truly in need and those who are not. While there is compassion, there's also a sense of discernment and judgment, leading to a slightly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Joy is associated with providing for those in need."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The passage emphasizes the need to discern genuine need and provide accordingly."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Fear of being deceived or misusing resources is possible."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise at the behavior of some widows is possible."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness is associated with the plight of widows."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Disgust towards idleness and gossip is present."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anger towards those who abuse the system is possible."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of providing effective care for widows is present."
+        }
+      }
+    },
+    {
+      "topic": "Responsibility to Provide for Family",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 80,
+        "reasoning": "This topic emphasizes the responsibility to provide for one's own family, stating that neglecting this duty is a denial of the faith. This has a negative sentiment towards those who fail in this responsibility and a positive sentiment towards fulfilling it."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Joy is associated with fulfilling one's responsibility to family."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust is undermined by the denial of faith."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of the consequences of neglecting family is present."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Surprise at the behavior of those who neglect their families is possible."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness is associated with the consequences of neglecting family."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Disgust towards those who fail to provide for their families is present."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anger towards those who neglect their families is possible."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation of fulfilling one's responsibility to family is present."
+        }
+      }
+    }
+  ]
+}

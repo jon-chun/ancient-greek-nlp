@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "176",
+    "segment_filename": "176_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely 2 Peter.",
+    "text_summary": "This passage warns against false teachers who have strayed from the truth and are leading others astray through their immoral behavior and empty promises. It references the story of Balaam as an example of someone who loved the wages of wickedness. The passage emphasizes that those who escape the corruption of the world through the knowledge of Jesus Christ but then become entangled in it again are in a worse state than before. It reminds believers of the prophecies and commandments they have received and warns of scoffers who will deny the promise of Christ's return, questioning where the promised coming is. The passage affirms that God is patient, desiring all to come to repentance, but the day of the Lord will come unexpectedly. Believers are encouraged to live holy and godly lives, looking forward to the new heavens and new earth where righteousness dwells."
+  },
+  "topic_analysis": [
+    {
+      "topic": "False Teachers and Apostasy",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The passage strongly condemns false teachers and those who fall away from the truth, using negative language to highlight their wickedness and the dangers they pose."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no joy associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There is a lack of trust in these false teachers."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Fear of being led astray by false teachings."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the deceptive nature of false teachers."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Sadness over their departure from the truth and the consequences for those they mislead."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Strong disgust at their actions and the corruption they spread."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anger at their deception and the harm they inflict on believers."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anticipation of their eventual judgment and the restoration of truth."
+        }
+      }
+    },
+    {
+      "topic": "Balaam's Example",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "Balaam's story serves as a negative example of someone who loved the wages of wickedness, leading to his condemnation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with this story of moral failure."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No trust in Balaam, who compromised his integrity for personal gain."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of similar corruption and the temptation to compromise one's values."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at Balaam's willingness to compromise his principles for material reward."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness over Balaam's moral failure and the consequences of his actions."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Disgust at Balaam's greed and the corruption of his character."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anger at Balaam's betrayal of his prophetic calling for personal gain."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Little anticipation, as the story serves as a cautionary tale rather than a source of hope."
+        }
+      }
+    },
+    {
+      "topic": "Scoffers and the Delay of Christ's Return",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The passage addresses those who mock the promise of Christ's return, presenting a negative portrayal of their disbelief and skepticism."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with the presence and actions of scoffers."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Lack of trust in the words and intentions of those who mock the promise of Christ's return."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Fear of the influence of scoffers on the faith of others."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the disbelief and skepticism expressed by those who deny the promise of Christ's return."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness over the lack of faith and the potential consequences for those who reject the promise."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust at the mockery and scorn directed towards the promise of Christ's return."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at the arrogance and disrespect shown by those who scoff at the hope of believers."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anticipation of the eventual judgment and vindication of the faithful."
+        }
+      }
+    },
+    {
+      "topic": "God's Patience and Desire for Repentance",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "This section highlights God's patience and desire for all to repent, which is a positive attribute reflecting his love and mercy."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Joy in the knowledge of God's mercy and the opportunity for repentance."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong trust in God's character and his commitment to his promises."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear, as the focus is on God's grace and forgiveness."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some surprise at God's long-suffering and his willingness to extend grace to all."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sadness for those who reject God's grace and fail to embrace the opportunity for repentance."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust associated with God's love and mercy."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger, as the focus is on God's compassion and desire for reconciliation."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of God's plan being fulfilled and the salvation of all who believe."
+        }
+      }
+    },
+    {
+      "topic": "The Day of the Lord and New Creation",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 90,
+        "reasoning": "While the Day of the Lord involves judgment, the promise of a new heavens and new earth is ultimately positive, offering hope and restoration."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy in the promise of a new creation where righteousness dwells."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's promise to create a new heavens and new earth."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of the judgment associated with the Day of the Lord."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the suddenness and unexpected nature of the Day of the Lord."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Sadness for those who will face judgment on the Day of the Lord."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust at the wickedness that will be judged on the Day of the Lord."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Anger at the injustice and suffering in the world that will be addressed on the Day of the Lord."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong anticipation of the new creation and the fulfillment of God's promises."
+        }
+      }
+    }
+  ]
+}

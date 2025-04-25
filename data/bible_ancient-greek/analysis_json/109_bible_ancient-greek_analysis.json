@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "109",
+    "segment_filename": "109_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from one of Paul's letters, specifically dealing with marriage, singleness, and related conduct within the Christian community. The mention of \"idolatry\" (εἰδωλοθύτων) towards the end also suggests a discussion about permissible behavior regarding pagan practices.",
+    "text_summary": "This passage addresses various aspects of Christian life, primarily concerning marriage, singleness, and conduct within the community. It advises believers not to divorce unbelieving spouses if they are willing to remain in the marriage, emphasizing that the believing spouse sanctifies the unbelieving one. It also touches upon the idea that believers should remain in the state in which they were called (circumcised or uncircumcised, slave or free), focusing on obedience to God's commands. Regarding virgins, Paul offers his opinion that it is good to remain unmarried due to the present distress but acknowledges that marriage is not a sin. He emphasizes the importance of being free from worldly anxieties to better serve the Lord. Finally, the passage addresses the issue of eating food offered to idols, cautioning believers not to cause weaker brothers to stumble by exercising their knowledge in a way that compromises their conscience. Paul asserts his apostleship and defends his conduct in light of the gospel."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Marriage and Divorce",
+      "sentiment_polarity": {
+        "score": 0.1,
+        "confidence": 75,
+        "reasoning": "Encouragement to stay married is positive, but allowance for separation introduces a negative element."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Joy is associated with marital harmony."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trust in God's guidance regarding marriage."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Fear of marital discord."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Not much surprise is present."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Sadness associated with divorce or separation."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 45,
+          "reasoning": "Disgust related to marital infidelity."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Anger related to marital conflict."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation of a harmonious marriage."
+        }
+      }
+    },
+    {
+      "topic": "Remaining in One's Calling",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 80,
+        "reasoning": "Emphasizes contentment and obedience to God, which is generally positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Joy in fulfilling God's calling."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in God's plan for one's life."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear is present."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal surprise is present."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 45,
+          "reasoning": "Sadness related to dissatisfaction with one's circumstances."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 35,
+          "reasoning": "Disgust is not relevant."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Anger related to feeling trapped."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of God's blessings in one's calling."
+        }
+      }
+    },
+    {
+      "topic": "Singleness",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 70,
+        "reasoning": "Presented as beneficial, though not a command, making the sentiment slightly positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "Joy in serving the Lord without distraction."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Trust in Paul's advice and God's guidance."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 35,
+          "reasoning": "Fear of the 'present distress.'"
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal surprise is present."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sadness related to loneliness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "Disgust is not relevant."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 35,
+          "reasoning": "Anger is not relevant."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of serving the Lord more fully."
+        }
+      }
+    },
+    {
+      "topic": "Food Offered to Idols",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 80,
+        "reasoning": "Cautionary, emphasizing love over knowledge and avoiding causing others to stumble, making the sentiment slightly negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal joy is present."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Trust in Paul's guidance."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Fear of causing others to stumble."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 35,
+          "reasoning": "Minimal surprise is present."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness related to the potential for division."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Disgust related to idolatry."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Anger related to the misuse of knowledge."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 45,
+          "reasoning": "Anticipation of a unified community."
+        }
+      }
+    },
+    {
+      "topic": "Paul's Apostleship",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 75,
+        "reasoning": "Assertive but also reassuring, making the sentiment slightly positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 45,
+          "reasoning": "Joy in fulfilling his calling."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Trust in Paul's authority."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Fear is not relevant."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Surprise related to the challenge to his authority."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 35,
+          "reasoning": "Sadness related to being questioned."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 45,
+          "reasoning": "Disgust related to the challenge to his authority."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anger related to being questioned."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "Anticipation of continued ministry."
+        }
+      }
+    },
+    {
+      "topic": "General Christian Conduct",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 85,
+        "reasoning": "The passage contains both positive and challenging elements, but overall emphasizes love and concern for others."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Joy in serving the Lord without distraction."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The passage encourages trust in God's guidance and Paul's advice."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "There is a sense of fear related to causing weaker believers to stumble."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Not much surprise is present."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Sadness arises from the potential for division and the 'present distress.'"
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "Disgust is related to the idea of idolatry."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Not much anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation is present in the focus on serving the Lord and the future."
+        }
+      }
+    }
+  ]
+}

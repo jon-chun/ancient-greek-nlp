@@ -1,0 +1,160 @@
+{
+  "segment_metadata": {
+    "segment_number": "185",
+    "segment_filename": "185_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, specifically from the Book of Revelation, chapters 2 and 3, addressing messages to various churches.",
+    "text_summary": "This text segment contains messages to the churches in Thyatira, Sardis, and Philadelphia. The message to Thyatira condemns the tolerance of a false prophetess (\"Jezebel\") who leads people into sexual immorality and the eating of food sacrificed to idols. It warns of judgment for her and her followers unless they repent. The message promises power over nations and the morning star to those who overcome. The message to Sardis criticizes the church for being spiritually dead, urging them to wake up and strengthen what remains. It promises that those who have not soiled their garments will walk with Christ in white. The message to Philadelphia commends the church for its faithfulness despite its weakness and promises protection from the hour of trial. It also promises that those who overcome will be pillars in God's temple and will have God's name, the name of the new Jerusalem, and Christ's new name written on them. Each message ends with the exhortation to \"hear what the Spirit says to the churches.\""
+  },
+  "topic_analysis": [
+    {
+      "topic": "General Message to Churches",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 85,
+        "reasoning": "The overall sentiment is mixed, containing both condemnation and promises of reward. A slightly positive score reflects the ultimate hope offered."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The promises of rewards and eternal life evoke joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The messages emphasize the importance of trusting in God's word and promises."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "The warnings of judgment and the consequences of sin evoke fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "While there are some unexpected elements, the messages primarily focus on exhortation and warning."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The condemnation of sin and the spiritual state of some churches evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The description of immoral behavior and idolatry evokes disgust."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The condemnation of false teachers and those who lead others astray evokes anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The promises of future rewards and the coming of Christ evoke anticipation."
+        }
+      }
+    },
+    {
+      "topic": "False Teaching and Idolatry",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The topic of false teaching and idolatry is viewed negatively. It is condemned and associated with immorality."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "False teaching is not a source of joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "False teaching undermines trust."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The consequences of following false teaching are fearful."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The existence of false teaching may be surprising to some, but the messages anticipate it."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The consequences of being led astray by false teaching are sad."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The immoral behavior associated with false teaching evokes disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The deception and harm caused by false teachers evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "False teaching leads to negative outcomes, not positive anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Overcoming and Perseverance",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Overcoming and perseverance are viewed positively. They are associated with rewards and eternal life."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Overcoming leads to joy and fulfillment."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Overcoming requires trust in God."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Fear may be present during trials, but overcoming conquers fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The specific rewards of overcoming may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Sadness may be present during trials, but overcoming transcends sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Overcoming is the opposite of disgust."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Anger may be present towards opposition, but overcoming transcends anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Overcoming leads to anticipation of future rewards."
+        }
+      }
+    }
+  ]
+}

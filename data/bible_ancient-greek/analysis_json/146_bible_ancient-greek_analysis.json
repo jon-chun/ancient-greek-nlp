@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "146",
+    "segment_filename": "146_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from one of Paul's letters (possibly 1 Thessalonians).",
+    "text_summary": "This passage from a Pauline letter addresses several key aspects of Christian living. It begins with an encouragement to continue living in a way that pleases God and to excel in this. It emphasizes the importance of holiness, particularly abstaining from sexual immorality, and controlling one's body with honor. The text warns against taking advantage of other believers and reminds them that God will judge such actions. It stresses God's call to holiness, not impurity. The passage then shifts to brotherly love, noting that they are already taught by God to love one another and encourages them to do so even more. It urges them to live quietly, mind their own business, and work with their hands, so they will be respected by outsiders and not be dependent on anyone. Finally, it addresses the topic of those who have died, comforting the believers with the assurance that those who have died in Christ will be raised and reunited with Him at His coming. It concludes with an exhortation to comfort one another with these words, and then transitions to the topic of the timing of the Lord's return, reminding them that it will come unexpectedly like a thief in the night, and that destruction will come suddenly upon those who are complacent."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Exhortation to Pleasing God",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The emphasis on living a holy life and pleasing God indicates a positive sentiment towards righteousness and obedience."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The idea of pleasing God brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The passage emphasizes trusting in God's commands for a holy life."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Fear of displeasing God is a motivator for holiness."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Not really a factor here."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Not really a factor here."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Immorality is presented as something to be disgusted by."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "A sense of righteous anger against immorality is present."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of the rewards of living a holy life."
+        }
+      }
+    },
+    {
+      "topic": "Comfort and Hope in Resurrection",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The passage offers comfort and hope regarding the resurrection of those who have died in Christ, indicating a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The prospect of resurrection and reunion with loved ones brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The passage emphasizes trusting in God's promise of resurrection."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Fear of death is lessened by the hope of resurrection."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The suddenness of the Lord's return might bring surprise."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The sadness of death is acknowledged, but tempered by hope."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "Not really a factor here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "Not really a factor here."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of the Lord's return and the resurrection of the dead."
+        }
+      }
+    },
+    {
+      "topic": "The Unexpected Return of the Lord",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 85,
+        "reasoning": "The warning about the unexpected nature of the Lord's return and the sudden destruction that will come upon the complacent introduces a negative element, but it's intended to motivate believers to be vigilant, so there is also a positive aspect."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Not really a factor here."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust in God's warnings."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The warning of sudden destruction evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The unexpected nature of the Lord's return contributes to surprise."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The thought of destruction brings sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust at the complacency of those who are unprepared."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Anger at the injustice of destruction."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of the Lord's return, even with the warning."
+        }
+      }
+    },
+    {
+      "topic": "Call to Holiness and Brotherly Love",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The text contains encouragement to live a holy life, abstain from immorality, and love one another, indicating a positive sentiment overall."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Living in holiness and loving others brings joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Trust in God's guidance for holiness and love."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Fear of displeasing God motivates holiness."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Not really a factor here."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Not really a factor here."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Disgust at immorality and lack of love."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Righteous anger against injustice and immorality."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of the blessings of living a holy and loving life."
+        }
+      }
+    }
+  ]
+}

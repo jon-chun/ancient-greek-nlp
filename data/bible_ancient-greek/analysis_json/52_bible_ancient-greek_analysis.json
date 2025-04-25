@@ -1,0 +1,360 @@
+{
+  "segment_metadata": {
+    "segment_number": "52",
+    "segment_filename": "52_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely the Gospel of Luke, based on the content and themes.",
+    "text_summary": "This passage covers several distinct teachings and narratives. It begins with instructions on forgiveness, emphasizing unlimited forgiveness for a repentant brother. The apostles then ask for increased faith, and Jesus responds with the parable of the mustard seed, highlighting the power of even small faith. Next, the passage describes the duty of servants, illustrating that obedience is expected and does not warrant special thanks. The narrative shifts to the healing of ten lepers, where only one, a Samaritan, returns to give thanks. Jesus acknowledges the Samaritan's faith as having saved him. Finally, the passage addresses the coming of the Kingdom of God, stating it is not observable but within. It also warns about the suddenness of the Son of Man's return, comparing it to the days of Noah and Lot, and urges preparedness. The passage ends with parables on prayer, emphasizing persistence, and on humility versus self-righteousness, contrasting a Pharisee and a tax collector."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Forgiveness",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The emphasis on unlimited forgiveness suggests a positive sentiment, as forgiveness is presented as virtuous and necessary."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "The act of forgiveness brings joy and relief."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Forgiveness requires trust in the other person's repentance."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There might be a fear of being taken advantage of, but it's minimal."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The extent of forgiveness might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Sadness over the initial offense might linger."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Disgust is not applicable here."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Anger over the offense should be released through forgiveness."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of restored relationship and peace."
+        }
+      }
+    },
+    {
+      "topic": "Power of Faith (Mustard Seed)",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 90,
+        "reasoning": "The parable highlights the immense power that even a small amount of faith can unleash, suggesting a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 65,
+          "reasoning": "Joy in the power of faith."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Faith is inherently linked to trust."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Fear is not relevant here."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Surprise at the potential of small faith."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Sadness is not relevant here."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not relevant here."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of miracles and positive outcomes."
+        }
+      }
+    },
+    {
+      "topic": "Duty of Servants",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 70,
+        "reasoning": "This teaching emphasizes humility and the expectation of service without demanding reward, which is a complex sentiment. It's neither purely positive nor negative, but rather a call to duty."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Joy in fulfilling duty."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Trust in the master's fairness."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Fear of not meeting expectations."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Surprise is not really a factor here."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness or resentment at the lack of recognition."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Disgust is not really a factor here."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Anger at the perceived unfairness."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of completing the tasks."
+        }
+      }
+    },
+    {
+      "topic": "Healing of the Ten Lepers",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 80,
+        "reasoning": "The healing is a positive event. However, the lack of gratitude from most of the healed lepers introduces a note of disappointment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Joy at being healed."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 60,
+          "reasoning": "Trust in Jesus' power."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Fear is reduced after healing."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Surprise at the sudden healing."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness at the ingratitude of the nine."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Disgust at the ingratitude."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Anger at the ingratitude."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anticipation of a new life after healing."
+        }
+      }
+    },
+    {
+      "topic": "Coming of the Kingdom of God",
+      "sentiment_polarity": {
+        "score": 0.5,
+        "confidence": 75,
+        "reasoning": "The message that the Kingdom of God is within suggests a positive sentiment, though the warnings about the future introduce some uncertainty."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Joy at the prospect of the Kingdom."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trust in God's promises."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear of being unprepared for the future."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Surprise at the nature of the Kingdom."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness at the potential for loss."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Disgust is not really a factor here."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Anger is not really a factor here."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of the Kingdom's arrival."
+        }
+      }
+    },
+    {
+      "topic": "Parable of the Persistent Widow",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "The parable encourages persistence in prayer, which has a positive connotation, even though the judge is unjust."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "Joy in the eventual answer to prayer."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Trust in God's eventual justice."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 45,
+          "reasoning": "Fear of unanswered prayers."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "Surprise at the eventual answer."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "Sadness at the initial injustice."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 35,
+          "reasoning": "Disgust at the unjust judge."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 45,
+          "reasoning": "Anger at the initial injustice."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Anticipation of eventual justice."
+        }
+      }
+    },
+    {
+      "topic": "Parable of the Pharisee and the Tax Collector",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 80,
+        "reasoning": "The parable contrasts humility and self-righteousness, favoring humility, which is a positive sentiment. The Pharisee's attitude is presented negatively."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Joy in humility and God's grace."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in God's judgment."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Fear of being judged harshly."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Surprise at the contrast between the two men."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Sadness at the Pharisee's self-deception."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Disgust at the Pharisee's arrogance."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anger at the Pharisee's self-righteousness."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation of God's just judgment."
+        }
+      }
+    }
+  ]
+}

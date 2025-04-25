@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "40",
+    "segment_filename": "40_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from one of the Synoptic Gospels (Matthew, Mark, or Luke), specifically dealing with the Transfiguration of Jesus and a subsequent healing.",
+    "text_summary": "This passage recounts two key events. First, Jesus takes Peter, John, and James up a mountain where he is transfigured, appearing in glory alongside Moses and Elijah. A cloud overshadows them, and a voice from the cloud proclaims Jesus as God's chosen Son, commanding the disciples to listen to him. The disciples are awestruck and fearful. Second, upon descending the mountain, they encounter a crowd and a man whose son is possessed by a demon. The disciples are unable to heal the boy. Jesus rebukes the faithless generation, heals the boy, and restores him to his father. The people are amazed by God's power. Jesus then foretells his betrayal and death, but the disciples do not understand and are afraid to ask him about it. A discussion arises among them about who is the greatest, and Jesus uses a child as an example of humility and acceptance in his name. John reports that they saw someone casting out demons in Jesus' name."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Transfiguration",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The transfiguration is a miraculous event demonstrating Jesus' divine glory. The voice from heaven affirming Jesus as God's Son contributes to the positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The manifestation of divine glory evokes joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The voice from heaven inspires trust in Jesus."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The disciples are afraid of the cloud and the voice."
+        },
+        "Surprise": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The sudden transformation is surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The event foreshadows Jesus' future glory."
+        }
+      }
+    },
+    {
+      "topic": "The Healing of the Demonic Boy",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 90,
+        "reasoning": "The healing of the boy is a positive event, demonstrating Jesus' power and compassion. However, the initial state of the boy and the disciples' inability to heal him introduce negative elements."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The healing brings joy to the father and the crowd."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The healing reinforces trust in Jesus' power."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The boy's demonic possession evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "The sudden healing is surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The boy's suffering initially evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The symptoms of demonic possession could evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Jesus expresses anger at the faithless generation."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The healing foreshadows future acts of deliverance."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Prediction of His Betrayal",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The prediction of betrayal and death is inherently negative, as it foreshadows suffering and injustice."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The prediction challenges trust, as it suggests betrayal by someone close."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The prediction evokes fear of the future."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The prediction might be surprising to the disciples."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The prediction evokes sadness and grief."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The act of betrayal could evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The injustice of the betrayal could evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The prediction creates anxious anticipation of the future."
+        }
+      }
+    },
+    {
+      "topic": "The Disciples' Argument About Greatness",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "The argument about greatness reveals a lack of humility and understanding of Jesus' teachings. It has a slightly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The argument undermines trust among the disciples."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Surprise": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "A sense of disappointment might be present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "A sense of competition and rivalry could evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The argument reflects ambition and anticipation of future status."
+        }
+      }
+    },
+    {
+      "topic": "Casting out Demons in Jesus' Name",
+      "sentiment_polarity": {
+        "score": 0.5,
+        "confidence": 80,
+        "reasoning": "The casting out of demons in Jesus' name is generally positive, showing the power of his name. However, the disciples' concern introduces a slight element of uncertainty or jealousy."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The casting out of demons brings relief and joy."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The event reinforces trust in Jesus' name and power."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The presence of demons initially evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The success of someone outside the immediate group might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The presence of demons could evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Jealousy or resentment might be present."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "The event raises questions about the scope of Jesus' power and authority."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "26",
+    "segment_filename": "26_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the Gospel of Luke, chapter 1.",
+    "text_summary": "This passage recounts the announcements of the births of John the Baptist and Jesus. Zechariah, a priest, is visited by the angel Gabriel who tells him that his wife Elizabeth will conceive a son, John, who will prepare the way for the Lord. Zechariah doubts and is struck mute until John's birth. The passage then describes Gabriel's visit to Mary in Nazareth, where he announces that she will conceive Jesus, the Son of God. Mary questions how this is possible, and Gabriel explains that the Holy Spirit will come upon her. He also tells her about Elizabeth's miraculous pregnancy. Mary accepts the announcement. The passage emphasizes divine intervention, faith, and the fulfillment of God's promises."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Announcement of John the Baptist's Birth",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The announcement of a birth, especially to an elderly couple, is generally positive, with a slight negative element due to Zechariah's initial doubt."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The birth of a child is typically a joyous event, especially after a long period of barrenness."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The message is delivered by an angel, inspiring trust in its validity."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Encountering an angel can be awe-inspiring and potentially frightening."
+        },
+        "Surprise": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The announcement of a birth to an elderly couple is highly surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "A small amount of sadness might be present due to the couple's previous inability to conceive."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No element of disgust is present in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present in this context."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The announcement creates anticipation for the birth and the role John will play."
+        }
+      }
+    },
+    {
+      "topic": "Zechariah's Doubt and Punishment",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "Doubt is inherently negative in a religious context, especially when questioning a divine message, and the punishment reinforces this."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present in this context."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Zechariah's lack of trust is the central issue."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Punishment from a divine being evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Being struck mute is an unexpected consequence."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Zechariah's inability to speak brings sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present in this context."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Zechariah might feel a small amount of anger or frustration at his punishment."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There's a small amount of anticipation for when he will be able to speak again."
+        }
+      }
+    },
+    {
+      "topic": "The Announcement of Jesus' Birth",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The announcement of Jesus' birth is overwhelmingly positive, representing hope, salvation, and the fulfillment of prophecy."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The birth of Jesus is a source of immense joy and hope."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Mary places her trust in God's plan."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The encounter with an angel and the magnitude of the announcement can be overwhelming."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The announcement of a virgin birth is highly surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No sadness is present in this context."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present in this context."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The announcement creates immense anticipation for the arrival of the Messiah."
+        }
+      }
+    },
+    {
+      "topic": "Mary's Question and Acceptance",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "Mary's initial question reflects a natural human response, but her eventual acceptance demonstrates faith and submission."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "A sense of joy arises from accepting God's will."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Mary's acceptance demonstrates her trust in God."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The enormity of the task could induce some fear."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The initial announcement is highly surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "A small amount of sadness might be related to the societal implications."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present in this context."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Mary anticipates the future and her role in it."
+        }
+      }
+    },
+    {
+      "topic": "Elizabeth's Pregnancy as a Sign",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Elizabeth's miraculous pregnancy serves as a sign to Mary, reinforcing the possibility of the impossible and affirming God's power."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The pregnancy of Elizabeth is a joyous miracle."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "It reinforces trust in God's power and promises."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal fear, perhaps related to the unknown."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The pregnancy of an elderly woman is surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No sadness is present in this context."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present in this context."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "It creates anticipation for the birth of John and the fulfillment of prophecy."
+        }
+      }
+    }
+  ]
+}

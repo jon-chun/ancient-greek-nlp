@@ -1,0 +1,360 @@
+{
+  "segment_metadata": {
+    "segment_number": "134",
+    "segment_filename": "134_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from one of Paul's epistles, given the style and themes discussed. Based on the content, it is likely from Ephesians 4:17-5:2.",
+    "text_summary": "This passage contrasts the behavior of Gentiles, who are described as living in futility, darkened in their understanding, and alienated from God's life due to ignorance and hardness of heart, with the new life believers have in Christ. It urges believers to put off their old selves, which are corrupt according to deceitful desires, and to be renewed in the spirit of their minds, putting on the new self, created after God in righteousness and holiness. The text encourages truthfulness, righteous anger, avoiding giving the devil a foothold, honest labor, edifying speech, and avoiding grieving the Holy Spirit. It calls for kindness, tenderheartedness, and forgiveness, imitating God and walking in love as Christ loved us and gave himself up as a fragrant offering and sacrifice to God. It condemns sexual immorality, impurity, greed, and coarse jesting, and warns against being deceived by empty words, as God's wrath comes upon the disobedient. Believers are exhorted to walk as children of light, discerning what is pleasing to the Lord, and to avoid participation in the fruitless deeds of darkness, instead exposing them. It encourages wakefulness, wisdom, making the most of time, understanding God's will, being filled with the Spirit, speaking to one another in psalms, hymns, and spiritual songs, giving thanks always, and submitting to one another in the fear of Christ. Instructions are given regarding the roles of husbands and wives, emphasizing love and submission."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Gentile's Futile Way of Life",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "Describes a negative state of being: futility, darkness, alienation from God. The overall tone is critical and disapproving."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 70,
+          "reasoning": "Very little joy associated with this description as it is a negative portrayal."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Low trust, as the passage describes a state of being separated from God."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Fear of being in this state, and the consequences of being separated from God."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Possible surprise at the extent of the Gentiles' depravity."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Sadness at the state of separation from God and the consequences of their actions."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Disgust at the actions and state of being described."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Anger at the injustice and the separation from God."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Limited anticipation as the passage focuses on the current negative state."
+        }
+      }
+    },
+    {
+      "topic": "Putting off the Old Self and Putting on the New Self",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "This is a positive transformation, leaving behind corruption and embracing righteousness and holiness. Strong positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy at the prospect of transformation and a new life in Christ."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Trust in God's ability to transform and provide a new life."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some fear of failing to fully embrace the new self."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Surprise at the extent of the transformation possible."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal sadness, as the focus is on positive transformation."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust at the old self and the corruption it represents."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anger at the forces that kept the old self in bondage."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of the blessings and rewards of living in the new self."
+        }
+      }
+    },
+    {
+      "topic": "Living in Truth and Righteousness",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Emphasizes positive virtues like truthfulness, righteousness, and kindness, leading to a very positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy in living according to God's will and experiencing the blessings of righteousness."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's guidance and the benefits of following His commands."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear, as the focus is on positive actions and outcomes."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Possible surprise at the positive impact of living righteously."
+        },
+        "Sadness": {
+          "weight": 0.05,
+          "confidence": 20,
+          "reasoning": "Very little sadness associated with this topic."
+        },
+        "Disgust": {
+          "weight": 0.05,
+          "confidence": 20,
+          "reasoning": "Disgust at the opposite of these virtues, such as lying and wickedness."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Righteous anger at injustice and wickedness."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of the rewards and blessings of living in truth and righteousness."
+        }
+      }
+    },
+    {
+      "topic": "Avoiding Sinful Behavior",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "Focuses on negative behaviors like stealing, corrupt talk, bitterness, wrath, anger, clamor, slander, malice, sexual immorality, impurity, greed, and coarse jesting. Strong negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 20,
+          "reasoning": "No joy associated with sinful behaviors."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Lack of trust in those who engage in sinful behaviors."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear of the consequences of engaging in sinful behaviors."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the extent of sinful behaviors in the world."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness at the harm caused by sinful behaviors."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong disgust at the nature of the sinful behaviors described."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at the injustice and harm caused by sinful behaviors."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Little anticipation, as the focus is on avoiding negative behaviors."
+        }
+      }
+    },
+    {
+      "topic": "Imitating God and Walking in Love",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 95,
+        "reasoning": "This is a call to emulate God's love and Christ's sacrifice, representing the highest form of positive behavior. Extremely positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Joy in experiencing and expressing God's love."
+        },
+        "Trust": {
+          "weight": 0.95,
+          "confidence": 95,
+          "reasoning": "Complete trust in God's love and guidance."
+        },
+        "Fear": {
+          "weight": 0.05,
+          "confidence": 20,
+          "reasoning": "Minimal fear, as the focus is on love and trust."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Possible surprise at the depth and extent of God's love."
+        },
+        "Sadness": {
+          "weight": 0.05,
+          "confidence": 20,
+          "reasoning": "Very little sadness associated with this topic."
+        },
+        "Disgust": {
+          "weight": 0.05,
+          "confidence": 20,
+          "reasoning": "Disgust at the opposite of love, such as hatred and selfishness."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Righteous anger at anything that opposes God's love."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Anticipation of the blessings and rewards of walking in love."
+        }
+      }
+    },
+    {
+      "topic": "Husbands and Wives Relationship",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "Focuses on love, submission, and mutual respect within marriage, which is generally positive, although the concept of submission can be complex."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy in a loving and harmonious marriage relationship."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust between husband and wife."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Fear of failing to fulfill one's role in the marriage."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Surprise at the depth of connection in marriage."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sadness when there is conflict or disharmony in the marriage."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Disgust at behaviors that undermine the marriage relationship."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anger at injustice or disrespect within the marriage."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of a fulfilling and loving marriage relationship."
+        }
+      }
+    },
+    {
+      "topic": "Walking as Children of Light",
+      "sentiment_polarity": {
+        "score": 0.85,
+        "confidence": 90,
+        "reasoning": "The metaphor of 'light' is used to represent goodness, truth, and righteousness, creating a positive sentiment. It is about exposing darkness."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Joy in living according to truth and goodness."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Trust in God as the source of light and truth."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fear of the darkness and its influence."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 50,
+          "reasoning": "Surprise at the extent of darkness in the world."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness at the presence of darkness and sin."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Disgust at the deeds of darkness."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anger at the forces of darkness and their influence."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of the triumph of light over darkness."
+        }
+      }
+    }
+  ]
+}

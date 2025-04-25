@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "101",
+    "segment_filename": "101_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from Paul's letter to the Romans, specifically Romans 11 and 12.",
+    "text_summary": "This passage discusses the inclusion of Gentiles into God's covenant and the eventual salvation of Israel. It addresses the mystery of Israel's partial hardening until the fullness of the Gentiles comes in, followed by Israel's ultimate redemption. It emphasizes God's unchanging gifts and calling, highlighting the mercy shown to both Gentiles and Jews. The passage then transitions to practical exhortations for Christian living, urging believers to present their bodies as living sacrifices, to be transformed by the renewing of their minds, and to live in harmony with one another, exercising their spiritual gifts with humility and love. It stresses the importance of genuine love, abhorring evil, holding fast to good, and showing brotherly affection. It also encourages believers to rejoice in hope, be patient in tribulation, and be constant in prayer, extending hospitality and blessing those who persecute them. The passage concludes with instructions on living peaceably with all, not seeking revenge, and overcoming evil with good."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Grafting of Gentiles into God's Plan",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The grafting metaphor suggests a positive inclusion and integration into God's plan."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Inclusion brings joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's plan."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minor fear of being cut off."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the inclusion."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minor sadness for those excluded."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anticipation of future blessings."
+        }
+      }
+    },
+    {
+      "topic": "Salvation of Israel",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "The promise of Israel's salvation is a positive and hopeful message."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy at the prospect of salvation."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's promise."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No fear is present."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Mild surprise at the way salvation unfolds."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minor sadness for the current state."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anticipation of future redemption."
+        }
+      }
+    },
+    {
+      "topic": "God's Unchanging Gifts and Calling",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The immutability of God's gifts is reassuring and positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy from knowing God's gifts are secure."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High trust in God's unchanging nature."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No fear is present."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Anticipation of continued blessings."
+        }
+      }
+    },
+    {
+      "topic": "Living Sacrifice and Transformation",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The call to be a living sacrifice and be transformed is positive, though demanding. It reflects a positive change and devotion to God."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Joy in serving God."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the transformation process."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Fear of not measuring up."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise at the changes."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Sadness at past failings."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of becoming better."
+        }
+      }
+    },
+    {
+      "topic": "Humility and Love in Community",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The exhortation to humility and love is inherently positive and promotes harmony."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy in fellowship and love."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the community."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Fear of discord."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Surprise at acts of kindness."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Sadness at division."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of a harmonious community."
+        }
+      }
+    },
+    {
+      "topic": "Overcoming Evil with Good",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The principle of overcoming evil with good is a positive and transformative concept."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Joy in doing good."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in the power of good."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Fear of evil prevailing."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the effectiveness of good."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Sadness at the presence of evil."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Disgust at evil acts."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Anger at injustice."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of overcoming evil."
+        }
+      }
+    }
+  ]
+}

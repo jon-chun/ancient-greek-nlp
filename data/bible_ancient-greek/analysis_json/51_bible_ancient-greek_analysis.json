@@ -1,0 +1,410 @@
+{
+  "segment_metadata": {
+    "segment_number": "51",
+    "segment_filename": "51_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from the Gospel of Luke, based on the parables and teachings present.",
+    "text_summary": "This passage contains several teachings and parables of Jesus. It begins with a parable about shrewdness, followed by teachings on using worldly wealth wisely to gain eternal rewards. It emphasizes faithfulness in small things, contrasting it with unrighteousness. It warns against serving both God and wealth (Mammon). The Pharisees, who are portrayed as lovers of money, mock Jesus. He rebukes them, stating that what is valued by humans is detestable to God. The passage then speaks about the law and the prophets until John, and the kingdom of God being preached. It affirms the permanence of the law. Divorce and remarriage are condemned as adultery. The parable of the rich man and Lazarus follows, illustrating the reversal of fortunes in the afterlife, with the rich man suffering in Hades and Lazarus comforted in Abraham's bosom. The rich man's plea to warn his brothers is denied, as they already have Moses and the prophets. The passage concludes with a teaching on avoiding causing others to stumble and the importance of self-awareness."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Shrewdness in Worldly Matters",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 75,
+        "reasoning": "The parable encourages using worldly resources wisely, which carries a positive connotation, but the 'unrighteous mammon' aspect introduces some ambiguity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Implies satisfaction from clever management."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Suggests reliance on one's own abilities."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Potential fear of worldly failure."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The unexpected application of shrewdness to spiritual matters."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minor sadness about the corruptibility of worldly wealth."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Mild disgust at the 'unrighteous' nature of the wealth."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Slight anger at the unfairness of worldly systems."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of future rewards through wise use of resources."
+        }
+      }
+    },
+    {
+      "topic": "Faithfulness and Righteousness",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The emphasis on faithfulness and righteousness is inherently positive in a religious context."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Joy associated with being faithful and righteous."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong trust in God and his principles."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fear of failing to be faithful."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Not much surprise, as it's a core religious teaching."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sadness over the lack of faithfulness in the world."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust at unrighteousness."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anger at injustice and unfaithfulness."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of rewards for faithfulness."
+        }
+      }
+    },
+    {
+      "topic": "Serving God vs. Mammon",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 85,
+        "reasoning": "The contrast is stark, but the impossibility of serving both suggests a negative sentiment towards Mammon (wealth)."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Joy associated with serving God."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's provision."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of being seduced by wealth."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Not very surprising, as it's a common theme."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness over the allure of wealth."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Disgust at the worship of wealth."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at the injustice caused by wealth."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation of spiritual rewards for choosing God."
+        }
+      }
+    },
+    {
+      "topic": "Rejection of Jesus by Pharisees",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The Pharisees' mockery and rejection of Jesus indicates a strong negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Almost no joy, as it's a conflict."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Lack of trust between Jesus and the Pharisees."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Fear on the part of Jesus' followers, perhaps."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some surprise at the Pharisees' open hostility."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness at the rejection of Jesus."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Disgust at the Pharisees' hypocrisy."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger at the Pharisees' injustice."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Uncertainty about the future conflict."
+        }
+      }
+    },
+    {
+      "topic": "The Law and the Prophets",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 80,
+        "reasoning": "Affirming the Law and the Prophets carries a positive sentiment, especially within a religious context."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Joy in the continuity of God's word."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong trust in the divine origin of the Law and Prophets."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear, as it's an affirmation."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Little surprise, as it's foundational."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Sadness at those who disregard the Law and Prophets."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Disgust at the rejection of divine law."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Anger at those who disobey."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of the fulfillment of prophecies."
+        }
+      }
+    },
+    {
+      "topic": "Divorce and Adultery",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "Condemnation of divorce and remarriage as adultery is a strongly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No joy associated with adultery."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Lack of trust in relationships where adultery occurs."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear of the consequences of adultery."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal surprise, as it's a known sin."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Great sadness associated with broken vows and relationships."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong disgust at the act of adultery."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger at the betrayal and injustice of adultery."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Anticipation of negative consequences."
+        }
+      }
+    },
+    {
+      "topic": "Parable of the Rich Man and Lazarus",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The parable highlights suffering and inequity, leading to a negative sentiment overall, although there is eventual comfort for Lazarus."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Eventual joy for Lazarus in Abraham's bosom."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Trust in God's justice."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Fear of suffering in the afterlife."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Surprise at the reversal of fortunes."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Great sadness at the suffering of Lazarus and the rich man."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Disgust at the rich man's indifference."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at the injustice of the rich man's life."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation of divine justice."
+        }
+      }
+    },
+    {
+      "topic": "Warning Against Causing Others to Stumble",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 85,
+        "reasoning": "The strong warning against causing others to sin carries a negative sentiment due to the potential for harm and judgment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No joy associated with causing harm."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Lack of trust in someone who causes others to stumble."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Great fear of divine punishment."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal surprise, as it's a known sin."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Sadness at the harm caused to others."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Disgust at the act of leading others astray."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at the injustice of causing others to sin."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Anticipation of negative consequences for the offender."
+        }
+      }
+    }
+  ]
+}

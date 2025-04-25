@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "89",
+    "segment_filename": "89_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the Gospel of John, specifically chapters 20.",
+    "text_summary": "This passage recounts the events following Jesus' resurrection. Mary Magdalene discovers the empty tomb and encounters Jesus, initially mistaking him for a gardener. Upon recognizing him, she proclaims his resurrection to the disciples. Later, Jesus appears to the disciples, even though the doors are locked, and offers them peace. He shows them his wounds as proof. He commissions them to continue his work, granting them the power to forgive sins. Thomas, initially absent, doubts the resurrection until Jesus appears again and invites him to touch his wounds. Thomas then proclaims Jesus as Lord and God. Jesus blesses those who believe without seeing. The passage concludes by stating that these signs are written so that people may believe that Jesus is the Christ, the Son of God, and have life through his name."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Mary Magdalene's Discovery and Initial Grief",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 85,
+        "reasoning": "Initially negative due to grief and confusion, shifting to slightly positive after encountering the resurrected Jesus."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The joy of recognizing the resurrected Jesus is significant but follows initial grief."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trust in Jesus' words and identity grows as she recognizes him."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 80,
+          "reasoning": "Initial fear and confusion due to the empty tomb."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The appearance of Jesus is a major surprise."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Sadness over the missing body of Jesus initially."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "Minimal disgust, perhaps related to the violation of the tomb."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 80,
+          "reasoning": "Slight anger or frustration at the perceived theft of the body."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anticipation of understanding what happened."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Appearance and Gift of Peace",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "Jesus' appearance and offering of peace create a positive and comforting sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The disciples experience immense joy at seeing the resurrected Jesus."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Reaffirmation of trust in Jesus as their Lord and Savior."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "Fear is diminished by Jesus' presence and reassurance."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Surprise at Jesus' sudden appearance despite locked doors."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "Minimal sadness, as the focus is on the joy of the resurrection."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No disgust present in this interaction."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No anger present in this interaction."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of what Jesus will teach and command them to do."
+        }
+      }
+    },
+    {
+      "topic": "Commissioning of the Disciples and Forgiveness of Sins",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The commissioning of the disciples and the power to forgive sins carry a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Joy at being chosen and empowered by Jesus."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in Jesus' authority and the power he bestows."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of the responsibility given to them."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Surprise at the extent of the power they receive."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No disgust present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No anger present."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong anticipation of fulfilling their mission."
+        }
+      }
+    },
+    {
+      "topic": "Thomas's Doubt and Subsequent Belief",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 90,
+        "reasoning": "Initially negative due to doubt, shifting to positive after encountering Jesus."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Joy at Thomas's eventual belief and acceptance."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Reaffirmation of trust in Jesus' resurrection and identity."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Fear of disbelief and separation from the other disciples."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Surprise at Jesus' willingness to appear again for Thomas."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Sadness at Thomas's initial doubt."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No disgust present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Slight anger or frustration at Thomas's stubbornness."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of Thomas's response to seeing Jesus."
+        }
+      }
+    },
+    {
+      "topic": "Blessing of Those Who Believe Without Seeing",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Positive sentiment, emphasizing the value of faith without physical evidence."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy associated with the blessing and the reward of faith."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong emphasis on trust in Jesus' words and promises."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No fear present."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No sadness present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No disgust present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No anger present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of the blessings that come with faith."
+        }
+      }
+    },
+    {
+      "topic": "Purpose of the Written Account",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "Very positive sentiment, declaring the account's purpose to inspire belief and provide life."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The ultimate goal is joy and eternal life through belief."
+        },
+        "Trust": {
+          "weight": 0.95,
+          "confidence": 98,
+          "reasoning": "The text aims to build unwavering trust in Jesus."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No fear is intended."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No sadness is intended."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No disgust is intended."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No anger is intended."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Anticipation of the life promised through belief."
+        }
+      }
+    }
+  ]
+}

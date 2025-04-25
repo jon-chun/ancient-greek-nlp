@@ -1,0 +1,510 @@
+{
+  "segment_metadata": {
+    "segment_number": "1",
+    "segment_filename": "1_bible_ancient-greek.txt",
+    "text_identification": "This appears to be primarily from the New Testament, specifically the Gospel of Matthew. It includes the genealogy of Jesus, the birth narrative, teachings, miracles, parables, and events leading up to the crucifixion.",
+    "text_summary": "This text segment encompasses a wide range of narratives and teachings central to the Gospel of Matthew. It begins with the genealogy of Jesus, establishing his lineage. The narrative then shifts to the birth of Jesus, the visit of the Magi, and Herod's attempt to kill the infants in Bethlehem. John the Baptist's ministry and Jesus' baptism are described, followed by the temptation in the wilderness. Jesus begins his public ministry, calling disciples, performing miracles, and teaching through parables. Key teachings include the Sermon on the Mount, emphasizing love, forgiveness, and righteous living. The text also covers various miracles, demonstrating Jesus' divine power. The segment culminates with Jesus' entry into Jerusalem, the Last Supper, his betrayal by Judas, arrest, trial before Pilate, crucifixion, death, and resurrection. The Great Commission tasks the disciples with spreading the Gospel to all nations."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Genealogy of Jesus",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 70,
+        "reasoning": "The genealogy is a factual listing, not inherently evoking strong positive or negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Very minimal joy, mostly factual."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Establishes lineage, building trust."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No fear is present."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Potentially surprising lineage to some."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sets the stage for the narrative."
+        }
+      }
+    },
+    {
+      "topic": "Birth of Jesus and Herod's Response",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 80,
+        "reasoning": "The birth is positive, but Herod's violence introduces negativity, resulting in a slightly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The birth of the Messiah is a joyous event."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trust in God's plan being fulfilled."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Herod's actions generate fear and danger."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Miraculous birth is surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Infanticide is a sad event."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Herod's actions may evoke some disgust."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Herod's actions generate anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Wondering what will happen to Jesus and his family."
+        }
+      }
+    },
+    {
+      "topic": "John the Baptist's Ministry and Jesus' Baptism",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "John's ministry prepares the way, and Jesus' baptism affirms his divine sonship, resulting in a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Jesus' affirmation as the Son of God is a joyous event."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in God's plan."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No fear is present."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The dove and voice from heaven are surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation for Jesus' ministry."
+        }
+      }
+    },
+    {
+      "topic": "Temptation of Jesus",
+      "sentiment_polarity": {
+        "score": 0.5,
+        "confidence": 75,
+        "reasoning": "The temptation is a struggle against evil, but Jesus' victory is ultimately positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Jesus' victory is a joyous event."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Trust in Jesus' righteousness."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The power of the devil is frightening."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The devil's boldness is surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The struggle is somewhat sad."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The devil's temptations are disgusting."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The devil's actions generate anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Wondering if Jesus will resist."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Ministry, Miracles, and Teachings",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 90,
+        "reasoning": "Jesus' ministry, miracles, and teachings are overwhelmingly positive, offering hope, healing, and guidance."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Healing and hope are joyous."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Trust in Jesus' divine power and wisdom."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No fear is present."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Miracles are surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Compassion for the suffering."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Anger at injustice and suffering."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation for the Kingdom of God."
+        }
+      }
+    },
+    {
+      "topic": "Sermon on the Mount",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 90,
+        "reasoning": "The Sermon on the Mount contains teachings of love, forgiveness, and righteous living, which are inherently positive and uplifting."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "The beatitudes and promises of reward are joyous."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Trust in Jesus' wisdom and guidance."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Fear of judgment for wrong actions."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some teachings may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Recognition of human failings."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Anger at injustice and hypocrisy."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 80,
+          "reasoning": "Anticipation for a transformed life and world."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Entry into Jerusalem",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 80,
+        "reasoning": "The entry into Jerusalem is a triumphant event, but it also foreshadows the coming conflict, creating a mixed sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The crowds' praise is joyous."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Trust in Jesus as the Messiah."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Foreboding of the coming conflict."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The enthusiastic reception is surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Foreshadowing of the suffering to come."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust with the corruption in the temple."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anger at the injustice Jesus faces."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation for what will happen in Jerusalem."
+        }
+      }
+    },
+    {
+      "topic": "Last Supper and Betrayal",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 80,
+        "reasoning": "The Last Supper is solemn, but the betrayal casts a dark shadow, resulting in a mixed sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Remembrance of the good times with Jesus."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in Jesus' sacrifice."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The betrayal is frightening."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The betrayal is shocking."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The impending death is sad."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The betrayal is disgusting."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The betrayal generates anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of what will happen to Jesus."
+        }
+      }
+    },
+    {
+      "topic": "Trial, Crucifixion, and Death",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The trial, crucifixion, and death of Jesus are overwhelmingly negative events, marked by suffering, injustice, and loss."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No joy is present."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Trust in God's plan is tested."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "The suffering and death are frightening."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The injustice is somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The death is deeply sad."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The cruelty is disgusting."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "The injustice generates anger."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Anticipation of what will happen after death."
+        }
+      }
+    },
+    {
+      "topic": "Resurrection and Great Commission",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 95,
+        "reasoning": "The resurrection is the ultimate triumph over death and sin, and the Great Commission offers hope for the world."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "The resurrection is a joyous event."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Trust in God's power and promises."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No fear is present."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The resurrection is surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Sadness is overcome by joy."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Anger is overcome by hope."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 80,
+          "reasoning": "Anticipation for the spread of the Gospel."
+        }
+      }
+    }
+  ]
+}

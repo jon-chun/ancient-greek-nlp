@@ -1,0 +1,410 @@
+{
+  "segment_metadata": {
+    "segment_number": "103",
+    "segment_filename": "103_bible_ancient-greek.txt",
+    "text_identification": "New Testament, likely from the book of Romans.",
+    "text_summary": "This passage from the New Testament, likely Romans, focuses on themes of unity, acceptance, and the inclusion of Gentiles in God's plan. It emphasizes the importance of believers living in harmony, glorifying God together, and accepting one another as Christ accepted them. The text quotes from the Old Testament to demonstrate God's intention to extend salvation to both Jews and Gentiles. It also speaks of Paul's ministry to the Gentiles, his desire to visit Rome, and his upcoming trip to Jerusalem to deliver aid to the saints. The passage concludes with a call for prayer and a commendation of Phoebe, a deaconess."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Unity and Harmony",
+      "sentiment_polarity": {
+        "score": 0.75,
+        "confidence": 90,
+        "reasoning": "The emphasis on unity and mutual understanding contributes to a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The desire for unity suggests a positive emotional state."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The call for mutual understanding implies trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal fear is present."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Surprise is not a major factor."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Sadness is not a major factor."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not present."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of positive relationships."
+        }
+      }
+    },
+    {
+      "topic": "Acceptance of Others",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The act of accepting others as Christ accepted them has a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Acceptance leads to joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Acceptance requires trust."
+        },
+        "Fear": {
+          "weight": 0.05,
+          "confidence": 60,
+          "reasoning": "Minimal fear is present."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Surprise is not a major factor."
+        },
+        "Sadness": {
+          "weight": 0.05,
+          "confidence": 60,
+          "reasoning": "Minimal sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not present."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anticipation of positive outcomes."
+        }
+      }
+    },
+    {
+      "topic": "Inclusion of Gentiles",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "This topic has a positive sentiment because it reflects God's mercy and the glorification of God by the Gentiles."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Glorifying God brings joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's plan."
+        },
+        "Fear": {
+          "weight": 0.05,
+          "confidence": 60,
+          "reasoning": "Minimal fear is present."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The inclusion of Gentiles might have been surprising."
+        },
+        "Sadness": {
+          "weight": 0.05,
+          "confidence": 60,
+          "reasoning": "Minimal sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not present."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of God's continued work."
+        }
+      }
+    },
+    {
+      "topic": "Paul's Ministry",
+      "sentiment_polarity": {
+        "score": 0.75,
+        "confidence": 90,
+        "reasoning": "This topic has a positive sentiment because it reflects Paul's dedication to his ministry and his desire to spread the Gospel."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Spreading the Gospel brings joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in God's plan for his ministry."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "A slight concern for the challenges of ministry."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Surprise is not a major factor."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Sadness is not a major factor."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not present."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of spreading the Gospel."
+        }
+      }
+    },
+    {
+      "topic": "Generosity and Giving",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "This topic has a positive sentiment because it reflects the generosity of the Macedonian and Achaian churches."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Giving brings joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the importance of helping others."
+        },
+        "Fear": {
+          "weight": 0.05,
+          "confidence": 60,
+          "reasoning": "Minimal fear is present."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Surprise is not a major factor."
+        },
+        "Sadness": {
+          "weight": 0.05,
+          "confidence": 60,
+          "reasoning": "Minimal sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not present."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of the impact of their generosity."
+        }
+      }
+    },
+    {
+      "topic": "Prayer and Divine Will",
+      "sentiment_polarity": {
+        "score": 0.85,
+        "confidence": 95,
+        "reasoning": "This topic has a positive sentiment because it reflects the power of prayer and the desire for God's will to be done."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Prayer brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's power and will."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "A slight concern for the challenges."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Surprise is not a major factor."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Sadness is not a major factor."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of God's response to prayer."
+        }
+      }
+    },
+    {
+      "topic": "Commendation of Phoebe",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "This topic has a positive sentiment due to the commendation and recognition of Phoebe's service."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Recognizing Phoebe's service brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in Phoebe's dedication."
+        },
+        "Fear": {
+          "weight": 0.05,
+          "confidence": 60,
+          "reasoning": "Minimal fear is present."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Surprise is not a major factor."
+        },
+        "Sadness": {
+          "weight": 0.05,
+          "confidence": 60,
+          "reasoning": "Minimal sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not present."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anticipation of Phoebe's continued service."
+        }
+      }
+    },
+    {
+      "topic": "Mutual Edification",
+      "sentiment_polarity": {
+        "score": 0.75,
+        "confidence": 85,
+        "reasoning": "The text mentions the ability of believers to edify one another, which carries a positive connotation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Edification leads to a positive emotional state."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Edification requires trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear is present."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Surprise is not a major factor."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Sadness is not a major factor."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not present."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 65,
+          "reasoning": "Anticipation of positive growth."
+        }
+      }
+    }
+  ]
+}

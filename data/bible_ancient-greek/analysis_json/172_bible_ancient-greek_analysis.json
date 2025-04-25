@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "172",
+    "segment_filename": "172_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely 1 Peter, based on the themes and language.",
+    "text_summary": "This passage encourages believers to abandon malice and embrace spiritual nourishment. It speaks of Jesus as the living stone, rejected by humans but chosen by God, and believers as living stones built into a spiritual house. It emphasizes their identity as a chosen people, a royal priesthood, and a holy nation, called out of darkness into light. The passage urges them to abstain from fleshly lusts, maintain good conduct among Gentiles, and submit to earthly authorities. It also addresses the suffering of Christ as an example, and instructs wives to submit to their husbands and husbands to treat their wives with respect. Finally, it calls for unity, compassion, and humility among believers, urging them to bless rather than retaliate, and to sanctify Christ in their hearts, being ready to give an account of their hope."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Abandoning Malice and Embracing Spiritual Nourishment",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The call to abandon negative traits and embrace spiritual nourishment is inherently positive, promoting growth and purity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The prospect of spiritual growth and purity brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "There is a strong emphasis on trusting in the process of spiritual development."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Fear of straying from the path is present, but minimal."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The transformation from malice to nourishment can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Sadness over past transgressions might motivate the change."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Disgust for negative traits is a motivator to abandon them."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 65,
+          "reasoning": "Anger towards the self for past malice is possible."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of a better spiritual state is a key driver."
+        }
+      }
+    },
+    {
+      "topic": "Jesus as the Living Stone",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "The description of Jesus as a living stone, chosen by God, is highly positive and central to Christian theology."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The presence of Jesus as the cornerstone brings immense joy."
+        },
+        "Trust": {
+          "weight": 0.95,
+          "confidence": 95,
+          "reasoning": "Complete trust is placed in Jesus as the foundation."
+        },
+        "Fear": {
+          "weight": 0.05,
+          "confidence": 60,
+          "reasoning": "Minimal fear, as faith overcomes it."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The unexpected nature of God's choice might bring slight surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Sadness over Jesus' rejection by some is present."
+        },
+        "Disgust": {
+          "weight": 0.05,
+          "confidence": 50,
+          "reasoning": "Disgust at those who reject Jesus."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Righteous anger at those who rejected the cornerstone."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of salvation and a relationship with Jesus."
+        }
+      }
+    },
+    {
+      "topic": "Chosen People and Royal Priesthood",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 97,
+        "reasoning": "The concept of being chosen by God and belonging to a royal priesthood is highly positive and empowering."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.85,
+          "confidence": 92,
+          "reasoning": "The identity of being chosen and part of a royal priesthood brings great joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's plan and purpose is central to this identity."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 65,
+          "reasoning": "Fear of not living up to the calling is possible."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The unexpected nature of being chosen can bring surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "Sadness over past unworthiness might be present."
+        },
+        "Disgust": {
+          "weight": 0.05,
+          "confidence": 50,
+          "reasoning": "Disgust at the thought of rejecting this calling."
+        },
+        "Anger": {
+          "weight": 0.05,
+          "confidence": 50,
+          "reasoning": "Anger towards forces that try to undermine this identity."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of fulfilling the role of chosen people."
+        }
+      }
+    },
+    {
+      "topic": "Submission to Authority",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "Submission to authority is presented as a positive duty, but can also carry negative connotations depending on the nature of the authority."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Joy in fulfilling one's duty and contributing to order."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in the system and the benefits of order and governance."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear of punishment or chaos if authority is not respected."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Surprise at unexpected outcomes from submission."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sadness at the limitations imposed by submission."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust at corrupt or unjust authority."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anger at abusive authority."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of positive outcomes from obedience."
+        }
+      }
+    },
+    {
+      "topic": "Christ's Suffering as an Example",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 80,
+        "reasoning": "While suffering is inherently negative, it's presented as a model for endurance and righteousness, giving it a complex sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal joy in suffering itself, but joy in the ultimate outcome."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Trust in God's plan and the purpose of suffering."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear of suffering and the unknown."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at the extent of Christ's suffering."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Profound sadness over the suffering of Christ."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust at the injustice of Christ's suffering."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anger at the forces that caused Christ's suffering."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anticipation of redemption and salvation through Christ's suffering."
+        }
+      }
+    },
+    {
+      "topic": "Unity, Compassion, and Humility",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The call for unity, compassion, and humility is overwhelmingly positive, promoting harmony and love."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy in fellowship and harmonious relationships."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in the power of unity and compassion."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Fear of division and conflict."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Surprise at the positive impact of humility."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Sadness over past divisions and lack of compassion."
+        },
+        "Disgust": {
+          "weight": 0.05,
+          "confidence": 40,
+          "reasoning": "Disgust at selfishness and pride."
+        },
+        "Anger": {
+          "weight": 0.05,
+          "confidence": 40,
+          "reasoning": "Anger at forces that promote division."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of a harmonious and loving community."
+        }
+      }
+    }
+  ]
+}

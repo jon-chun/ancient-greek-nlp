@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "54",
+    "segment_filename": "54_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from the Gospel of Luke, containing accounts of Jesus's ministry.",
+    "text_summary": "This segment begins with a prediction of Jesus's death and resurrection, which the disciples do not understand. It then recounts the healing of a blind man near Jericho who calls out to Jesus for mercy and is healed through his faith. The crowd praises God. Next, it tells the story of Zacchaeus, a wealthy tax collector, who climbs a tree to see Jesus. Jesus invites himself to Zacchaeus's house, causing grumbling among the people. Zacchaeus repents and promises to give to the poor and repay those he has defrauded. Jesus declares that salvation has come to Zacchaeus's house. Finally, Jesus tells a parable about a nobleman who entrusts money to his servants before going away to receive a kingdom. Upon his return, he rewards the faithful servants and punishes the unfaithful one. The parable ends with a statement about taking away from those who do not have and a threat to the nobleman's enemies."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Prediction of Jesus's death and resurrection, disciples' lack of understanding",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 80,
+        "reasoning": "The prediction of death is negative, but the resurrection is positive. The disciples' lack of understanding adds confusion. Overall, a slightly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Low because the resurrection is in the future."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Low because the disciples don't understand."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of death."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Disciples' lack of understanding."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "Prediction of death."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Not applicable."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Possible frustration of Jesus."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Anticipation of resurrection."
+        }
+      }
+    },
+    {
+      "topic": "Healing of the blind man",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "This is a positive event, as the blind man is healed through faith. The crowd's praise reinforces this positivity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Overwhelming joy at being healed."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The blind man's faith and trust in Jesus."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The miraculous nature of the healing."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Residual sadness from being blind."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anticipation of a better life."
+        }
+      }
+    },
+    {
+      "topic": "Zacchaeus's conversion",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 95,
+        "reasoning": "This is a very positive event. Zacchaeus repents, promises restitution, and Jesus declares salvation has come to his house."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Joy of salvation and forgiveness."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Zacchaeus's faith and Jesus's acceptance."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Possible fear of judgment."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Unexpected visit and transformation."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Remorse for past sins."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Possible self-disgust for past actions."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Anger from those who disapprove of Jesus's actions."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of a new life."
+        }
+      }
+    },
+    {
+      "topic": "Parable of the talents/minas",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 85,
+        "reasoning": "Mixed sentiment. The rewarding of faithful servants is positive, but the punishment of the unfaithful servant and the threat to enemies are negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Joy of the rewarded servants."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trust in the nobleman's judgment."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear of punishment for the unfaithful and enemies."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the different outcomes."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness for the punished servant."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Disgust for the unfaithful servant's actions."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anger of the nobleman towards the unfaithful servant and enemies."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of the nobleman's return and judgment."
+        }
+      }
+    }
+  ]
+}

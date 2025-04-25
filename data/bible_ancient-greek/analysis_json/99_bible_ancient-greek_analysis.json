@@ -1,0 +1,160 @@
+{
+  "segment_metadata": {
+    "segment_number": "99",
+    "segment_filename": "99_bible_ancient-greek.txt",
+    "text_identification": "New Testament, likely Romans 9.",
+    "text_summary": "This passage explores themes of suffering, divine love, and God's sovereignty in choosing Israel. It begins with the author expressing deep sorrow for his Jewish brethren, even wishing to be accursed for their sake. The text affirms God's love, which cannot be overcome by any force. It then delves into the complex relationship between Israel and God's promises, asserting that not all who are descended from Israel are truly Israel. God's election is based on His own purpose, not on works. The passage uses examples from the Old Testament (Isaac, Jacob and Esau, Moses, Pharaoh) to illustrate God's freedom and authority in choosing whom to show mercy and whom to harden. It concludes by emphasizing God's right to shape humanity as a potter shapes clay, preparing some for wrath and others for glory, including both Jews and Gentiles. The remnant of Israel will be saved."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Suffering and Hope",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 75,
+        "reasoning": "The overall sentiment is complex, containing both sorrow and hope. While there's a strong sense of lament for Israel's current state, there's also an underlying affirmation of God's love and ultimate plan, leading to a slightly positive overall score."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The joy is subdued but present in the hope of salvation and God's ultimate plan."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Strong trust in God's plan and sovereignty is a central theme."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear is present in the discussion of God's wrath and judgment."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "There's a slight element of surprise in the unexpected turn of events regarding Israel's relationship with God."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The author expresses deep sorrow and lament for his people."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "A slight sense of disgust with the current state of affairs."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some anger towards the situation, but it's directed more at the problem than at God."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation for the fulfillment of God's promises and the salvation of the remnant."
+        }
+      }
+    },
+    {
+      "topic": "Divine Love in Christ",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The topic of divine love expressed through Christ is overwhelmingly positive, emphasizing the unbreakable bond between God and believers."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The love of God brings immense joy and fulfillment."
+        },
+        "Trust": {
+          "weight": 0.95,
+          "confidence": 98,
+          "reasoning": "Complete trust in the unwavering nature of God's love."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No fear associated with divine love."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal surprise, as God's love is consistent."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No sadness associated with divine love in this context."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No disgust associated with divine love."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No anger associated with divine love."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation for the continued experience of God's love."
+        }
+      }
+    },
+    {
+      "topic": "God's Sovereignty and Election",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 70,
+        "reasoning": "The concept of God's sovereignty and election involves both positive and negative aspects. While it affirms God's power and purpose, it also raises questions about fairness and justice, resulting in a neutral sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Limited joy, as the topic is complex and potentially unsettling."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in God's ultimate wisdom and purpose."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Fear of the potential consequences of God's sovereign choices."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Surprise at the seemingly arbitrary nature of God's election."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some sadness related to the exclusion of some from God's favor."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal disgust, but some discomfort with the idea of predestination."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some anger towards the apparent unfairness of God's choices."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation for the ultimate resolution of God's plan."
+        }
+      }
+    }
+  ]
+}

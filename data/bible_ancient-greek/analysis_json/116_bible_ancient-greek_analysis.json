@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "116",
+    "segment_filename": "116_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from one of Paul's letters, specifically dealing with the resurrection of Christ and its implications.",
+    "text_summary": "This passage discusses the resurrection of Christ as the foundation of Christian hope. It argues that if Christ had not been raised, then believers are to be pitied. However, Christ *has* been raised, making him the firstfruits of those who have died. Death came through Adam, but resurrection comes through Christ. All will be made alive in Christ, each in their own order: Christ first, then those who belong to him at his coming. Christ will reign until he has put all enemies under his feet, the last enemy being death itself. Eventually, even Christ will be subject to God, so that God may be all in all. The passage then questions the practice of baptism for the dead if the dead are not raised. Paul affirms his own daily facing of death for the sake of the gospel. It warns against being deceived and encourages righteous living, as some are ignorant of God. Finally, it addresses the question of how the dead are raised and with what kind of body, using the analogy of a seed that must die to produce a new plant, and explaining the different kinds of bodies, both earthly and heavenly, culminating in the description of the resurrected body as imperishable, glorious, powerful, and spiritual."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Christ's Resurrection",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "The resurrection is a central, positive event in Christian theology, representing hope and victory over death."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The resurrection is a source of immense joy for believers."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "It strengthens trust in God's promises."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Diminishes fear of death."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "A miraculous event."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Lessens sorrow over death."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Not applicable."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Not applicable."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Looks forward to future resurrection."
+        }
+      }
+    },
+    {
+      "topic": "Death and Mortality",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "Death is presented as a negative consequence of sin, but also as something overcome by Christ."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Limited joy in the context of death itself, but joy in overcoming it."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Trust that death is not the end."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Death is inherently fearful."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Death can be unexpected."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Death causes grief and sorrow."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Death can be seen as unpleasant."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anger at the injustice of death."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of overcoming death."
+        }
+      }
+    },
+    {
+      "topic": "Reign of Christ and Subjection to God",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "This describes a hierarchical relationship, but one ultimately aimed at unity and God being 'all in all.'"
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Joy in the ultimate victory and unity."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's plan."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal fear, as it describes God's ultimate plan."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The exact nature of the subjection might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Not applicable."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Not applicable."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of the fulfillment of God's plan."
+        }
+      }
+    },
+    {
+      "topic": "Baptism for the Dead",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 75,
+        "reasoning": "This is a questioning of a practice, implying uncertainty or concern."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal joy, as it's a questioning."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some trust in the practice, but also doubt."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear that the practice might be meaningless."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Surprise at the practice itself."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sadness if the practice is in vain."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Slight disgust if the practice is superstitious."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Slight anger if the practice is misleading."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Anticipation of understanding the practice."
+        }
+      }
+    },
+    {
+      "topic": "The Nature of the Resurrected Body",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "This describes a glorious transformation, moving from perishable to imperishable, weak to powerful."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The description evokes joy and hope."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's power to transform."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear, as it describes a positive transformation."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The transformation is miraculous and surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 70,
+          "reasoning": "Not applicable."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 70,
+          "reasoning": "Not applicable."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Eager anticipation of the resurrected body."
+        }
+      }
+    }
+  ]
+}

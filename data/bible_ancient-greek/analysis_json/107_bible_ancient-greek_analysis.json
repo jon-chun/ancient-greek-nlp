@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "107",
+    "segment_filename": "107_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically 1 Corinthians, chapters 3 and 4.",
+    "text_summary": "This passage emphasizes the roles of different individuals in spreading the Gospel, using the analogy of planting and watering seeds, where God is the one who causes growth. It stresses that all laborers are united in purpose and will be rewarded according to their efforts. The passage highlights the church as God's building and warns against building on the foundation of Christ with inferior materials, as each person's work will be tested. It underscores the importance of the church as the temple of God and warns against its defilement. The passage also cautions against worldly wisdom and boasting, emphasizing that everything belongs to believers in Christ, who in turn belong to Christ, and Christ to God. Finally, it discusses the role of apostles as servants of Christ and stewards of God's mysteries, stressing faithfulness and humility, and urging believers to imitate Paul's example. It also addresses issues of division and pride within the Corinthian church, contrasting their perceived wisdom and strength with the apostles' suffering and humility."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Roles in Spreading the Gospel",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 80,
+        "reasoning": "The analogy of planting and watering suggests a positive sentiment reflecting growth, tempered by God being the ultimate source."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Reflects the joy of seeing growth and progress."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Emphasizes trust in God's ability to bring about growth."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear, perhaps related to the possibility of failure."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at the unexpected ways God brings about growth."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness, related to the possibility of failed efforts."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No disgust present in this analogy."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No anger present in this analogy."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of the harvest and the results of the labor."
+        }
+      }
+    },
+    {
+      "topic": "The Church as God's Temple",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "The warning against defiling the temple of God carries a negative sentiment due to the consequences, while the holiness adds positivity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal joy, perhaps related to the holiness of the temple."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trust in the sanctity and protection of God's temple."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High fear due to the threat of destruction and God's judgment."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Surprise at the severity of the consequences."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Sadness related to the potential for destruction and loss."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "Disgust towards those who would defile the temple."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anger towards those who defile the temple and the injustice of the act."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Minimal anticipation, perhaps related to the expectation of judgment."
+        }
+      }
+    },
+    {
+      "topic": "Worldly vs. Divine Wisdom",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "Condemnation of worldly wisdom carries a negative sentiment, while emphasis on true wisdom from God brings a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Minimal joy, perhaps related to the promise of true wisdom."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trust in God's wisdom as superior to worldly wisdom."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Fear of being deceived by worldly wisdom and its consequences."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Surprise at the reversal of worldly values in God's eyes."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Sadness related to the deception of worldly wisdom."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Disgust towards worldly wisdom and its foolishness."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "Anger towards the deception and harm caused by worldly wisdom."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anticipation of gaining true wisdom from God."
+        }
+      }
+    },
+    {
+      "topic": "Imitating Paul's Example",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The call to imitate Paul carries a positive sentiment, encouraging believers to follow a virtuous example."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Joy in striving to emulate a virtuous example."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Trust in Paul's example as a guide to living a Christ-like life."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear, perhaps related to the difficulty of living up to the example."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Surprise at the unexpected ways God works through individuals."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness, related to the potential for failure in following the example."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No disgust present in this call to imitation."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No anger present in this call to imitation."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of growing closer to Christ by following Paul's example."
+        }
+      }
+    },
+    {
+      "topic": "Unity and Division in the Church",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The overall sentiment is positive due to the emphasis on God's grace and belonging to Christ but tempered by warnings and rebukes regarding division."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The passage speaks of rewards and belonging to Christ, inspiring joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Strong emphasis on trusting God's plan and faithfulness."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Warnings about judgment and defiling the temple evoke some fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The nature of God's judgment and the unexpected reversal of worldly wisdom can bring surprise."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "The passage mentions suffering and the potential for loss, which can evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There's a mild sense of disgust towards worldly wisdom and pride."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "There's a subtle anger towards those who defile the temple and boast in worldly wisdom."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Looking forward to the judgment and rewards creates anticipation."
+        }
+      }
+    }
+  ]
+}

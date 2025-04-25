@@ -1,0 +1,360 @@
+{
+  "segment_metadata": {
+    "segment_number": "177",
+    "segment_filename": "177_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely containing excerpts from 2 Peter and 1 John.",
+    "text_summary": "This text segment addresses the importance of living a life pleasing to God, warning against false teachings and urging believers to grow in grace and knowledge of Jesus Christ. It emphasizes the divine nature of Jesus, highlighting that He was seen, heard, and touched. The text speaks of fellowship with God and with one another, asserting that God is light and there is no darkness in Him. Confessing sins is crucial for cleansing and forgiveness. The passage also encourages believers not to sin, but if they do, they have an advocate in Jesus Christ. Overall, it encourages a life of truth, fellowship, and reliance on Christ's atoning sacrifice."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Warning Against False Teachings and Instability",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 85,
+        "reasoning": "The text warns against being led astray, which has a negative connotation, but it aims to protect believers, giving it a slightly positive intent."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Indirectly, the warning aims at future joy by avoiding error."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The warning relies on the reader's trust in the author's guidance."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The warning evokes fear of being led astray and falling from steadfastness."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The false teachings might be presented as surprising or novel."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Falling from steadfastness can lead to sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "False teachings are presented as something to be disgusted by."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The author might feel anger towards those spreading false teachings."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The warning anticipates the potential negative consequences of following false teachings."
+        }
+      }
+    },
+    {
+      "topic": "Growth in Grace and Knowledge of Jesus Christ",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "This topic is inherently positive, encouraging spiritual development and a deeper relationship with Jesus."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Growth in grace and knowledge is associated with joy and fulfillment."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "This growth requires trust in Jesus and His teachings."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear, as growth is seen as a positive process."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "New insights and revelations can bring surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal sadness, as growth is a positive experience."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "No disgust is associated with spiritual growth."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "No anger is associated with spiritual growth."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Growth anticipates a deeper and more fulfilling relationship with Jesus."
+        }
+      }
+    },
+    {
+      "topic": "Jesus as the Word of Life (Seen, Heard, Touched)",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "This emphasizes the tangible reality of Jesus's presence and the authority of the eyewitnesses, which is a very positive affirmation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Witnessing the Word of Life brings immense joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The testimony inspires deep trust in Jesus."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No fear is associated with this affirmation."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The revelation of Jesus as the Word of Life can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No sadness is associated with this affirmation."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No disgust is associated with this affirmation."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No anger is associated with this affirmation."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "This affirmation anticipates a future life with Jesus."
+        }
+      }
+    },
+    {
+      "topic": "Fellowship with God and Believers",
+      "sentiment_polarity": {
+        "score": 0.85,
+        "confidence": 92,
+        "reasoning": "Fellowship is presented as a desirable and positive state, emphasizing unity and shared faith."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Fellowship brings joy and connectedness."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Fellowship is built on trust and shared values."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear in the context of fellowship."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Fellowship can bring unexpected connections."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness in the context of fellowship."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No disgust is associated with fellowship."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No anger is associated with fellowship."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Fellowship anticipates continued support and encouragement."
+        }
+      }
+    },
+    {
+      "topic": "God is Light, No Darkness in Him",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 97,
+        "reasoning": "This is a strong affirmation of God's pure and righteous nature, a very positive statement."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "God's light brings joy and hope."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "This affirmation inspires deep trust in God's goodness."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear in the context of God's light."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal surprise, as this is a core belief."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No sadness is associated with God's light."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No disgust is associated with God's light."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No anger is associated with God's light."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "This affirmation anticipates a future life in God's light."
+        }
+      }
+    },
+    {
+      "topic": "Confession of Sins and Forgiveness through Jesus",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "While the topic involves sin, the emphasis is on forgiveness and cleansing, making it overall positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Forgiveness brings joy and relief."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "This relies on trust in God's faithfulness and justice."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear of judgment is present but mitigated by the promise of forgiveness."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The extent of God's forgiveness can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Confession involves acknowledging past sins, which can bring sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sin can be seen as something disgusting."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anger towards oneself for committing sin might be present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Confession anticipates cleansing and a restored relationship with God."
+        }
+      }
+    },
+    {
+      "topic": "Jesus as Advocate and Atoning Sacrifice",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "This topic is overwhelmingly positive, highlighting Jesus's role in interceding for believers and atoning for their sins."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Knowing Jesus is our advocate brings immense joy and comfort."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "This relies on deep trust in Jesus's love and power."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear, as Jesus provides protection and atonement."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal surprise, as this is a core belief."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness, as Jesus offers hope and redemption."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No disgust is associated with Jesus's role."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No anger is associated with Jesus's role."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "This anticipates eternal life and fellowship with God through Jesus."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "60",
+    "segment_filename": "60_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from one of the Gospels, specifically dealing with the arrest, trial, and denial of Jesus. Luke's Gospel is the most probable source.",
+    "text_summary": "This passage recounts several key events surrounding Jesus's arrest and the immediate aftermath. It begins with Jesus rebuking his disciples for sleeping and warning them to pray to avoid temptation. Judas betrays Jesus with a kiss. One of Jesus's followers wounds a servant of the high priest, but Jesus heals him. Jesus is then arrested by the temple guards and taken to the high priest's house, while Peter follows at a distance. Inside the courtyard, Peter denies knowing Jesus three times, culminating in the rooster's crow and Jesus's gaze. The guards mock and beat Jesus. The Jewish leaders then bring Jesus before Pilate, accusing him of misleading the nation, forbidding the payment of taxes to Caesar, and claiming to be a king. Pilate questions Jesus, then sends him to Herod. Herod mocks Jesus and sends him back to Pilate. Pilate declares Jesus innocent but ultimately yields to the crowd's demand to release Barabbas and crucify Jesus."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Jesus's warning and Judas's betrayal",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The betrayal is negative, but Jesus's warning is intended to be helpful, creating a slightly negative overall sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present in this scene."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Betrayal destroys trust."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The disciples are facing a dangerous situation."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The betrayal is unexpected."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Betrayal and impending doom bring sadness."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The act of betrayal is disgusting."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "There's anger at the betrayal and injustice."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "There is anticipation of what will happen next."
+        }
+      }
+    },
+    {
+      "topic": "Jesus's arrest and healing of the servant",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "The arrest is negative, but the healing is a positive act, creating a slightly negative overall sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present in this scene."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Trust is broken by the arrest."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "Jesus's followers are afraid of the consequences."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The sudden violence and arrest are surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "The arrest and violence bring sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Violence and injustice can be disgusting."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "There's anger at the unjust arrest."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "There is anticipation of what will happen next."
+        }
+      }
+    },
+    {
+      "topic": "Peter's denial",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "Denial is a negative act, indicating a lack of courage and loyalty."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present in this scene."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Peter's denial destroys trust."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Peter is driven by fear of association with Jesus."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The rooster's crow might be a surprise."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Peter's denial and realization of his failure bring sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Self-disgust at his own cowardice."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Peter might be angry at himself."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal anticipation, as it's a moment of immediate crisis."
+        }
+      }
+    },
+    {
+      "topic": "Mocking and beating of Jesus",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "This is a purely negative event, showcasing cruelty and injustice."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No joy here."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Complete absence of trust."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Jesus is likely experiencing fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The extent of the brutality might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Extreme sadness at the suffering of Jesus."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The cruelty is disgusting."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Intense anger at the injustice and brutality."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Anticipation of further suffering."
+        }
+      }
+    },
+    {
+      "topic": "Jesus before Pilate and Herod",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 85,
+        "reasoning": "Accusations and political maneuvering create a negative sentiment, even though Pilate finds no fault."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present in this scene."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Lack of trust in the legal process."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Jesus is in a dangerous situation."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Herod's reaction might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The unjust accusations bring sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The political manipulation is distasteful."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "There's anger at the unjust accusations."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "There is anticipation of the verdict."
+        }
+      }
+    },
+    {
+      "topic": "The crowd's demand for crucifixion",
+      "sentiment_polarity": {
+        "score": -0.95,
+        "confidence": 99,
+        "reasoning": "The crowd's demand for crucifixion is a highly negative event, signifying injustice and mob rule."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No joy is present in this scene."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Complete absence of trust in the crowd."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The disciples and followers would be terrified."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The vehemence of the crowd might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Overwhelming sadness at the impending crucifixion."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The mob mentality is disgusting."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Intense anger at the injustice and cruelty of the crowd."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal anticipation, as the outcome is almost certain."
+        }
+      }
+    }
+  ]
+}

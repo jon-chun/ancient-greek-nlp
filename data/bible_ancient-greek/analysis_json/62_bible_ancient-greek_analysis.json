@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "62",
+    "segment_filename": "62_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from the Gospel of Luke, specifically the account of the resurrection of Jesus and the encounter on the road to Emmaus.",
+    "text_summary": "This passage describes the discovery of Jesus' empty tomb by women who had come to anoint his body with spices. They are met by angels who announce that Jesus has risen. The women report this to the apostles, who initially disbelieve them. Peter investigates and finds the tomb empty. The passage then shifts to the story of two disciples walking to Emmaus, who are joined by the resurrected Jesus, though they do not recognize him. He explains the scriptures to them, and they finally recognize him when he breaks bread with them. The overall theme is the resurrection of Jesus, the initial disbelief of the disciples, and the gradual revelation of Jesus' identity to his followers."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Empty Tomb",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The discovery of the empty tomb is a pivotal event signifying the miracle of resurrection, leaning towards a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Joy is present, but subdued, as the full impact is yet to be realized."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Trust in God's plan begins to emerge."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Initial fear and uncertainty are prominent."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The unexpectedness of the empty tomb is a major element."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Sadness over Jesus' death is still present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant to this event."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not relevant to this event."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of what this means is growing."
+        }
+      }
+    },
+    {
+      "topic": "Disbelief of the Apostles",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 80,
+        "reasoning": "The apostles' initial disbelief introduces a negative sentiment, reflecting their lack of faith and understanding."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present in their disbelief."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Lack of trust in the women's testimony."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Fear of being deceived could be a factor."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Surprise at the news is a key emotion."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness over Jesus' death contributes to their disbelief."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not relevant here."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some anticipation, but overshadowed by disbelief."
+        }
+      }
+    },
+    {
+      "topic": "Road to Emmaus Encounter",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "This encounter is a gradual revelation leading to understanding and joy, resulting in a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy upon recognizing Jesus."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in Jesus as the Messiah is restored."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Surprise at recognizing Jesus."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Initial sadness over Jesus' death."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not relevant here."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation as Jesus explains the scriptures."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Explanation of Scripture",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "Jesus' explanation of scripture brings understanding and hope, it's a positive and enlightening act."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Joy from understanding God's plan."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Increased trust in Jesus and the scriptures."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Fear is not relevant."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some surprise at the new understanding."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Sadness diminishes as understanding grows."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not relevant."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of the revelation to come."
+        }
+      }
+    }
+  ]
+}

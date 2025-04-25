@@ -1,0 +1,410 @@
+{
+  "segment_metadata": {
+    "segment_number": "193",
+    "segment_filename": "193_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the Book of Revelation in the New Testament.",
+    "text_summary": "This passage describes the actions of a beast that performs great signs, deceiving people and causing them to worship an image of the beast. Those who refuse to worship the image are killed. The beast also marks people on their right hand or forehead, preventing them from buying or selling without the mark, which is the name or number of the beast. The number of the beast is 666. Then, the Lamb stands on Mount Zion with 144,000 who have his name and his Father's name on their foreheads. They sing a new song that only they can learn. These are those who have not defiled themselves with women and are without falsehood. An angel proclaims the eternal gospel to all nations, calling them to fear God and worship the Creator. Another angel announces the fall of Babylon. A third angel warns against worshiping the beast or its image, stating that those who do will suffer eternal torment. This calls for the endurance of the saints, who keep God's commandments and the faith of Jesus. A voice from heaven declares blessed are the dead who die in the Lord. Finally, a white cloud appears with someone like the Son of Man, wearing a golden crown and holding a sharp sickle."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Beast's Deception and Image Worship",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The description of the beast deceiving people and forcing them to worship an image is overwhelmingly negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 70,
+          "reasoning": "Minimal joy is present; it's primarily a depiction of oppression."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There's an element of misplaced trust by those deceived by the beast."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The threat of death for non-compliance generates significant fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The sudden appearance and power of the beast could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The persecution and death of those who refuse to worship the beast evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The actions of the beast and the forced worship are morally repugnant."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 92,
+          "reasoning": "The injustice and oppression caused by the beast incite anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "There's anticipation of the consequences of either worshiping or refusing to worship the beast."
+        }
+      }
+    },
+    {
+      "topic": "The Mark of the Beast (666)",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "The mark is associated with oppression, control, and spiritual corruption, making it highly negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.01,
+          "confidence": 50,
+          "reasoning": "No joy is associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.05,
+          "confidence": 40,
+          "reasoning": "No trust is intended, rather manipulation."
+        },
+        "Fear": {
+          "weight": 0.95,
+          "confidence": 99,
+          "reasoning": "The mark represents spiritual danger and exclusion, causing intense fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The concept of a physical mark with spiritual implications can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The consequences of not having the mark, such as being unable to buy or sell, are deeply saddening."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The mark is a symbol of allegiance to evil, eliciting strong disgust."
+        },
+        "Anger": {
+          "weight": 0.85,
+          "confidence": 93,
+          "reasoning": "The forced imposition of the mark and its consequences generate anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "There is anticipation of the consequences of accepting or rejecting the mark."
+        }
+      }
+    },
+    {
+      "topic": "The Lamb on Mount Zion and the 144,000",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "This imagery represents purity, salvation, and divine protection, making it highly positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The presence of the Lamb and the redeemed evokes joy and celebration."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The Lamb represents trustworthiness and faithfulness."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear is associated with this topic."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The vision of the Lamb and the redeemed could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness is associated with this topic."
+        },
+        "Disgust": {
+          "weight": 0.01,
+          "confidence": 40,
+          "reasoning": "No disgust is associated with this topic."
+        },
+        "Anger": {
+          "weight": 0.05,
+          "confidence": 45,
+          "reasoning": "Minimal anger is associated with this topic."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "There is anticipation of the future glory and reward for the redeemed."
+        }
+      }
+    },
+    {
+      "topic": "The Eternal Gospel and the Fall of Babylon",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "While the gospel is positive, the fall of Babylon is a destructive event, creating a mixed sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The proclamation of the gospel brings joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The gospel inspires trust in God."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The fall of Babylon and the call to fear God can induce fear."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The suddenness of Babylon's fall and the angel's pronouncements can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The destruction of Babylon can evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Babylon's wickedness elicits disgust."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The injustice of Babylon's actions can incite anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "There is anticipation of God's judgment and the establishment of his kingdom."
+        }
+      }
+    },
+    {
+      "topic": "Warning Against Worshiping the Beast and Eternal Torment",
+      "sentiment_polarity": {
+        "score": -0.95,
+        "confidence": 99,
+        "reasoning": "The warning against worshiping the beast and the description of eternal torment are overwhelmingly negative and fear-inducing."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.01,
+          "confidence": 30,
+          "reasoning": "No joy is associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Trust is directed towards God, not the beast."
+        },
+        "Fear": {
+          "weight": 0.99,
+          "confidence": 100,
+          "reasoning": "The threat of eternal torment generates extreme fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The intensity of the punishment could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The suffering of those who worship the beast evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.95,
+          "confidence": 98,
+          "reasoning": "The act of worshiping the beast is morally repugnant."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 96,
+          "reasoning": "The injustice of eternal torment can incite anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "There is anticipation of the consequences of one's choices."
+        }
+      }
+    },
+    {
+      "topic": "Endurance of the Saints and Keeping God's Commandments",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "This theme emphasizes faithfulness, perseverance, and obedience to God, which are positive qualities."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The hope of salvation and reward brings joy."
+        },
+        "Trust": {
+          "weight": 0.95,
+          "confidence": 98,
+          "reasoning": "The saints demonstrate unwavering trust in God."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There is a fear of failing to keep God's commandments."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal surprise is associated with this topic."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The suffering endured by the saints can evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal disgust is associated with this topic."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The injustice faced by the saints can incite anger."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "There is anticipation of eternal reward for those who endure."
+        }
+      }
+    },
+    {
+      "topic": "Blessed are the Dead Who Die in the Lord",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The statement promises rest and reward for those who die in faith, making it highly positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The promise of rest and reward brings great joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "There is trust in God's promise of salvation."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear is associated with this topic."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The vision of the afterlife could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The context of death can evoke some sadness, but it is balanced by the promise of rest."
+        },
+        "Disgust": {
+          "weight": 0.01,
+          "confidence": 40,
+          "reasoning": "No disgust is associated with this topic."
+        },
+        "Anger": {
+          "weight": 0.05,
+          "confidence": 45,
+          "reasoning": "Minimal anger is associated with this topic."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "There is anticipation of eternal rest and reward in the afterlife."
+        }
+      }
+    },
+    {
+      "topic": "The Son of Man on a White Cloud with a Sickle",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "This imagery suggests judgment and harvest, which can be both positive (for the righteous) and negative (for the wicked)."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The image of the Son of Man can bring joy to believers."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "There is trust in the Son of Man's authority and judgment."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The image of judgment can induce fear."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The sudden appearance of the Son of Man could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The judgment of the wicked can evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The wickedness being judged can elicit disgust."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The injustice being addressed can incite anger."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "There is anticipation of the final judgment and the establishment of God's kingdom."
+        }
+      }
+    }
+  ]
+}

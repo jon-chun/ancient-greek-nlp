@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "71",
+    "segment_filename": "71_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the Gospel of John, specifically a passage discussing Jesus's journey to Jerusalem for the Feast of Tabernacles (Skenopygia), and the subsequent debates and teachings in the temple.",
+    "text_summary": "This passage recounts Jesus's interactions with his brothers and the Jewish people in Jerusalem during the Feast of Tabernacles. His brothers urge him to go to Judea to display his works openly. Jesus initially declines, stating that his time has not yet come, while their time is always right. He explains that the world hates him because he testifies that its works are evil. After his brothers leave for the feast, Jesus goes secretly. The Jewish people search for him and debate his identity, with some believing he is good and others claiming he deceives the crowd. Jesus begins teaching in the temple, astonishing the Jews with his knowledge. He explains that his teaching is not his own but comes from God, and that those who seek God's will shall recognize this. He also confronts them about their failure to keep the law of Moses and their desire to kill him, which they deny. Jesus then defends his healing on the Sabbath by referencing their practice of circumcision on the Sabbath. The people are divided and question if he is the Christ."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Jesus's Reluctance to Go to Jerusalem",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "The sentiment is somewhat negative due to the underlying tension and potential danger for Jesus in Jerusalem. He is delaying his arrival, suggesting a sense of foreboding."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal joy is present as Jesus is facing a difficult situation."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Trust in God's plan is implied, but not explicitly stated."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of the Jewish authorities and their intentions is a significant factor."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Some surprise at his brothers' urging."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Sadness at the world's rejection of him."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust at the world's evil actions."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anger at the world's hatred, though restrained."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of the events to come and the fulfillment of his mission."
+        }
+      }
+    },
+    {
+      "topic": "Division and Debate Among the Jewish People",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 90,
+        "reasoning": "The sentiment is mixed due to the division of opinions. There is both positive (some believe he is good) and negative (others think he deceives the crowd) sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some joy among those who believe Jesus is good."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust among those who believe in him."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear of the Jewish authorities and the consequences of openly supporting Jesus."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Surprise at Jesus's teachings and actions."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness among those who are conflicted or disbelieve."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Disgust among those who see Jesus as a deceiver."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger among those who oppose Jesus."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of what Jesus will do next and the outcome of the debates."
+        }
+      }
+    },
+    {
+      "topic": "Jesus's Teaching and Authority",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The sentiment is positive as Jesus presents his teachings as divinely inspired, emphasizing truth and righteousness."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Joy in sharing the truth and fulfilling his mission."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High trust in God's guidance and authority."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Limited fear, as Jesus trusts in God's protection."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Some surprise at the reactions of the Jewish people."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness at the lack of understanding and acceptance."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust at the hypocrisy and lack of righteousness."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Limited anger at the opposition, but a firm stance against injustice."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of the impact of his teachings and the fulfillment of God's plan."
+        }
+      }
+    },
+    {
+      "topic": "Accusation of Being Demon-Possessed and Plot to Kill Jesus",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "This topic carries a strong negative sentiment due to the false accusation and the intent to commit violence."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Virtually no trust, only betrayal."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High fear for Jesus's safety due to the threat."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the intensity of the opposition."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness at the rejection and hostility."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Strong disgust at the false accusations and malicious intent."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at the injustice and the threat to his life."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of the consequences and the potential for violence."
+        }
+      }
+    },
+    {
+      "topic": "Defense of Healing on the Sabbath",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The sentiment is positive because Jesus defends his actions by appealing to logic and highlighting the hypocrisy of his accusers, emphasizing compassion and righteousness."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Joy in performing acts of healing and compassion."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trust in the righteousness of his actions and the validity of his arguments."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some fear of the consequences of challenging the religious authorities."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the resistance and misunderstanding."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness at the lack of understanding and compassion."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust at the hypocrisy and legalistic interpretation of the law."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anger at the injustice and the misrepresentation of his actions."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of the impact of his defense and the potential for change."
+        }
+      }
+    }
+  ]
+}

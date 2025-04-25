@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "83",
+    "segment_filename": "83_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the Gospel of John, based on the themes of love, persecution, the Holy Spirit (Paraclete), and Jesus' relationship with the Father.",
+    "text_summary": "This passage from the Gospel of John features Jesus speaking to his disciples, emphasizing their new relationship as friends rather than servants, as he has revealed the Father's will to them. He reminds them that he chose them, not the other way around, and appointed them to bear fruit that will last. He instructs them to love one another. He warns them that the world will hate them because it hated him first, as they are not of the world. He foretells their persecution, even to the point of death, by those who believe they are serving God. Jesus promises the coming of the Paraclete (the Holy Spirit), who will testify about him, and the disciples will also bear witness. He explains that his departure is necessary for the Paraclete to come, who will convict the world of sin, righteousness, and judgment. He states that the Paraclete will guide them into all truth and glorify him. He speaks of a time when they will no longer see him, but then see him again, causing them sorrow that will turn to joy, like a woman in childbirth. He assures them that their sorrow will turn to joy."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Friendship with Jesus",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The passage describes a close, loving relationship between Jesus and his disciples, elevating them from servants to friends, indicating a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Friendship evokes happiness and contentment."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The core of friendship with Jesus is trust in his teachings and guidance."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There might be a slight fear of not living up to the expectations of the friendship."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The elevation from servant to friend might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The concept of Jesus' departure might introduce a hint of sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not relevant to this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not relevant to this topic."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "There's anticipation for the future blessings and responsibilities that come with this friendship."
+        }
+      }
+    },
+    {
+      "topic": "The World's Hatred and Persecution",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The passage explicitly states that the world will hate Jesus' followers, leading to persecution, which is a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Joy is not relevant to this topic."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There might be a slight trust in God's protection amidst persecution."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Persecution naturally evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The intensity of the world's hatred might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Persecution leads to suffering and sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Disgust at the injustice of the persecution."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Persecution can lead to anger at the perpetrators."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of future trials and tribulations."
+        }
+      }
+    },
+    {
+      "topic": "The Coming of the Paraclete (Holy Spirit)",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 90,
+        "reasoning": "The coming of the Paraclete is presented as a positive event, bringing guidance and truth."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The Paraclete brings comfort and joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The Paraclete is the Spirit of Truth, inspiring trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear, perhaps of the unknown."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The nature of the Paraclete might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not relevant to this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not relevant to this topic."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Great anticipation for the Paraclete's arrival and work."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Departure and Return",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 85,
+        "reasoning": "The departure causes sorrow, but the return promises joy. The overall sentiment is mixed but leans positive due to the promise of return."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The promise of return brings joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in Jesus' promise of return."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Fear of the time without Jesus' physical presence."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The nature of the departure and return might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The departure causes sorrow."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not relevant to this topic."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Slight anger at the circumstances necessitating the departure."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong anticipation for Jesus' promised return."
+        }
+      }
+    },
+    {
+      "topic": "Bearing Fruit",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Bearing fruit is a positive concept, signifying spiritual growth and productivity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Joy in fulfilling God's purpose."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in God's guidance to bear fruit."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Fear of failing to bear fruit."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Sadness at the thought of unfruitfulness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not relevant to this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not relevant to this topic."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Anticipation of the rewards of bearing fruit."
+        }
+      }
+    }
+  ]
+}

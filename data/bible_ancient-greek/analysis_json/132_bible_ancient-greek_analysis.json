@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "132",
+    "segment_filename": "132_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically from the book of Ephesians, chapter 2.",
+    "text_summary": "This passage from Ephesians describes the transformative power of God's grace through Jesus Christ. It speaks of humanity's previous state as spiritually dead, enslaved to sin and worldly influences, and subject to God's wrath. However, God, rich in mercy and love, made believers alive together with Christ, saving them by grace. This salvation is not earned through works but is a gift from God, preventing boasting. Believers are now God's workmanship, created in Christ Jesus for good works. The passage also addresses the reconciliation between Jews and Gentiles through Christ, who broke down the dividing wall of hostility and created one new humanity. Through Christ, both groups have access to the Father in one Spirit, becoming fellow citizens with the saints and members of God's household, built on the foundation of the apostles and prophets, with Christ as the cornerstone."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Spiritual Death and Sin",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The topic describes a negative state of being, characterized by death, sin, and disobedience. This warrants a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The topic describes a negative state, devoid of joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "Limited trust as the topic is about a broken relationship with God."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Fear of consequences of sin and separation from God."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Possible surprise at the extent of human depravity."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Sadness over the state of being spiritually dead and separated from God."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "Disgust towards sin and its corrupting influence."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Anger at the forces of evil that lead to sin."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Little anticipation in this retrospective description of a negative state."
+        }
+      }
+    },
+    {
+      "topic": "God's Grace and Love",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "This topic emphasizes God's positive attributes and actions towards humanity, indicating a highly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Joy at the experience of God's love and forgiveness."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Complete trust in God's character and promises."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Absence of fear due to God's protective love."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise at the magnitude of God's love and grace."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal sadness, possibly reflecting on past separation from God."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust associated with God's grace and love."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger associated with God's grace and love."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of future blessings and eternal life."
+        }
+      }
+    },
+    {
+      "topic": "Salvation Through Christ",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 97,
+        "reasoning": "Salvation is viewed as a positive transformation and deliverance, warranting a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Joy at being saved from sin and death."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in Christ's sacrifice and saving power."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Diminished fear due to Christ's protection."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Surprise at the transformative power of salvation."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal sadness, possibly reflecting on past sins."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust associated with salvation."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger associated with salvation."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of eternal life and fellowship with God."
+        }
+      }
+    },
+    {
+      "topic": "Reconciliation between Jews and Gentiles",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "Reconciliation is a positive concept, implying the restoration of broken relationships and the removal of hostility."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Joy at the restored relationship between Jews and Gentiles."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Trust in Christ's ability to unite different groups."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Reduced fear of conflict due to reconciliation."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Surprise at the possibility of unity between previously divided groups."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some sadness reflecting on the past division and hostility."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal disgust related to the past animosity."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal anger related to the past conflict."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of a harmonious future between Jews and Gentiles."
+        }
+      }
+    },
+    {
+      "topic": "The Church as God's Building",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The imagery of the church as a building implies stability, unity, and purpose, warranting a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Joy at being part of God's building and community."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Trust in the foundation of the church and its purpose."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal fear, related to potential challenges to the church's stability."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Possible surprise at the diverse composition of the church."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness, perhaps reflecting on the imperfections of the church."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust associated with the church as God's building."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger associated with the church as God's building."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of the church's growth and impact on the world."
+        }
+      }
+    },
+    {
+      "topic": "Paul's Ministry to the Gentiles",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "Paul's ministry is portrayed as a positive and purposeful endeavor, warranting a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Joy at seeing the Gentiles embrace the Gospel."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's calling and Paul's ability to fulfill it."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some fear related to the challenges and opposition Paul faced."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the Gentiles' receptiveness to the Gospel."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some sadness reflecting on the suffering Paul endured."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No disgust associated with Paul's ministry."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal anger related to the opposition Paul faced."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of the continued growth of the Gentile church."
+        }
+      }
+    }
+  ]
+}

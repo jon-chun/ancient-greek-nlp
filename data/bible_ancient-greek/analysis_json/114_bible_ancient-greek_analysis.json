@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "114",
+    "segment_filename": "114_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from one of Paul's letters, specifically 1 Corinthians due to the discussion of spiritual gifts like speaking in tongues and prophecy.",
+    "text_summary": "This passage discusses the importance of love, faith, and hope, with love being the greatest. It emphasizes the value of prophecy over speaking in tongues, unless tongues are interpreted for the benefit of the church. The text stresses that speaking in tongues without interpretation is not edifying to others and can be confusing. It uses analogies of musical instruments and trumpets to illustrate the need for clarity in communication. The passage encourages believers to seek spiritual gifts that build up the church, particularly prophecy. It also touches on the idea that tongues can be a sign for unbelievers, while prophecy is for believers. The passage concludes with a call to maturity in understanding and a reminder that speaking in tongues should be done in a way that allows others to understand and say \"Amen.\""
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Primacy of Love (Agape)",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Love (agape) is presented as the greatest virtue, suggesting a positive sentiment. The passage explicitly states its superiority."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Love is often associated with joy and happiness."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Love implies trust and reliance."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Love casts out fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Not particularly surprising in this context."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Love can involve sadness, but is not its primary emotion."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Love is the opposite of disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Love is patient and kind, not easily angered."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Love anticipates good things and a positive future."
+        }
+      }
+    },
+    {
+      "topic": "Prophecy vs. Speaking in Tongues",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "Prophecy is generally favored over speaking in tongues (unless interpreted), suggesting a positive sentiment towards prophecy and a neutral/slightly negative sentiment toward uninterpreted tongues."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Prophecy and tongues can bring joy, but the emphasis is on edification."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Prophecy, when genuine, builds trust."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Tongues, if misunderstood, can create fear or confusion."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Both can be surprising manifestations of the Spirit."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Not inherently sad."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Not inherently disgusting."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Potential for anger if misused or misunderstood."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Both can create anticipation of God's will."
+        }
+      }
+    },
+    {
+      "topic": "Edification of the Church",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The entire passage revolves around building up (edifying) the church, which is a positive and desirable outcome."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Edification leads to joy and fulfillment."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Edification builds trust within the community."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Lack of edification can lead to fear or anxiety."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Edification can sometimes be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Lack of edification can lead to sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Edification is the opposite of disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Lack of edification can lead to frustration or anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Edification anticipates a stronger, healthier church."
+        }
+      }
+    },
+    {
+      "topic": "Communication and Understanding",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "Clear communication is presented as essential, implying a positive sentiment towards understanding and a negative sentiment towards confusion."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Understanding can bring joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Clear communication builds trust."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Misunderstanding can lead to fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Clarity can sometimes be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Misunderstanding can lead to sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Confusion is not inherently disgusting."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Misunderstanding can lead to frustration or anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Clear communication anticipates positive outcomes."
+        }
+      }
+    },
+    {
+      "topic": "Spiritual Maturity",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The passage encourages spiritual maturity, which is a positive attribute."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Maturity brings joy and fulfillment."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Maturity builds trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Immaturity can lead to fear or anxiety."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Maturity can sometimes be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Immaturity can lead to sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Maturity is the opposite of disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Immaturity can lead to frustration or anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Maturity anticipates positive outcomes."
+        }
+      }
+    }
+  ]
+}

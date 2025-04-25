@@ -1,0 +1,160 @@
+{
+  "segment_metadata": {
+    "segment_number": "78",
+    "segment_filename": "78_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the Gospel of John, chapter 11.",
+    "text_summary": "This passage recounts the story of Jesus raising Lazarus from the dead. Martha and Mary grieve the death of their brother Lazarus. Jesus arrives and assures Martha that Lazarus will rise again. He declares himself the resurrection and the life, emphasizing that those who believe in him will live even after death. Mary then arrives, expressing her sorrow. Jesus, deeply moved by their grief, asks where Lazarus is buried. He goes to the tomb, commands the stone to be removed, and prays to God. Then, with a loud voice, he calls Lazarus forth, and Lazarus emerges from the tomb, still bound. Jesus instructs the people to unbind him. Many Jews who witnessed this miracle believe in Jesus, while others report it to the Pharisees."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Raising of Lazarus",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The raising of Lazarus is a miraculous event with overwhelmingly positive implications, centered on resurrection and eternal life."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The miracle of resurrection evokes a strong sense of joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The passage emphasizes faith in Jesus and his ability to perform miracles."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There is a slight element of fear associated with death and the unknown."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The raising of Lazarus is an unexpected and astonishing event."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The initial grief over Lazarus's death contributes to sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Disgust is not relevant in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Anger is not a prominent emotion in this passage."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "There is anticipation as Jesus approaches the tomb and prepares to perform the miracle."
+        }
+      }
+    },
+    {
+      "topic": "Grief over Death",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "Grief over the death of Lazarus is a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Joy is not relevant in this context."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Limited trust in the situation initially."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "Fear associated with death."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Limited surprise initially."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The dominant emotion is sadness due to the death of Lazarus."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Disgust is not relevant in this context."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Slight anger over the situation."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "Limited anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Jesus as Resurrection and Life",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "Jesus's declaration of being the resurrection and the life is a positive statement of hope and eternal life."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The promise of eternal life brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The statement inspires trust in Jesus."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Reduces fear of death."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "The statement can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Reduces sadness related to death."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Disgust is not relevant in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Anger is not relevant in this context."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Creates anticipation for eternal life."
+        }
+      }
+    }
+  ]
+}

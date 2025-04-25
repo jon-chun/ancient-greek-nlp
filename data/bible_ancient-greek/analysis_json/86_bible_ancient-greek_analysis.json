@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "86",
+    "segment_filename": "86_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the Gospel of John in the New Testament, specifically the account of Jesus' arrest, trial before Annas and Caiaphas, Peter's denial, and the beginning of Jesus' trial before Pilate.",
+    "text_summary": "The text describes Jesus' arrest by the Jewish authorities and his initial interrogation by Annas, Caiaphas' father-in-law. It recounts Peter's denial of Jesus while warming himself by a fire, and Jesus' subsequent questioning by the high priest regarding his disciples and teachings. Jesus asserts he has spoken openly and challenges them to ask those who heard him. A servant strikes Jesus for his response. Annas sends Jesus, still bound, to Caiaphas. Peter denies Jesus again, and a rooster crows. The scene shifts to Jesus being brought before Pilate, the Roman governor, early in the morning. The Jewish leaders refuse to enter Pilate's residence to avoid ritual defilement before Passover. Pilate questions them about the charges against Jesus, and they state that if Jesus were not a criminal, they wouldn't have brought him. Pilate suggests they judge him according to their own law, but they reply they lack the authority to execute anyone, fulfilling Jesus' earlier prophecy about his death. Pilate then questions Jesus about being the King of the Jews, and Jesus responds by asking if Pilate is asking on his own accord or if others have told him this. Jesus clarifies his kingdom is not of this world."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Jesus' Arrest and Binding",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "This event is negative as it marks the beginning of Jesus' suffering and unjust treatment. The confidence is high because the text explicitly describes the arrest."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present in this event."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal trust, perhaps in God's plan."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Fear for Jesus' safety and future."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise at the swiftness and brutality of the arrest."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Sadness at the injustice and suffering inflicted upon Jesus."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust at the betrayal and malicious intent of those arresting him."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anger at the injustice and abuse of power."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Apprehension about what will happen next."
+        }
+      }
+    },
+    {
+      "topic": "Peter's Denial",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "This is a negative event as it shows Peter's failure to stand by Jesus and his fear of association. High confidence due to the direct narrative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with betrayal."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Peter's denial erodes trust."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Peter's primary motivation is fear of being identified as a follower of Jesus."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Mild surprise at Peter's quick denial."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Sadness over Peter's weakness and betrayal."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Disgust at Peter's lack of courage."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Mild anger at Peter's betrayal."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Low anticipation, as the event is immediate and reactive."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Interrogation by the High Priest",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The interrogation is a negative event because it is part of an unjust trial. Confidence is high as the text explicitly describes the questioning."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy in this adversarial situation."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Limited trust, as the interrogation is biased."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Fear for the outcome of the interrogation."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Possible surprise at Jesus' bold responses."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Sadness at the injustice of the situation."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust at the hypocrisy of the high priest."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Anger at the unfairness of the interrogation."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of the outcome of the trial."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Statement about his Kingdom",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 95,
+        "reasoning": "This statement has a positive sentiment as it reveals the spiritual nature of Jesus' kingdom and his purpose. Confidence is high as it is a direct quote from Jesus."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Joy in the revelation of a higher purpose."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in Jesus' words and divine authority."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear, as the focus is on spiritual truth."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the nature of Jesus' kingdom."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Mild sadness at the rejection of this kingdom by some."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Mild anger at the misunderstanding of Jesus' message."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of the future realization of this kingdom."
+        }
+      }
+    },
+    {
+      "topic": "Jesus before Pilate",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "This is a mixed sentiment. While the situation is negative due to the unjust accusations, there is also an element of hope and potential for justice from Pilate."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal joy in this tense situation."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some trust that Pilate might be fair."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Fear for Jesus' life and the outcome of the trial."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Possible surprise at Pilate's initial reaction."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness at the injustice and the potential for a negative outcome."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Disgust at the false accusations and the manipulation by the Jewish leaders."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger at the unfairness of the situation."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Anticipation of Pilate's decision and its consequences."
+        }
+      }
+    }
+  ]
+}

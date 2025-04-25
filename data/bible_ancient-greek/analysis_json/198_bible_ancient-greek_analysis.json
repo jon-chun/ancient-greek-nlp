@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "198",
+    "segment_filename": "198_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the Book of Revelation in the New Testament.",
+    "text_summary": "This segment depicts a series of apocalyptic events. It describes a figure with a sharp sword who will strike the nations and rule with an iron rod, trampling the winepress of God's wrath. An angel calls birds to feast on the flesh of kings and armies defeated in a battle against the rider on the horse and his army. The beast and false prophet are captured and thrown into a lake of fire. The devil is bound for a thousand years, after which he is released and deceives the nations again, leading to a final battle and his ultimate defeat. The dead are judged according to their deeds, and a new heaven and earth are created, with the holy city of Jerusalem descending from God. Death and Hades are cast into the lake of fire, and only those written in the Book of Life enter the new creation."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Divine Judgment and Wrath",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 95,
+        "reasoning": "The text describes God's wrath and judgment upon the nations. While justice is a positive concept, the imagery of wrath and punishment creates a negative overall sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no joy expressed in this judgment."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "There is an element of trust in divine justice, but it is overshadowed by the severity."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The imagery of wrath and punishment evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The suddenness of judgment can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The destruction and suffering cause sadness."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The wickedness being judged is disgusting."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The divine wrath is an expression of anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "There is anticipation of the final outcome."
+        }
+      }
+    },
+    {
+      "topic": "The Rider on the White Horse",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 85,
+        "reasoning": "The rider is a powerful figure bringing judgment and justice, which has both positive and negative aspects, but leans slightly positive due to the ultimate victory over evil."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The rider's actions bring ultimate joy to the righteous."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The rider inspires trust as a divine figure."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The rider's power can be frightening to enemies."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The sudden appearance of the rider can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "The rider's actions involve destruction, which causes sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The rider opposes wickedness, which is disgusting."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The rider expresses anger against evil."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "The rider's arrival is anticipated as a sign of the end times."
+        }
+      }
+    },
+    {
+      "topic": "Defeat of Evil (Beast, False Prophet, Devil)",
+      "sentiment_polarity": {
+        "score": 0.5,
+        "confidence": 90,
+        "reasoning": "The defeat of evil is ultimately a positive event, but the presence of evil and the suffering it causes creates a mixed sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The defeat of evil brings joy."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "There is trust in the ultimate triumph of good over evil."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The power of evil is frightening."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The sudden defeat of evil can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The suffering caused by evil creates sadness."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Evil is inherently disgusting."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The actions of evil provoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The defeat of evil is anticipated."
+        }
+      }
+    },
+    {
+      "topic": "The Thousand-Year Reign",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "This period represents a time of peace and righteousness, leading to a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The reign is a time of great joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "There is complete trust in the reign of Christ."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Fear is minimized during this reign."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Surprise is minimal during this stable period."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Sadness is minimized during this reign."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is absent during this reign."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Anger is minimized during this reign."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "There is anticipation for the future after the reign."
+        }
+      }
+    },
+    {
+      "topic": "New Heaven and New Earth",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The creation of a new heaven and earth is a purely positive event, representing ultimate hope and fulfillment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The new creation is a source of immense joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "There is complete trust in God's new creation."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Fear is absent in the new creation."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The new creation may hold some surprises."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Sadness is absent in the new creation."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is absent in the new creation."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is absent in the new creation."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "There is great anticipation for the new creation."
+        }
+      }
+    }
+  ]
+}

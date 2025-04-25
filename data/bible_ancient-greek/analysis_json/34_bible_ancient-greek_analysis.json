@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "34",
+    "segment_filename": "34_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from one of the Gospels (possibly Luke), due to the presence of Jesus, Pharisees, Sabbath controversies, healing miracles, the calling of the twelve apostles, and the beginning of a sermon resembling the Sermon on the Mount.",
+    "text_summary": "This passage recounts several events in the life and ministry of Jesus. It begins with a Sabbath controversy where Jesus' disciples are criticized for picking grain. Jesus defends their actions by referencing David's example. Another Sabbath scene follows, where Jesus heals a man with a withered hand, sparking further conflict with the Pharisees who seek to accuse him. Jesus then chooses twelve apostles. Finally, Jesus delivers a sermon, including blessings for the poor, hungry, and those who are persecuted, and woes to the rich. The passage highlights themes of Sabbath observance, divine authority, healing, discipleship, and the reversal of worldly values in God's kingdom."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Sabbath Controversy (Grain Picking)",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 85,
+        "reasoning": "The conflict creates a slightly negative tone, but Jesus' defense adds a positive element, making the overall sentiment somewhat neutral, leaning slightly positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal joy, mostly related to disciples eating."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Trust in Jesus' authority."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Fear of breaking religious law."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Disciples' actions and Jesus' response are surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Possible disgust from Pharisees."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anger from Pharisees towards disciples."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Anticipation of Jesus' response."
+        }
+      }
+    },
+    {
+      "topic": "Sabbath Controversy (Healing of Withered Hand)",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 90,
+        "reasoning": "The healing itself is a positive act, but the Pharisees' intent to accuse Jesus creates a negative undercurrent. The overall sentiment is positive due to the healing, but with conflict."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Joy at the man's healing."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Trust in Jesus' power."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Fear of the Pharisees' reaction."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Surprise at Jesus' actions."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sadness for the man's condition."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust at the Pharisees' hypocrisy."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Anger from Pharisees, potentially from Jesus."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Anticipation of the healing and the conflict."
+        }
+      }
+    },
+    {
+      "topic": "Calling of the Twelve Apostles",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "This is a positive event, signifying the beginning of a new phase in Jesus' ministry and the establishment of his core followers."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Joy at the selection of the apostles."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Trust in Jesus' choice and the apostles' commitment."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise at the specific choices."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anticipation of the apostles' future roles."
+        }
+      }
+    },
+    {
+      "topic": "Sermon on the Plain (Blessings and Woes)",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 80,
+        "reasoning": "The blessings are positive, but the woes are negative. The overall sentiment is mixed, reflecting both hope and warning."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Joy in the blessings promised."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Trust in God's promises."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Fear of the consequences of the woes."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise at the reversal of worldly values."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Sadness for those who will experience the woes."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Disgust at the behavior that leads to the woes."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anger against injustice and hypocrisy."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anticipation of the coming kingdom and its values."
+        }
+      }
+    }
+  ]
+}

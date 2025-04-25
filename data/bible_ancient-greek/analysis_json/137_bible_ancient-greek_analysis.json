@@ -1,0 +1,360 @@
+{
+  "segment_metadata": {
+    "segment_number": "137",
+    "segment_filename": "137_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from one of Paul's letters, possibly Philippians.",
+    "text_summary": "This passage reflects Paul's teachings on striving for spiritual maturity in Christ. He emphasizes pressing on towards the goal of resurrection and complete transformation, acknowledging his own imperfection and ongoing pursuit of God's calling. He urges believers to imitate him and to focus on heavenly things, contrasting this with those who are enemies of the cross and whose minds are set on earthly desires. He expresses joy and affection for the Philippians, encouraging them to stand firm in the Lord and to live in harmony. He also touches on themes of contentment, gratitude, and the peace of God, urging believers to focus on what is true, noble, right, pure, lovely, and admirable. He thanks them for their support and generosity."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Pressing on to Spiritual Maturity",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The sentiment is positive due to the focus on striving for a higher goal and spiritual growth in Christ. The confidence is high because the language clearly conveys a sense of purpose and determination."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "There is joy in the pursuit of spiritual growth."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Trust in God's plan is essential for spiritual progress."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Fear of not reaching the goal might be present, but it's not dominant."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "There's an element of surprise in the ongoing journey of spiritual discovery."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Sadness might arise from recognizing one's imperfections."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Not applicable."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Strong anticipation for the future reward and fulfillment."
+        }
+      }
+    },
+    {
+      "topic": "Enemies of the Cross",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The sentiment is negative because it describes those who are opposed to Christ and focused on earthly things, leading to destruction."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Lack of trust in God."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Fear of their ultimate fate."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Possible surprise at their actions."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness at their impending doom."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Disgust at their earthly focus."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anger at their opposition to Christ."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Negative anticipation of destruction."
+        }
+      }
+    },
+    {
+      "topic": "Heavenly Citizenship",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The sentiment is positive due to the emphasis on belonging to a heavenly kingdom and anticipating salvation through Christ."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy in the hope of heavenly citizenship."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's promise of salvation."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear due to the assurance of salvation."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Possible surprise at the glory of heaven."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong anticipation of Christ's return and heavenly life."
+        }
+      }
+    },
+    {
+      "topic": "Standing Firm in the Lord",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The sentiment is positive, encouraging steadfastness and unity in faith."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy in unity and faith."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the Lord's strength."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear while standing firm in faith."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Possible surprise at the blessings received."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness while relying on the Lord."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of continued blessings and strength."
+        }
+      }
+    },
+    {
+      "topic": "Rejoicing in the Lord",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "The sentiment is overwhelmingly positive, with a direct command to rejoice."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The core emotion is joy in the Lord."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in the Lord is the basis for rejoicing."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal surprise, as rejoicing is a conscious choice."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of continued blessings and joy in the Lord."
+        }
+      }
+    },
+    {
+      "topic": "Peace of God",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "The sentiment is highly positive, focusing on the surpassing peace of God that guards hearts and minds."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy derived from experiencing the peace of God."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Complete trust in God to provide peace."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Absence of fear due to the peace of God."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal surprise, as peace is a promised gift."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Absence of sadness due to the peace of God."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of continued peace and blessings."
+        }
+      }
+    },
+    {
+      "topic": "Contentment and Gratitude",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The sentiment is positive due to the emphasis on contentment in all circumstances and gratitude for support."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy derived from contentment and gratitude."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's provision."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear while trusting in God's provision."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Possible surprise at unexpected blessings."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness while focusing on gratitude."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of continued provision and blessings."
+        }
+      }
+    }
+  ]
+}

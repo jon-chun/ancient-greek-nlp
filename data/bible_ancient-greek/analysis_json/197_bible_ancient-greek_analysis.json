@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "197",
+    "segment_filename": "197_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the Book of Revelation in the New Testament.",
+    "text_summary": "This passage describes the fall of a great city (likely symbolic of Rome or a similar power), highlighting the cessation of commerce, artistry, and joy within it. The city's downfall is attributed to its merchants' influence and its deceptive practices, particularly sorcery, which led nations astray. The city is also condemned for the blood of prophets and saints found within it. Following this, the text shifts to a scene of heavenly rejoicing, with multitudes praising God for his righteous judgment against the \"great prostitute\" who corrupted the earth. The wedding of the Lamb is announced, and believers are declared blessed. A vision of a rider on a white horse is described, representing the Word of God, who judges and makes war in righteousness."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Overall Sentiment",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The passage is mixed, with both negative and positive elements, but leans positive due to the triumph of God's justice."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The heavenly rejoicing contributes significantly to joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "The praise of God and His righteous judgment inspires trust."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The description of the city's fall and judgment evokes some fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The sudden shift from destruction to rejoicing is surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The description of the city's desolation evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The condemnation of the city's sins evokes disgust."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The judgment against the city reflects divine anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The announcement of the wedding of the Lamb creates anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Fall of the City",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "The cessation of music, trade, and light represents a significant loss and devastation, indicating a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The absence of joy is explicitly stated."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "The destruction undermines trust."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The devastation evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The suddenness of the fall might bring surprise."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "The loss of everything evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The underlying corruption contributes to disgust."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The injustice of the situation might evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is little to anticipate in this scene of destruction."
+        }
+      }
+    },
+    {
+      "topic": "Condemnation for Bloodshed",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The condemnation of the city for the blood of prophets and saints is a strong negative statement about injustice and violence."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no joy in this condemnation."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The injustice undermines trust."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The threat to the prophets and saints evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The extent of the violence might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The loss of life evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The violence and injustice are disgusting."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The injustice evokes strong anger."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is little to anticipate in this scene of condemnation."
+        }
+      }
+    },
+    {
+      "topic": "Heavenly Rejoicing",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The heavenly rejoicing and praise of God for his righteous judgment is a highly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The heavenly rejoicing is full of joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The praise of God inspires trust."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no fear in this scene of praise."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The sudden shift to rejoicing might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no sadness in this scene of praise."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no disgust in this scene of praise."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The judgment is righteous, so anger is minimal."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The praise anticipates future blessings."
+        }
+      }
+    },
+    {
+      "topic": "Wedding of the Lamb",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The announcement of the wedding of the Lamb and the preparation of the bride is a highly positive and hopeful sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The wedding is a joyous occasion."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The wedding represents a covenant and inspires trust."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no fear in this scene of celebration."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The timing of the wedding might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no sadness in this scene of celebration."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no disgust in this scene of celebration."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no anger in this scene of celebration."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The wedding anticipates future blessings and union."
+        }
+      }
+    },
+    {
+      "topic": "Rider on the White Horse",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The vision of the rider on the white horse, representing the Word of God, who judges and makes war in righteousness, is a powerful and complex sentiment. It combines justice and power, leaning towards positive due to the righteousness."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "There is some joy in the triumph of righteousness."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The rider represents trustworthiness and justice."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The rider's power and judgment evoke fear in some."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The sudden appearance of the rider might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There is some sadness in the judgment of others."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The rider is judging those who are disgusting."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The rider's judgment reflects divine anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The rider's appearance anticipates future victory."
+        }
+      }
+    }
+  ]
+}

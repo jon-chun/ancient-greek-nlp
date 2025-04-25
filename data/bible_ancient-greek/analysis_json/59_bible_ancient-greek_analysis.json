@@ -1,0 +1,460 @@
+{
+  "segment_metadata": {
+    "segment_number": "59",
+    "segment_filename": "59_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the Gospel of Luke, recounting the Last Supper and events leading up to the arrest of Jesus.",
+    "text_summary": "This passage from Luke describes Jesus' preparation for and celebration of the Passover meal with his disciples, including instructions for its preparation and his declaration that this would be his last Passover before the Kingdom of God is fulfilled. He institutes the Eucharist, offering bread as his body and wine as his blood of the new covenant. Jesus then predicts his betrayal and the disciples argue about who is the greatest among them. He teaches them about true leadership through service. He warns Peter of his denial. Jesus then speaks of the coming trials and tells them to prepare, even to buy swords. Finally, he goes to the Mount of Olives to pray, anticipating his suffering, and asks God to take the cup from him, but ultimately submits to God's will. He finds his disciples sleeping."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Overall Passage Sentiment",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 85,
+        "reasoning": "The passage contains both positive (Eucharist, Kingdom) and negative (betrayal, suffering) elements, resulting in a slightly positive overall sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The establishment of the Eucharist and the promise of the Kingdom bring a degree of joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Jesus' teachings and the disciples' faith in him create a strong sense of trust."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The predictions of betrayal and suffering evoke fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some elements, like the specific details of the betrayal, could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The impending suffering and Jesus' awareness of it create sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The betrayal could evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The betrayal and injustice could evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The passage is filled with anticipation of the events to come."
+        }
+      }
+    },
+    {
+      "topic": "Preparation for Passover",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 75,
+        "reasoning": "The preparation for Passover is a positive event, but it's overshadowed by the knowledge of what's to come."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "The Passover meal is a celebration, bringing some joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The disciples trust Jesus' instructions."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The shadow of upcoming events creates some fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low surprise."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "Awareness of upcoming events brings some sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Preparing for a significant event creates anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Institution of the Eucharist",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The institution of the Eucharist is a very positive and sacred event."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "The Eucharist is a source of spiritual joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The disciples trust Jesus' actions and words."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The specific form of the Eucharist might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The context of Jesus' impending death tempers the joy."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The Eucharist looks forward to the Kingdom of God."
+        }
+      }
+    },
+    {
+      "topic": "Prediction of Betrayal",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "The prediction of betrayal is a negative event, causing distress and uncertainty."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "The betrayal undermines trust."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The prediction of betrayal is frightening."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The sudden announcement of betrayal is surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The betrayal causes sadness."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The act of betrayal is disgusting."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The injustice of betrayal evokes anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The disciples anticipate the unfolding of the betrayal."
+        }
+      }
+    },
+    {
+      "topic": "Argument about Greatness",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 80,
+        "reasoning": "The argument about greatness is generally negative, showing human weakness and lack of understanding."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "The argument undermines trust."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Fear of not being the greatest."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The argument arising could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Disappointment in themselves and others."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Disgust at the petty argument."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The argument is fueled by anger and pride."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Anticipation of who will be considered the greatest."
+        }
+      }
+    },
+    {
+      "topic": "Teaching on Leadership Through Service",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Jesus' teaching on leadership through service is positive and uplifting."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The teaching offers a path to fulfillment and joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The disciples trust Jesus' wisdom."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The concept of servant leadership might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The teaching anticipates a new way of leading."
+        }
+      }
+    },
+    {
+      "topic": "Warning to Peter",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "The warning to Peter is negative, foretelling his denial and causing concern."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "The warning undermines trust."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The prediction of denial is frightening."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The prediction of denial is surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The warning causes sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Slight disgust at the idea of denial."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Slight anger at the prediction."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of Peter's actions."
+        }
+      }
+    },
+    {
+      "topic": "Instruction to Buy Swords",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 70,
+        "reasoning": "The instruction to buy swords is ambiguous and somewhat concerning, suggesting danger."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No joy."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The disciples trust Jesus' instructions, but they are confusing."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The instruction suggests danger."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The instruction is surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The instruction hints at upcoming hardship."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Slight disgust at the need for violence."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Slight anger at the impending conflict."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The instruction anticipates conflict."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Prayer in Gethsemane",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "Jesus' prayer in Gethsemane is a mix of anguish and submission, leaning towards negative due to the suffering."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Jesus trusts in God's will."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Jesus fears the suffering."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Jesus is deeply saddened by the suffering."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Slight anger at the injustice."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Jesus anticipates the events to come."
+        }
+      }
+    }
+  ]
+}

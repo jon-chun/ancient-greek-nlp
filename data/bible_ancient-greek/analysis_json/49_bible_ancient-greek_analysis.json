@@ -1,0 +1,410 @@
+{
+  "segment_metadata": {
+    "segment_number": "49",
+    "segment_filename": "49_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from the Gospel of Luke, based on the parables and themes presented.",
+    "text_summary": "This segment contains several distinct teachings and parables. First, it emphasizes the cost of discipleship, stating that one must renounce all possessions to be a follower of Christ. It then discusses the worthlessness of salt that has lost its flavor. Next, it describes the Pharisees and scribes complaining about Jesus associating with tax collectors and sinners. Jesus responds with the parables of the lost sheep and the lost coin, illustrating God's joy in finding and welcoming back those who were lost. Finally, it begins the parable of the Prodigal Son, depicting a son who squanders his inheritance and eventually returns home in repentance to his forgiving father. The overall theme revolves around repentance, forgiveness, and the inclusive nature of God's love."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Cost of Discipleship",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 75,
+        "reasoning": "The teaching about renouncing possessions for discipleship is demanding but points to a higher spiritual goal, resulting in a slightly positive polarity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Potential joy in following a higher calling."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The teaching requires trust in Jesus and his promises."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The requirement of renouncing possessions can induce fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The radical nature of the teaching can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The potential loss of possessions could evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Disgust is not relevant here."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some might feel anger at the perceived unfairness."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of a reward or spiritual fulfillment."
+        }
+      }
+    },
+    {
+      "topic": "Worthless Salt",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "The analogy of salt losing its flavor is negative, indicating uselessness and a loss of purpose."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No joy is associated with being worthless."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Lack of trust in something that has become useless."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fear of becoming irrelevant or useless."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sudden loss of flavor can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness is appropriate for something losing its purpose."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Disgust at the uselessness of the salt."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anger at the waste or loss of potential."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "No anticipation of a positive outcome."
+        }
+      }
+    },
+    {
+      "topic": "Pharisees' Complaint",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The Pharisees' complaint is negative because it expresses disapproval and judgment towards Jesus' actions."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No joy is present in the complaint."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Lack of trust in Jesus' actions."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fear of the disruption of social order."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at Jesus' unconventional behavior."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Sadness at the perceived moral decline."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Disgust at associating with sinners."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anger at the perceived violation of religious norms."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anticipation of negative consequences."
+        }
+      }
+    },
+    {
+      "topic": "Parable of the Lost Sheep",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The parable of the lost sheep is overwhelmingly positive, emphasizing God's love, care, and joy in finding those who are lost."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The shepherd's joy at finding the lost sheep."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the shepherd's care and dedication."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear associated with the sheep being lost."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at the shepherd's dedication."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sadness at the sheep being lost."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Disgust is not relevant here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Anger is not relevant here."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of finding the lost sheep."
+        }
+      }
+    },
+    {
+      "topic": "Parable of the Lost Coin",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Similar to the lost sheep, the parable of the lost coin is highly positive, highlighting the joy and diligence in finding what was lost."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The woman's joy at finding the lost coin."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in the process of searching diligently."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear associated with the coin being lost."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at the woman's dedication."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sadness at the coin being lost."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Disgust is not relevant here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Anger is not relevant here."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of finding the lost coin."
+        }
+      }
+    },
+    {
+      "topic": "Parable of the Prodigal Son (Beginning)",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 70,
+        "reasoning": "The beginning of the parable is mixed. The son's request is selfish and potentially negative, but the father's willingness to divide his property is neutral."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "A small amount of joy from the son's perspective."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The father trusts his son to some extent."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Fear of the son misusing the inheritance."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the son's request."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness at the potential for misuse."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Slight disgust at the son's selfishness."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anger at the son's disrespect."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of what will happen next."
+        }
+      }
+    },
+    {
+      "topic": "Prodigal Son's Waste and Repentance",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "The prodigal son's squandering of his inheritance and subsequent suffering is negative. His eventual repentance is a positive turning point."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Little joy in the son's initial actions."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "A loss of trust due to the son's actions."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear of starvation and ruin."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at the son's downfall."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness at the son's suffering and loss."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Disgust at the son's wasteful behavior."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger at the son's irresponsibility."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of the son's return and reconciliation."
+        }
+      }
+    },
+    {
+      "topic": "Prodigal Son's Return",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The prodigal son's return and the father's reaction are overwhelmingly positive, emphasizing forgiveness, love, and reconciliation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The father's joy at seeing his son return."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in the son's repentance and change of heart."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear associated with the son's return."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at the father's immediate forgiveness."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal sadness associated with the son's past actions."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Disgust is not relevant here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Anger is not relevant here."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of a renewed relationship and celebration."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "156",
+    "segment_filename": "156_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from one of the Pastoral Epistles (Titus or 1 Timothy), which deal with church leadership and conduct.",
+    "text_summary": "This passage addresses various aspects of Christian life and leadership. It condemns those who profess faith but deny it through their actions, emphasizing the importance of sound doctrine and righteous living. It instructs older men and women to be examples of sobriety, reverence, and sound faith. Younger women are encouraged to love their husbands and children, and to be chaste and good homemakers. Younger men are urged to be self-controlled. The passage emphasizes the need for leaders to be examples of good works and sound teaching. It also instructs slaves to be obedient and trustworthy to their masters. The grace of God is highlighted as the source of salvation, teaching believers to renounce ungodliness and worldly passions, and to live righteously in anticipation of Christ's return. The passage concludes by urging believers to be subject to rulers, to be ready for good works, and to show gentleness to all. It reminds them that they too were once foolish and disobedient, but were saved by God's mercy. The importance of good works for those who believe is emphasized."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Condemnation of False Believers",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The text expresses strong disapproval of those who profess faith but deny it through their actions. The language used indicates a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "The topic focuses on negative behavior."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "Lack of trust in those being condemned."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "Fear of the consequences of such behavior."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Mild surprise at the hypocrisy."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 85,
+          "reasoning": "Sadness over the state of those who deny their faith."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 95,
+          "reasoning": "Strong disgust at the actions of the false believers."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "Anger at the betrayal of faith."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Anticipation of judgment."
+        }
+      }
+    },
+    {
+      "topic": "Instructions for Older and Younger Generations",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The text provides guidance for different age groups within the community, emphasizing virtues and responsibilities. The tone is generally positive and encouraging."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Joy in fulfilling one's role."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Trust in the wisdom of the instructions."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Fear of failing to meet expectations."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Little surprise, as these are standard expectations."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Sadness if one fails to live up to the instructions."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust associated with positive guidance."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger associated with positive guidance."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anticipation of a positive future through obedience."
+        }
+      }
+    },
+    {
+      "topic": "Obedience and Good Works",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The text stresses the importance of obedience to masters and doing good works. The emphasis on pleasing others and demonstrating good faith carries a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Joy in serving others well."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Trust between servants and masters."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Fear of displeasing one's master."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Little surprise in the expectation of obedience."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Sadness if one fails to be a good servant."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust associated with obedience."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger associated with obedience."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anticipation of reward for good service."
+        }
+      }
+    },
+    {
+      "topic": "The Grace and Salvation of God",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "This section focuses on the grace of God as the source of salvation and the hope of eternal life. The language is overwhelmingly positive and hopeful."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Joy in receiving God's grace and salvation."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's promise of salvation."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No fear associated with God's grace."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise at the extent of God's love and mercy."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No sadness associated with God's grace."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust associated with God's grace."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger associated with God's grace."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Anticipation of eternal life."
+        }
+      }
+    },
+    {
+      "topic": "Submission to Authority and Gentleness",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The text encourages submission to authority and gentleness towards all people. This promotes harmony and peace, indicating a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Joy in peaceful relationships."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Trust in authority and in others' goodwill."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Fear of conflict."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Little surprise in the expectation of submission and gentleness."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Sadness if conflict arises."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust associated with submission and gentleness."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger associated with submission and gentleness."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Anticipation of a harmonious society."
+        }
+      }
+    }
+  ]
+}

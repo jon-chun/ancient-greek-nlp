@@ -1,0 +1,460 @@
+{
+  "segment_metadata": {
+    "segment_number": "15",
+    "segment_filename": "15_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from one of the Gospels (Matthew, Mark, or Luke). Based on the content, it includes teachings on marriage/divorce, blessing children, the rich young man, the difficulty of the rich entering the Kingdom of God, rewards for those who forsake all for Christ, and a prediction of Jesus's suffering and death.",
+    "text_summary": "This passage covers several distinct teachings and events. Jesus discusses the sanctity of marriage, stating that what God has joined, no one should separate. He blesses children, emphasizing the importance of childlike faith for entering the Kingdom of God. A rich young man asks how to inherit eternal life, and Jesus instructs him to sell all his possessions and follow Him, but the man departs sorrowfully because he is very wealthy. Jesus then teaches about the difficulty of the rich entering the Kingdom of God, using the analogy of a camel passing through the eye of a needle. Peter points out that the disciples have left everything, and Jesus promises great rewards in this life and eternal life in the age to come. Finally, Jesus predicts his impending suffering, death, and resurrection in Jerusalem. James and John ask for positions of honor in his kingdom, leading to a lesson on true leadership through service. The passage concludes with the healing of blind Bartimaeus."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Overall Sentiment",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 85,
+        "reasoning": "The overall sentiment is positive due to themes of blessings, eternal life, and rewards for following Jesus, but also contains elements of sadness and warning."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The blessings and promises of eternal life evoke joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Jesus's teachings and authority inspire trust."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The prediction of suffering and the difficulty for the rich evoke some fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some of Jesus's statements and actions might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The rich man's sorrow and the prediction of suffering induce sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust is not a prominent emotion in this passage."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Anger is not a prominent emotion in this passage."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The promises of future rewards and Jesus's predictions create anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Marriage and Divorce",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 75,
+        "reasoning": "The teaching on marriage and divorce aims to uphold a sacred bond, but the implications of divorce can be seen as negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Joy is not the primary emotion here, but the ideal of a happy marriage could evoke it."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in God's ordinance for marriage."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Fear of breaking the marriage bond."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Surprise is not a significant emotion here."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Sadness related to divorce and broken families."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Disgust is not a prominent emotion in this passage."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Anger is not a prominent emotion in this passage."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anticipation for a lasting marriage."
+        }
+      }
+    },
+    {
+      "topic": "Blessing Children",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "Blessing children is a positive act signifying love and acceptance."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The act of blessing evokes joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in Jesus's love and care."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Fear is not present in this context."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Surprise is not a significant emotion here."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Sadness is not present in this context."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not present in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not present in this context."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation for the children's future."
+        }
+      }
+    },
+    {
+      "topic": "Rich Young Man",
+      "sentiment_polarity": {
+        "score": 0.1,
+        "confidence": 80,
+        "reasoning": "The encounter with the rich young man has mixed sentiment. The initial question is positive, but the man's ultimate decision to leave is sorrowful."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Initial hope for eternal life."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The man trusts Jesus enough to ask the question."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Fear of losing his possessions."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at Jesus's demanding request."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The man's sorrowful departure."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not present in this context."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Possible frustration on the part of Jesus."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The man's initial anticipation of gaining eternal life."
+        }
+      }
+    },
+    {
+      "topic": "Difficulty for the Rich",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "This teaching is primarily negative, highlighting the difficulty and warning against the love of wealth."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Joy is not present in this context."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust in the truth of Jesus's words."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear of not entering the Kingdom of God."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the difficulty."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Sadness related to the difficulty for the rich."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust at the attachment to wealth."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Possible anger at the injustice of wealth."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Hope for those who are not wealthy."
+        }
+      }
+    },
+    {
+      "topic": "Rewards for Sacrifice",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "This teaching offers a positive outlook for those who sacrifice for Christ, promising great rewards."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The promise of rewards evokes joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in Jesus's promise."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Fear is minimal in this context."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at the extent of the rewards."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Sadness is minimal in this context."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not present in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not present in this context."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation for the future rewards."
+        }
+      }
+    },
+    {
+      "topic": "Prediction of Suffering",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 90,
+        "reasoning": "This prediction is primarily negative due to the themes of suffering and death, but contains a glimmer of hope in the resurrection."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal joy, only from the resurrection aspect."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust in God's plan."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Fear of suffering and death."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Possible surprise at the details of the suffering."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Sadness related to the suffering and death."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Disgust at the betrayal and mistreatment."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anger at the injustice of the suffering."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation for the resurrection."
+        }
+      }
+    },
+    {
+      "topic": "James and John's Request",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 70,
+        "reasoning": "The request of James and John is self-serving and contrasts with Jesus's teaching on service, creating mixed sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Joy at the prospect of honor."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Trust in Jesus's ability to grant their request."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Fear of not getting the desired position."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at Jesus's response."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Possible sadness at Jesus's rebuke."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Disgust at the self-serving nature of the request."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger from the other disciples."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation for the future kingdom."
+        }
+      }
+    },
+    {
+      "topic": "Healing of Bartimaeus",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The healing of Bartimaeus is a positive event signifying compassion and restoration."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The act of healing evokes joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in Jesus's power and compassion."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Fear is not present in this context."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the miraculous healing."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Sadness is not present in this context."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not present in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not present in this context."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation for Bartimaeus's new life."
+        }
+      }
+    }
+  ]
+}

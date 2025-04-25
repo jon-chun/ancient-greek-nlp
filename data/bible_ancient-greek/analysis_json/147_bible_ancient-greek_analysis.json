@@ -1,0 +1,160 @@
+{
+  "segment_metadata": {
+    "segment_number": "147",
+    "segment_filename": "147_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from one of Paul's letters, specifically 1 Thessalonians.",
+    "text_summary": "This passage from Paul's letter to the Thessalonians encourages believers to live as children of light, staying alert and sober, and equipping themselves with faith, love, and hope. It emphasizes that God has not destined them for wrath but for salvation through Jesus Christ, who died for them so that they might live with Him. It urges them to encourage and build up one another. The passage also includes instructions on how to treat different members of the community: admonishing the unruly, comforting the fainthearted, helping the weak, and being patient with all. It calls for constant rejoicing, prayer, and thanksgiving, and warns against quenching the Spirit or despising prophecies. The letter concludes with a prayer for their complete sanctification and a request for prayers for the senders, a holy greeting, and a charge to read the letter to all the brothers and sisters. It also includes a greeting and thanksgiving for their faith, love, and perseverance amidst persecution, seeing it as evidence of God's righteous judgment and their worthiness of His kingdom. It anticipates the Lord's return in glory and the punishment of those who do not know or obey God. Finally, it prays that God will fulfill their calling and glorify the name of Jesus in them. It warns against being easily shaken by false teachings about the day of the Lord, and describes the coming apostasy and the revelation of the man of lawlessness, whom the Lord will destroy."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Living as Children of Light",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is positive due to the encouragement, hope, love, and faith expressed. The passage emphasizes salvation, mutual support, and the anticipation of Christ's return, all contributing to a positive outlook."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The text explicitly calls for rejoicing always."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The passage emphasizes faith in God and the reliability of His promises."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 80,
+          "reasoning": "Warnings about apostasy and judgment introduce an element of fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The anticipation of unexpected events contributes to surprise."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "Suffering and persecution are mentioned, suggesting some sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The description of the 'man of lawlessness' evokes a sense of disgust."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anger is directed towards those who reject God and cause suffering."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The expectation of Christ's return and the fulfillment of God's promises create strong anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Community and Mutual Support",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 90,
+        "reasoning": "This section focuses on mutual encouragement, community building, and showing respect to leaders. These are all positive actions contributing to a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The text encourages positive interactions and mutual support."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Emphasis on community and mutual support fosters trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There is little to suggest fear in this section."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There is little to suggest surprise in this section."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There is little to suggest sadness in this section."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 50,
+          "reasoning": "There is nothing to suggest disgust in this section."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 50,
+          "reasoning": "There is nothing to suggest anger in this section."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Looking forward to a stronger and more supportive community."
+        }
+      }
+    },
+    {
+      "topic": "Apostasy and the Man of Lawlessness",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "This section warns about the coming apostasy and the man of lawlessness. It also speaks of God's judgment on those who disobey. This creates a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Little to suggest joy in this section."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Trust is undermined by the warnings about deceit and apostasy."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Warnings of apostasy and judgment create significant fear."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The unexpected nature of these events contributes to surprise."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Suffering caused by the man of lawlessness evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The description of the 'man of lawlessness' evokes a sense of disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anger is directed towards the man of lawlessness."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Waiting for God's judgment and the resolution of these events."
+        }
+      }
+    }
+  ]
+}

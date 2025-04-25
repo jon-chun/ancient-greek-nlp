@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "160",
+    "segment_filename": "160_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the Book of Hebrews.",
+    "text_summary": "This passage from Hebrews emphasizes the importance of entering God's rest and avoiding disobedience. It highlights the power and discernment of God's word, which penetrates deeply into the human soul. The text affirms Jesus as the great high priest who understands human weaknesses and temptations, encouraging believers to approach God's throne with confidence to receive mercy and grace. It explains the role of the high priest, chosen by God to offer sacrifices for sins, and affirms Christ's appointment as high priest after the order of Melchizedek. It rebukes spiritual immaturity, urging believers to move beyond elementary teachings to spiritual maturity, warning against the impossibility of renewing those who have fallen away after experiencing God's grace. It concludes with a comparison of the earth that receives rain and produces good fruit versus the earth that produces thorns and thistles, emphasizing the consequences of obedience and disobedience."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Entering God's Rest and Avoiding Disobedience",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The passage encourages entering God's rest, which is positive, but warns against disobedience, which carries negative consequences. The overall sentiment is positive due to the promise of rest."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The concept of rest implies peace and joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Entering God's rest requires trust in Him."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "There's a fear of falling into disobedience."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Not much surprise here."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "The consequence of disobedience brings sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust at the idea of rejecting God's rest."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Possible anger towards those who reject God's rest."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of experiencing God's rest."
+        }
+      }
+    },
+    {
+      "topic": "The Power and Discernment of God's Word",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The description of God's word as living, active, and able to discern thoughts is powerful and positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The power of God's word can bring joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the power of God's word."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear of being judged by God's word."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at the penetrating nature of God's word."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Sadness for those who reject God's word."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "No disgust here."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Possible anger towards those who distort God's word."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of the transformative power of God's word."
+        }
+      }
+    },
+    {
+      "topic": "Jesus as the Great High Priest",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The description of Jesus as a compassionate and understanding high priest is positive and comforting."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Joy in having a compassionate high priest."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in Jesus as the great high priest."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Little surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Sadness for those who don't know Jesus."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of Jesus's continued intercession."
+        }
+      }
+    },
+    {
+      "topic": "Spiritual Immaturity and the Need for Growth",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 70,
+        "reasoning": "The rebuke of spiritual immaturity has a negative aspect, but the call to growth is ultimately positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Joy in the potential for spiritual growth."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Trust in the process of spiritual growth."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Fear of remaining spiritually immature."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Surprise at the immaturity of some believers."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness over spiritual immaturity."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Disgust at the idea of remaining spiritually immature."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anger at those who resist spiritual growth."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of spiritual maturity."
+        }
+      }
+    },
+    {
+      "topic": "The Impossibility of Renewing Those Who Fall Away",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "This is a warning with a very negative sentiment, highlighting the serious consequences of apostasy."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Little trust."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Extreme fear of falling away."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Surprise at the possibility of such a fall."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Deep sadness over the fate of those who fall away."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Disgust at the act of rejecting Christ."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anger at those who cause others to fall away."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "No positive anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Consequences of Obedience and Disobedience (Earth Analogy)",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 75,
+        "reasoning": "The analogy presents both positive (blessing for obedience) and negative (curse for disobedience) outcomes, but the negative outcome is emphasized."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Joy associated with blessing for obedience."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Trust in God's fairness."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of the consequences of disobedience."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Surprise at the severity of the consequences."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness associated with the curse for disobedience."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Disgust associated with the thorns and thistles."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anger at the injustice of disobedience."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of either blessing or curse."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "100",
+    "segment_filename": "100_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the book of Romans, chapters 9 and 10.",
+    "text_summary": "This passage discusses the stumbling of Israel and the availability of salvation to both Jews and Gentiles through faith in Jesus Christ. It addresses why Israel, despite having zeal for God, failed to attain righteousness. The passage explains that they sought it through works of the law rather than through faith. It emphasizes that Christ is the end of the law for righteousness to everyone who believes. The text then highlights the accessibility of salvation through faith, quoting Old Testament passages to support the idea that belief in Jesus as Lord and his resurrection leads to salvation. It concludes by discussing the necessity of preaching and hearing the Gospel for people to believe and be saved, and touches on Israel's rejection of God's message, referencing Isaiah and Moses. The passage also touches on God's election and mercy."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Israel's Stumbling and Seeking Righteousness Through Works",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 90,
+        "reasoning": "This topic has a slightly negative sentiment due to Israel's failure to achieve righteousness through works."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal joy as the focus is on failure."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some trust in God's plan, but overshadowed by the negative outcome for Israel."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Fear of not meeting God's requirements."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Slight surprise at Israel's misunderstanding."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Sadness over Israel's failure."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal disgust, perhaps at the perceived stubbornness of Israel."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anger at Israel's rejection of God's way."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Uncertainty about Israel's future."
+        }
+      }
+    },
+    {
+      "topic": "Christ as the End of the Law for Righteousness",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "This topic has a positive sentiment, presenting Christ as the solution to achieving righteousness."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Joy at the prospect of righteousness through Christ."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Trust in Christ's ability to provide righteousness."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear, as Christ offers a solution to the problem of sin."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some surprise at the unexpected way of salvation."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness, as the focus is on hope and redemption."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger present."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Anticipation of salvation and a right relationship with God."
+        }
+      }
+    },
+    {
+      "topic": "Salvation Through Faith and Confession",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "This topic is highly positive, describing the path to salvation through belief in Jesus and confession of Him as Lord."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Great joy at the promise of salvation."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong trust in God's promise of salvation through faith."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No fear, as the passage offers assurance of salvation."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal surprise, as the message is presented as a clear path to salvation."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No sadness present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Eager anticipation of eternal life and salvation."
+        }
+      }
+    },
+    {
+      "topic": "The Necessity of Preaching and Hearing the Gospel",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 80,
+        "reasoning": "This topic is neutral to slightly positive, emphasizing the importance of spreading the Gospel."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Joy at the prospect of people hearing and believing the Gospel."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trust in the power of the Gospel to transform lives."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Fear that people might not hear or believe the Gospel."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sadness that some people may not have the opportunity to hear the Gospel."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of the Gospel being preached and people believing."
+        }
+      }
+    },
+    {
+      "topic": "God's Election and Mercy",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "This topic is positive, emphasizing God's mercy and preordained plan."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Joy in God's mercy and grace."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in God's sovereign plan and election."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fear of not being among the elect."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some surprise at the mysterious nature of God's election."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal sadness, perhaps for those who are not chosen."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger present."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of God's ultimate plan being fulfilled."
+        }
+      }
+    }
+  ]
+}

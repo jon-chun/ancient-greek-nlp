@@ -1,0 +1,710 @@
+{
+  "segment_metadata": {
+    "segment_number": "80",
+    "segment_filename": "80_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the Gospel of John, based on the content and style.",
+    "text_summary": "This passage contains several interconnected themes. It begins with Jesus speaking about the necessity of his death and resurrection, using the analogy of a grain of wheat. He emphasizes the importance of loving God more than one's own life and serving him. Jesus then expresses his inner turmoil about the impending hour of his suffering, but resolves to glorify God's name. A voice from heaven affirms God's glory. Jesus interprets this event as a judgment on the world and the casting out of its ruler (Satan). He speaks of being lifted up (crucified) and drawing all people to himself. The crowd questions this, citing the law that the Messiah will remain forever. Jesus urges them to believe in the light while they have it. The passage then describes Jesus performing many signs, yet the people still did not believe. This fulfills a prophecy of Isaiah. Some leaders believed but didn't confess it publicly for fear of the Pharisees. Jesus proclaims that believing in him is believing in God who sent him, and seeing him is seeing God. He came as light into the world to save it, not to judge it. He speaks the Father's words, which are eternal life. The passage concludes with the beginning of the Passover feast, Jesus knowing his hour has come to return to the Father, and his love for his disciples. He washes their feet, knowing Judas will betray him."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Necessity of Jesus' Death and Resurrection",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 90,
+        "reasoning": "While death is inherently negative, the context implies a positive outcome (fruitfulness) through sacrifice, thus a moderately positive score."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Implied joy in the future fruitfulness, but not immediate."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in God's plan and the eventual outcome."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Fear of death is present, but overcome by faith."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The concept of death leading to greater life might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness associated with the impending death."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "Disgust is not a prominent emotion here."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 85,
+          "reasoning": "Anger is not a prominent emotion here."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of the future fruitfulness and glory."
+        }
+      }
+    },
+    {
+      "topic": "Loving God More Than One's Own Life",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "Sacrificing one's life for a higher purpose is viewed positively in this context, indicating a strong positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Joy in fulfilling God's will and achieving eternal life."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Strong trust in God's promise of eternal life."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of losing one's earthly life."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Surprise is not a prominent emotion here."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Sadness associated with the potential loss of earthly life."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not a prominent emotion here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not a prominent emotion here."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of eternal life and reward."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Inner Turmoil and Glorifying God's Name",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 80,
+        "reasoning": "Mixed emotions: turmoil is negative, but the resolution to glorify God is positive, resulting in a slightly positive score."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Joy in fulfilling God's will, but overshadowed by turmoil."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trust in God's plan despite the suffering."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Significant fear of the impending suffering."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Surprise is not a prominent emotion here."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Profound sadness and anguish due to the impending suffering."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "Disgust is not a prominent emotion here."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "Anger is not a prominent emotion here."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of glorifying God's name, despite the suffering."
+        }
+      }
+    },
+    {
+      "topic": "The Voice from Heaven and its Interpretation",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The voice from heaven affirming God's glory is a highly positive event."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy associated with God's affirmation and glory."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong trust in God's presence and power."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear, possibly awe."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Surprise at the unexpected voice from heaven."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Sadness is not a prominent emotion here."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not a prominent emotion here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not a prominent emotion here."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of future events and God's continued glory."
+        }
+      }
+    },
+    {
+      "topic": "Judgment of the World and Casting Out of Satan",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 75,
+        "reasoning": "Judgment can be seen as negative, but the casting out of Satan is positive, resulting in a moderately positive score."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Joy in the victory over evil."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trust in God's power to overcome evil."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Fear associated with judgment and the power of Satan."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise at the suddenness of the judgment."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness associated with the judgment of the world."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Disgust towards evil and Satan."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anger towards Satan and the forces of evil."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of a new world free from evil."
+        }
+      }
+    },
+    {
+      "topic": "Jesus Being Lifted Up (Crucified)",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "Crucifixion is inherently negative due to suffering and death, but it leads to salvation, creating a mixed sentiment, ultimately leaning negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Joy in the ultimate salvation that will result."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in God's plan for salvation through sacrifice."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Significant fear of the suffering and death of crucifixion."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Surprise at the unexpected nature of the Messiah's death."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Profound sadness and grief associated with the suffering and death of Jesus."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Disgust towards the injustice and cruelty of the crucifixion."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anger towards those responsible for the crucifixion."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of the salvation that will result from the crucifixion."
+        }
+      }
+    },
+    {
+      "topic": "The Crowd's Doubt and Jesus' Call to Believe in the Light",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 70,
+        "reasoning": "The crowd's doubt is negative, but Jesus' call to believe is positive, resulting in a slightly negative score due to the prevailing doubt."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal joy due to the prevailing doubt."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Trust in Jesus' words is challenged by the crowd's doubt."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Fear of the unknown and the consequences of not believing."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise at Jesus' claims and the crowd's reaction."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness associated with the crowd's lack of belief."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "Disgust towards the crowd's stubbornness."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Anger towards the crowd's disbelief."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Anticipation of the consequences of belief or disbelief."
+        }
+      }
+    },
+    {
+      "topic": "Unbelief Despite Miracles and Fulfillment of Prophecy",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 80,
+        "reasoning": "Unbelief in the face of miracles is a strongly negative sentiment. The fulfillment of prophecy adds a layer of inevitability, but doesn't negate the negativity of the unbelief."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal joy due to the prevailing unbelief."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Trust is undermined by the lack of faith."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Fear of the consequences of unbelief."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the persistent unbelief despite the miracles."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Profound sadness and disappointment at the lack of faith."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Disgust towards the stubbornness and blindness of the unbelievers."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger towards the rejection of Jesus despite the evidence."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anticipation of the consequences of the unbelief."
+        }
+      }
+    },
+    {
+      "topic": "Belief Among Leaders but Fear of the Pharisees",
+      "sentiment_polarity": {
+        "score": 0.1,
+        "confidence": 65,
+        "reasoning": "Belief is positive, but the fear and lack of public confession are negative, resulting in a slightly positive score."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Joy in the private belief."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trust in Jesus, but limited by fear."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Significant fear of the Pharisees and the consequences of public confession."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Surprise is not a prominent emotion here."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Sadness associated with the inability to publicly express their faith."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Disgust towards the hypocrisy of the Pharisees."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anger towards the Pharisees for their oppressive influence."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anticipation of the potential consequences of public confession."
+        }
+      }
+    },
+    {
+      "topic": "Jesus as Light and Savior",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Jesus being the light and savior is a highly positive and central theme."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Great joy associated with salvation and enlightenment."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Complete trust in Jesus as the savior."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear in the presence of the light."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Surprise is not a prominent emotion here."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal sadness in the presence of the light."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not a prominent emotion here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not a prominent emotion here."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of eternal life and salvation."
+        }
+      }
+    },
+    {
+      "topic": "The Father's Command and Eternal Life",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 90,
+        "reasoning": "The Father's command leading to eternal life is a highly positive concept."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy associated with eternal life."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Complete trust in the Father's command and promise."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear in the context of eternal life."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Surprise is not a prominent emotion here."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal sadness in the context of eternal life."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not a prominent emotion here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not a prominent emotion here."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong anticipation of eternal life."
+        }
+      }
+    },
+    {
+      "topic": "Jesus Knowing His Hour Has Come",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 70,
+        "reasoning": "Mixed sentiment. Knowing his hour has come implies impending suffering, but also fulfillment of purpose, resulting in a slightly positive score."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Joy in fulfilling his divine purpose."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in God's plan."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Fear of the impending suffering."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Surprise is not a prominent emotion here."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Sadness associated with leaving his disciples and facing suffering."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust towards the betrayal that is coming."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Anger towards the forces of evil that are at work."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of returning to the Father."
+        }
+      }
+    },
+    {
+      "topic": "Love for His Disciples and Washing of Feet",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The act of love and service is a highly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy in serving and loving his disciples."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in the bond with his disciples."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at the humility of Jesus washing feet."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sadness knowing of the impending betrayal."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not a prominent emotion here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not a prominent emotion here."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of teaching his disciples through his actions."
+        }
+      }
+    },
+    {
+      "topic": "Judas' Betrayal",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "Betrayal is a strongly negative concept."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No joy associated with betrayal."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 5,
+          "reasoning": "Complete lack of trust due to betrayal."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Fear of the consequences of the betrayal."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Surprise at the act of betrayal."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Profound sadness and grief associated with betrayal."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong disgust towards the act of betrayal."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Intense anger towards the betrayer."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Anticipation of the negative consequences of the betrayal."
+        }
+      }
+    }
+  ]
+}

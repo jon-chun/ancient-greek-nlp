@@ -1,0 +1,160 @@
+{
+  "segment_metadata": {
+    "segment_number": "88",
+    "segment_filename": "88_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the Gospel of John, chapters 19 and 20, describing the crucifixion, burial, and discovery of the empty tomb of Jesus.",
+    "text_summary": "This passage recounts the final moments of Jesus's crucifixion, including his declaration \"It is finished,\" his death, and the piercing of his side. It details the Jewish leaders' concern about the bodies remaining on the crosses during the Sabbath and their request to Pilate to have the legs broken. The soldiers, however, did not break Jesus's legs as they found him already dead. Joseph of Arimathea, with Pilate's permission, retrieves Jesus's body and, together with Nicodemus, prepares it for burial with spices. They place the body in a new tomb in a garden near the crucifixion site. On the first day of the week, Mary Magdalene discovers the empty tomb and informs Peter and the other disciple, who run to the tomb and find it empty, with only the burial cloths remaining. Mary Magdalene then remains at the tomb weeping and encounters two angels. The disciples then return home, pondering the events."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Crucifixion and Death of Jesus",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The death of Jesus is a central event, marked by suffering and loss, resulting in a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is directly associated with the act of death itself."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some trust remains in God's overarching plan, even amidst suffering."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Fear arises from the implications and finality of death."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal surprise, as the crucifixion was anticipated."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Overwhelming sadness is felt due to the loss of Jesus."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some disgust is present due to the brutality of the crucifixion."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger is felt at the injustice of Jesus's death."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Little anticipation is directly associated with death itself."
+        }
+      }
+    },
+    {
+      "topic": "Discovery of the Empty Tomb",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 75,
+        "reasoning": "The discovery of the empty tomb is a surprising event that creates mixed emotions of hope and confusion, leading to a slightly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Potential joy arises from the possibility of resurrection."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust in God's plan remains, even amidst confusion and uncertainty."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear stems from the unknown and the implications of the empty tomb."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The discovery of the empty tomb is an unexpected and surprising event."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Sadness is present due to the apparent loss of Jesus's body."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is associated with the empty tomb itself."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal anger is felt, perhaps directed at unknown perpetrators."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation is high as to what the empty tomb signifies and what will happen next."
+        }
+      }
+    },
+    {
+      "topic": "Fulfillment of Prophecy",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "The passage emphasizes the fulfillment of scripture, which carries a positive sentiment due to the validation of divine promises and plans."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Joy is associated with the realization of divine promises and the confirmation of faith."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's word and plan is strengthened by the fulfillment of prophecy."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear is present, as the fulfillment of prophecy brings reassurance."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some surprise may be present at the specific ways in which prophecy is fulfilled."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Minimal sadness is associated with the fulfillment of prophecy, as it brings hope."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is associated with the fulfillment of prophecy."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal anger is present, as the fulfillment of prophecy brings justice and resolution."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation is high as to what the fulfillment of prophecy signifies for the future."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "161",
+    "segment_filename": "161_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the Book of Hebrews. The references to Melchizedek and the discussion of priesthood are strong indicators.",
+    "text_summary": "This passage from Hebrews encourages believers to persevere in their faith, reminding them that God is just and remembers their acts of love and service. It uses the example of Abraham, who patiently waited for God's promise and received it, confirmed by God's oath. God's unchanging purpose is emphasized, offering strong encouragement to those who have fled to Him for refuge. This hope is described as an anchor for the soul, secure and firm, reaching into the inner sanctuary where Jesus, our forerunner, has entered as a high priest in the order of Melchizedek. The passage then delves into the significance of Melchizedek, highlighting his superiority to the Levitical priesthood and establishing Jesus's priesthood as superior and eternal, based on the power of an indestructible life, offering complete salvation to those who draw near to God through Him."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Encouragement to Believers",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The passage aims to uplift and motivate believers, emphasizing God's faithfulness and their own good works, creating a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The passage evokes joy through the promise of salvation and God's favor."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The core of the encouragement is based on trusting God's character and promises."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Fear of failing to persevere is subtly present."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "God's unexpected ways of fulfilling promises."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "A slight awareness of the potential for disappointment if faith wavers."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Looking forward to the fulfillment of God's promises."
+        }
+      }
+    },
+    {
+      "topic": "God's Faithfulness and Oath",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "This section highlights God's unwavering commitment to His promises, reinforced by His oath, making it highly positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Joy in knowing God is faithful."
+        },
+        "Trust": {
+          "weight": 0.95,
+          "confidence": 99,
+          "reasoning": "God's oath guarantees trustworthiness."
+        },
+        "Fear": {
+          "weight": 0.05,
+          "confidence": 40,
+          "reasoning": "Minimal fear, as the oath removes doubt."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Not much surprise, as God's nature is consistent."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Expectation of blessings based on God's promise."
+        }
+      }
+    },
+    {
+      "topic": "Hope as an Anchor",
+      "sentiment_polarity": {
+        "score": 0.85,
+        "confidence": 96,
+        "reasoning": "The metaphor of hope as an anchor conveys stability and security, which are positive sentiments."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The joy of being secure."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in the anchor of hope."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Fear of drifting away is countered by the anchor."
+        },
+        "Surprise": {
+          "weight": 0.05,
+          "confidence": 30,
+          "reasoning": "Little surprise is involved."
+        },
+        "Sadness": {
+          "weight": 0.05,
+          "confidence": 30,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Looking forward to reaching the inner sanctuary."
+        }
+      }
+    },
+    {
+      "topic": "Melchizedek and Superior Priesthood",
+      "sentiment_polarity": {
+        "score": 0.75,
+        "confidence": 92,
+        "reasoning": "The establishment of a superior priesthood through Melchizedek and Jesus is presented as a positive development, offering a better way to approach God."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.65,
+          "confidence": 80,
+          "reasoning": "Joy in having a better high priest."
+        },
+        "Trust": {
+          "weight": 0.85,
+          "confidence": 90,
+          "reasoning": "Trust in the efficacy of the Melchizedek priesthood."
+        },
+        "Fear": {
+          "weight": 0.15,
+          "confidence": 60,
+          "reasoning": "Fear associated with the old system is diminished."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The unexpected nature of the new priesthood."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Sadness over the limitations of the old system."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipating the benefits of the new priesthood."
+        }
+      }
+    }
+  ]
+}

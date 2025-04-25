@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "174",
+    "segment_filename": "174_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from one of the epistles (letters). The mention of Simon Peter, Silvanus, Mark, and references to Babylon suggest it could be from 1 Peter or 2 Peter.",
+    "text_summary": "This segment contains greetings and blessings, emphasizing the importance of faith, knowledge, virtue, and love within the Christian community. It speaks of God's grace and power providing everything needed for life and godliness through the knowledge of Him. The text urges believers to cultivate virtues, warning against spiritual blindness and urging them to make their calling and election sure. It also acknowledges the apostle's impending death and his desire to remind believers of these truths, emphasizing the eyewitness account of Christ's power and glory, not relying on myths. The segment concludes with a call to remember these teachings."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Divine Grace and Calling",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The passage focuses on God's grace, calling believers to eternal glory, and providing everything needed for life and godliness, which are inherently positive concepts."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "God's calling and provision bring joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Reliance on God's promises fosters trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "A slight fear of falling short of God's calling."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Awe at God's power and the unexpected blessings."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Awareness of human imperfection and the need for grace."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is explicitly present in this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is explicitly present in this topic."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Looking forward to eternal life and experiencing God's glory."
+        }
+      }
+    },
+    {
+      "topic": "Cultivating Virtues (Faith, Knowledge, Love)",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The passage emphasizes the importance of virtues like faith, knowledge, virtue, self-control, perseverance, godliness, brotherly kindness, and love, which are positive attributes for spiritual growth."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Experiencing the benefits of virtue brings joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trusting in the process of spiritual growth and God's guidance."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Fear of failing to cultivate these virtues and falling into sin."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Discovering new aspects of virtue and their impact on life."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Regret for past shortcomings and failures to live virtuously."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is explicitly present in this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is explicitly present in this topic."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Eagerly pursuing spiritual growth and the development of virtues."
+        }
+      }
+    },
+    {
+      "topic": "Warning Against Spiritual Blindness",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "This section warns against spiritual blindness and forgetting past sins, highlighting a deficiency and potential negative outcome."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Limited joy, as this is primarily a warning."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust in the possibility of overcoming blindness and seeking forgiveness."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear of succumbing to spiritual blindness and losing sight of God."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Realizing the potential for blindness and the subtle ways it can creep in."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness over the state of blindness and the loss of spiritual clarity."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Disgust at the consequences of sin and the corruption it brings."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Frustration with oneself for potential failings and susceptibility to sin."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Hope for avoiding blindness and maintaining spiritual clarity."
+        }
+      }
+    },
+    {
+      "topic": "Apostle's Impending Death and Testimony",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 80,
+        "reasoning": "This section discusses the apostle's awareness of his approaching death and his desire to leave a lasting testimony. While death is somber, the focus on truth and eyewitness account adds a positive element."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Joy in having shared the truth and witnessed God's glory."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the truth of the message and its enduring power."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of the message being forgotten or distorted after his death."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Acceptance of the inevitable and the mystery of death."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness about leaving the community and the earthly realm."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is explicitly present in this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is explicitly present in this topic."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Hope that the message will endure and continue to impact believers."
+        }
+      }
+    },
+    {
+      "topic": "Greetings and Fellowship",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Greetings and expressions of fellowship are inherently positive, fostering unity and love within the community."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Happiness in fellowship and connection with other believers."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in the bonds of community and the support of fellow Christians."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No fear is explicitly present in this topic."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Mild surprise at the unexpected connections and blessings of fellowship."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No sadness is explicitly present in this topic."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is explicitly present in this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is explicitly present in this topic."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Looking forward to future fellowship and strengthening bonds with the community."
+        }
+      }
+    }
+  ]
+}

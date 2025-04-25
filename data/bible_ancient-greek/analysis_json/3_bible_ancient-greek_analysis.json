@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "3",
+    "segment_filename": "3_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from the Gospel of Mark.",
+    "text_summary": "This passage from the Gospel of Mark recounts several episodes in Jesus' ministry. It begins with the astonishment of the people at Jesus' authoritative teaching and power over unclean spirits. It then describes the healing of Simon Peter's mother-in-law, followed by a mass healing of the sick and demon-possessed. Jesus then withdraws to a solitary place to pray. Despite his desire for solitude, he is sought out by his disciples and the crowds. He decides to preach in other towns. The passage then describes the cleansing of a leper and the subsequent spread of the news, making it difficult for Jesus to enter towns openly. Finally, it describes the healing of a paralytic man who was lowered through a roof, and the calling of Levi (Matthew), followed by Jesus eating with sinners and tax collectors, prompting criticism from the Pharisees. The passage concludes with a discussion about fasting."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Jesus' Authority and Miracles",
+      "sentiment_polarity": {
+        "score": 0.75,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is positive due to the healing, teaching, and demonstration of divine power. The challenges and criticisms faced by Jesus temper the positivity slightly."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The healings and the leper's cleansing bring joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Jesus' authority and miracles inspire trust."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The presence of demons and disease evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The miracles are surprising and unexpected."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "The suffering of the sick and the leper evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The leper's condition might evoke disgust in some."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "The Pharisees' criticism shows a degree of anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Jesus' plans to preach in other towns create anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Cleansing of the Leper",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The healing of the leper is a positive event, showcasing compassion and divine power."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "The leper's cleansing brings immense joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Jesus' healing power inspires trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Initial fear of the leper's condition."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The instantaneous healing is surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The leper's initial suffering evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Possible initial disgust at the leper's condition."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "No anger is directly expressed."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation of the leper's new life."
+        }
+      }
+    },
+    {
+      "topic": "Healing of the Paralytic",
+      "sentiment_polarity": {
+        "score": 0.85,
+        "confidence": 95,
+        "reasoning": "The healing of the paralytic is a powerful and positive event, demonstrating Jesus' authority to forgive sins and heal. The skepticism of the scribes introduces a minor negative element."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The paralytic's healing brings immense joy."
+        },
+        "Trust": {
+          "weight": 0.85,
+          "confidence": 90,
+          "reasoning": "Jesus' divine power inspires trust."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The scribes' skepticism could induce fear."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The miraculous healing is surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The paralytic's initial suffering evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Possible initial feelings about the paralytic's condition."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "The scribes' skepticism reveals some anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of the paralytic's new life and the impact of the miracle."
+        }
+      }
+    },
+    {
+      "topic": "Jesus Eating with Sinners and Tax Collectors",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 90,
+        "reasoning": "Jesus eating with sinners and tax collectors is a controversial act, but it reflects his compassion and mission to save the lost. The criticism from the Pharisees introduces a negative element."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Joy in the fellowship and acceptance."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trust in Jesus' motives and compassion."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Fear of societal disapproval."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at Jesus' unconventional behavior."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness for the outcasts and sinners."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust from the Pharisees."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anger from the Pharisees."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anticipation of the consequences of Jesus' actions."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "140",
+    "segment_filename": "140_bible_ancient-greek.txt",
+    "text_identification": "New Testament, likely Philippians.",
+    "text_summary": "This passage from Philippians reflects Paul's relentless pursuit of spiritual maturity in Christ. He emphasizes the importance of pressing on, forgetting the past, and striving towards the goal of the upward call of God. He encourages believers to imitate him and to be wary of those who live as enemies of the cross. The passage highlights the believer's citizenship in heaven and the anticipation of Christ's return, who will transform our lowly bodies into conformity with his glorious body. It also includes exhortations for unity, rejoicing in the Lord, and casting anxieties on God through prayer, resulting in God's peace guarding hearts and minds. Finally, it encourages focusing on what is true, noble, right, pure, lovely, and admirable."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Pursuing Spiritual Maturity in Christ",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The sentiment is positive due to the emphasis on striving towards a higher calling and spiritual growth. The confidence is high because the text explicitly encourages pressing on and forgetting the past."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "There is a sense of joy in the pursuit of spiritual growth. Weight is moderate because the focus is more on striving than on present joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in God's plan is central to the pursuit."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "A small amount of fear of not reaching the goal might be present."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Surprise is not a major element here."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Sadness related to past failures is acknowledged but not emphasized."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not directly relevant."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not directly relevant."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Strong anticipation of the future reward and transformation."
+        }
+      }
+    },
+    {
+      "topic": "Warning Against Enemies of the Cross",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The sentiment is negative due to the warning against those who are enemies of the cross. The confidence is high because the text explicitly describes their end as destruction and their minds set on earthly things."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Lack of trust in those who are enemies."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of the influence of these enemies."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at their behavior."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Sadness over their fate."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Disgust at their earthly focus."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at their opposition to the cross."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of their negative consequences."
+        }
+      }
+    },
+    {
+      "topic": "Heavenly Citizenship and Transformation",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The sentiment is positive due to the focus on heavenly citizenship and the promise of transformation. The confidence is high because the text explicitly states our citizenship is in heaven and Christ will transform our bodies."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy in the hope of heavenly citizenship and transformation."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's promise of transformation."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear, mostly hope."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the magnitude of the transformation."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong anticipation of the future glory."
+        }
+      }
+    },
+    {
+      "topic": "Exhortation to Unity and Rejoicing",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The sentiment is positive due to the call for unity and rejoicing in the Lord. The confidence is high because the text explicitly encourages these behaviors."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong emphasis on joy and rejoicing."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the Lord and in one another."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the power of unity."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of the benefits of unity."
+        }
+      }
+    },
+    {
+      "topic": "Prayer and Peace of God",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The sentiment is positive due to the promise of God's peace through prayer. The confidence is high because the text explicitly states that God's peace will guard hearts and minds."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy in the peace of God."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's provision through prayer."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Reduced fear through prayer."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the effectiveness of prayer."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Reduced sadness through prayer."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of God's peace."
+        }
+      }
+    },
+    {
+      "topic": "Focus on Virtue and Excellence",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The sentiment is positive due to the encouragement to focus on what is true, noble, right, pure, lovely, and admirable. The confidence is high because the text explicitly lists these qualities."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy in focusing on positive qualities."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the value of these virtues."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the impact of these virtues."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of the positive outcomes of focusing on these virtues."
+        }
+      }
+    }
+  ]
+}

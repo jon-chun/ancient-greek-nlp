@@ -1,0 +1,410 @@
+{
+  "segment_metadata": {
+    "segment_number": "48",
+    "segment_filename": "48_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from the Gospel of Luke, specifically the parable of the Great Banquet.",
+    "text_summary": "This passage begins with a statement about recompense at the resurrection of the righteous. Then, someone remarks about the blessedness of eating in the Kingdom of God. Jesus responds with the parable of the Great Banquet. A man prepares a large dinner and invites many guests, but they all make excuses and decline. The host, angered by their rejection, instructs his servant to invite the poor, crippled, blind, and lame from the streets. Even after this, there is still room, so the host orders the servant to go out to the roads and compel people to come, so that his house may be filled. The passage then shifts to the cost of discipleship, stating that one must hate their family and even their own life to be a disciple, and must carry their own cross. It concludes with examples of the need to consider the cost before building a tower or going to war."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Recompense at the Resurrection",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The concept of recompense at the resurrection is generally positive, suggesting justice and reward for the righteous."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Resurrection implies positive outcomes and happiness."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Belief in divine justice and reward."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minimal fear as it is a positive event for the righteous."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some element of surprise at the specifics of the resurrection."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No element of disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minimal anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Looking forward to the resurrection."
+        }
+      }
+    },
+    {
+      "topic": "Blessedness of Eating in the Kingdom of God",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "This statement expresses a positive sentiment, highlighting the joy and privilege associated with participating in the Kingdom of God."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "The Kingdom of God is a source of great joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Trust in God's promise and provision."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No fear associated with this blessing."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Mild surprise at the nature of the blessing."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No sadness associated."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust associated."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger associated."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of the fulfillment of the Kingdom."
+        }
+      }
+    },
+    {
+      "topic": "Parable of the Great Banquet (Initial Rejection)",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The initial rejection of the invitation carries a negative sentiment, reflecting a disregard for the host's generosity and a preference for worldly affairs."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy in the rejection."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Erosion of trust due to broken commitments."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal fear, perhaps fear of missing out."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Surprise at the unexpected excuses."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Disappointment and sadness at the rejection."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Mild disgust at the insincerity of the excuses."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger and frustration at the rejection."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Reduced anticipation due to the rejection."
+        }
+      }
+    },
+    {
+      "topic": "Parable of the Great Banquet (Invitation to the Marginalized)",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The invitation to the poor, crippled, blind, and lame carries a positive sentiment, reflecting compassion, inclusivity, and a reversal of social norms."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Joy at the inclusion of the marginalized."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Trust in God's compassion and justice."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No fear associated with this act."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise at the unexpected invitation."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal sadness, perhaps reflecting on past exclusion."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust associated."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger associated."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of the blessings to come."
+        }
+      }
+    },
+    {
+      "topic": "Parable of the Great Banquet (Compelling People to Enter)",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 75,
+        "reasoning": "The act of compelling people to enter carries a mixed sentiment. While the intention is to fill the house, the forcefulness might be seen as controversial."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Joy at the prospect of a full house."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Trust in the host's intentions."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear of being compelled or of the unknown."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Surprise at the unexpected compulsion."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some may find the compulsion distasteful."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anger at being forced."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of the banquet."
+        }
+      }
+    },
+    {
+      "topic": "Cost of Discipleship (Hate Family)",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 85,
+        "reasoning": "The statement about 'hating' one's family is highly controversial and carries a negative sentiment if taken literally. However, in context, it means loving God more than family, which tempers the negativity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal joy in this difficult teaching."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trust in God's wisdom and purpose."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear of the consequences of discipleship."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise at the radical nature of the demand."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness at the potential for familial conflict."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anger at the perceived unfairness of the demand."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of the rewards of discipleship."
+        }
+      }
+    },
+    {
+      "topic": "Cost of Discipleship (Carrying the Cross)",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "'Carrying the cross' is a metaphor for suffering and sacrifice, carrying a negative sentiment in terms of immediate experience, but a positive sentiment in terms of ultimate reward."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Joy at the prospect of eternal reward."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in God's promise of reward."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Fear of the suffering involved."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Sadness at the prospect of suffering."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger at the perceived injustice of suffering."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of the ultimate reward."
+        }
+      }
+    },
+    {
+      "topic": "Considering the Cost (Building a Tower/Going to War)",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 85,
+        "reasoning": "These analogies emphasize the importance of careful planning and foresight, carrying a neutral sentiment overall."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Joy at the prospect of success through planning."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trust in the value of careful planning."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of failure due to lack of planning."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Sadness at the prospect of failure."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust associated."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of success through planning."
+        }
+      }
+    }
+  ]
+}

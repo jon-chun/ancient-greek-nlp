@@ -1,0 +1,410 @@
+{
+  "segment_metadata": {
+    "segment_number": "117",
+    "segment_filename": "117_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely 1 Corinthians 15, discussing resurrection and the nature of the spiritual body.",
+    "text_summary": "This passage contrasts the earthly (psychikon) and spiritual (pneumatikon) realms, asserting that the physical body is not the final form. It speaks of Adam as the first man, a living soul, and Christ as the last Adam, a life-giving spirit. The text emphasizes that the spiritual follows the physical, not precedes it. It highlights the difference between the earthly man and the heavenly man, urging believers to bear the image of the heavenly. It declares that flesh and blood cannot inherit the kingdom of God, nor can corruption inherit incorruption. A mystery is revealed: all will be changed, not necessarily die, at the last trumpet. The perishable must put on imperishability, and the mortal immortality. Death is swallowed up in victory, its sting (sin) and power (the law) overcome through Christ. The passage concludes with exhortations to steadfastness, diligence in the Lord's work, and instructions regarding a collection for the saints, travel plans, and greetings. It ends with a curse on those who do not love the Lord and a blessing of grace and love."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Earthly vs. Spiritual Body",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 95,
+        "reasoning": "Overall positive sentiment due to the promise of a spiritual body and overcoming the limitations of the earthly one."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The concept of a spiritual body brings joy and hope."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's promise of a transformed body."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Some fear associated with the unknown transformation."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The revelation of a spiritual body is surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Acknowledgment of the limitations and eventual decay of the earthly body."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal disgust related to the corruption of the physical body."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 40,
+          "reasoning": "No anger present in this concept."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Eager anticipation of the spiritual transformation."
+        }
+      }
+    },
+    {
+      "topic": "Adam and Christ",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Positive sentiment due to Christ being presented as the life-giving spirit and overcoming the limitations of Adam."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy in the victory of Christ over the limitations of Adam."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong trust in Christ as the source of spiritual life."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear related to the fall of Adam."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The concept of Christ as the 'last Adam' can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some sadness related to the consequences of Adam's actions."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "No disgust present in this comparison."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No anger present in this comparison."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of the blessings brought by Christ."
+        }
+      }
+    },
+    {
+      "topic": "Resurrection and Transformation",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "Very positive sentiment due to the promise of resurrection and transformation into an immortal state."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Immense joy at the prospect of resurrection and immortality."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong trust in God's power to raise the dead."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear of death due to the promise of resurrection."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The suddenness and completeness of the transformation are surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal sadness due to the overcoming of death."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No disgust present in this concept."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No anger present in this concept."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Intense anticipation of the resurrection and transformation."
+        }
+      }
+    },
+    {
+      "topic": "Victory over Death",
+      "sentiment_polarity": {
+        "score": 1.0,
+        "confidence": 100,
+        "reasoning": "Extremely positive sentiment due to the declaration of victory over death."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 1.0,
+          "confidence": 100,
+          "reasoning": "Complete joy at the defeat of death."
+        },
+        "Trust": {
+          "weight": 1.0,
+          "confidence": 100,
+          "reasoning": "Absolute trust in God's power to overcome death."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No fear of death due to its defeat."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The completeness of the victory can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No sadness due to the overcoming of death."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No disgust present in this concept."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No anger present in this concept."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Eager anticipation of the full realization of this victory."
+        }
+      }
+    },
+    {
+      "topic": "Exhortation to Steadfastness and Diligence",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "Positive sentiment due to the encouragement to be steadfast and diligent in the Lord's work."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Joy in serving the Lord."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the Lord's guidance and support."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear of failure."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Potential for unexpected blessings through diligence."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal sadness related to the challenges of serving."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No disgust present in this concept."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No anger present in this concept."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of the rewards of faithful service."
+        }
+      }
+    },
+    {
+      "topic": "Collection for the Saints",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 70,
+        "reasoning": "Neutral to slightly positive sentiment, as it concerns an act of charity and support."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Joy in giving and helping others."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trust in the proper use of the collected funds."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear of mismanaging the funds."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Potential for unexpected blessings through generosity."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Awareness of the needs of the saints."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No disgust present in this concept."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No anger present in this concept."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of the positive impact of the collection."
+        }
+      }
+    },
+    {
+      "topic": "Travel Plans and Greetings",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 60,
+        "reasoning": "Neutral sentiment, as it concerns practical arrangements and expressions of goodwill."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Joy in anticipation of meeting and fellowshipping."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trust in the safety and success of the travels."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some concern for the safety of travel."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Potential for unexpected events during travel."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Some sadness due to temporary separation."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No disgust present in this concept."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No anger present in this concept."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation of future meetings and fellowship."
+        }
+      }
+    },
+    {
+      "topic": "Curse and Blessing",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 75,
+        "reasoning": "Mixed sentiment. The curse is negative, but the blessing is positive. Overall, slightly positive due to the emphasis on grace and love."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Joy in the blessing of grace and love."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in the Lord's grace and love."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fear of the consequences of not loving the Lord."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The stark contrast between curse and blessing is surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Sadness related to the potential for separation from God."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Some disgust towards those who reject the Lord."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Potential anger towards those who reject the Lord."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of the blessings of loving the Lord."
+        }
+      }
+    }
+  ]
+}

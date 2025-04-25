@@ -1,0 +1,160 @@
+{
+  "segment_metadata": {
+    "segment_number": "105",
+    "segment_filename": "105_bible_ancient-greek.txt",
+    "text_identification": "New Testament, likely 1 Corinthians.",
+    "text_summary": "This passage from 1 Corinthians addresses the importance of unity and warns against division within the Christian community. It begins by emphasizing the spiritual gifts and blessings bestowed upon the believers through Christ. The apostle Paul then pleads for unity, urging them to speak with one voice and avoid factions. He expresses concern over reports of quarreling and identifies the formation of groups aligning themselves with different leaders (Paul, Apollos, Cephas, and Christ). Paul rebukes this division, highlighting that Christ was not divided and that baptism is into Christ, not into individual leaders. He clarifies his role as primarily a preacher of the Gospel, not a baptizer, lest the cross of Christ be emptied of its power. The passage concludes by contrasting worldly wisdom with the power of God, proclaiming that the message of the cross is foolishness to those who are perishing but the power of God to those who are being saved. It emphasizes that God has chosen the foolish things of the world to shame the wise."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Spiritual Gifts and Blessings in Christ",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The passage emphasizes the richness and blessings believers have received through Christ, indicating a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The idea of being enriched in Christ evokes joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Acknowledgement of gifts inspires trust in God."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minimal fear; the focus is on positive aspects."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Recognition of unexpected blessings might bring some surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Low sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Expectation of future blessings."
+        }
+      }
+    },
+    {
+      "topic": "Plea for Unity and Against Division",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 85,
+        "reasoning": "The desire for unity is positive, but the presence of division introduces a negative element, making the overall sentiment slightly positive but with a warning."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Hope for unity brings some joy."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Trust in the community's ability to unite."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Fear of continued division."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Realization of existing division might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Sadness over the lack of unity."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Mild disgust at the quarreling."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Some anger at those causing division."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Hopeful anticipation for unity."
+        }
+      }
+    },
+    {
+      "topic": "Christ Crucified vs. Worldly Wisdom",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 80,
+        "reasoning": "The message of the cross is presented as foolishness to some but power to others, creating a mixed sentiment, but leaning towards positive due to the power it holds for believers."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Joy in the power of the cross for believers."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in the saving power of Christ's sacrifice."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of rejecting the message of the cross."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The paradoxical nature of the cross can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness over those who reject the message."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Disgust at the rejection of divine wisdom."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anger at the world's rejection of God's wisdom."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of salvation through the cross."
+        }
+      }
+    }
+  ]
+}

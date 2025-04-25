@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "72",
+    "segment_filename": "72_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the Gospel of John, specifically chapter 7.",
+    "text_summary": "This passage describes Jesus teaching in the temple during a festival. He proclaims his divine origin and connection to God, which sparks controversy among the crowd. Some believe in him, while others question his origins, leading to division. The Pharisees and chief priests attempt to arrest him, but are unsuccessful. Jesus speaks of his impending departure and the inability of his opponents to follow him, leading to further confusion and debate among the Jewish people. He offers living water to those who believe in him, referring to the Holy Spirit. The passage ends with the Pharisees questioning their officers as to why they did not arrest Jesus, and Nicodemus defends Jesus's right to a fair hearing."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Jesus's Claims of Divine Origin and Authority",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "Jesus's claims are presented as truth within the narrative, although they are controversial to some characters. The positive score reflects the affirmation of his divine connection and authority."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The joy comes from the potential salvation offered."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Jesus presents himself as trustworthy and sent by God."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Some feel threatened by his claims."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "His claims are unexpected."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "There is a sense of sadness that some will reject him."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some may feel disgust towards his claims."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The religious leaders are angered by his claims."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Jesus speaks of future events and his departure."
+        }
+      }
+    },
+    {
+      "topic": "Division and Disagreement Among the People",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 90,
+        "reasoning": "The passage explicitly mentions division (schism) among the people due to differing opinions about Jesus. This creates a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal joy as the focus is on disagreement."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Trust is low due to the division."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of the consequences of following or rejecting Jesus."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The differing opinions and Jesus's claims are surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Sadness due to the division and potential rejection of Jesus."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some may feel disgust towards opposing viewpoints."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger due to the division and perceived threats."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anticipation of the consequences of the division."
+        }
+      }
+    },
+    {
+      "topic": "The Pharisees' Attempt to Arrest Jesus",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The Pharisees' attempt to arrest Jesus indicates a negative sentiment towards him and his teachings. It represents conflict and opposition."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No joy is present in this topic."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Trust is low as the Pharisees are acting deceptively."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear of Jesus's influence and potential threat to their authority."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Surprise that their attempts are unsuccessful."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Sadness that they cannot control Jesus."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Disgust towards Jesus's teachings and followers."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger towards Jesus for challenging their authority."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation of the consequences of Jesus's actions."
+        }
+      }
+    },
+    {
+      "topic": "Jesus's Promise of Living Water (The Holy Spirit)",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The promise of living water is a positive and hopeful message, representing spiritual fulfillment and renewal."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy from the promise of spiritual fulfillment."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in Jesus's promise and divine power."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear associated with this promise."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The concept of living water might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness associated with this promise."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No disgust associated with this promise."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No anger associated with this promise."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Anticipation of receiving the Holy Spirit."
+        }
+      }
+    },
+    {
+      "topic": "Nicodemus's Defense of Jesus",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "Nicodemus's defense of Jesus has a positive sentiment, showing fairness and a willingness to consider Jesus's perspective."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Joy from seeking justice and truth."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in the law and fair process."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Fear of the consequences of defending Jesus."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Surprise at the opposition to Jesus."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Sadness at the unfair treatment of Jesus."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Disgust at the prejudice against Jesus."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anger at the unfairness of the situation."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of a fair hearing and just outcome."
+        }
+      }
+    }
+  ]
+}

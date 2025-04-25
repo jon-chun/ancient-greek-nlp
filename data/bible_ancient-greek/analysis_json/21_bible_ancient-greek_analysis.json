@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "21",
+    "segment_filename": "21_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from one of the Gospels (Matthew, Mark, Luke) describing the Last Supper, the prediction of Judas' betrayal, Peter's denial, and Jesus' prayer in Gethsemane.",
+    "text_summary": "This passage recounts the Last Supper where Jesus shares a final meal with his disciples, institutes the Eucharist (sharing bread and wine as symbols of his body and blood), and predicts that one of them will betray him. The disciples express distress and question their own potential for betrayal. Jesus also foretells Peter's denial. Following the meal, they go to the Mount of Olives, specifically Gethsemane, where Jesus prays in anguish, anticipating his impending suffering and death. He asks God to take the cup of suffering from him, but ultimately submits to God's will. He finds his disciples asleep and urges them to stay awake and pray. Finally, Judas arrives with a crowd to betray Jesus."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Last Supper and Institution of the Eucharist",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 95,
+        "reasoning": "The Last Supper is a foundational event representing sacrifice and communion, viewed positively but tinged with impending suffering."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sharing a meal together brings a sense of community and joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The disciples trust Jesus and are sharing this intimate moment with him."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There's a subtle undercurrent of fear due to the impending events."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The institution of the Eucharist might have been surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The knowledge of Jesus' upcoming suffering casts a shadow."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No element of disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is expressed in this part."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The disciples are anticipating what is to come."
+        }
+      }
+    },
+    {
+      "topic": "Prediction of Betrayal by Judas",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The prediction of betrayal is inherently negative and creates a sense of unease and distrust."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The betrayal brings no joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "The prediction undermines trust."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The betrayal creates fear and anxiety."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The sudden revelation of betrayal is shocking."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Betrayal brings immense sadness and grief."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The act of betrayal can be seen as disgusting."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "There is anger towards the betrayer."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "There is anticipation of the consequences of the betrayal."
+        }
+      }
+    },
+    {
+      "topic": "Peter's Denial Foretold",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The prediction of Peter's denial is negative, signifying a lapse in faith and loyalty."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The prediction undermines Peter's trustworthiness."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Peter might fear the consequences of his denial."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Peter might be surprised by the prediction."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The prediction brings sadness and disappointment."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "A slight sense of distaste at the prospect of denial."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Peter might be angry at the suggestion."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Peter anticipates the events that will lead to his denial."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Prayer in Gethsemane",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 95,
+        "reasoning": "Jesus' prayer reflects immense suffering and a plea for relief, but also ultimate submission to God's will."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present in this moment of anguish."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Jesus trusts in God's will, even in suffering."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Jesus experiences profound fear of the impending suffering."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Not much surprise is present."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Overwhelming sadness and sorrow are central to this scene."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "A slight sense of frustration at the situation."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Jesus anticipates the suffering to come."
+        }
+      }
+    },
+    {
+      "topic": "The Disciples Sleeping in Gethsemane",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 85,
+        "reasoning": "The disciples falling asleep represents a failure to support Jesus in his time of need, which is viewed negatively."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The sleeping disciples break the trust."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Slight fear of the consequences."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Not much surprise is present."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Disappointment and sadness are present."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Slight distaste at the disciples' failure."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Frustration and anger at the disciples' lack of support."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Not much anticipation is present."
+        }
+      }
+    },
+    {
+      "topic": "Judas' Arrival and Betrayal",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "Judas' arrival and betrayal is a deeply negative event, marking the beginning of Jesus' Passion."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No joy is present."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Complete betrayal of trust."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Fear of the consequences of the betrayal."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some surprise at the sudden arrival."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Profound sadness and grief."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Disgust at the act of betrayal."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Intense anger and outrage."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of the events to follow."
+        }
+      }
+    }
+  ]
+}

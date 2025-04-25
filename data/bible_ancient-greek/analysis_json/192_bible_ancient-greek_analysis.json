@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "192",
+    "segment_filename": "192_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the Book of Revelation in the New Testament, specifically dealing with the dragon, the beast, and their conflict with the woman and the saints.",
+    "text_summary": "This passage describes a cosmic battle between good and evil. A woman, representing the people of God, is protected from a dragon (Satan) by the earth. The dragon, enraged, wages war against the remaining offspring of the woman, those who keep God's commandments and hold to the testimony of Jesus. A beast emerges from the sea, possessing immense power and authority given to it by the dragon. The beast is worshipped, and its blasphemous pronouncements are heard. It is granted authority to make war against the saints and to conquer them. All those whose names are not written in the Lamb's book of life will worship the beast. A call for endurance and faith is issued to the saints. Another beast arises from the earth, wielding the power of the first beast and compelling people to worship it."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Dragon's Wrath and Persecution",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The dragon's anger and war against the woman and her offspring indicate a strong negative sentiment. The context is one of persecution and conflict."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present in this topic; it is purely about conflict and wrath."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minimal trust is present, perhaps in the ultimate protection of God, but overshadowed by the immediate threat."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The primary emotion is fear, driven by the dragon's power and intent to harm."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Some surprise at the extent of the dragon's wrath and the earth's intervention."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Sadness related to the suffering and persecution of the woman and her offspring."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 92,
+          "reasoning": "Disgust at the dragon's evil intentions and actions."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 97,
+          "reasoning": "The dragon's anger is a central element, and a sense of righteous anger against the dragon is also present."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of further conflict and the ultimate outcome of the war."
+        }
+      }
+    },
+    {
+      "topic": "The Beast from the Sea",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "The beast's blasphemous nature, power given by the dragon, and war against the saints result in a strong negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No joy associated with this monstrous figure."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Absolutely no trust is warranted for the beast."
+        },
+        "Fear": {
+          "weight": 0.95,
+          "confidence": 99,
+          "reasoning": "The beast inspires intense fear due to its power and destructive nature."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Surprise at the beast's emergence and the extent of its power."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Sadness related to the suffering caused by the beast."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 97,
+          "reasoning": "Strong disgust at the beast's blasphemous nature and evil actions."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Anger at the beast's oppression and war against the saints."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of the beast's actions and the consequences of its reign."
+        }
+      }
+    },
+    {
+      "topic": "Worship of the Dragon and the Beast",
+      "sentiment_polarity": {
+        "score": -0.95,
+        "confidence": 99,
+        "reasoning": "The worship of the dragon and the beast is presented as a grave sin and a sign of apostasy, indicating a highly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No joy can be associated with worshipping evil entities."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Complete lack of trust in the dragon and the beast."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Fear of the consequences of worshipping false gods."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some surprise at the deception leading people to worship the beast."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Sadness at the spiritual corruption and loss of faith."
+        },
+        "Disgust": {
+          "weight": 0.95,
+          "confidence": 99,
+          "reasoning": "Intense disgust at the act of worshipping evil."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anger at the deception and the betrayal of true faith."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of the judgment and consequences of this idolatry."
+        }
+      }
+    },
+    {
+      "topic": "Call to Endurance and Faith",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "Despite the negative context, the call to endurance and faith provides a positive message of hope and perseverance."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "A glimmer of joy in the hope of salvation through faith."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 97,
+          "reasoning": "Strong trust in God's promises and ultimate victory."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear of the trials and tribulations, but tempered by faith."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal surprise, as trials are expected."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness related to the suffering endured."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal disgust, focused on overcoming evil."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anger at the forces of evil, fueling the determination to endure."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Strong anticipation of God's ultimate triumph and the reward for faithfulness."
+        }
+      }
+    },
+    {
+      "topic": "The Beast from the Earth",
+      "sentiment_polarity": {
+        "score": -0.85,
+        "confidence": 96,
+        "reasoning": "The beast from the earth, deceiving people and promoting the worship of the first beast, carries a strong negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 97,
+          "reasoning": "No joy associated with this deceptive figure."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 96,
+          "reasoning": "Absolutely no trust is warranted for the deceptive beast."
+        },
+        "Fear": {
+          "weight": 0.85,
+          "confidence": 97,
+          "reasoning": "The deceptive nature of the beast inspires fear and uncertainty."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "Surprise at the beast's deceptive tactics and power."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Sadness related to the deception and its consequences."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong disgust at the beast's deceptive and manipulative nature."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 92,
+          "reasoning": "Anger at the beast's deception and its role in promoting evil."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of the consequences of the beast's actions and the judgment to come."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "33",
+    "segment_filename": "33_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the Gospel of Luke, given the content about Jesus healing people and teaching.",
+    "text_summary": "This segment from the Gospel describes several events in Jesus' ministry. It begins with the healing of a leper, followed by Jesus' increasing fame and withdrawal for prayer. Then, it recounts the healing of a paralytic man lowered through a roof, where Jesus also forgives his sins, sparking controversy with the Pharisees and scribes. Jesus defends his authority to forgive sins by healing the man. The narrative continues with the calling of Levi (Matthew), a tax collector, and a meal Jesus shares with tax collectors and sinners, drawing criticism from the Pharisees. Jesus responds that he came to call sinners to repentance, not the righteous. Finally, the text addresses the question of fasting, contrasting Jesus' disciples with those of John and the Pharisees, and concludes with parables about new cloth on old garments and new wine in old wineskins, emphasizing the incompatibility of the old and new covenants."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Healing of the Leper",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The healing is a positive event, demonstrating Jesus' compassion and power. The leper's plea and Jesus' willingness to heal contribute to a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The leper experiences immense joy at being cleansed."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The leper demonstrates trust in Jesus' ability to heal him."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There might be a slight fear of rejection or disbelief."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The suddenness of the healing elicits surprise."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "Reflects the previous state of suffering and isolation."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Represents the societal disgust towards lepers."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 50,
+          "reasoning": "No anger is explicitly present in this section."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Anticipation of a new life free from the disease."
+        }
+      }
+    },
+    {
+      "topic": "Healing of the Paralytic and Forgiveness of Sins",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The healing of the paralytic is a miraculous and positive event. The forgiveness of sins adds a spiritual dimension, although it also creates controversy."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The paralytic experiences joy at being healed and forgiven."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The paralytic and his friends demonstrate trust in Jesus."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "The Pharisees experience fear or unease at Jesus' power."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The healing is a surprising event for everyone present."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Reflects the paralytic's previous state of suffering."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Possible disgust from some onlookers at the man's condition."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The Pharisees express anger and disbelief at Jesus' claim to forgive sins."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of a new life for the paralytic."
+        }
+      }
+    },
+    {
+      "topic": "Calling of Levi (Matthew) and Eating with Sinners",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "The calling of Levi is a positive event, representing inclusion and forgiveness. Jesus' willingness to associate with sinners is controversial but ultimately reflects a message of love and redemption."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Levi experiences joy at being called by Jesus."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Levi trusts Jesus and leaves everything to follow him."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Possible fear of societal repercussions for associating with Jesus."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The calling of a tax collector is surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Possible sadness from Levi's past life."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The Pharisees express disgust at Jesus eating with sinners."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The Pharisees are angry at Jesus' actions."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of a new life for Levi."
+        }
+      }
+    },
+    {
+      "topic": "Question of Fasting",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 75,
+        "reasoning": "This section presents a contrast between different religious practices. It's not inherently positive or negative, but rather a discussion of appropriateness and timing."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Joy in celebrating with Jesus."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Trust in Jesus' wisdom."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Possible fear of not following proper religious practices."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the different fasting practices."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Possible sadness at the perceived lack of piety."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Slight disgust at perceived hypocrisy."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Mild frustration at the differing practices."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Anticipation of future understanding."
+        }
+      }
+    },
+    {
+      "topic": "Parables of New Cloth and New Wine",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 80,
+        "reasoning": "The parables are neutral in sentiment. They are illustrative teachings about the incompatibility of old and new ways."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Trust in the wisdom of the teaching."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of the consequences of mixing old and new."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Surprise at the unexpected outcomes."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sadness at the potential for loss."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of understanding the deeper meaning."
+        }
+      }
+    }
+  ]
+}

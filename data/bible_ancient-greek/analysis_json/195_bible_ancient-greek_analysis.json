@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "195",
+    "segment_filename": "195_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the Book of Revelation in the New Testament, specifically dealing with the visions of the end times, the fall of Babylon, and the judgment of the wicked.",
+    "text_summary": "This text segment describes a vision of a great harlot, representing a corrupt city (Babylon), sitting on many waters and influencing the kings of the earth with her immorality. The vision shifts to a woman riding a scarlet beast covered in blasphemous names, having seven heads and ten horns. She is adorned with riches and holds a golden cup full of abominations. The woman is identified as Babylon the Great, the mother of harlots. The seer witnesses her drunken with the blood of saints and martyrs. An angel explains the mystery of the woman and the beast. The beast was, is not, and will ascend from the bottomless pit. The seven heads are interpreted as seven mountains and seven kings. The ten horns are ten kings who will give their power to the beast. These kings will war against the Lamb, but the Lamb will conquer them. The waters represent peoples, multitudes, nations, and tongues. The ten horns and the beast will hate the harlot, make her desolate, and consume her flesh. God put it in their hearts to fulfill His will. The woman is the great city that reigns over the kings of the earth. Another angel announces the fall of Babylon, now a dwelling place of demons. God remembers her iniquities and commands His people to come out of her.\nFinally, the text describes the merchants of the earth who grew rich from the power of her luxury."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Harlot/Babylon and Her Influence",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is negative due to the description of corruption, immorality, and judgment. While there's a sense of divine justice, the focus is on the wickedness and impending doom of Babylon."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy is associated with the depiction of Babylon."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No trust is associated with Babylon."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The impending judgment evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The unexpected fall of Babylon evokes surprise."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The suffering of the saints evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The immorality and corruption evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The wickedness of Babylon evokes anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "There is anticipation of the final judgment."
+        }
+      }
+    },
+    {
+      "topic": "The Beast",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The beast is associated with blasphemy, destruction, and opposition to God, resulting in a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy is associated with the beast."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No trust is associated with the beast."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The destructive nature of the beast evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The emergence of the beast evokes surprise."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The destruction caused by the beast evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The blasphemous nature of the beast evokes disgust."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The opposition to God evokes anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "There is anticipation of the beast's ultimate defeat."
+        }
+      }
+    },
+    {
+      "topic": "The Lamb's Victory",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The Lamb's victory is a positive event, signifying the triumph of good over evil."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The victory of the Lamb evokes joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The victory inspires trust in God."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No fear is associated with the Lamb's victory."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "The swiftness of the victory might evoke surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No sadness is associated with the victory."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is associated with the victory."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is associated with the victory."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "There is anticipation of the Lamb's reign."
+        }
+      }
+    },
+    {
+      "topic": "Call to God's People to Come Out of Babylon",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "This is a positive call to action, urging God's people to separate themselves from evil and avoid judgment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "There is joy in escaping judgment."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "There is trust in God's protection."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The warning of judgment evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The sudden call to action might evoke surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Sadness for those who remain in Babylon."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Disgust for the sins of Babylon."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Anger at the injustice of Babylon."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of God's blessings."
+        }
+      }
+    }
+  ]
+}

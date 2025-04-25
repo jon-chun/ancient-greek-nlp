@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "32",
+    "segment_filename": "32_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from the Gospel of Luke.",
+    "text_summary": "This passage recounts Jesus' rejection in his hometown and his subsequent ministry in Capernaum and Galilee. It begins with Jesus referencing the prophets Elijah and Elisha, who performed miracles for non-Israelites, implying that prophets are not always accepted in their own communities. This incites anger among the people, who attempt to kill him. Jesus escapes and goes to Capernaum, where he teaches with authority and casts out an unclean spirit. News of his power spreads. He heals Simon's mother-in-law and many others. He then explains that he must preach the Kingdom of God in other cities. Finally, the passage describes Jesus calling Simon (Peter) and other fishermen to become his disciples after a miraculous catch of fish. This highlights themes of rejection, divine authority, healing, the spread of the gospel, and the calling of disciples."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Rejection of Jesus in his Hometown",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The rejection of Jesus is a negative event, indicating a lack of acceptance and hostility. The text explicitly describes the people's anger and attempt to harm him."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No joy is present; the event is marked by negativity."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "The people lack trust in Jesus's message."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Fear is present due to the potential violence against Jesus."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The rejection is somewhat surprising, given Jesus's potential reputation."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness arises from the rejection and the potential loss of Jesus."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The people may feel disgust at Jesus's perceived blasphemy or arrogance."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger is the dominant emotion, as the people are enraged by Jesus's words."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There's little anticipation of a positive outcome."
+        }
+      }
+    },
+    {
+      "topic": "Jesus's Authority and Teaching",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "Jesus's teaching with authority is a positive aspect, demonstrating his divine power and influence. The text explicitly states that he taught with authority."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The teaching brings a sense of joy and hope to those who listen."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "People place trust in Jesus's teachings due to his authority."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal fear, perhaps only among those who oppose his message."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "The authority with which he teaches is surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal anger, perhaps only among those who oppose his message."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of positive change and spiritual growth."
+        }
+      }
+    },
+    {
+      "topic": "Exorcism of the Unclean Spirit",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The exorcism is a positive event, demonstrating Jesus's power over evil and bringing relief to the afflicted. It demonstrates divine intervention."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Joy at the liberation of the possessed individual."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Increased trust in Jesus's power and authority."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Fear of the power of the unclean spirit and Jesus's authority."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Surprise at the dramatic display of power."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sadness for the suffering of the possessed individual."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust at the unclean spirit."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Anger towards the unclean spirit."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of further demonstrations of Jesus's power."
+        }
+      }
+    },
+    {
+      "topic": "Healing of Simon's Mother-in-Law and Others",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The healing of the sick is a positive and compassionate act, demonstrating Jesus's love and power. It represents divine healing."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy at the restoration of health."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Increased trust in Jesus's healing power."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the miraculous healing."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sadness for the suffering of the sick before healing."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of further healings and miracles."
+        }
+      }
+    },
+    {
+      "topic": "Jesus's Calling of the Disciples",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The calling of the disciples is a positive event, marking the beginning of their ministry and the spread of the gospel. It represents the formation of Jesus's inner circle."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Joy at the opportunity to follow Jesus."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in Jesus's guidance and purpose."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Fear of the unknown and the challenges ahead."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Surprise at being chosen by Jesus."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High anticipation of the future ministry and the spread of the gospel."
+        }
+      }
+    }
+  ]
+}

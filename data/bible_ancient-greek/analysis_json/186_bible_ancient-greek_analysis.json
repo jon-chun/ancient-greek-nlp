@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "186",
+    "segment_filename": "186_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from the Book of Revelation, based on the themes of judgment, repentance, divine presence, and visions of heaven.",
+    "text_summary": "This passage contains a strong rebuke of a complacent church, urging repentance and promising fellowship to those who heed the call. It describes spiritual lukewarmness as repulsive and contrasts it with true riches found in God. The passage encourages the purchase of spiritual gold, garments, and eye salve to overcome spiritual poverty, nakedness, and blindness. It also features an invitation from Christ to open the door and share a meal, symbolizing intimate communion. The passage continues with visions of heaven, including a throne, elders, and symbolic creatures, emphasizing God's power and glory. It highlights the importance of listening to the Spirit's message to the churches and depicts a scene of heavenly worship and divine authority."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Rebuke of Lukewarmness",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The passage expresses strong disapproval of spiritual apathy, describing it as repulsive, hence the negative score."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy is expressed in this rebuke."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "Trust is low due to the church's failings."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Fear of divine judgment is implied."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise at the church's condition."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "Sadness over the spiritual state of the church."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Strong disgust is expressed in the text."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 92,
+          "reasoning": "Anger at the church's complacency."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Anticipation of repentance and change."
+        }
+      }
+    },
+    {
+      "topic": "Call to Repentance and Spiritual Transformation",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 85,
+        "reasoning": "While acknowledging a negative state, the passage offers a path to positive transformation and restoration, hence the slightly positive score."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Joy is a potential outcome of repentance."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Trust in God's guidance is essential."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Fear of remaining in a negative state."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Less surprise, more of a direct call to action."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Sadness over past failings."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "Disgust with the current state."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Anger at oneself for complacency."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong anticipation of positive change."
+        }
+      }
+    },
+    {
+      "topic": "Invitation to Intimate Communion with Christ",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "The invitation to share a meal is a symbol of deep fellowship and love, indicating a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Joy of fellowship with Christ."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Trust in Christ's promise."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No fear in this invitation."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal surprise, it's a welcoming invitation."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No sadness in this invitation."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust in this invitation."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger in this invitation."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Anticipation of a close relationship."
+        }
+      }
+    },
+    {
+      "topic": "Vision of Heavenly Throne and Worship",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 97,
+        "reasoning": "The vision depicts divine glory and power, inspiring awe and reverence, indicating a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 92,
+          "reasoning": "Joy at witnessing divine glory."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Trust in God's power and authority."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Awe-inspired fear of God's power."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Surprise at the magnificent vision."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No sadness in this vision."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust in this vision."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger in this vision."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of future events."
+        }
+      }
+    },
+    {
+      "topic": "The Spirit's Message to the Churches",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The emphasis on listening to the Spirit suggests guidance and truth, indicating a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Joy in receiving divine guidance."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Trust in the Spirit's message."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear, more of a call to listen."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Potential for surprising revelations."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No sadness in this call to listen."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust in this call to listen."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger in this call to listen."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anticipation of understanding the message."
+        }
+      }
+    }
+  ]
+}

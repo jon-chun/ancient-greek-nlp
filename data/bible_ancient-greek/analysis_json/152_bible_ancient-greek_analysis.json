@@ -1,0 +1,510 @@
+{
+  "segment_metadata": {
+    "segment_number": "152",
+    "segment_filename": "152_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from one of the Pastoral Epistles (1 or 2 Timothy or Titus) due to the instructions regarding church leadership, widows, and slaves.",
+    "text_summary": "This passage provides instructions on various aspects of church life. It covers the care of widows, the honor due to elders, guidelines for handling accusations against elders, and warnings against hasty appointments and participation in others' sins. It also includes advice on personal health and a reminder that sins and good deeds will eventually be revealed. The text then addresses the conduct of slaves, urging them to respect their masters so as not to bring reproach on God's name. It condemns false teachings that prioritize personal gain over godliness and encourages believers to pursue righteousness, faith, love, and perseverance. It concludes with a charge to Timothy to keep the commandment until the Lord's appearing and instructions to the rich to be generous and store up treasure in heaven."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Care for Widows",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The text emphasizes providing for widows and preventing the church from being burdened, suggesting a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Providing for widows can bring joy and satisfaction."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The community is expected to trust in the system of care."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There might be a fear of the church being overburdened."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Surprise is not a primary emotion here."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "The situation of widows inherently involves sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not relevant in this context."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "There is anticipation of positive outcomes from caring for widows."
+        }
+      }
+    },
+    {
+      "topic": "Honor and Discipline of Elders",
+      "sentiment_polarity": {
+        "score": 0.5,
+        "confidence": 85,
+        "reasoning": "The text balances honoring elders with holding them accountable, suggesting a generally positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Honoring elders can bring joy to the community."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The community needs to trust in the leadership of elders."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "There is a fear of false accusations and improper handling of elders."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Surprise is not a primary emotion here."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The potential for accusations and discipline can bring sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Disgust might arise from the idea of an elder behaving inappropriately."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Anger could be felt if an elder is falsely accused or if they abuse their position."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "There is anticipation of proper conduct and justice."
+        }
+      }
+    },
+    {
+      "topic": "Warning Against Hasty Appointments and Participation in Sins",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "This section emphasizes caution and discernment, warning against rushing into decisions and becoming complicit in wrongdoing."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Joy is not a primary emotion here."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Trust is diminished by the warning against hasty decisions."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The primary emotion is fear of making wrong decisions and participating in sins."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise is not a primary emotion here."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The potential consequences of wrong decisions can bring sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Disgust might arise from the idea of participating in sinful acts."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Anger could be felt towards those who lead others into sin."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "There is anticipation of avoiding mistakes and maintaining purity."
+        }
+      }
+    },
+    {
+      "topic": "Personal Health Advice",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 70,
+        "reasoning": "This is practical advice for physical well-being, specifically addressing a health issue."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Improved health can bring a sense of joy."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Trust in the advice given."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Fear of health issues."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Surprise is not a primary emotion here."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Dealing with health issues can bring sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not relevant here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not relevant here."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of improved health."
+        }
+      }
+    },
+    {
+      "topic": "Revelation of Sins and Good Deeds",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 80,
+        "reasoning": "This emphasizes accountability and the eventual unveiling of all actions, both good and bad."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The prospect of good deeds being revealed can bring joy."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trust in the ultimate justice and truth."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "Fear of sins being revealed."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the extent of revelation."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The consequences of sins being revealed can bring sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Disgust at the thought of hidden sins."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Anger at those who commit hidden sins."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of ultimate justice and truth."
+        }
+      }
+    },
+    {
+      "topic": "Conduct of Slaves",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 75,
+        "reasoning": "The text urges slaves to respect their masters, so as not to bring reproach on God's name. The sentiment leans slightly positive due to the emphasis on respect."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Limited joy in the context of slavery."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Encourages trust between slaves and masters."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Fear of punishment or causing blasphemy."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Surprise is not a primary emotion here."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The inherent sadness of the slave's condition."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Potential disgust towards the institution of slavery."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Potential anger at the unjust situation."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anticipation of a better future or reward."
+        }
+      }
+    },
+    {
+      "topic": "Condemnation of False Teachings",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The text strongly condemns false teachings and those who promote them."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with false teachings."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No trust in false teachings."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Fear of the consequences of false teachings."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at the extent of deception."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness caused by the spread of false teachings."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Disgust towards the corruption of false teachings."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Anger towards those who promote false teachings."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Limited anticipation of positive outcomes."
+        }
+      }
+    },
+    {
+      "topic": "Pursuit of Godliness and Righteousness",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "This section encourages believers to pursue positive virtues such as righteousness, faith, love, and perseverance."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Pursuing godliness brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God and His ways."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Limited fear in this context."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Surprise is not a primary emotion here."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Limited sadness in this context."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust in pursuing godliness."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger in pursuing godliness."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Anticipation of eternal life and reward."
+        }
+      }
+    },
+    {
+      "topic": "Charge to Keep the Commandment",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "This is a strong encouragement to remain faithful to the teachings until the Lord's return."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The hope of the Lord's return brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's promises."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Fear of failing to keep the commandment."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Surprise is not a primary emotion here."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sadness at the thought of falling away."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust in keeping the commandment."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger in keeping the commandment."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of the Lord's return and reward."
+        }
+      }
+    },
+    {
+      "topic": "Instructions to the Rich",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The text instructs the rich to be humble, generous, and to store up treasure in heaven."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The act of giving brings joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's provision and rewards."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Fear of losing wealth or not being generous."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Surprise is not a primary emotion here."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Limited sadness in this context."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust in being generous."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger in being generous."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Anticipation of eternal rewards in heaven."
+        }
+      }
+    }
+  ]
+}

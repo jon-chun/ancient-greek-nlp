@@ -1,0 +1,510 @@
+{
+  "segment_metadata": {
+    "segment_number": "91",
+    "segment_filename": "91_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the Book of Acts in the New Testament.",
+    "text_summary": "This text from the Book of Acts chronicles the early days of the Christian church, starting with Jesus' ascension and the selection of Matthias to replace Judas. It then describes the Pentecost event, the outpouring of the Holy Spirit, and Peter's sermon explaining the event as the fulfillment of prophecy. The text recounts miracles performed by the apostles, including the healing of a lame man, and the apostles' subsequent arrest and release. It also details the growth of the church, including the communal sharing of possessions, and the story of Ananias and Sapphira's deceit and death. The text then describes the apostles' continued ministry, including signs and wonders, persecution, and imprisonment, followed by miraculous deliverance and continued preaching. Finally, it discusses the appointment of deacons to address the needs of Hellenistic widows, Stephen's ministry and martyrdom, and Philip's evangelistic work in Samaria. The text also includes the conversion of Saul (Paul) and Peter's ministry to the Gentiles."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Jesus' Ascension and Matthias' Selection",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The ascension is positive, but the need to replace Judas introduces a somber note. The selection of Matthias restores balance."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The ascension brings joy, but it is tempered by Jesus' physical absence."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in God's plan is central to accepting these events."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Uncertainty about the future without Jesus."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The ascension itself is a surprising event."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Sadness at the departure of Jesus."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is apparent."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation for what the future holds."
+        }
+      }
+    },
+    {
+      "topic": "Pentecost and Peter's Sermon",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The outpouring of the Holy Spirit is overwhelmingly positive. Peter's sermon explains the event and calls people to repentance."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The Holy Spirit's arrival brings immense joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's promises is reinforced."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The sudden and powerful arrival of the Holy Spirit is surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No sadness is apparent."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is apparent."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is apparent."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Great anticipation for the future of the church."
+        }
+      }
+    },
+    {
+      "topic": "Miracles and Apostles' Ministry",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Miracles are inherently positive, demonstrating God's power and compassion. The apostles' ministry spreads the message of salvation and healing."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Healing and restoration bring joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's healing power is strengthened."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Miracles are often surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some sadness may be present due to the suffering that miracles address."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is apparent."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is apparent."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation for further signs and wonders."
+        }
+      }
+    },
+    {
+      "topic": "Persecution and Imprisonment",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "Persecution is negative. However, the apostles' resilience and miraculous release offer hope."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Limited joy in the face of adversity."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trust in God's deliverance is key."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Persecution evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The miraculous release can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Suffering and hardship bring sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Disgust at the injustice of persecution."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Anger at the persecutors."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation for God's intervention."
+        }
+      }
+    },
+    {
+      "topic": "Communal Sharing and Ananias & Sapphira",
+      "sentiment_polarity": {
+        "score": -0.1,
+        "confidence": 85,
+        "reasoning": "Communal sharing is positive, but Ananias and Sapphira's deceit introduces a strong negative element."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Joy in the unity and generosity of the community."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trust within the community is tested."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear of God's judgment."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The sudden deaths of Ananias and Sapphira are surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Sadness at the loss of life and the presence of deceit."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Disgust at Ananias and Sapphira's dishonesty."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger at the betrayal of trust."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Uncertainty about the future of the community."
+        }
+      }
+    },
+    {
+      "topic": "Appointment of Deacons",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "This is a positive development, resolving a practical issue and ensuring fair treatment within the church."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Joy in resolving the conflict and ensuring fairness."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in the leadership's ability to address problems."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No sadness is apparent."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is apparent."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is apparent."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation for a more harmonious community."
+        }
+      }
+    },
+    {
+      "topic": "Stephen's Ministry and Martyrdom",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 85,
+        "reasoning": "Stephen's ministry is positive, but his martyrdom is a tragic event."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Joy in Stephen's powerful ministry."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trust in Stephen's faithfulness."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Fear of persecution."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The events surrounding Stephen's martyrdom are surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Stephen's death brings great sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Disgust at the injustice of Stephen's death."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anger at Stephen's persecutors."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Uncertainty about the future of the church after Stephen's death."
+        }
+      }
+    },
+    {
+      "topic": "Philip's Ministry in Samaria",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Philip's evangelistic work is positive, resulting in conversions and miracles."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Conversions and miracles bring joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in Philip's ministry and God's power."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Miracles are surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No sadness is apparent."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is apparent."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is apparent."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation for further growth of the church."
+        }
+      }
+    },
+    {
+      "topic": "Conversion of Saul (Paul)",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The conversion of Saul, a former persecutor, is a significant positive event, demonstrating God's transformative power."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The conversion is a cause for rejoicing."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Demonstrates the power of God's grace."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Initial fear and uncertainty surrounding Saul's transformation."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The unexpected nature of the conversion is a major element."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is apparent."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Some may feel anger toward Saul's past actions."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation for the impact of Saul's conversion on the spread of Christianity."
+        }
+      }
+    },
+    {
+      "topic": "Peter's Ministry to the Gentiles",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The acceptance of Gentiles into the Christian faith is a major positive development, expanding the reach of the Gospel."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The inclusion of Gentiles brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Demonstrates God's universal love and plan."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Initial resistance and debate surrounding the acceptance of Gentiles."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The revelation that Gentiles are also included in God's plan is surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is apparent."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some resistance and anger from those who oppose the inclusion of Gentiles."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation for the growth and expansion of the church."
+        }
+      }
+    }
+  ]
+}

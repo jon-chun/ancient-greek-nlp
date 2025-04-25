@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "77",
+    "segment_filename": "77_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the Gospel of John.",
+    "text_summary": "This text segment contains several interconnected narratives and theological points. It starts with a confrontation between Jesus and some Jewish people who question his identity as the Christ. Jesus responds by pointing to his works as evidence of his divine authority and emphasizes that his followers are those who listen to his voice. He declares his unity with the Father. This leads to an attempt to stone him for blasphemy. Jesus defends himself by referencing scripture and highlighting his divine mission. The narrative then shifts to the story of Lazarus's illness and death. Jesus expresses his love for Lazarus and his sisters, Martha and Mary, and declares that Lazarus's illness is not unto death but for the glory of God. He delays his journey to Bethany and then announces his intention to raise Lazarus from the dead, causing some confusion and concern among his disciples."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Overall Sentiment",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 75,
+        "reasoning": "The overall sentiment is complex, with elements of conflict, faith, and love. While there is opposition and threat, there is also a strong sense of divine purpose and affection."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "There are moments of joy associated with the promise of resurrection and the glory of God."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Jesus emphasizes the importance of trusting in his words and actions."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The threat of stoning and the concern about Lazarus's illness evoke fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Jesus's actions and pronouncements often surprise those around him."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The illness and death of Lazarus bring sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some might feel disgust at the perceived blasphemy."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "The Jewish people who oppose Jesus display anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The disciples and others anticipate what Jesus will do in response to Lazarus's illness."
+        }
+      }
+    },
+    {
+      "topic": "Confrontation with Jewish People",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 80,
+        "reasoning": "The confrontation between Jesus and the Jewish people is marked by tension and disagreement."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal joy is present in this confrontational aspect."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Distrust is a key element of this interaction."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The threat of violence creates fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Jesus's responses might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The conflict can bring sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Disgust at perceived blasphemy."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anger fuels the opposition to Jesus."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of further conflict or resolution."
+        }
+      }
+    },
+    {
+      "topic": "Jesus's Teachings",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 85,
+        "reasoning": "Jesus's teachings about his unity with the Father and eternal life are positive and hopeful."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The promise of eternal life brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Faith in Jesus's words is central."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear is associated with these teachings."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The teachings can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness is associated with these teachings."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Anticipation of eternal life and God's kingdom."
+        }
+      }
+    },
+    {
+      "topic": "Lazarus's Illness and Resurrection",
+      "sentiment_polarity": {
+        "score": 0.5,
+        "confidence": 70,
+        "reasoning": "The narrative of Lazarus's illness and impending resurrection evokes sadness, hope, and anticipation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "The promise of resurrection brings joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in Jesus's power to heal."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Fear of death and the unknown."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of a surprising event."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Sadness at Lazarus's illness and death."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal anger."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Strong anticipation of Lazarus's resurrection."
+        }
+      }
+    }
+  ]
+}

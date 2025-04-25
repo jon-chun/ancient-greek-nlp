@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "166",
+    "segment_filename": "166_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the book of Hebrews.",
+    "text_summary": "This passage encourages perseverance in faith, even in the face of suffering and opposition. It reminds believers of the example of Christ, who endured great hostility. It emphasizes that trials and discipline are signs of God's love and are meant to refine and train believers, leading to righteousness and peace. The passage contrasts the terrifying experience of Mount Sinai with the access believers now have to Mount Zion, the heavenly Jerusalem, and the presence of God, angels, and the spirits of the righteous. It warns against rejecting God's grace, using Esau as an example of someone who forfeited his inheritance. The passage concludes by urging believers to heed the better covenant established through Jesus."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Enduring Hardship and Opposition",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 85,
+        "reasoning": "The passage acknowledges hardship but emphasizes perseverance, resulting in a slightly positive sentiment. The encouragement to not grow weary suggests a struggle, but the overall message is one of strength."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Joy is not the primary emotion, but there's an underlying sense of hope."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in God's plan is central to enduring hardship."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The hardship itself evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Unexpected challenges can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Hardship naturally brings sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust is not a prominent emotion here."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Opposition can lead to anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of a positive outcome is key to perseverance."
+        }
+      }
+    },
+    {
+      "topic": "Divine Discipline and Fatherly Love",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 90,
+        "reasoning": "Discipline is often perceived negatively, but the passage frames it as an act of love and correction, leading to a positive outcome. This results in a moderately positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The end result of discipline is positive, leading to joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's loving purpose behind discipline is crucial."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Discipline can be initially frightening."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The nature of discipline might be surprising at times."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Discipline can cause sadness in the moment."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "Disgust is not relevant here."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Discipline might provoke anger initially."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of growth and righteousness through discipline."
+        }
+      }
+    },
+    {
+      "topic": "Warning Against Rejecting Grace (Esau Example)",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "This section serves as a warning, highlighting the negative consequences of rejecting God's grace. The example of Esau underscores the seriousness of this rejection, leading to a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "There is no joy in this warning."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Lack of trust in God's provision is the root of the problem."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The consequences of rejection are fearful."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The severity of the consequences might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The example of Esau evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust at Esau's actions."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anger at the injustice of losing one's inheritance."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "No positive anticipation in this context."
+        }
+      }
+    },
+    {
+      "topic": "Contrast Between Old and New Covenants (Sinai vs. Zion)",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "This section contrasts the fear and distance of the Old Covenant with the accessibility and hope of the New Covenant, resulting in a positive sentiment due to the superior nature of the New Covenant."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The New Covenant brings joy and access to God."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in the New Covenant is emphasized."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Fear is associated with the Old Covenant but diminished in the New."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The contrast between the covenants might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Sadness is linked to the Old Covenant's limitations."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "Disgust is not a prominent emotion."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Anger is not a significant emotion here."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of eternal life and fellowship with God."
+        }
+      }
+    }
+  ]
+}

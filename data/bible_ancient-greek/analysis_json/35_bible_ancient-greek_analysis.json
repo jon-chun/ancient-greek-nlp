@@ -1,0 +1,410 @@
+{
+  "segment_metadata": {
+    "segment_number": "35",
+    "segment_filename": "35_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the Gospel of Luke, containing woes, teachings on love and forgiveness, judgment, and a parable.",
+    "text_summary": "This passage from the Gospel of Luke contains a series of woes directed at those who are currently satisfied but will later suffer. It then shifts to instructions for believers, emphasizing loving one's enemies, doing good to those who hate, blessing those who curse, and praying for those who mistreat you. It stresses non-retaliation and generosity. The passage also includes teachings on judgment, urging listeners not to judge others, to forgive, and to give generously. A parable about a blind person leading another blind person illustrates the danger of spiritual blindness. The passage continues with the importance of removing one's own flaws before criticizing others, and the nature of good and bad trees bearing corresponding fruit. It concludes with a parable about building a house on a solid foundation versus one without, highlighting the importance of acting on Jesus' teachings. The last part of the segment describes a centurion's servant being ill and the centurion sending elders to request Jesus' help."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Woes to the Satisfied",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The woes express a negative sentiment toward those who are currently satisfied, predicting future suffering."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "This topic expresses no joy, but rather the opposite."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Low trust as it suggests a future betrayal of current comfort."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High fear due to the prediction of future suffering."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Surprise at the reversal of fortunes."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High sadness due to the impending suffering."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Disgust at the complacency of those being addressed."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at the current state of affairs and the future consequences."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Anticipation of the predicted suffering."
+        }
+      }
+    },
+    {
+      "topic": "Love Your Enemies",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "This teaching promotes love and kindness even towards enemies, indicating a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Joy in the act of loving and doing good."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High trust in the power of love to transform relationships."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Low fear, as love overcomes fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the unexpected act of loving enemies."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "Low sadness, as love brings healing."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "Low disgust, as love transcends negativity."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Low anger, as love diffuses anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of positive outcomes from loving enemies."
+        }
+      }
+    },
+    {
+      "topic": "Judgment and Forgiveness",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 92,
+        "reasoning": "This section encourages forgiveness and warns against judgment, promoting a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Joy in the freedom from judgment and the act of forgiving."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High trust in the principles of forgiveness and non-judgment."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of being judged if one judges others."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Surprise at the unexpected act of forgiveness."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Low sadness, as forgiveness brings healing."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 75,
+          "reasoning": "Low disgust, as judgment is discouraged."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Low anger, as forgiveness diffuses anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of positive outcomes from forgiveness and non-judgment."
+        }
+      }
+    },
+    {
+      "topic": "Parable of the Blind Leading the Blind",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "This parable illustrates the danger of spiritual blindness, which carries a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy is present in this parable."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low trust due to the lack of guidance."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "High fear of the consequences of being misled."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Surprise at the potential for error."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Sadness at the potential for harm."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Disgust at the incompetence of the blind leader."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anger at the potential for being misled."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Low anticipation of positive outcomes."
+        }
+      }
+    },
+    {
+      "topic": "Hypocrisy of Fault-Finding",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "This teaching condemns hypocrisy and emphasizes self-reflection, which carries a somewhat negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Little joy, as it deals with flaws and hypocrisy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Low trust due to the presence of hypocrisy."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Fear of being exposed as a hypocrite."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Surprise at the extent of one's own flaws."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness at the recognition of one's own hypocrisy."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Disgust at one's own hypocrisy."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anger at oneself for being hypocritical."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation of improvement through self-reflection."
+        }
+      }
+    },
+    {
+      "topic": "Good and Bad Fruit",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 80,
+        "reasoning": "This section teaches that actions reveal character, which is neutral but can be positive or negative depending on the actions."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Joy associated with good fruit."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Trust in the reliability of actions revealing character."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear of producing bad fruit."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the nature of the fruit produced."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness associated with bad fruit."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Disgust associated with bad fruit."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anger associated with bad fruit."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of the consequences of the fruit produced."
+        }
+      }
+    },
+    {
+      "topic": "Building on a Solid Foundation",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "This parable highlights the importance of acting on teachings, which carries a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy in the security and stability of a solid foundation."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High trust in the principles of building on a solid foundation."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Low fear, as the foundation provides security."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise at the strength of the foundation."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 75,
+          "reasoning": "Low sadness, as the foundation provides comfort."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No disgust, as the foundation is strong and reliable."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 70,
+          "reasoning": "No anger, as the foundation provides peace."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of positive outcomes from building on a solid foundation."
+        }
+      }
+    },
+    {
+      "topic": "Centurion's Servant",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 90,
+        "reasoning": "The centurion's concern for his servant and his request for healing evokes a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Hope for the servant's recovery."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in Jesus' ability to heal."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Fear for the servant's life."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the centurion's humility."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness for the servant's suffering."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low disgust, possibly at the illness."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Some anger at the illness afflicting the servant."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of the servant's healing."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "27",
+    "segment_filename": "27_bible_ancient-greek.txt",
+    "text_identification": "New Testament, Gospel of Luke",
+    "text_summary": "This passage from the Gospel of Luke recounts Mary's visit to Elizabeth after the Annunciation. Elizabeth, filled with the Holy Spirit, recognizes Mary as the mother of the Lord and blesses her and the child she carries. Mary responds with the Magnificat, a hymn of praise to God for his favor and justice. The passage continues with the birth of John the Baptist. The neighbors and relatives want to name him Zacharias after his father, but Elizabeth insists on the name John, which is confirmed by Zacharias after he writes it down, resulting in his speech being restored. Fear and wonder spread among the people, and they ponder the child's future. Zacharias, filled with the Holy Spirit, prophesies."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Mary's Visit to Elizabeth",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "This event is overwhelmingly positive, filled with recognition of divine favor and blessings. The encounter signifies joy and spiritual affirmation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The encounter is filled with joy and celebration of divine blessing."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Both Mary and Elizabeth demonstrate trust in God's plan."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There might be a slight element of fear or awe in the presence of the divine."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The unexpected nature of the pregnancies and the encounter brings surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "There is no indication of sadness in this event."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not present in this scenario."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not present in this scenario."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "There's anticipation for the fulfillment of God's promises."
+        }
+      }
+    },
+    {
+      "topic": "Elizabeth's Prophecy and Blessing",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "Elizabeth's words are a blessing and a recognition of Mary's special role, indicating a highly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Her words express joy and reverence."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "She expresses trust in God's plan and Mary's role."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "A small amount of fear may be related to the reverence for the divine."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The unexpected nature of Mary's pregnancy contributes to surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no sadness in this prophecy."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Disgust is not present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Anger is not present."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Her prophecy anticipates the future significance of Mary's child."
+        }
+      }
+    },
+    {
+      "topic": "The Magnificat (Mary's Song)",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The Magnificat is a hymn of praise and thanksgiving to God, expressing joy, humility, and hope for the future. It is overwhelmingly positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The song expresses profound joy in God."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Mary trusts in God's promises and power."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "A small amount of fear may be present as reverence."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The unexpected nature of God's favor contributes to surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There's a subtle acknowledgment of her humble state."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Disgust is not present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is a hint of anger at injustice, but it's secondary to the overall praise."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The song anticipates God's future actions and blessings."
+        }
+      }
+    },
+    {
+      "topic": "The Birth of John the Baptist",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The birth of John the Baptist is a joyous occasion, signifying the fulfillment of prophecy and divine favor."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The birth is a cause for celebration."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The community trusts in God's plan."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There is some fear related to the miraculous circumstances."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The circumstances surrounding the birth are surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Disgust is not present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Anger is not present."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "There's anticipation for John's future role."
+        }
+      }
+    },
+    {
+      "topic": "Naming of John the Baptist",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "The naming of John is a moment of divine intervention and revelation. While there's initial disagreement, the final outcome is positive as it aligns with God's will."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The confirmation of the name brings joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "People trust in God's plan."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "There's fear related to Zacharias' muteness and its resolution."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The events are surprising and unexpected."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Some sadness might be related to Zacharias' previous muteness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Disgust is not present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Some slight frustration during the naming disagreement."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "There's anticipation for John's future."
+        }
+      }
+    },
+    {
+      "topic": "Zacharias' Prophecy",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "Zacharias' prophecy is a blessing and a declaration of God's faithfulness, indicating a highly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "His words express joy and reverence."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "He expresses trust in God's plan and John's role."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "A small amount of fear may be related to the reverence for the divine."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The unexpected nature of the events contributes to surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no sadness in this prophecy."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Disgust is not present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Anger is not present."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "His prophecy anticipates the future significance of John."
+        }
+      }
+    }
+  ]
+}

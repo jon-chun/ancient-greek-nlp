@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "20",
+    "segment_filename": "20_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the Gospel of Mark, containing passages about the coming of the Son of Man, parables about watchfulness, the Passover preparations, and the anointing of Jesus.",
+    "text_summary": "This segment of the Gospel describes Jesus foretelling his return in glory, emphasizing the need for vigilance and readiness. It includes the parable of the fig tree as a sign of the approaching end times. It also speaks of the unknowable timing of this event, known only to God the Father. The passage transitions to the Passover preparations and Judas's betrayal plot. It recounts the story of a woman anointing Jesus with expensive perfume in Bethany, which draws criticism but is defended by Jesus as a prefigurement of his burial. Finally, Judas Iscariot agrees to betray Jesus to the chief priests for money, setting the stage for the Passion narrative. The overarching themes are the anticipation of Christ's return, the importance of watchfulness, the foreshadowing of Jesus's death and resurrection, and the betrayal that sets the Passion in motion."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Coming of the Son of Man",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The description of the Son of Man coming in glory is generally positive, signifying hope and divine power. The high confidence reflects the clear positive tone."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The arrival of the Son of Man suggests ultimate triumph and fulfillment of God's plan, inspiring Joy. Confidence is high due to the clear association of the event with salvation."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The faithful are expected to trust in this event and its implications. The confidence is very high because this is a core tenet of faith."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "There's an element of fear associated with judgment and the unknown. Confidence is moderate as the text emphasizes hope more than fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The suddenness of the event could be surprising. Confidence is moderate because the return is also anticipated."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Sadness is minimal, perhaps reflecting the suffering that precedes this event. Confidence is low as the focus is on the positive outcome."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not directly relevant to this topic. Confidence is high in its absence."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Anger is minimally present, perhaps directed at those who reject the Son of Man. Confidence is low as it's not a central emotion."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The entire passage fosters anticipation for this future event. Confidence is high because anticipation is a key theme."
+        }
+      }
+    },
+    {
+      "topic": "Parable of the Fig Tree",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 80,
+        "reasoning": "The parable itself is neutral, but its purpose is to provide hope and assurance of the coming of the Kingdom, thus leaning positive. Confidence is high due to the clear message."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The parable signifies the nearness of a positive event, bringing a degree of Joy. Confidence is moderate as the joy is indirect."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The parable encourages trust in the signs and promises of Jesus. Confidence is high as trust is a key element."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "A small degree of fear might arise from the urgency of the message. Confidence is low as the parable is primarily reassuring."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The timing of the events might be surprising. Confidence is low as the parable aims to make the events predictable."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Sadness is minimal, reflecting the trials before the kingdom comes. Confidence is low as the focus is on hope."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not relevant to this parable. Confidence is high in its absence."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 70,
+          "reasoning": "Anger is not relevant to this parable. Confidence is moderate."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The parable's primary function is to generate anticipation for the coming of the Kingdom. Confidence is high."
+        }
+      }
+    },
+    {
+      "topic": "The Unknowable Time",
+      "sentiment_polarity": {
+        "score": 0.1,
+        "confidence": 60,
+        "reasoning": "The unknowability of the time introduces uncertainty, which is neither inherently positive nor negative, but slightly leans towards neutral. Confidence is moderate due to the clear statement of unknowability."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal joy as the focus is on the unknown. Confidence is low."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trust in God's plan despite the unknown is important. Confidence is moderate."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The unknowable time can induce fear and anxiety. Confidence is high."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The unexpectedness of the event is a key element. Confidence is very high."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness can arise from the uncertainty. Confidence is moderate."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not relevant. Confidence is high."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal anger is present. Confidence is low."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Anticipation is still present, even with the unknown timing. Confidence is moderate."
+        }
+      }
+    },
+    {
+      "topic": "Anointing at Bethany",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "The act of anointing Jesus is a positive expression of devotion and foreshadows his burial, thus leaning positive. Confidence is high due to the clear act of reverence."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Joy is present in the act of devotion. Confidence is moderate."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Trust in Jesus and his mission is shown by the woman. Confidence is high."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear. Confidence is low."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The extravagance of the act could be surprising. Confidence is moderate."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness is linked to the foreshadowing of Jesus's death. Confidence is high."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Disgust is present in the reaction of some to the 'waste' of perfume. Confidence is low."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anger is present in the criticism of the woman. Confidence is moderate."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anticipation for the burial. Confidence is moderate."
+        }
+      }
+    },
+    {
+      "topic": "Judas's Betrayal",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The act of betrayal is inherently negative and symbolizes treachery and disloyalty. Confidence is very high due to the clear negative intent."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal joy, perhaps for the betrayers. Confidence is very low."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Lack of trust is the core of the betrayal. Confidence is very low."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear of the authorities is a possible motivator. Confidence is moderate."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The betrayal itself is surprising. Confidence is moderate."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The betrayal is a source of deep sadness. Confidence is very high."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The act of betrayal is disgusting. Confidence is very high."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The betrayal incites anger. Confidence is very high."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anticipation of the consequences. Confidence is low."
+        }
+      }
+    },
+    {
+      "topic": "Passover Preparations",
+      "sentiment_polarity": {
+        "score": 0.5,
+        "confidence": 75,
+        "reasoning": "Preparing for Passover is a positive religious observance, signifying remembrance and tradition. Confidence is high."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Passover is a joyous occasion celebrating freedom. Confidence is high."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in God's provision and guidance. Confidence is high."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear. Confidence is low."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The specific instructions are slightly surprising. Confidence is low."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Minimal sadness. Confidence is low."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No disgust. Confidence is high."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 70,
+          "reasoning": "No anger. Confidence is moderate."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation for the Passover meal. Confidence is very high."
+        }
+      }
+    }
+  ]
+}

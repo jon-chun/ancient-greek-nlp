@@ -1,0 +1,460 @@
+{
+  "segment_metadata": {
+    "segment_number": "178",
+    "segment_filename": "178_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from one of the Johannine epistles (1 John or 2 John). The themes of love, obedience, and discernment of truth and falsehood are characteristic of these letters.",
+    "text_summary": "This passage emphasizes the importance of obedience to God's commandments as evidence of knowing Him. It warns against those who claim to know God but disobey His commands, labeling them as liars. The passage highlights the necessity of loving one's brother and walking as Jesus walked. It contrasts light and darkness, associating love with light and hatred with darkness. The text also addresses different groups within the community (children, fathers, young men), reminding them of their spiritual standing and victories over evil. It cautions against loving the world and its desires, asserting that true love is of the Father. The passage speaks of the last hour and the coming of antichrists, urging believers to remain in the truth they have heard from the beginning. It assures them of the anointing they have received and the indwelling presence of God, enabling them to discern truth. Finally, it speaks of the love the Father has bestowed upon believers, calling them children of God, and anticipates their future glorification and likeness to Him. Sin is defined as lawlessness, and the passage reiterates that those born of God do not continue in sin."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Obedience to God's Commandments",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Obedience is presented as a positive affirmation of knowing God and walking in truth."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "The joy of knowing God and being in right relationship with Him."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Trust in God's guidance and the benefits of obedience."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Fear of the consequences of disobedience."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The surprising blessings that come from obedience."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sadness over the state of disobedience in the world."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust for those who claim to know God but disobey Him."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 45,
+          "reasoning": "Righteous anger against those who deceive others."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 65,
+          "reasoning": "Anticipation of the rewards of obedience in the future."
+        }
+      }
+    },
+    {
+      "topic": "Love for One's Brother",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Love is presented as essential for walking in the light and avoiding stumbling."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "The joy of fellowship and unity with other believers."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in the sincerity and goodwill of fellow believers."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Fear of division and conflict within the community."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "The surprising ways love can manifest itself."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sadness over broken relationships and lack of love."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust for hatred and bitterness."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Righteous anger against those who sow discord."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Anticipation of the blessings that come from loving one another."
+        }
+      }
+    },
+    {
+      "topic": "Light vs. Darkness",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Light is associated with truth, love, and God, while darkness is associated with falsehood, hatred, and sin."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The joy of walking in the light and knowing truth."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Trust in the illuminating power of God's truth."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Fear of the consequences of walking in darkness."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The surprising revelations that come from walking in the light."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness over the state of those who are in darkness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Disgust for the deeds done in darkness."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Righteous anger against the forces of darkness."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Anticipation of the ultimate triumph of light over darkness."
+        }
+      }
+    },
+    {
+      "topic": "Overcoming the World and its Desires",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "The passage encourages believers to overcome the allure of worldly desires and focus on God's will."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 65,
+          "reasoning": "The joy of freedom from worldly attachments."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in God's provision and guidance."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Fear of being ensnared by worldly desires."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The surprising emptiness of worldly pleasures."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness over the state of those who are consumed by worldly desires."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Disgust for the superficiality and fleeting nature of worldly things."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Righteous anger against the forces that promote worldly desires."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Anticipation of the eternal rewards of seeking God's will."
+        }
+      }
+    },
+    {
+      "topic": "The Coming of Antichrist",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 80,
+        "reasoning": "The mention of antichrists brings a negative sentiment due to the threat of deception and apostasy."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal joy, as the topic is concerning."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Trust in God's protection and the ability to discern truth."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Significant fear due to the threat of deception and the consequences of following false teachers."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Surprise at the extent of deception in the world."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness over the state of those who are deceived."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Disgust for the lies and deceit of the antichrists."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Righteous anger against those who promote falsehood and lead others astray."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anticipation of God's ultimate judgment and vindication of truth."
+        }
+      }
+    },
+    {
+      "topic": "Assurance of Salvation and Indwelling Presence",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The passage provides assurance of salvation through Christ and the indwelling presence of the Holy Spirit, resulting in a highly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Great joy in knowing Christ and having eternal life."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Complete trust in God's promises and the power of the Holy Spirit."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear, as the focus is on assurance and security."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the depth of God's love and grace."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness, as the focus is on hope and joy."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No disgust, as the topic is purely positive."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No anger, as the topic is purely positive."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Anticipation of future glorification and eternal life with God."
+        }
+      }
+    },
+    {
+      "topic": "Future Glorification",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The anticipation of being like Christ and seeing Him as He is evokes a strong positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Great joy in the prospect of being transformed and united with Christ."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Complete trust in God's promise of future glory."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No fear, as the focus is on hope and assurance."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Surprise at the unimaginable glory that awaits believers."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness, as the focus is on future hope."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No disgust, as the topic is purely positive."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No anger, as the topic is purely positive."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Intense anticipation of the future glorification and eternal life with God."
+        }
+      }
+    },
+    {
+      "topic": "Sin as Lawlessness",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "Defining sin as lawlessness carries a negative sentiment due to its destructive nature and separation from God."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal joy, as the topic is concerning."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Trust in God's justice and the consequences of sin."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Significant fear due to the consequences of sin and separation from God."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at the extent of sin in the world."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Significant sadness over the destructive nature of sin."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Strong disgust for sin and its consequences."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Righteous anger against sin and its destructive power."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Anticipation of God's ultimate judgment and the end of sin."
+        }
+      }
+    },
+    {
+      "topic": "Born of God Do Not Continue in Sin",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "While addressing sin, the statement that those born of God do not continue in sin carries a somewhat positive sentiment due to the implication of transformation and new life."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "The joy of being freed from the power of sin."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in God's power to transform lives."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fear of falling back into sin."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The surprising power of God to change lives."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness over the reality of sin in the world."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Disgust for sin and its effects."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Righteous anger against the forces of evil."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Anticipation of continued growth in holiness."
+        }
+      }
+    }
+  ]
+}

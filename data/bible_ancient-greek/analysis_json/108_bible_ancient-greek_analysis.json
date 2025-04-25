@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "108",
+    "segment_filename": "108_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically 1 Corinthians, chapters 5-7.",
+    "text_summary": "This passage addresses issues of sexual immorality within the Corinthian church, instructing them to discipline a member involved in incest. It emphasizes the need for purity and warns against associating with immoral individuals, even those claiming to be believers. The text uses the analogy of leaven to illustrate how sin can corrupt the entire community. It also discusses the importance of sexual purity, highlighting that the body is meant for the Lord and is a temple of the Holy Spirit. It then transitions to addressing questions about marriage and celibacy, advising individuals to remain as they are, but acknowledging that marriage is preferable to burning with passion. It emphasizes mutual respect and responsibility within marriage, discouraging separation."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Incest and Church Discipline",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "This topic involves a serious sin and the need for corrective action within the church. The sentiment is negative due to the transgression and the call for discipline."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no joy associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Trust in the church leadership to act correctly is implied, but weakened by the initial inaction."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Fear of corruption and judgment is present."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise at the occurrence of such a sin within the church."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness over the sin and its impact on the community."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Strong disgust at the incestuous act."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at the sin and the church's initial tolerance of it."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anticipation of the consequences and the need for action."
+        }
+      }
+    },
+    {
+      "topic": "Avoiding Association with Immoral Believers",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "This topic emphasizes separation from sin and maintaining purity within the church. While the intention is good, the act of separation can be seen as negative in some contexts."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy is directly associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Trust in the wisdom of the instruction."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear of being influenced by immoral behavior."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Low surprise, as this is a common theme."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness over the broken fellowship and the need for separation."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Disgust at the immoral behavior that necessitates separation."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anger at those who engage in immoral behavior."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anticipation of a purer church environment."
+        }
+      }
+    },
+    {
+      "topic": "The Body as a Temple",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "This topic is generally positive, emphasizing the sacredness of the body and its relationship to God."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Joy in the understanding of the body's sacredness."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's design and purpose for the body."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of defiling the temple of the Holy Spirit."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Low surprise, as this is a known concept."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness, perhaps related to past sins."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Disgust at the thought of misusing the body."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal anger, perhaps at those who misuse their bodies."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of living in accordance with God's purpose."
+        }
+      }
+    },
+    {
+      "topic": "Marriage and Celibacy",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 75,
+        "reasoning": "This topic presents both marriage and celibacy as valid options, creating a balanced sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Potential joy in either marriage or celibacy."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trust in God's guidance for choosing the right path."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Fear of making the wrong decision."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low surprise, as this is a common topic."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness, perhaps related to difficult circumstances."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No disgust is directly associated with this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No anger is directly associated with this topic."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of a fulfilling life, whether married or single."
+        }
+      }
+    },
+    {
+      "topic": "Mutual Responsibility in Marriage",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "This topic emphasizes equality and mutual respect within marriage, which is a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy in the concept of a balanced and respectful marriage."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in the importance of mutual responsibility."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear, perhaps related to potential conflict."
+        },
+        "Surprise": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "Low surprise, as this is a generally accepted concept."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness, perhaps related to unhealthy marriages."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No disgust is directly associated with this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No anger is directly associated with this topic."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of a strong and fulfilling marriage."
+        }
+      }
+    }
+  ]
+}

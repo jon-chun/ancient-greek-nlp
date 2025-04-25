@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "22",
+    "segment_filename": "22_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from one of the Gospels (Mark, Matthew, Luke, or John), specifically describing the arrest, trial, and Peter's denial of Jesus.",
+    "text_summary": "This passage recounts the betrayal and arrest of Jesus, starting with Judas's kiss and the disciples' attempt to defend him, including one cutting off a servant's ear. Jesus is then taken to the high priest, where he is questioned and falsely accused. Peter follows at a distance and denies knowing Jesus three times. Jesus is silent before his accusers, but affirms his identity as the Christ, the Son of God. The high priest accuses him of blasphemy, and the council condemns him to death. The passage also describes the abuse Jesus endures, including spitting, blindfolding, and striking. The passage ends with the Jewish leaders binding Jesus and handing him over to Pilate, and Pilate questioning Jesus about being the King of the Jews."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Betrayal and Arrest of Jesus",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "This event is inherently negative due to the treachery and injustice involved. The arrest marks a turning point towards Jesus' suffering and death."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present in this event."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The trust Jesus had in his disciples is broken by Judas's betrayal."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The disciples and Jesus likely experience fear during the arrest."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The suddenness of the betrayal and arrest would be surprising."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The betrayal and arrest are deeply saddening events."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The act of betrayal is disgusting."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The injustice of the arrest evokes anger."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "There is some anticipation of what will happen next, but it's overshadowed by the immediate crisis."
+        }
+      }
+    },
+    {
+      "topic": "Jesus's Silence and Affirmation",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 80,
+        "reasoning": "Jesus's silence initially suggests a negative sentiment, but his eventual affirmation of his identity carries a positive, albeit solemn, weight. The affirmation is a moment of truth and divine declaration."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal joy, perhaps a sense of inner peace."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Jesus trusts in God's plan."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "There's a degree of fear in facing his accusers."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Not much surprise here, as Jesus likely knew what was coming."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness at the rejection and suffering."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal anger, as Jesus remains composed."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of fulfilling his mission."
+        }
+      }
+    },
+    {
+      "topic": "Peter's Denial",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "Peter's denial is a negative event, representing a failure of faith and loyalty. It's a moment of weakness and regret."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy involved."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Peter betrays Jesus's trust."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Peter is driven by fear of association with Jesus."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The situation might have caught Peter off guard."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Peter experiences deep sadness and regret after denying Jesus."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Peter might feel some self-disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal anger, mostly self-directed."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Peter is focused on immediate survival, not anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Condemnation and Abuse of Jesus",
+      "sentiment_polarity": {
+        "score": -0.95,
+        "confidence": 98,
+        "reasoning": "This is a profoundly negative event, marked by injustice, cruelty, and suffering. It represents the depths of human depravity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Absolutely no joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Complete betrayal of trust."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Jesus experiences fear in the face of abuse."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The intensity of the abuse might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.95,
+          "confidence": 98,
+          "reasoning": "Profound sadness at the suffering."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The acts of abuse are disgusting."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The injustice and cruelty evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Jesus is focused on enduring the suffering."
+        }
+      }
+    },
+    {
+      "topic": "Handing Jesus over to Pilate",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "This event signifies the transfer of authority and the continuation of Jesus's path toward crucifixion. It's a negative development, as it leads to further suffering."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Betrayal of justice."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Jesus and his followers likely experience fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Sadness at the continued injustice."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Disgust at the corruption of the legal process."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at the injustice."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of what Pilate will do."
+        }
+      }
+    }
+  ]
+}

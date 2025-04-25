@@ -1,0 +1,410 @@
+{
+  "segment_metadata": {
+    "segment_number": "4",
+    "segment_filename": "4_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the Gospel of Mark in the New Testament.",
+    "text_summary": "This segment covers several distinct episodes. It begins with a discussion about fasting, with Jesus explaining that his disciples do not fast while he is with them, comparing himself to a bridegroom. He uses parables of new cloth on old garments and new wine in old wineskins to illustrate the incompatibility of old and new ways. The passage then describes the disciples picking grain on the Sabbath, leading to a confrontation with the Pharisees, where Jesus defends their actions by referencing David's similar act. Jesus declares that the Sabbath was made for man, not man for the Sabbath, and that he is Lord of the Sabbath. It continues with Jesus healing a man with a withered hand on the Sabbath in the synagogue, provoking the Pharisees to plot his death. The passage ends with Jesus withdrawing to the sea, where he is followed by a large crowd, and he chooses the twelve apostles. The crowd seeks healing, and unclean spirits acknowledge him as the Son of God. Finally, it describes the apostles' inability to even eat due to the crowds."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Fasting and the Bridegroom",
+      "sentiment_polarity": {
+        "score": 0.5,
+        "confidence": 85,
+        "reasoning": "The analogy of the bridegroom suggests a time of joy, hence a moderately positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The bridegroom analogy implies joy and celebration."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The disciples trust Jesus's explanation."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal fear, perhaps of future hardship."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some surprise at the Pharisees' question."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "A hint of sadness due to the coming separation."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Slight annoyance with the Pharisees' questioning."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of the time when the bridegroom will be taken away."
+        }
+      }
+    },
+    {
+      "topic": "Parables of New Cloth and New Wine",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 75,
+        "reasoning": "The parables illustrate incompatibility, not necessarily positive or negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal joy."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Low trust, as things break."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Fear of ruin and damage."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Surprise at the unexpected outcomes."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness at the waste and loss."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Disgust at the resulting mess."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal anger."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anticipation of the negative consequences."
+        }
+      }
+    },
+    {
+      "topic": "Disciples Picking Grain on the Sabbath",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 80,
+        "reasoning": "Slightly negative, reflecting the conflict and disapproval."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal joy, mostly conflict."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Low trust between Pharisees and disciples."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Fear of punishment or rebuke."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Surprise at the disciples' actions."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness at the conflict."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Disgust from the Pharisees."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anger from the Pharisees at the perceived violation."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anticipation of the consequences."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Defense of the Disciples and Lordship of the Sabbath",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "Positive, Jesus defends his disciples and asserts his authority."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Joy in the liberation from strict rules."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in Jesus's authority and wisdom."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Surprise at Jesus's interpretation."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust present."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some anger directed at the Pharisees' rigidness."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of a new understanding of the Sabbath."
+        }
+      }
+    },
+    {
+      "topic": "Healing on the Sabbath and Pharisee's Plot",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 80,
+        "reasoning": "Negative, due to the Pharisees' reaction and plot."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Joy at the healing."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Trust in Jesus's healing power."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Fear for Jesus's safety."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Surprise at the Pharisees' extreme reaction."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness at the Pharisees' lack of compassion."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Disgust at the Pharisees' hypocrisy."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anger from the Pharisees and at their injustice."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation of the conflict to come."
+        }
+      }
+    },
+    {
+      "topic": "Jesus Withdraws and Crowds Follow",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "Positive, Jesus provides healing and attracts followers."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Joy from the healed and the followers."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in Jesus's healing power."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Surprise at the extent of Jesus's influence."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger present."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of further miracles and teachings."
+        }
+      }
+    },
+    {
+      "topic": "Selection of the Twelve Apostles",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Positive, a significant event establishing a core group."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Joy in being chosen and called."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Trust in Jesus's judgment."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some fear of the responsibilities."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Surprise at being selected."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger present."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Anticipation of their mission."
+        }
+      }
+    },
+    {
+      "topic": "Overwhelmed by Crowds",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 75,
+        "reasoning": "Slightly negative, reflecting the apostles' inability to eat."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal joy, mostly overwhelmed."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 40,
+          "reasoning": "Trust in Jesus's ability to manage."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Fear of being overwhelmed."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Surprise at the intensity of the crowds."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness at the lack of basic needs."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Slight disgust at the chaotic situation."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some frustration at the inability to rest."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation of continued demands."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "7",
+    "segment_filename": "7_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the Gospel of Mark, specifically containing the accounts of the healing of the demon-possessed man and the healing of the woman with the issue of blood, and the raising of Jairus' daughter.",
+    "text_summary": "This passage recounts several miraculous events performed by Jesus. First, Jesus casts out demons from a man into a herd of pigs, which then rush into the sea and drown. The people are amazed but also afraid and ask Jesus to leave. Next, Jesus returns across the sea and is met by Jairus, a synagogue leader, whose daughter is dying. While on the way to heal her, a woman who has suffered from bleeding for twelve years touches Jesus' cloak and is instantly healed. Jesus identifies her, and she confesses. He assures her that her faith has made her well. Messengers then arrive, announcing Jairus' daughter's death, but Jesus encourages Jairus to believe. Arriving at Jairus' house, Jesus raises the girl from the dead, instructing them to keep it secret and give her something to eat. Finally, Jesus returns to his hometown and teaches in the synagogue, astonishing the people with his wisdom and power."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Casting out demons into pigs",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "The event is a demonstration of Jesus' power over evil, but also involves destruction (of the pigs) and fear from the local population. This creates a mixed sentiment, leaning slightly negative due to the loss of property and the fear induced."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal joy, related to the demonstration of power."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some trust in Jesus' power."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "High fear due to the destructive nature and the presence of demons."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Significant surprise at the unexpected miracle."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Sadness related to the loss of the pigs."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Disgust associated with the demons."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Some anger related to the destruction."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Little anticipation, as the event is sudden."
+        }
+      }
+    },
+    {
+      "topic": "Healing the woman with the issue of blood",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "This is a positive event, as it involves healing and faith. The woman's suffering is resolved, and Jesus affirms her faith."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High joy due to the healing."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Very high trust in Jesus' power."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Some fear due to the woman's initial apprehension and the social stigma."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Surprise at the sudden healing."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Residual sadness from the woman's past suffering."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal disgust, perhaps related to the nature of her ailment."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Little anger."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some anticipation as she seeks healing."
+        }
+      }
+    },
+    {
+      "topic": "Raising Jairus' daughter from the dead",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "This is an overwhelmingly positive event, a demonstration of Jesus' power over death and a source of great joy and relief for Jairus and his family."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Extremely high joy due to the resurrection."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Very high trust in Jesus."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Significant surprise at the miracle."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Initial sadness due to the daughter's death."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Anticipation as Jesus arrives."
+        }
+      }
+    },
+    {
+      "topic": "Jesus teaching in his hometown synagogue",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 75,
+        "reasoning": "This event has mixed sentiment. While Jesus is teaching, and this is generally positive, the people are astonished and question his authority, indicating some level of skepticism and disbelief."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Some joy in hearing the teachings."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Some trust in Jesus' wisdom."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some fear due to the questioning of his authority."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High surprise at his wisdom and power."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Little sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Little disgust."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some anger/resentment due to their skepticism."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation as they listen to his teachings."
+        }
+      }
+    }
+  ]
+}

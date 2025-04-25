@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "169",
+    "segment_filename": "169_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from the Epistle of James.",
+    "text_summary": "This passage emphasizes the importance of righteous living and warns against hypocrisy. It urges believers to control their anger, rid themselves of moral filth, and humbly receive God's word. It highlights the necessity of being doers of the word, not just hearers, and warns against self-deception. True religion is defined as caring for the vulnerable (orphans and widows) and keeping oneself unstained by the world. The passage also condemns favoritism towards the rich and disrespect towards the poor, reminding believers that God has chosen the poor to be rich in faith. It stresses the importance of keeping the whole law and warns that even a single transgression makes one guilty of breaking it all. Finally, it addresses the futility of faith without works, using the example of providing empty words instead of practical help to the needy."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Anger and Righteousness",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "The passage discourages anger as it hinders righteousness, indicating a slightly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy associated with anger."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust in God's way is implied as the alternative to anger."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Fear of the consequences of anger."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Low surprise."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sadness over the state of anger."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Disgust at the actions that anger can lead to."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anger is the main emotion being addressed."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anticipation of a more righteous state."
+        }
+      }
+    },
+    {
+      "topic": "Doers of the Word vs. Hearers Only",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "Being a doer of the word is presented as positive, while being only a hearer is negative, indicating an overall positive sentiment when acting on the word."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Joy associated with obedience and pleasing God."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "High trust in the word of God."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Low fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low surprise."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sadness over those who only hear and don't do."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust at hypocrisy."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of blessings for obedience."
+        }
+      }
+    },
+    {
+      "topic": "True Religion: Caring for the Vulnerable and Remaining Pure",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "This defines true religion as positive actions and purity, indicating a strong positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Joy in serving others and fulfilling God's will."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Trust in God's definition of true religion."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No fear associated with true religion."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Low surprise."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness for the suffering of orphans and widows."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust at worldly impurity."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anticipation of God's blessing for true religion."
+        }
+      }
+    },
+    {
+      "topic": "Condemnation of Favoritism",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "Favoritism is condemned, creating a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy associated with favoritism."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Lack of trust in human judgment."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of God's judgment for showing favoritism."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Surprise at the prevalence of favoritism."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness for the mistreatment of the poor."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Disgust at the injustice and hypocrisy of favoritism."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at the mistreatment of the poor and the arrogance of the rich."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Faith and Works",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "Faith without works is considered dead, implying a negative sentiment towards inactive faith and a positive sentiment towards active faith."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Joy in actively demonstrating faith."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Trust in God's way of salvation."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear of the consequences of inactive faith."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low surprise."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness for those who are deceived into thinking faith alone is enough."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Disgust at the hypocrisy of claiming faith without action."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anger at those who mislead others about salvation."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of reward for active faith."
+        }
+      }
+    }
+  ]
+}

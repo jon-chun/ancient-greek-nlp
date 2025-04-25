@@ -1,0 +1,160 @@
+{
+  "segment_metadata": {
+    "segment_number": "199",
+    "segment_filename": "199_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the Book of Revelation in the New Testament, specifically describing the New Jerusalem.",
+    "text_summary": "This passage describes the vision of the New Jerusalem, a heavenly city prepared as a bride for her husband (God/Christ). God dwells with humanity, ending suffering and death. He declares that He is making all things new and that His words are trustworthy. He identifies Himself as the Alpha and Omega, offering living water freely to the thirsty and promising inheritance to the victorious, becoming their God and they His children. However, the cowardly, unbelieving, and wicked will face eternal punishment in the lake of fire. An angel shows the speaker the New Jerusalem, descending from heaven, filled with God's glory, having high walls, twelve gates named after the tribes of Israel, and foundations named after the apostles. The city is square, with immense dimensions, built of precious stones and gold. There is no temple, as God and the Lamb are its temple. The city needs no sun or moon, for God's glory illuminates it. Nations will walk in its light, and kings will bring their glory into it. Nothing impure will enter the city."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Bride Adorned and God's Dwelling with Humanity",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is positive due to the description of a glorious future and God's presence, but tempered by warnings about the fate of the wicked."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The promise of eternal life and God's presence evokes joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "God's promises and the assurance of his presence inspire trust."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 85,
+          "reasoning": "The warning about the fate of the wicked introduces an element of fear."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The vision of a new heaven and earth is surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "The text focuses on the end of sadness, so its weight is low."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The description of the wicked evokes a sense of disgust."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The punishment of the wicked can evoke a sense of anger against evil."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The vision of the future creates anticipation."
+        }
+      }
+    },
+    {
+      "topic": "The New Jerusalem",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "The topic is about the New Jerusalem, a place of ultimate good, light, and divine presence, resulting in an overwhelmingly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.95,
+          "confidence": 95,
+          "reasoning": "The description of the New Jerusalem as a glorious and perfect city evokes immense joy."
+        },
+        "Trust": {
+          "weight": 0.95,
+          "confidence": 95,
+          "reasoning": "The New Jerusalem represents God's faithfulness and the fulfillment of His promises, inspiring great trust."
+        },
+        "Fear": {
+          "weight": 0.05,
+          "confidence": 90,
+          "reasoning": "Fear is minimal as the New Jerusalem is a place of safety and security."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The New Jerusalem is a new and wondrous creation, filled with unexpected beauty and glory."
+        },
+        "Sadness": {
+          "weight": 0.05,
+          "confidence": 90,
+          "reasoning": "Sadness is absent from the New Jerusalem, a place of eternal happiness."
+        },
+        "Disgust": {
+          "weight": 0.05,
+          "confidence": 90,
+          "reasoning": "Disgust is not present in this pure and holy city."
+        },
+        "Anger": {
+          "weight": 0.05,
+          "confidence": 90,
+          "reasoning": "Anger is absent in the New Jerusalem, a place of perfect peace and harmony."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "The New Jerusalem is a future hope, creating a strong sense of anticipation."
+        }
+      }
+    },
+    {
+      "topic": "The Fate of the Wicked",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "This part speaks about the fate of the wicked and unfaithful, which is negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 90,
+          "reasoning": "This topic evokes no joy, as it describes punishment."
+        },
+        "Trust": {
+          "weight": 0.05,
+          "confidence": 90,
+          "reasoning": "This topic undermines trust, as it describes negative consequences for disbelief."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The description of the lake of fire evokes intense fear."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The finality of the judgment can be startling."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The loss of these individuals to eternal punishment evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The description of the wicked evokes disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The punishment of the wicked can evoke anger against evil."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 75,
+          "reasoning": "There is no positive future anticipated for these individuals."
+        }
+      }
+    }
+  ]
+}

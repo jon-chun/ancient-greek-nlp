@@ -1,0 +1,460 @@
+{
+  "segment_metadata": {
+    "segment_number": "171",
+    "segment_filename": "171_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from the Epistle of James and the First Epistle of Peter.",
+    "text_summary": "This text segment contains a series of exhortations and warnings. It emphasizes the importance of humility, repentance, and righteous living. It warns against judging others, boasting about future plans, and the dangers of wealth. It highlights the suffering of the righteous, urging patience and perseverance until the Lord's return. The text also stresses the power of prayer, confession of sins, and the importance of turning others from error. The segment concludes with an address to the elect exiles, praising God for the living hope and incorruptible inheritance offered through Jesus Christ. It encourages believers to live holy lives, love one another sincerely, and rely on the enduring word of God."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Repentance and Humility",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The call to cleanse and purify indicates negativity, but the promise of being lifted up suggests a positive outcome, leaning towards positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Potential joy from forgiveness."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in God's promise of lifting up."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Fear of judgment if one doesn't repent."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Surprise at the extent of needed change."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Sadness over sins committed."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Disgust at one's own sinful state."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Anger at oneself for sinning."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of forgiveness and a better relationship with God."
+        }
+      }
+    },
+    {
+      "topic": "Warning Against Judging Others",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "Judging others is presented negatively, leading to a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with judging others."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Lack of trust in those who judge."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Fear of divine judgment for judging others."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise at the audacity of judging others."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Sadness over the divisiveness caused by judgment."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Disgust at the act of judging others."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anger at those who judge and condemn others."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Little anticipation of positive outcomes from judging."
+        }
+      }
+    },
+    {
+      "topic": "Condemnation of Boasting and Worldly Planning",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "Boasting without acknowledging God's will and the fleeting nature of life make the sentiment negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with arrogant boasting."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Lack of trust in plans made without God."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Fear of the consequences of ignoring God's will."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Surprise at the arrogance of such boasting."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness over the vanity of worldly plans."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Disgust at the arrogance and folly of boasting."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anger at the disregard for God's will."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Limited anticipation of positive outcomes from such boasting."
+        }
+      }
+    },
+    {
+      "topic": "Warning to the Rich",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "The warning of impending woes and corruption of wealth makes the sentiment strongly negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No joy associated with impending doom."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 40,
+          "reasoning": "No trust in the corrupting nature of riches."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Intense fear of the coming judgment."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Possible surprise at the extent of the judgment."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Deep sadness over the impending woes."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Disgust at the corruption and decay of wealth."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at the injustice of hoarding wealth."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Little anticipation of positive outcomes."
+        }
+      }
+    },
+    {
+      "topic": "Suffering and Patience",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 75,
+        "reasoning": "Suffering is negative, but the call to patience and the promise of the Lord's return introduce a hopeful element."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Joy from the hope of the Lord's return."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trust in God's promise of reward."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Fear of continued suffering."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Possible surprise at the timing of the Lord's return."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Sadness over current suffering."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Disgust at the injustice of suffering."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anger at the cause of suffering."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of the Lord's return and the end of suffering."
+        }
+      }
+    },
+    {
+      "topic": "Prayer and Confession",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Prayer and confession are presented as positive actions leading to healing and forgiveness."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Joy from the prospect of forgiveness and healing."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in the power of prayer and confession."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear associated with seeking forgiveness."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Possible surprise at the effectiveness of prayer."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Sadness over past sins."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Disgust at one's own sinful actions."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal anger associated with seeking forgiveness."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong anticipation of healing and forgiveness."
+        }
+      }
+    },
+    {
+      "topic": "Turning Others from Error",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Turning a sinner from error is highly positive, leading to salvation and covering of sins."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Immense joy from saving a soul."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the transformative power of truth."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No fear associated with doing good."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Possible surprise at the impact of one's actions."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong anticipation of positive outcomes."
+        }
+      }
+    },
+    {
+      "topic": "Election and Salvation through Christ",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "Focuses on God's grace, election, and the hope of salvation through Christ, overwhelmingly positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Profound joy from the gift of salvation."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Complete trust in God's plan of salvation."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No fear in the security of God's love."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Possible surprise at the depth of God's love."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Eager anticipation of eternal life."
+        }
+      }
+    },
+    {
+      "topic": "Living a Holy Life",
+      "sentiment_polarity": {
+        "score": 0.85,
+        "confidence": 90,
+        "reasoning": "The call to holiness and sincere love is presented as a positive and desirable way of life."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy from living in accordance with God's will."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's guidance and provision."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Fear of straying from the path of righteousness."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Possible surprise at the blessings of obedience."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Anticipation of eternal rewards."
+        }
+      }
+    }
+  ]
+}

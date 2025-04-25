@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "55",
+    "segment_filename": "55_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from the Gospel of Luke. The passage describes Jesus' entry into Jerusalem, his lament over the city, and his cleansing of the Temple.",
+    "text_summary": "This passage begins with Jesus commanding the execution of those who rejected his kingship. He then proceeds towards Jerusalem, sending disciples ahead to procure a colt. As he approaches the city, the disciples praise God, proclaiming him as king. Some Pharisees object, but Jesus states that even the stones would cry out if the disciples were silent. Upon seeing Jerusalem, Jesus weeps, foretelling its destruction because it did not recognize the time of God's visitation. He then enters the Temple and drives out those who were selling, accusing them of turning it into a den of robbers rather than a house of prayer. The chief priests and scribes seek to destroy him, but the people are attentive to his teaching. Finally, the chief priests and scribes, together with the elders, confront Jesus, questioning his authority. Jesus responds by asking them about the baptism of John, putting them in a dilemma."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Overall Sentiment",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 85,
+        "reasoning": "The overall sentiment is mixed, with elements of joy and praise, but also lament and condemnation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Joy is present in the disciples' praise."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust is implied in their following of Jesus."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear is present in Jesus' prophecy of Jerusalem's destruction."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Surprise is minimal."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "Sadness is present in Jesus' weeping."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Disgust is present in Jesus' reaction to the Temple merchants."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anger is present in Jesus' condemnation."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation is present in the events leading up to the entry into Jerusalem."
+        }
+      }
+    },
+    {
+      "topic": "Command to Execute Rejectors",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "The command to execute those who rejected Jesus' kingship is negative and harsh."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no joy associated with this command."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no trust associated with this command."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Fear is a strong element."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Surprise is low."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Sadness might be present for some."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Disgust is likely present."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger is likely present."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Anticipation is not a major factor."
+        }
+      }
+    },
+    {
+      "topic": "Entry into Jerusalem",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Jesus' entry into Jerusalem and the disciples' praise are positive events."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Joy is high."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust is high."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Fear is low."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise is moderate."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Sadness is low."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is absent."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is absent."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation is moderate."
+        }
+      }
+    },
+    {
+      "topic": "Lament over Jerusalem",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "Jesus' lament over Jerusalem is negative due to the prophecy of destruction."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Joy is absent."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Trust is absent."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Fear is high."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise is moderate."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Sadness is high."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Disgust is low."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anger is low."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation is present."
+        }
+      }
+    },
+    {
+      "topic": "Cleansing of the Temple",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "Jesus' cleansing of the Temple is a righteous act of anger and correction, but still involves a negative action."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Joy is low."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Trust is low."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear is moderate."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Surprise is low."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Sadness is low."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Disgust is high."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Anger is high."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anticipation is low."
+        }
+      }
+    },
+    {
+      "topic": "Questioning of Authority",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 75,
+        "reasoning": "The questioning of Jesus' authority is neutral in itself, but implies doubt and potential conflict."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Joy is low."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Trust is moderate."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Fear is moderate."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise is moderate."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Sadness is low."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Disgust is low."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anger is moderate."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation is moderate."
+        }
+      }
+    }
+  ]
+}

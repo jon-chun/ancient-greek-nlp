@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "133",
+    "segment_filename": "133_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from one of Paul's letters (Epistles) due to the writing style and themes discussed. Based on the content, it is most likely from Ephesians.",
+    "text_summary": "This passage emphasizes spiritual growth and unity within the Christian community. It speaks of Christ dwelling in believers through faith and love, urging them to comprehend the vastness of God's love. The passage highlights the power of God working within believers and encourages them to live lives worthy of their calling, characterized by humility, gentleness, patience, and love. It stresses the importance of maintaining unity in the Spirit through peace, recognizing the shared foundation of one body, one Spirit, one hope, one Lord, one faith, one baptism, and one God. The text also discusses Christ's ascension and bestowal of gifts (apostles, prophets, evangelists, pastors, teachers) to equip believers for service and build up the body of Christ until they attain maturity and unity in faith and knowledge of God's Son. The goal is to grow into Christ, the head, through love, with each part of the body contributing to its building up."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Christ Dwelling in Believers",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The indwelling of Christ is a positive concept, signifying a close relationship with God."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The indwelling of Christ brings joy and fulfillment."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "It inspires trust in God's presence and guidance."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minimal fear, perhaps a sense of reverence."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some surprise at the profound nature of this union."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No sadness associated with this positive concept."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anticipation of continued growth and blessings from this relationship."
+        }
+      }
+    },
+    {
+      "topic": "Unity in the Spirit",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Unity is presented as a desirable quality for the Christian community."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Unity brings joy and a sense of belonging."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Unity fosters trust among believers."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Fear of division or disharmony."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the potential for unity despite differences."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Sadness over past or present divisions."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Anger at those who disrupt unity."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of the benefits and blessings of unity."
+        }
+      }
+    },
+    {
+      "topic": "Living Worthy of the Calling",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "This is a call to ethical behavior, reflecting Christian values."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Joy in fulfilling God's purpose."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in God's guidance to live righteously."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of failing to meet God's standards."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise at the challenges in living a godly life."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Sadness over personal shortcomings."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "Disgust at sin and unrighteousness."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Anger at injustice and wrongdoing."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of the rewards of living a worthy life."
+        }
+      }
+    },
+    {
+      "topic": "Gifts and Ministries",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Spiritual gifts are given for the benefit of the community."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Joy in discovering and using one's gifts."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's plan for the church."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Fear of misusing one's gifts."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Surprise at the diversity of gifts."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Sadness over the underutilization of gifts."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Anger at those who suppress gifts."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of the impact of the church through the use of gifts."
+        }
+      }
+    },
+    {
+      "topic": "Growth into Maturity in Christ",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Spiritual growth is a positive aspiration in Christian faith."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Joy in spiritual progress."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's ability to mature believers."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Fear of stagnation."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the challenges of spiritual growth."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Sadness over past immaturity."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 70,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Anticipation of the rewards of spiritual maturity."
+        }
+      }
+    }
+  ]
+}

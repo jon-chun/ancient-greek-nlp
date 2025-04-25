@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "183",
+    "segment_filename": "183_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from the Epistle of Jude and the Book of Revelation.",
+    "text_summary": "This text segment warns against false teachers and their destructive behaviors, contrasting them with righteous figures like Michael the Archangel and Enoch. It describes the corrupt individuals as those who defile the flesh, reject authority, and blaspheme. They are likened to Cain, Balaam, and Korah, and are portrayed as blemishes, waterless clouds, fruitless trees, and wandering stars destined for darkness. The segment includes a prophecy of judgment by Enoch against the ungodly. It urges believers to remember the apostles' warnings about scoffers in the last days and to build themselves up in faith, praying in the Holy Spirit, and awaiting eternal life. It also contains the opening verses of the Book of Revelation, describing its purpose as a revelation from God through Jesus Christ to his servants, delivered by an angel to John. It emphasizes the importance of heeding the words of prophecy."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Condemnation of False Teachers",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The text strongly condemns the actions and character of the false teachers, indicating a negative sentiment. The confidence is high because the language used is explicitly critical."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The topic is about condemnation, so joy is absent."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The text explicitly warns against these teachers."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The text evokes fear due to the destructive influence of the false teachers and warnings about judgment."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There might be some surprise at the extent of their corruption."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Sadness arises from the destruction and misleading of others."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The description of their actions evokes strong disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 88,
+          "reasoning": "The condemnation of their behavior leads to anger."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Anticipation of judgment is present."
+        }
+      }
+    },
+    {
+      "topic": "Michael the Archangel's Restraint",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "This section portrays Michael's actions as righteous and respectful, even in dealing with the devil. This reflects a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Reflects the positive example set."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Michael's actions inspire trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minimal fear as Michael is in control."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The restraint might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Low sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Low disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Low anger."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anticipation of righteous action."
+        }
+      }
+    },
+    {
+      "topic": "Prophecy of Enoch and Judgment",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 70,
+        "reasoning": "The prophecy of judgment carries a mixed sentiment. It speaks of justice and righteousness, but also of condemnation and punishment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal joy related to the righteous judgment."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Trust in divine justice."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Fear of judgment."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Surprise at the extent of judgment."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Sadness over the fate of the ungodly."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Disgust at the ungodly actions."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Anger towards the ungodly."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Anticipation of the coming judgment."
+        }
+      }
+    },
+    {
+      "topic": "Exhortation to Believers",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "This section is encouraging and uplifting, urging believers to remain steadfast in their faith. The sentiment is positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Joy in faith and hope."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God and Jesus."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear, focus is on hope."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Low surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of eternal life."
+        }
+      }
+    },
+    {
+      "topic": "Revelation of Jesus Christ",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "This section introduces the revelation of Jesus Christ, which is generally seen as a positive and important event."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Joy at the revelation."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's plan."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some fear of the unknown future."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Surprise at the revealed events."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some sadness related to future events."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low anger."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High anticipation of future events."
+        }
+      }
+    }
+  ]
+}

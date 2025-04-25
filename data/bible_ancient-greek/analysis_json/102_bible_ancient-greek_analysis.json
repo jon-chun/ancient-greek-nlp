@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "102",
+    "segment_filename": "102_bible_ancient-greek.txt",
+    "text_identification": "New Testament, likely from the book of Romans.",
+    "text_summary": "This passage from the New Testament, likely Romans, discusses various aspects of Christian living. It begins with instructions on how to treat enemies, advocating for overcoming evil with good. It then shifts to the importance of submitting to governing authorities, as they are established by God, and warns against resisting them. The passage emphasizes that rulers are not a terror to good works but to evil. It calls for obedience, not only out of fear of punishment but also for conscience's sake, and justifies paying taxes as support for those in authority who are serving God. The text then transitions to the importance of fulfilling obligations and loving one another, as love fulfills the law. It includes several commandments as examples and emphasizes that love does no harm to its neighbor. The passage further urges believers to wake up from spiritual slumber, cast off the works of darkness, and put on the armor of light, living honorably and avoiding sinful behaviors. It concludes with guidance on how to treat those who are weak in faith, urging acceptance without judgment and emphasizing that each person should be fully convinced in their own mind. It teaches that no one lives or dies to themselves but to the Lord and warns against judging or despising one another, as all will stand before God's judgment seat. It encourages believers to avoid placing stumbling blocks in each other's way and to pursue peace and mutual edification. It emphasizes that the kingdom of God is not about food and drink but about righteousness, peace, and joy in the Holy Spirit. Finally, it calls on the strong to bear with the failings of the weak and to please their neighbors for their good, to build them up, following Christ's example of not pleasing himself."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Overcoming Evil with Good",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 95,
+        "reasoning": "The text promotes love and overcoming evil with good, resulting in a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Doing good and loving others brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's guidance is central."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Fear of consequences for disobedience."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Not a significant emotion here."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust for evil."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Anger against injustice."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of a better future through love and righteousness."
+        }
+      }
+    },
+    {
+      "topic": "Submission to Authority",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 85,
+        "reasoning": "The passage emphasizes submission to authority, which can be seen as neutral, but it's framed within a divine order, giving it a slightly positive connotation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's order."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Fear of consequences."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust for disorder."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Anger against rebellion."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of a better society."
+        }
+      }
+    },
+    {
+      "topic": "Love Fulfills the Law",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The emphasis on love as the fulfillment of the law creates a strongly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Love brings joy and fulfillment."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in the power of love."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust for hate."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Anger against injustice."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of a world filled with love."
+        }
+      }
+    },
+    {
+      "topic": "Avoiding Judgment and Stumbling Blocks",
+      "sentiment_polarity": {
+        "score": 0.1,
+        "confidence": 75,
+        "reasoning": "The passage discusses judging others, which has a negative connotation, but it also encourages self-reflection and avoiding stumbling blocks, adding a positive element."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Joy in a loving community."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Trust in God's judgment."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Fear of judgment."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Sadness for those who stumble."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust for judgmental behavior."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Anger against those who judge unfairly."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of a more loving community."
+        }
+      }
+    },
+    {
+      "topic": "Living for the Lord",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The passage emphasizes living and dying for the Lord, which has a positive and devoted sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Joy in serving the Lord."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the Lord's plan."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Fear of not living up to God's expectations."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sadness for those who are lost."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust for sin."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Anger against injustice."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of eternal life with the Lord."
+        }
+      }
+    }
+  ]
+}

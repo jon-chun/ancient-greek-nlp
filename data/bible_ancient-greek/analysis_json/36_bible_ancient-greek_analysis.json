@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "36",
+    "segment_filename": "36_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the Gospel of Luke, given the content and style.",
+    "text_summary": "This segment contains several distinct episodes. First, it recounts the story of a centurion who demonstrates great faith by believing Jesus can heal his servant from afar. Jesus marvels at this faith, stating he hasn't seen such belief even in Israel, and the servant is healed. Next, Jesus travels to Nain and raises a widow's son from the dead, inspiring awe and praise for God. The narrative then shifts to John the Baptist, who sends disciples to ask Jesus if he is the Messiah. Jesus responds by pointing to his miracles – healing the sick, raising the dead, and preaching to the poor. He concludes by praising John and contrasting him with those who rejected both John and Jesus. Finally, the text describes a sinful woman anointing Jesus' feet at a Pharisee's house, leading to a parable about forgiveness and love."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Centurion's Faith and Servant's Healing",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The story highlights the centurion's exceptional faith and the miraculous healing, indicating a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The healing brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The centurion's faith demonstrates profound trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There might be a slight element of fear related to the centurion's position and the power displayed."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Jesus is surprised by the centurion's faith."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The servant was sick, implying some sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No element of disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No element of anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The centurion anticipates healing."
+        }
+      }
+    },
+    {
+      "topic": "Raising the Widow's Son",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "This event is a powerful miracle demonstrating compassion and life, resulting in a very positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Resurrection brings immense joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "People trust in Jesus' power."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Encountering death and resurrection inspires fear."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Raising the dead is a surprising miracle."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The widow's grief is a central element."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No element of disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No element of anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The crowd might have some anticipation, but the focus is on the event itself."
+        }
+      }
+    },
+    {
+      "topic": "John the Baptist's Question and Jesus' Response",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 80,
+        "reasoning": "This section contains elements of doubt and affirmation, leading to a moderately positive sentiment overall."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Jesus' miracles bring joy."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Some trust in Jesus' messianic identity."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Doubt and uncertainty can cause fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Jesus' response might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Doubt can lead to sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 85,
+          "reasoning": "No element of disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 85,
+          "reasoning": "No element of anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "John and his followers anticipate the Messiah's arrival."
+        }
+      }
+    },
+    {
+      "topic": "Sinful Woman Anointing Jesus' Feet",
+      "sentiment_polarity": {
+        "score": 0.85,
+        "confidence": 90,
+        "reasoning": "This act of devotion and forgiveness carries a strong positive sentiment, despite the initial judgment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Forgiveness and love bring joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The woman trusts in Jesus' mercy."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The woman might fear judgment."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The Pharisee is surprised by the woman's actions and Jesus' response."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The woman's repentance stems from sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "The Pharisee might feel disgust towards the woman."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The Pharisee might feel slight anger or indignation."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The woman anticipates forgiveness."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "50",
+    "segment_filename": "50_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from the Gospel of Luke, containing the Parable of the Prodigal Son and the Parable of the Unjust Steward.",
+    "text_summary": "This text segment presents two distinct parables. The first is the Parable of the Prodigal Son, where a son squanders his inheritance and returns home repentant. His father welcomes him back with immense joy, celebrating his return from being \"dead\" and \"lost.\" The elder brother resents this celebration, highlighting themes of forgiveness, repentance, and sibling rivalry. The second parable is that of the Unjust Steward, who, facing dismissal, cunningly reduces the debts of his master's debtors to secure future favor. This parable explores themes of shrewdness, resourcefulness, and the use of worldly wealth for spiritual gain. The segment emphasizes God's forgiveness and the importance of using one's resources wisely."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Prodigal Son's Repentance and Return",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The prodigal son's return and the father's forgiveness create a positive sentiment. The act of repentance and acceptance back into the family is a central theme."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The father's overwhelming joy at his son's return is a central element."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The father trusts in his son's repentance and welcomes him back."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "The son initially fears his father's reaction."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The son might be surprised by the extent of his father's forgiveness."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The son experiences sadness due to his past actions and separation from his family."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "There is a slight sense of disgust towards the son's past behavior."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "The father doesn't show anger towards his son, but the elder brother does later."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The son anticipates his father's reaction and hopes for forgiveness."
+        }
+      }
+    },
+    {
+      "topic": "The Father's Unconditional Love and Forgiveness",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "The father's actions demonstrate unconditional love and forgiveness, creating a highly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.95,
+          "confidence": 98,
+          "reasoning": "The father's joy is the most prominent emotion."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The father trusts in the possibility of redemption."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The father exhibits no fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The father might be surprised, but his love overrides any negative reaction."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The father may have experienced sadness during his son's absence, but it's overshadowed by joy."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The father shows no disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The father shows no anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The father anticipates his son's return."
+        }
+      }
+    },
+    {
+      "topic": "The Elder Brother's Resentment and Jealousy",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The elder brother's resentment introduces a negative sentiment, contrasting with the father's forgiveness."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The elder brother experiences little joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "He lacks trust in his brother's repentance."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "He doesn't express fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "He is surprised by his father's reaction."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "He feels sadness due to perceived unfairness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "He might feel disgust towards his brother's past actions."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger and resentment are his dominant emotions."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "He doesn't anticipate a positive outcome."
+        }
+      }
+    },
+    {
+      "topic": "The Parable of the Unjust Steward",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 70,
+        "reasoning": "The parable presents a morally ambiguous character. The steward's actions are dishonest, but he is commended for his shrewdness. The sentiment is mixed."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The steward may feel some joy at his cunning."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "There is a lack of trust in this parable."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The steward fears losing his job."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The master's reaction might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The steward might feel some sadness at losing his position."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The steward's actions might be considered disgusting."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "The master might feel anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The steward anticipates the benefits of his actions."
+        }
+      }
+    },
+    {
+      "topic": "Shrewdness and Resourcefulness",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 75,
+        "reasoning": "Shrewdness and resourcefulness are presented as valuable qualities, even if used in a morally questionable way. This creates a slightly positive sentiment in the context of the parable."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The steward may feel some joy at his success."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "There is a lack of trust in this parable."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The steward initially fears losing his job, but overcomes it with shrewdness."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The steward might be surprised by his own success and the master's reaction."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "The steward might feel some sadness at losing his position, but it's overshadowed by his resourcefulness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The steward's actions might be considered disgusting, but they are also resourceful."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "The master might feel anger, but he also recognizes the steward's shrewdness."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The steward anticipates the benefits of his actions."
+        }
+      }
+    }
+  ]
+}

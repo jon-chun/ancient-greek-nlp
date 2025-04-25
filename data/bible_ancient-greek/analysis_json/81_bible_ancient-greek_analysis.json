@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "81",
+    "segment_filename": "81_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the Gospel of John, likely chapters 13-14, dealing with the Last Supper and Jesus's farewell discourse.",
+    "text_summary": "This passage recounts Jesus washing the disciples' feet, a symbolic act of humility and service. Peter initially resists, but Jesus explains its importance for their relationship. Jesus then explains the significance of his actions, urging them to serve one another. He foretells Judas' betrayal, causing distress among the disciples. Jesus gives them a new commandment to love one another, emphasizing that their love will identify them as his followers. He predicts Peter's denial and comforts them by speaking of his departure to prepare a place for them, assuring them of his return. Thomas questions the way to this place, and Jesus declares himself to be the way, the truth, and the life, the only path to the Father. Phillip asks to see the Father, and Jesus explains that seeing him is seeing the Father. He promises that those who believe in him will do greater works and that he will answer their prayers."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Jesus Washing the Disciples' Feet",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "This is a positive act of service and humility, representing Jesus' love and willingness to serve others."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The act is one of love and service, inspiring joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Demonstrates Jesus' reliability and commitment to his disciples."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "A small amount of fear might be present due to the unusual nature of the act."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Peter's initial reaction shows surprise at Jesus' action."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "A hint of sadness as it foreshadows Jesus' departure."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No element of disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is present in this act."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Sets the stage for Jesus' teachings and future events."
+        }
+      }
+    },
+    {
+      "topic": "Foretelling Judas' Betrayal",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "This is a negative event, filled with sadness and betrayal, a moment of deep sorrow for Jesus and the disciples."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with betrayal."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Betrayal breaks trust."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The disciples are afraid of what this means."
+        },
+        "Surprise": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The betrayal is unexpected."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Betrayal is a deeply sad event."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Betrayal is a despicable act."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "There is anger at the betrayal."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "There is anticipation of the consequences of the betrayal."
+        }
+      }
+    },
+    {
+      "topic": "The New Commandment to Love One Another",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "This is a positive teaching, emphasizing love and unity, representing the core of Jesus' message."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Love brings joy and happiness."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Love builds trust and strong relationships."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No fear is associated with love."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "It may be surprising due to the context of betrayal."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No sadness is associated with love."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is associated with love."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is associated with love."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "This commandment is meant to guide their future actions."
+        }
+      }
+    },
+    {
+      "topic": "Prediction of Peter's Denial",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "This is a negative prediction, causing distress and sadness, revealing Peter's weakness and foreshadowing a difficult time."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with denial."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "It undermines trust in Peter's strength."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Peter fears the consequences."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Peter is surprised by the prediction."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The prediction causes sadness and distress."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "A slight disgust at the thought of denial."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Peter might feel anger at the accusation."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of the events to come."
+        }
+      }
+    },
+    {
+      "topic": "Jesus as the Way, the Truth, and the Life",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 99,
+        "reasoning": "This is a highly positive statement, affirming Jesus' divine nature and role as the path to salvation, offering hope and assurance."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "This statement brings joy and hope."
+        },
+        "Trust": {
+          "weight": 0.95,
+          "confidence": 99,
+          "reasoning": "It affirms Jesus' trustworthiness and truthfulness."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No fear is associated with this statement."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "May be surprising to those who don't believe."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No sadness is associated with this statement."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is associated with this statement."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is associated with this statement."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "It points to a future with God."
+        }
+      }
+    },
+    {
+      "topic": "Unity of Jesus and the Father",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 97,
+        "reasoning": "This is a positive and profound theological statement, revealing the intimate relationship between Jesus and God, offering reassurance and deeper understanding."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Understanding the unity brings joy and peace."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "It reinforces faith in Jesus and God."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No fear is associated with this unity."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The depth of the connection may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No sadness is associated with this unity."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is associated with this unity."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is associated with this unity."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "It points to the divine plan and future."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "segment_metadata": {
+    "segment_number": "25",
+    "segment_filename": "25_bible_ancient-greek.txt",
+    "text_identification": "This segment appears to be from the New Testament, likely containing excerpts from the Gospel of Mark (specifically the ending) and the beginning of the Gospel of Luke.",
+    "text_summary": "The first part of the segment describes the resurrection of Jesus and his appearances to Mary Magdalene and other disciples. The disciples initially disbelieve the accounts of the resurrection. Jesus then appears to the eleven apostles, rebukes them for their unbelief, and commissions them to preach the Gospel to all creation. He promises signs that will accompany believers, such as casting out demons, speaking in tongues, and healing the sick. The passage concludes with Jesus' ascension into heaven. Following this is a brief summary of the preaching by Peter's companions, and then a declaration of Jesus sending the message of salvation from east to west. The subsequent section shifts to the beginning of the Gospel of Luke, introducing the author's purpose in writing an orderly account of the events witnessed and passed down by eyewitnesses, addressed to Theophilus. It then introduces Zechariah and Elizabeth, an elderly, righteous couple, and the angel's announcement of John the Baptist's birth. The angel foretells John's greatness and his role in preparing the way for the Lord. Zechariah expresses doubt, resulting in him being struck mute until the child's birth."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Disbelief in the Resurrection",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "The disciples' initial disbelief creates a negative sentiment, but the overall context suggests an eventual overcoming of this disbelief."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Limited joy due to the initial disbelief."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low trust in the initial reports."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of the unknown, questioning reality."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "High surprise at the unexpected news."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness related to Jesus' death and the difficulty in accepting the resurrection."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant in this context."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Possible frustration or anger at the situation."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Anticipation of what the resurrection means."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Rebuke of the Disciples",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "Rebuke carries a negative sentiment, but it is intended for correction and growth."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 50,
+          "reasoning": "No joy in a rebuke."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some underlying trust despite the rebuke."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of disappointing Jesus."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Surprise at being rebuked."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness at being found lacking in faith."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant in this context."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Possible resentment or anger at the rebuke."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anticipation of correction and improvement."
+        }
+      }
+    },
+    {
+      "topic": "The Great Commission",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The Great Commission is a positive command to spread the Gospel."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Joy in sharing the good news."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High trust in Jesus' command."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Fear of persecution or failure."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Limited surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "Sadness for those who don't believe."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant in this context."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Limited anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High anticipation of the impact of the Gospel."
+        }
+      }
+    },
+    {
+      "topic": "Signs and Wonders for Believers",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 90,
+        "reasoning": "The promise of signs and wonders is a positive affirmation of faith."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy at the prospect of witnessing God's power."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High trust in God's promise."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Limited fear."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Surprise at the miraculous events."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Sadness is not relevant in this context."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not relevant in this context."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High anticipation of experiencing the signs and wonders."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Ascension",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Ascension signifies triumph and glorification, a positive event."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Joy at Jesus' glorification."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High trust in God's plan."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Limited fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise at the manner of ascension."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sadness at Jesus' departure."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not relevant in this context."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of Jesus' return."
+        }
+      }
+    },
+    {
+      "topic": "Zechariah's Doubt",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 85,
+        "reasoning": "Doubt introduces a negative element, questioning the divine promise."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 50,
+          "reasoning": "No joy in doubt."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low trust in the angel's message."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Fear of the impossible."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "High surprise at the unexpected news."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Sadness related to his age and barrenness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant in this context."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Possible frustration or anger at his situation."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Limited anticipation of the promise being fulfilled."
+        }
+      }
+    },
+    {
+      "topic": "Announcement of John the Baptist's Birth",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The announcement is a positive event, promising joy and fulfillment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High joy at the prospect of a child."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the angel's message."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Limited fear."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High surprise at the unexpected news."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "Sadness over past barrenness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not relevant in this context."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High anticipation of the child's birth and future."
+        }
+      }
+    }
+  ]
+}

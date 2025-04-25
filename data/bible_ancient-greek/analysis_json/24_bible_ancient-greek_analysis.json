@@ -1,0 +1,360 @@
+{
+  "segment_metadata": {
+    "segment_number": "24",
+    "segment_filename": "24_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the Gospel of Mark (likely chapters 15-16), detailing the crucifixion, death, burial, and resurrection of Jesus.",
+    "text_summary": "This passage recounts the final moments of Jesus' crucifixion, including the mocking of onlookers who believed Elijah would save him. It describes Jesus' death, marked by a loud cry and the tearing of the temple veil. A centurion acknowledges Jesus as the Son of God. Several women, including Mary Magdalene and others, witness the events from afar. Joseph of Arimathea requests Jesus' body, buries it in a tomb, and rolls a stone in front of the entrance. After the Sabbath, the women return to anoint the body but find the tomb empty and are told by a young man that Jesus has risen and will meet his disciples in Galilee. The women flee in fear and tell no one. An additional verse states that after rising, Jesus appeared first to Mary Magdalene."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Mocking of Jesus",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The mocking of Jesus is inherently negative due to the act of ridicule and disbelief."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with the mocking of Jesus."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The mocking indicates a lack of trust and faith."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The mocking might instill fear in Jesus' followers."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The mocking could be surprising in its cruelty."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The mocking evokes sadness and empathy for Jesus."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The act of mocking is disgusting and reprehensible."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The mocking incites anger and indignation."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is little anticipation associated with the mocking itself."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Death",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "Death is generally considered negative, especially in the context of the crucifixion."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No joy is associated with Jesus' death."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some trust remains in God's plan, even in death."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Death is inherently fearful, especially a violent one."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The timing of Jesus' death might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Jesus' death evokes profound sadness and grief."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The brutality of the crucifixion might evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The injustice of the execution incites anger."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "There is some anticipation of resurrection, but it's overshadowed by grief."
+        }
+      }
+    },
+    {
+      "topic": "Centurion's Declaration",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The centurion's declaration that Jesus is the Son of God is a positive affirmation of faith."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The declaration brings a sense of hope and joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "The declaration signifies a profound trust in Jesus."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "There might be some fear associated with declaring faith in Jesus."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The declaration is surprising, given the circumstances."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The declaration doesn't negate the sadness of Jesus' death, but it offers hope."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is associated with the declaration."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The declaration is not directly related to anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The declaration anticipates the fulfillment of God's plan."
+        }
+      }
+    },
+    {
+      "topic": "Women Witnessing the Crucifixion",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "Witnessing the crucifixion is a traumatic and negative experience."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with witnessing the crucifixion."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The women's presence shows loyalty and trust."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Witnessing the crucifixion is a fearful experience."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "The events unfolding might be shocking and surprising."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Witnessing the crucifixion evokes immense sadness and grief."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The brutality of the crucifixion might evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The injustice of the execution might incite anger."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "There is little anticipation of a positive outcome at this point."
+        }
+      }
+    },
+    {
+      "topic": "Joseph of Arimathea's Actions",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "Joseph's actions of requesting and burying Jesus' body are acts of piety and respect."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "There is a subdued sense of fulfilling a righteous duty."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Joseph's actions demonstrate trust in Jesus and God."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "There is some fear involved in defying the authorities."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Joseph's actions might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The act of burying Jesus is tinged with sadness and grief."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is associated with Joseph's actions."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "There might be some anger at the injustice of Jesus' execution."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Joseph's actions might be motivated by a hope for future redemption."
+        }
+      }
+    },
+    {
+      "topic": "Discovery of the Empty Tomb",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The discovery of the empty tomb is initially surprising, but ultimately a positive event signifying resurrection."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The empty tomb signifies the resurrection and brings immense joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "The empty tomb reinforces trust in God's promises."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The initial discovery of the empty tomb might be frightening."
+        },
+        "Surprise": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The empty tomb is a completely unexpected and surprising event."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The initial sadness of Jesus' death is replaced by hope."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is associated with the empty tomb."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The empty tomb diminishes the anger at Jesus' execution."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "The empty tomb creates a strong anticipation of Jesus' return."
+        }
+      }
+    },
+    {
+      "topic": "Announcement of Resurrection",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "The announcement of Jesus' resurrection is overwhelmingly positive, signifying hope and salvation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The resurrection announcement brings immense joy and celebration."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The resurrection confirms trust in Jesus and God's plan."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The initial fear is replaced by faith and hope."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The resurrection is a miraculous and surprising event."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The sadness of Jesus' death is overcome by the joy of resurrection."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is associated with the resurrection."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The resurrection nullifies the anger at Jesus' execution."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The resurrection creates a strong anticipation of eternal life and salvation."
+        }
+      }
+    }
+  ]
+}

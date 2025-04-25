@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "73",
+    "segment_filename": "73_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the Gospel of John. The passage includes the story of the woman caught in adultery (which is often debated as to its original inclusion) and a discourse by Jesus about being the light of the world and his relationship with the Father.",
+    "text_summary": "The text segment begins with the debated story of Jesus and the woman caught in adultery. Jesus cleverly avoids condemning her, challenging those without sin to cast the first stone, leading to everyone leaving and Jesus forgiving her. Following this, Jesus declares himself the light of the world, promising that those who follow him will not walk in darkness but have the light of life. The Pharisees challenge his self-testimony, which Jesus defends by stating his knowledge of his origin and destination, which they do not possess. He further asserts that his judgment is true because he is not alone but with the Father who sent him. He points out that their own law requires two witnesses, and he and the Father are those witnesses. The Jews then question where his Father is. Jesus responds that they know neither him nor his Father, and if they knew him, they would know the Father. He states he is going away, and they will seek him but die in their sin, unable to come where he is going. This prompts a discussion about suicide. Jesus contrasts their earthly origin with his heavenly origin, stating they are of this world, but he is not. He warns them that they will die in their sins if they do not believe that he is who he claims to be. They ask him who he is."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Woman Caught in Adultery",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The story involves a tense situation, but ends with forgiveness, leading to a moderately positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "There is a sense of relief and potential for joy in the woman's forgiveness."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The woman is given a chance to trust in a new path."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The woman is initially in a fearful situation, facing potential stoning."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The reaction of Jesus and the departure of the accusers is surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The woman's situation initially evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The Pharisees' hypocrisy might evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The Pharisees' attempt to trap Jesus could evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "There is anticipation about what Jesus will do and the woman's future."
+        }
+      }
+    },
+    {
+      "topic": "Jesus as the Light of the World",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "This is a positive statement of hope and guidance, offering salvation and a path away from darkness."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The image of light replacing darkness evokes joy and hope."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The statement invites trust in Jesus's guidance."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Fear of darkness is contrasted with the promise of light."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The bold declaration might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The contrast with darkness implicitly acknowledges the existence of sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "Disgust is not a prominent emotion here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "Anger is not a prominent emotion here."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The statement creates anticipation for the promised light and life."
+        }
+      }
+    },
+    {
+      "topic": "Jesus's Testimony and the Father",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 80,
+        "reasoning": "While there is conflict, Jesus affirms his truth and relationship with the Father."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "The affirmation of truth brings a sense of joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Jesus asks for trust in his testimony and his relationship with the Father."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "There is a slight undercurrent of fear due to the potential consequences of disbelief."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Jesus's claims about his relationship with the Father are surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The lack of understanding from the Pharisees might evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The Pharisees' skepticism and veiled hostility might evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "The Pharisees' questioning and challenging Jesus could evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "There is anticipation about the consequences of belief or disbelief."
+        }
+      }
+    },
+    {
+      "topic": "Warning about Dying in Sin",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "This is a negative warning about the consequences of disbelief and spiritual death."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "There is no joy associated with this warning."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Lack of trust is the core issue."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The warning is intended to evoke fear of the consequences."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The starkness of the warning might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The prospect of dying in sin is inherently sad."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sin is often associated with disgust."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The warning might evoke anger in those who reject it."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The warning creates anticipation about the future and the consequences of choices."
+        }
+      }
+    },
+    {
+      "topic": "Questioning Jesus's Identity",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 70,
+        "reasoning": "This reflects a neutral sentiment, as it is simply a question seeking clarification, but with underlying skepticism."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No joy is present in this questioning."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "The question implies a lack of trust."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "There is a subtle fear of the implications of Jesus's claims."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The question stems from surprise at Jesus's claims."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "A hint of sadness at the division and lack of understanding."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some may feel disgust at what they perceive as blasphemy."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The question can be interpreted as an expression of anger or challenge."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The question anticipates Jesus's response and its implications."
+        }
+      }
+    }
+  ]
+}

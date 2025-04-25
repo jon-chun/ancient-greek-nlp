@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "75",
+    "segment_filename": "75_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the Gospel of John. The first part references a claim by Jesus about existing before Abraham, a key theological point. The latter part describes the healing of a blind man and the subsequent investigation by the Pharisees.",
+    "text_summary": "This passage contains two distinct episodes. First, Jesus claims pre-existence before Abraham, which provokes a hostile reaction from his audience. They attempt to stone him, but he escapes. Second, Jesus heals a man born blind. The healing is questioned by the disciples and then investigated by the Pharisees, who are divided on whether Jesus' actions are from God, given that he performed the healing on the Sabbath. The healed man testifies that Jesus healed him, leading the Pharisees to interrogate his parents, who are afraid to confirm the miracle. The healed man is then questioned again, defends Jesus, and is cast out. Finally, Jesus finds the man, reveals himself as the Son of Man, and the man worships him. Jesus states he came to bring sight to the blind and blindness to those who see."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Jesus' Claim of Pre-existence",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "This claim is highly controversial and theologically significant, asserting divinity, which is positive from a believer's perspective but potentially blasphemous from another."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Joy among believers in his divinity."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Trust from those who already believe in Jesus."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Fear from those who see it as blasphemous or threatening."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Surprise at the audacity of the claim."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Sadness among those who reject the claim."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Disgust from those who find the claim blasphemous."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anger from those who feel challenged or threatened."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of the consequences and implications of the claim."
+        }
+      }
+    },
+    {
+      "topic": "Healing of the Blind Man",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The act of healing is inherently positive, bringing sight to the blind and demonstrating compassion."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Joy at the restoration of sight."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Trust in Jesus' power and compassion."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Fear of the unknown or potential repercussions."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Surprise at the miraculous nature of the healing."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "Minimal sadness related directly to the healing itself."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "No disgust directly related to the healing itself."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Anger from those who oppose Jesus."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation of the impact of the healing."
+        }
+      }
+    },
+    {
+      "topic": "Pharisees' Investigation",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 80,
+        "reasoning": "The Pharisees' investigation is driven by skepticism and a desire to maintain religious authority. It contains elements of doubt, conflict, and judgment, leading to a negative overall sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal joy related to the investigation itself."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Trust in their own religious authority."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear of losing religious authority or of potential blasphemy."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Surprise at the miracle and the man's testimony."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Sadness at the potential disruption of their beliefs."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Disgust at the perceived violation of the Sabbath."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at Jesus' challenge to their authority."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of the outcome of the investigation and its impact."
+        }
+      }
+    },
+    {
+      "topic": "The Healed Man's Testimony and Expulsion",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 75,
+        "reasoning": "The man's testimony is positive in affirming the healing and defending Jesus, but his expulsion is a negative consequence. The overall sentiment is mixed but leans towards positive due to his faith."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy at the restored sight and newfound faith."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in Jesus as the source of his healing."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Fear of the consequences of his testimony."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Surprise at the miracle he experienced."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness at being rejected and expelled."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Disgust directed towards the Pharisees' hypocrisy."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anger at the injustice of his expulsion."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Uncertainty about his future after being expelled."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Revelation and the Purpose of His Coming",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 80,
+        "reasoning": "Jesus' revelation of himself as the Son of Man and his statement about bringing sight to the blind and blindness to those who see is complex. It suggests both salvation and judgment, a mixed but ultimately positive sentiment due to the offer of spiritual sight."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Joy in those who receive spiritual sight."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Trust in Jesus as the Son of Man."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Fear of judgment for those who reject him."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Surprise at the revelation of his identity."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness in those who are made blind."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal disgust related to the revelation itself."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Anger in those who feel judged."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of the consequences of accepting or rejecting him."
+        }
+      }
+    }
+  ]
+}

@@ -7,11 +7,11 @@ import re
 import os
 from pathlib import Path
 
-# Global variables as specified
+# Global variables with corrected paths
 CORPUS_NAME = "bible_ancient-greek"
-INPUT_TEXTFILE = Path(__file__).parent / "data" / CORPUS_NAME / "document" / CORPUS_NAME
-OUTPUT_SUBDIR = Path(__file__).parent / "data" / CORPUS_NAME / "segments"
-MIN_SEGMENT_CHAR = 500  # Changed from MIN_SEGMENT_CHARR as per requirements
+INPUT_TEXTFILE = Path("../data") / CORPUS_NAME / "document" / f"{CORPUS_NAME}.txt"
+OUTPUT_SUBDIR = Path("../data") / CORPUS_NAME / "segments"
+MIN_SEGMENT_CHAR = 2000
 
 def detect_language(text):
     """

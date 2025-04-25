@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "76",
+    "segment_filename": "76_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the Gospel of John, likely chapters 9 and 10.",
+    "text_summary": "This passage contains two distinct but related teachings of Jesus. First, it addresses the Pharisees' spiritual blindness, stating that their claim to see makes their sin remain. Then, Jesus uses the allegory of the Good Shepherd and the sheepfold to illustrate his role as the true way to salvation and the protector of his followers. He contrasts himself with thieves and robbers who seek to harm the sheep. He emphasizes his intimate knowledge of and care for his sheep, even to the point of laying down his life for them. He also mentions other sheep not of this fold that he must bring in, leading to one flock and one shepherd. This teaching causes division among the Jews, with some accusing him of being demon-possessed and others recognizing the power of his words. The passage concludes with Jesus walking in the temple during the Feast of Dedication."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Spiritual Blindness of the Pharisees",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The passage criticizes the Pharisees' self-righteousness and their inability to recognize their own sin, leading to a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no joy associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "There is a lack of trust implied towards the Pharisees."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "There is a subtle fear of the consequences of spiritual blindness."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There might be a little surprise about the Pharisees' reaction."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 85,
+          "reasoning": "There is sadness associated with the Pharisees' spiritual state."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "There is some disgust at their hypocrisy."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "There is anger at their rejection of truth."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Little anticipation is involved."
+        }
+      }
+    },
+    {
+      "topic": "The Good Shepherd Allegory",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "This allegory conveys a positive sentiment, emphasizing Jesus's love, care, and protection for his followers."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "There is joy in the safety and security provided by the Good Shepherd."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The central theme is trust in the Good Shepherd's care."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Fear is present in the contrast with thieves and wolves."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The concept of laying down one's life might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "The sacrifice of the shepherd evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust involved."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 65,
+          "reasoning": "There is a subtle anger against the thieves and robbers."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "There is anticipation of salvation and eternal life."
+        }
+      }
+    },
+    {
+      "topic": "Division Among the Jews",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 80,
+        "reasoning": "This section reflects a mixed sentiment, with negativity from accusations of demon possession and positivity from those who recognize the truth."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "A little joy from those who recognize Jesus."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust from those who believe in Jesus."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear from those who think Jesus is demon-possessed."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Surprise at Jesus' claims and the reactions of others."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Sadness at the division and rejection."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Disgust from those who accuse Jesus."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Anger from those who oppose Jesus."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Uncertain anticipation of what will happen next."
+        }
+      }
+    },
+    {
+      "topic": "Jesus in the Temple during the Feast of Dedication",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 70,
+        "reasoning": "This is a neutral setting of the scene."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "A bit of joy at the celebration of the feast."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "A bit of trust in the religious setting."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "A bit of fear because of what happened before."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "A bit of surprise because of the setting."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "A bit of sadness because of what happened before."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "A bit of disgust because of the division."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "A bit of anger because of the division."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "A bit of anticipation because of the setting."
+        }
+      }
+    }
+  ]
+}

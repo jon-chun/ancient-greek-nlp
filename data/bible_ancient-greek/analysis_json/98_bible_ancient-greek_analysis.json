@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "98",
+    "segment_filename": "98_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the book of Romans, chapter 8.",
+    "text_summary": "This passage explores the relationship between believers and God through the Holy Spirit. It emphasizes that believers are adopted as children of God, inheriting God's glory alongside Christ, even sharing in Christ's sufferings. The text speaks of the current suffering in the world, the groaning of creation awaiting liberation, and the believer's own internal struggle. Despite present hardships, it focuses on the hope of future glory and freedom. The Holy Spirit aids believers in their weakness, interceding for them with unutterable groans. God works all things together for good for those who love Him, predestined to be conformed to the image of His Son. The passage concludes with a powerful declaration of God's unwavering love and victory, asking who can stand against those whom God is for, emphasizing that nothing can separate believers from the love of Christ."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Adoption as Children of God",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The concept of adoption and inheritance is inherently positive, emphasizing a close and loving relationship with God."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High weight due to the positive nature of being adopted into God's family."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High weight as it reflects the reliance on God's promise and faithfulness."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "Low weight, as the focus is on love and security."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Moderate weight, as the concept of divine adoption can be seen as a surprising and wonderful gift."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "Low weight, as the emphasis is on hope and joy."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Very low weight, as this emotion is not relevant to the topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Very low weight, as this emotion is not relevant to the topic."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High weight, as the adoption implies a future inheritance and glory."
+        }
+      }
+    },
+    {
+      "topic": "Suffering and Groaning of Creation",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "This topic acknowledges the presence of suffering and decay in the world, resulting in a negative sentiment, but it is tempered by the hope of future liberation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "Low weight, as the topic focuses on suffering."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Moderate weight, as there is an underlying trust that God will ultimately redeem creation."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "High weight, as suffering and decay can evoke fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Low weight, as the existence of suffering is not surprising in this context."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "High weight, as the topic directly addresses the sadness of the current state."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Moderate weight, as decay and corruption can evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Moderate weight, as suffering can lead to anger and frustration."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High weight, as the suffering is presented in the context of awaiting future liberation."
+        }
+      }
+    },
+    {
+      "topic": "The Holy Spirit's Intercession",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "This topic is positive, highlighting the Holy Spirit's role in helping believers in their weakness and interceding on their behalf."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Moderate weight, as the Spirit's intercession brings comfort and hope."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High weight, as the Spirit's intercession demonstrates God's faithfulness."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "Low weight, as the Spirit's presence provides reassurance."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Moderate weight, as the depth of the Spirit's intercession can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Low weight, as the Spirit's presence alleviates sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Very low weight, as this emotion is not relevant to the topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Very low weight, as this emotion is not relevant to the topic."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High weight, as the Spirit's intercession is directed towards future blessings."
+        }
+      }
+    },
+    {
+      "topic": "God's Unwavering Love and Victory",
+      "sentiment_polarity": {
+        "score": 1.0,
+        "confidence": 99,
+        "reasoning": "This topic is extremely positive, emphasizing God's love, protection, and ultimate victory over all opposition."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Very high weight, as the topic celebrates God's love and victory."
+        },
+        "Trust": {
+          "weight": 1.0,
+          "confidence": 99,
+          "reasoning": "Very high weight, as the topic emphasizes God's faithfulness and protection."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Very low weight, as the topic assures believers of God's protection."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Low weight, as God's love and victory are expected in this context."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Very low weight, as the topic focuses on triumph and hope."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Very low weight, as this emotion is not relevant to the topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Very low weight, as the focus is on God's victory, not human anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High weight, as God's love and victory extend into the future."
+        }
+      }
+    }
+  ]
+}

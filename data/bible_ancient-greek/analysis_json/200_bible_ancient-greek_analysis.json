@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "200",
+    "segment_filename": "200_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the Book of Revelation in the New Testament.",
+    "text_summary": "This passage describes a vision of the new Jerusalem, featuring a river of life flowing from God's throne, and the tree of life bearing fruit. It emphasizes the absence of curse and darkness, the presence of God, and the eternal reign of the faithful. The passage also warns against altering the prophecies of the book, promising blessings for those who keep them and punishment for those who add to or subtract from them. It includes declarations of Jesus' imminent return and invitations to receive the water of life freely. The concluding verses express a desire for Jesus' return and a blessing of grace upon the saints."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The River and Tree of Life",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "This imagery evokes a sense of abundance, healing, and eternal life, resulting in a very positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "The imagery of a river and tree of life is inherently joyful, suggesting paradise and fulfillment."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "The river flowing from God's throne inspires trust in divine provision and care."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of fear associated with this imagery."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The vision is wondrous and potentially surprising in its grandeur."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of sadness associated with this imagery."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of disgust associated with this imagery."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of anger associated with this imagery."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The vision creates anticipation for the future blessings of the new Jerusalem."
+        }
+      }
+    },
+    {
+      "topic": "Eternal Reign and Worship",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 95,
+        "reasoning": "The promise of eternal reign and worship in the presence of God is highly positive, representing ultimate fulfillment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The concept of eternal reign and worship is inherently joyful and fulfilling."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The promise of God's presence and reign inspires deep trust."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of fear associated with this promise."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The scale of eternity can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of sadness associated with this promise."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of disgust associated with this promise."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of anger associated with this promise."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "The promise creates great anticipation for the future."
+        }
+      }
+    },
+    {
+      "topic": "Warning Against Altering Prophecy",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "This warning carries a negative sentiment due to the threat of punishment, though it aims to protect truth."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no joy associated with a warning."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There is a sense of trust in the divine justice being upheld."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The warning is designed to instill fear of divine retribution."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The severity of the consequences might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The warning implies potential loss and suffering."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The act of altering divine words can be seen as disgusting."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The warning expresses divine anger towards those who tamper with prophecy."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The warning creates anticipation of judgment."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Imminent Return",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The declaration of Jesus' imminent return is generally positive for believers, signifying hope and fulfillment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The return of Jesus is a source of great joy for believers."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The declaration inspires trust in the fulfillment of prophecy."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "For some, the return might bring fear of judgment."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The timing of the return is always somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The return also signifies the end of the current world."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of disgust directly associated with this."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Some might feel anger towards the perceived delay."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The declaration creates intense anticipation for the future."
+        }
+      }
+    },
+    {
+      "topic": "Invitation to Receive the Water of Life",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 95,
+        "reasoning": "This invitation is overwhelmingly positive, offering salvation and eternal life freely."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The offer of free salvation is inherently joyful."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The invitation inspires trust in God's generosity and love."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of fear associated with this invitation."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The freeness of the gift might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of sadness associated with this invitation."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of disgust associated with this invitation."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of anger associated with this invitation."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "The invitation creates anticipation for the blessings of salvation."
+        }
+      }
+    },
+    {
+      "topic": "Exclusion of the Wicked",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "This topic carries a negative sentiment due to the exclusion and judgment of certain groups."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no joy associated with this exclusion."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There might be a sense of trust in divine justice."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The exclusion is meant to instill fear in those who practice wickedness."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The specific list of excluded groups might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The exclusion implies loss and suffering for those excluded."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The listed sins are often viewed with disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The exclusion expresses divine anger towards the wicked."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The exclusion creates anticipation of judgment."
+        }
+      }
+    }
+  ]
+}

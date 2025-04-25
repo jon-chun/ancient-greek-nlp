@@ -1,0 +1,510 @@
+{
+  "segment_metadata": {
+    "segment_number": "167",
+    "segment_filename": "167_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely Hebrews 12:25-13:17, based on the themes and content.",
+    "text_summary": "This passage from Hebrews warns against rejecting God's voice, emphasizing the consequences of disobedience. It contrasts the shaking of the earthly and heavenly realms with the permanence of God's unshakable kingdom. Believers are encouraged to offer acceptable worship with reverence and awe, remembering that God is a consuming fire. The passage stresses brotherly love, hospitality (some unknowingly entertain angels), empathy for prisoners and the afflicted, honoring marriage, and avoiding greed. It encourages contentment and trust in God's provision. The readers are urged to remember their leaders, imitate their faith, and avoid strange teachings. It speaks of Christ's unchanging nature and the need to go outside the camp, bearing His reproach. Finally, it emphasizes offering praise and doing good as sacrifices pleasing to God and obedience to leaders. The text concludes with a prayer for peace and equipping to do God's will through Jesus Christ."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Warning Against Rejecting God's Voice and its Consequences",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "The warning tone and the mention of consequences suggest a negative sentiment, but the purpose is ultimately to guide towards a positive outcome, resulting in a slightly negative overall sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No explicit joy is present in the warning."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Implicit trust in God's judgment."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The warning is designed to instill fear of disobedience."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The potential severity of consequences could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Reflects the sorrow of potential consequences."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Disgust at the idea of rejecting God."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Divine anger at disobedience is implied."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Anticipation of either reward or punishment based on actions."
+        }
+      }
+    },
+    {
+      "topic": "Unshakable Kingdom and Acceptable Worship",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The concept of an unshakable kingdom and acceptable worship suggests a positive and hopeful sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The kingdom offers joy and security."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong trust in God's eternal kingdom."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal fear, as the kingdom is unshakable."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal surprise, as the kingdom is promised."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of eternal life in the kingdom."
+        }
+      }
+    },
+    {
+      "topic": "Brotherly Love, Hospitality, and Empathy",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "These virtues are inherently positive, promoting connection and compassion."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy in connection and helping others."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in fellow believers and humanity."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise at unknowingly entertaining angels."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sadness for those suffering."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of blessings from acts of kindness."
+        }
+      }
+    },
+    {
+      "topic": "Honoring Marriage and Avoiding Greed",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 80,
+        "reasoning": "Promoting honorable behavior and warning against negative traits creates a mixed sentiment, but ultimately aims for a positive moral outcome."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Joy in a healthy marriage."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Trust in the sanctity of marriage."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of God's judgment."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sadness caused by broken marriages or greed."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Disgust at immorality and greed."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Anger at injustice and infidelity."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of blessings from obedience."
+        }
+      }
+    },
+    {
+      "topic": "Trust in God's Provision and Help",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 99,
+        "reasoning": "Expressing trust in God's provision and help is inherently positive and reassuring."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Joy in God's constant presence and help."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 99,
+          "reasoning": "Complete trust in God's promises."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No fear, as God is the helper."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Anticipation of God's continued support."
+        }
+      }
+    },
+    {
+      "topic": "Remembering Leaders and Imitating Their Faith",
+      "sentiment_polarity": {
+        "score": 0.85,
+        "confidence": 90,
+        "reasoning": "Encouraging remembrance and imitation of faithful leaders is a positive and uplifting message."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Joy in the legacy of faithful leaders."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the guidance of faithful leaders."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Possible surprise at the impact of their lives."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Possible sadness at their passing."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of continuing their legacy."
+        }
+      }
+    },
+    {
+      "topic": "Christ's Unchanging Nature and Avoiding Strange Teachings",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "Affirming Christ's unchanging nature is positive, while warning against strange teachings is cautionary, resulting in a slightly positive overall sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Joy in Christ's steadfastness."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Complete trust in Christ's unchanging nature."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Fear of being led astray."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Possible surprise at the variety of false teachings."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Sadness at those who are deceived."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Disgust at false teachings."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Anger at those who spread false teachings."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of staying true to Christ."
+        }
+      }
+    },
+    {
+      "topic": "Sacrifice of Praise and Good Deeds",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Encouraging acts of praise and good deeds is inherently positive and uplifting."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy in worshipping God and helping others."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in God's acceptance of these sacrifices."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of God's blessings."
+        }
+      }
+    },
+    {
+      "topic": "Obedience to Leaders",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "Encouraging obedience to leaders has a slightly positive sentiment as it promotes order and guidance, but also carries a sense of duty."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Joy from following good leadership."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the leaders' guidance."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Fear of consequences of disobedience."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Sadness if leaders are not followed."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Possible anger at rebellious attitudes."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of positive outcomes from following leaders."
+        }
+      }
+    },
+    {
+      "topic": "Prayer for Peace and Equipping",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "A prayer for peace and equipping is inherently positive and hopeful."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Joy in God's peace."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Complete trust in God's ability to equip."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Anticipation of being equipped to do God's will."
+        }
+      }
+    }
+  ]
+}

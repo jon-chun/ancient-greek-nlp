@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "23",
+    "segment_filename": "23_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the Gospel of Mark, recounting the events surrounding the crucifixion of Jesus.",
+    "text_summary": "This passage describes the release of Barabbas, a prisoner, at the request of the crowd incited by the chief priests, and the condemnation of Jesus by Pilate. Despite Pilate's attempts to release Jesus, the crowd demands his crucifixion. Jesus is then mocked and abused by the soldiers, dressed in purple robes and a crown of thorns, before being led away to be crucified. Simon of Cyrene is forced to carry the cross. The passage details the crucifixion itself, including the division of Jesus' garments and the inscription declaring him \"King of the Jews\". Two robbers are crucified alongside him. Passersby and chief priests mock Jesus. Darkness falls over the land. Jesus cries out in agony."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Release of Barabbas and Condemnation of Jesus",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The release of a criminal in place of an innocent man, and the subsequent condemnation of Jesus, carries a strongly negative sentiment. This reflects injustice and a rejection of innocence."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no joy associated with this event; it's a miscarriage of justice."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "There is a severe lack of trust in the fairness of the legal process."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The condemnation likely instilled fear in Jesus' followers."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "The unexpected choice of the crowd to release Barabbas is surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The unjust condemnation and impending crucifixion evoke profound sadness."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "The manipulation of the crowd and the injustice are disgusting."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The unjust condemnation and the crowd's manipulation inspire anger."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "There's a low level of anticipation of what will happen next, but it is overshadowed by the negative emotions."
+        }
+      }
+    },
+    {
+      "topic": "Mockery and Abuse by Soldiers",
+      "sentiment_polarity": {
+        "score": -0.95,
+        "confidence": 98,
+        "reasoning": "The mockery and physical abuse inflicted upon Jesus by the soldiers is a deeply negative and cruel act."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "There is absolutely no joy in this scene."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "There is no trust or faith present in the soldiers' actions."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "The abuse would inspire fear in any observer."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "While the abuse is horrific, the extent might be somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The suffering of Jesus evokes intense sadness."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The cruelty and disrespect shown are deeply disgusting."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The unjust abuse generates significant anger."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There is little anticipation, as the scene focuses on the present suffering."
+        }
+      }
+    },
+    {
+      "topic": "The Crucifixion and Division of Garments",
+      "sentiment_polarity": {
+        "score": -0.98,
+        "confidence": 99,
+        "reasoning": "The act of crucifixion itself is inherently negative, representing extreme suffering and death. The division of garments adds an element of callousness."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No joy is present."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No trust is present."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The crucifixion inspires intense fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The event itself, while anticipated, still carries a degree of shock."
+        },
+        "Sadness": {
+          "weight": 0.95,
+          "confidence": 99,
+          "reasoning": "Profound sadness is the dominant emotion."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The cruelty of the act is disgusting."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The injustice and cruelty inspire anger."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Little anticipation, as the event is unfolding."
+        }
+      }
+    },
+    {
+      "topic": "Mockery at the Cross",
+      "sentiment_polarity": {
+        "score": -0.97,
+        "confidence": 97,
+        "reasoning": "The continued mockery of Jesus while he is on the cross represents extreme cruelty and lack of empathy, resulting in a very negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No joy is present."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No trust is present."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The scene is frightening."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The persistence of the mockery might be somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The suffering and mockery evoke deep sadness."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The behavior of the mockers is disgusting."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The injustice and cruelty inspire intense anger."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Little anticipation, as the event is unfolding."
+        }
+      }
+    },
+    {
+      "topic": "Darkness and Jesus' Cry of Despair",
+      "sentiment_polarity": {
+        "score": -0.99,
+        "confidence": 99,
+        "reasoning": "The darkness and Jesus' cry of despair represent the culmination of suffering and a sense of abandonment, resulting in a profoundly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No joy is present."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No trust is present."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The darkness and cry inspire intense fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The darkness might be somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.99,
+          "confidence": 99,
+          "reasoning": "Profound sadness and despair are the dominant emotions."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "A sense of disgust at the situation, but less prominent than other emotions."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anger at the injustice and abandonment."
+        },
+        "Anticipation": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "No anticipation, only despair."
+        }
+      }
+    }
+  ]
+}

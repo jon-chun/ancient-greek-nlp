@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "95",
+    "segment_filename": "95_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from the book of Romans, based on the themes of justification by faith, Abraham, law, grace, sin, and death.",
+    "text_summary": "This passage discusses the concept of justification by faith, using Abraham as an example. It argues that Abraham's righteousness was not based on adherence to the law but on his faith, making him the father of all who believe, both circumcised and uncircumcised. The law, it states, brings wrath because it reveals transgression. The promise of God is secured by grace through faith, ensuring its availability to all Abraham's descendants. The passage highlights God's power to give life to the dead and call into being things that do not exist. It emphasizes that Christ's death was for our sins and his resurrection for our justification. Through faith in Jesus Christ, we have peace with God and access to his grace. Suffering produces endurance, character, and hope, which does not disappoint because God's love has been poured into our hearts through the Holy Spirit. Christ died for the ungodly, demonstrating God's love. We are saved from wrath through Christ's blood and reconciled to God through his death. Sin entered the world through one man, Adam, and death through sin, but grace abounds through Jesus Christ, leading to justification and eternal life."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Justification by Faith",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The concept of justification by faith is presented as a positive and liberating truth, central to the passage."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Justification brings a sense of joy and freedom."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "It fosters trust in God's grace and provision."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "It can alleviate fear of judgment."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The radical nature of grace can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Acknowledging the need for justification implies a past state of sinfulness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No disgust is explicitly associated with justification itself."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No anger is explicitly associated with justification itself."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "It gives hope for the future and eternal life."
+        }
+      }
+    },
+    {
+      "topic": "Abraham as an Example of Faith",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Abraham's faith is presented as exemplary and foundational, illustrating justification by faith."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Abraham's story evokes joy in God's faithfulness."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Abraham is the ultimate example of trust in God's promises."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Slight fear related to the difficulty of Abraham's obedience."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The unexpected fulfillment of God's promises to Abraham is surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The initial barrenness of Sarah could evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No disgust is explicitly associated with Abraham."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No anger is explicitly associated with Abraham."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Abraham's story is filled with anticipation of God's future blessings."
+        }
+      }
+    },
+    {
+      "topic": "The Law and Transgression",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "The law reveals sin and brings wrath, highlighting the negative consequences of disobedience."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 70,
+          "reasoning": "The law does not bring joy in this context."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The law can inspire some trust in its structure, but primarily reveals shortcomings."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The law brings fear of judgment for transgression."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The extent of human sinfulness revealed by the law can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The law highlights human failure and brings sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The law can lead to disgust at sin."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The law brings wrath and can incite anger."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The law offers little anticipation of positive outcomes in this context."
+        }
+      }
+    },
+    {
+      "topic": "God's Love and Christ's Sacrifice",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "The passage emphasizes God's immense love, demonstrated through Christ's sacrifice, a highly positive theme."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The love of God and the sacrifice of Christ bring immense joy."
+        },
+        "Trust": {
+          "weight": 0.95,
+          "confidence": 99,
+          "reasoning": "This act inspires the highest level of trust in God."
+        },
+        "Fear": {
+          "weight": 0.05,
+          "confidence": 40,
+          "reasoning": "Minimal fear, as God's love overcomes fear of judgment."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The depth of God's love can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Acknowledging the need for sacrifice implies past sinfulness and suffering."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No disgust is explicitly associated with God's love."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No anger is explicitly associated with God's love."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "It gives hope for the future and eternal life."
+        }
+      }
+    },
+    {
+      "topic": "Sin and Death through Adam, Grace and Life through Christ",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 90,
+        "reasoning": "A contrast between the negative consequences of Adam's sin and the positive benefits of Christ's sacrifice, leaning positive due to grace and life."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The prospect of overcoming death and receiving eternal life brings joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "It fosters trust in God's plan of salvation."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The reality of sin and death evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The contrast between sin and grace can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The acknowledgement of sin and death brings sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sin can elicit feelings of disgust."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sin can incite anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "It gives hope for the future and eternal life."
+        }
+      }
+    }
+  ]
+}

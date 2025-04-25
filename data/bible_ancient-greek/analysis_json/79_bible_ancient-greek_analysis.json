@@ -1,0 +1,360 @@
+{
+  "segment_metadata": {
+    "segment_number": "79",
+    "segment_filename": "79_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the Gospel of John, chapters 11 and 12.",
+    "text_summary": "This passage recounts events leading up to Jesus' crucifixion. The Jewish leaders, concerned about Jesus' growing popularity and the potential Roman response, plot to kill him. Caiaphas, the high priest, unwittingly prophesies Jesus' death for the nation. Jesus withdraws temporarily. Before Passover, many travel to Jerusalem to purify themselves. Jesus arrives in Bethany six days before Passover, where he is honored at a dinner. Mary anoints Jesus with expensive perfume, prompting Judas' hypocritical complaint. A large crowd comes to see Jesus and Lazarus, whom Jesus raised from the dead. The chief priests then plot to kill Lazarus as well. The next day, Jesus triumphantly enters Jerusalem, greeted by a large crowd waving palm branches. Some Greeks seek to meet Jesus, and Jesus speaks about his impending glorification through death."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Plot to kill Jesus",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The Jewish leaders' conspiracy to kill Jesus due to fear of Roman intervention results in a strongly negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The plot is devoid of joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No trust is present among the conspirators towards Jesus."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The leaders are motivated by fear of losing their power and the nation to the Romans."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "A small element of surprise at Jesus' increasing influence may be present."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some sadness might exist regarding the potential consequences for the nation."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The leaders feel disgust towards Jesus' perceived blasphemy and challenge to their authority."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The chief priests and Pharisees are deeply angered by Jesus' growing popularity and perceived threat to their power."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The leaders anticipate the outcome of their plan to eliminate Jesus."
+        }
+      }
+    },
+    {
+      "topic": "Caiaphas' Prophecy",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 70,
+        "reasoning": "While it speaks of death, it is interpreted as a sacrifice for the greater good, leading to a slightly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal joy, as it involves death."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Trust in God's plan, even through sacrifice."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Fear of the consequences if Jesus is not stopped."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Surprise at the unintentional prophecy."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness associated with the idea of death and sacrifice."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some anger at the situation."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of the events to come."
+        }
+      }
+    },
+    {
+      "topic": "Anointing at Bethany",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Mary's act of devotion and Jesus' acceptance create a strongly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The act of anointing and the fragrance filling the house evoke joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Mary's anointing demonstrates deep trust and devotion to Jesus."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear is present."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The lavishness of the anointing may cause some surprise."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "A hint of sadness due to Jesus' upcoming death being foreshadowed."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Judas' hypocrisy introduces a small element of disgust."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Judas' reaction suggests some anger or resentment."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The event anticipates Jesus' burial."
+        }
+      }
+    },
+    {
+      "topic": "Judas' Betrayal",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 85,
+        "reasoning": "Judas' greed and hypocrisy contribute to a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with Judas' actions."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Judas is untrustworthy."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Fear of being exposed."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at Judas' hypocrisy."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness that someone would betray Jesus."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Disgust at Judas' greed and betrayal."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Some anger at Judas' actions."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Anticipation of the consequences of Judas' actions."
+        }
+      }
+    },
+    {
+      "topic": "Triumphal Entry",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The joyous welcome of Jesus into Jerusalem creates a highly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The crowd's enthusiastic welcome reflects immense joy and celebration."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The people trust in Jesus as the Messiah and King."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No fear is present in this scene of celebration."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Minimal surprise, as the event was anticipated."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No sadness is present during the triumphal entry."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The crowd anticipates Jesus' reign and the fulfillment of prophecies."
+        }
+      }
+    },
+    {
+      "topic": "Greeks Seeking Jesus",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 80,
+        "reasoning": "The Greeks' desire to meet Jesus is a positive event, showing his universal appeal."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The Greeks' anticipation of meeting Jesus brings joy."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The Greeks have some trust or interest in Jesus."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No fear is present."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The request of the Greeks is somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "The Greeks anticipate meeting Jesus."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Discourse on Glorification",
+      "sentiment_polarity": {
+        "score": 0.5,
+        "confidence": 75,
+        "reasoning": "Jesus' words about his impending death and glorification are a mix of sorrow and hope, resulting in a moderately positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Joy associated with the idea of glorification."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in God's plan."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Fear of death."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness associated with the idea of death."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of the events to come."
+        }
+      }
+    }
+  ]
+}

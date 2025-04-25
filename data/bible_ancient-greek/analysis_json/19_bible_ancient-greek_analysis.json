@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "19",
+    "segment_filename": "19_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from one of the Synoptic Gospels or Revelation, dealing with eschatological prophecies.",
+    "text_summary": "This text segment describes a series of events that will precede the end times. It warns of deception, wars, earthquakes, and famines. Believers are told they will be persecuted, arrested, beaten, and brought before rulers to testify. The gospel must first be preached to all nations. They are not to worry about what to say when arrested, as the Holy Spirit will guide them. Betrayal within families will occur, leading to death. They will be hated for Jesus' name, but those who endure to the end will be saved. The abomination of desolation will signal a time to flee. The passage describes a time of great tribulation, such as has never been seen before. False Christs and prophets will arise and perform signs and wonders. The sun will be darkened, the moon will not give its light, and the stars will fall from the sky."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Deception and False Prophets",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The mention of deception and false prophets carries a negative connotation, warning against harmful influences."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Deception offers no joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "The topic undermines trust."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Deception is a fearful prospect."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Encountering deception can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Being deceived can cause sadness."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Deception is often viewed with disgust."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Being deceived can provoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The text anticipates future deception."
+        }
+      }
+    },
+    {
+      "topic": "Wars and Conflicts",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "Wars and conflicts inherently carry a negative sentiment due to violence, suffering, and destruction."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "War offers no joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "War erodes trust."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "War is a source of fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The outbreak of war can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "War causes sadness and loss."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "War is often viewed with disgust."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "War provokes anger."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The text anticipates future wars."
+        }
+      }
+    },
+    {
+      "topic": "Persecution of Believers",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 97,
+        "reasoning": "Persecution is a negative experience involving suffering and injustice."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Persecution offers no joy."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Believers may trust in God during persecution."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Persecution is a source of fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The onset of persecution can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Persecution causes sadness and suffering."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Persecution is often viewed with disgust."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Persecution provokes anger."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The text anticipates future persecution."
+        }
+      }
+    },
+    {
+      "topic": "Salvation and Endurance",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "Salvation and endurance to the end have a positive sentiment, offering hope and reward."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Salvation brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Salvation inspires trust in God."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Fear may be present due to the trials leading to salvation."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The nature of salvation may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Sadness may be present due to past suffering."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Salvation offers no disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Anger may be present due to past injustices."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Salvation is anticipated with hope."
+        }
+      }
+    },
+    {
+      "topic": "Cosmic Disturbances",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 96,
+        "reasoning": "Cosmic disturbances like the darkening of the sun and falling stars are generally viewed with fear and negativity, signaling chaos and the end of times."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Cosmic disturbances offer no joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Cosmic disturbances erode trust in the natural order."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Cosmic disturbances are a source of fear."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Cosmic disturbances are inherently surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Cosmic disturbances signify loss and destruction."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Cosmic disturbances can be viewed with disgust."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Cosmic disturbances can provoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The text anticipates these disturbances."
+        }
+      }
+    }
+  ]
+}

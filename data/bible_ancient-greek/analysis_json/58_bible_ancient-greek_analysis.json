@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "58",
+    "segment_filename": "58_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from the Gospel of Luke, specifically dealing with Jesus's teachings about the destruction of Jerusalem and the coming of the Son of Man. It also includes the parable of the fig tree and warnings about being prepared for the end times, as well as the beginning of the Passion narrative with Judas's betrayal.",
+    "text_summary": "This passage contains Jesus's prophecy about the destruction of Jerusalem, urging his followers to flee to the mountains when they see the city surrounded by armies. He warns of great distress and tribulation, with Jerusalem being trampled by Gentiles until the times of the Gentiles are fulfilled. Signs in the heavens and on earth will precede the coming of the Son of Man in power and glory. He encourages his followers to be watchful and pray for strength to escape the coming calamities. Jesus uses the parable of the fig tree to illustrate the nearness of these events. He warns against being weighed down by worldly cares and urges vigilance. The passage concludes with Jesus teaching in the temple during the day and spending the nights on the Mount of Olives, with the people coming early to hear him. It then transitions to the plot by the chief priests and scribes to kill him, and Satan entering Judas Iscariot, who agrees to betray Jesus."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Destruction of Jerusalem",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The destruction of Jerusalem is a negative event, signifying suffering and loss. The confidence is high because the text explicitly describes the destruction."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The topic is about destruction, so no joy is present."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There is a little trust that God's plan is unfolding, but mostly fear."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The destruction of Jerusalem would cause immense fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The suddenness of the event could bring surprise."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Destruction and loss lead to sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Disgust at the actions leading to destruction."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anger at the forces causing the destruction."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The prophecy creates anticipation of the event."
+        }
+      }
+    },
+    {
+      "topic": "Coming of the Son of Man",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The coming of the Son of Man is a complex event. While it signifies judgment, it also offers hope for believers. Overall, it leans positive due to the promise of deliverance."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Joy for believers who await his coming."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Trust in God's plan and the fulfillment of prophecy."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Fear for those who are not righteous."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The manner of his coming may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sadness for those who are judged."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust at the wickedness that necessitates his coming."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Anger at the injustice in the world."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Strong anticipation of his arrival."
+        }
+      }
+    },
+    {
+      "topic": "Parable of the Fig Tree",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The parable of the fig tree is meant to be encouraging, indicating that the coming of the kingdom is near. Therefore, the sentiment is positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Joy at the nearness of the kingdom."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the signs and the fulfillment of prophecy."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear, mostly anticipation."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Slight surprise at the suddenness."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No sadness is associated with this parable."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is associated with this parable."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is associated with this parable."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong anticipation of the coming kingdom."
+        }
+      }
+    },
+    {
+      "topic": "Warning to be Watchful",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "The warning to be watchful carries a slightly negative sentiment due to the potential consequences of being unprepared, but it is ultimately intended for good."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Little joy, mostly a call to vigilance."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust in the warning and the need to prepare."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear of being caught unprepared."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The suddenness of the events."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness at the potential consequences."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust at the wickedness that will be judged."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Anger at the forces of evil."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of the coming events."
+        }
+      }
+    },
+    {
+      "topic": "Judas's Betrayal",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "Judas's betrayal is a deeply negative event, signifying treachery and the beginning of Jesus's suffering."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with betrayal."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Betrayal is the opposite of trust."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Judas may have some fear of the consequences."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The betrayal may be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Sadness at the treachery and its consequences."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Deep disgust at the act of betrayal."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger at the injustice and treachery."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Little anticipation, mostly negative emotions."
+        }
+      }
+    }
+  ]
+}

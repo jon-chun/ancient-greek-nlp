@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "157",
+    "segment_filename": "157_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely containing excerpts from the epistles of Paul. The presence of names like Timothy, Philemon, Apphia, and Archippus, as well as references to Onesimus, strongly suggests portions from the letters to Titus and Philemon.",
+    "text_summary": "This text segment encompasses several distinct themes. It begins with a warning against engaging in pointless genealogies and legalistic debates, advocating for avoiding divisive individuals after repeated warnings. It then transitions into personal instructions and greetings, including travel plans involving Artemas and Tychicus, and commendations for Zenas and Apollos. The text emphasizes the importance of good works and providing for the needs of others. The segment concludes with greetings and a blessing. The latter part of the text includes greetings from Paul, a prisoner of Christ Jesus, along with Timothy, to Philemon, Apphia, Archippus, and the church in their house. Paul expresses gratitude for Philemon's love and faith. He then makes a plea regarding Onesimus, a former slave who has become useful to Paul, asking Philemon to receive him back not as a slave, but as a beloved brother in Christ. Paul emphasizes that this should be a voluntary act of kindness."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Warning against Divisiveness",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 80,
+        "reasoning": "The warning against divisive individuals carries a negative sentiment, as it addresses conflict and potential harm to the community."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 70,
+          "reasoning": "No joy is associated with division."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Division erodes trust."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Division can lead to fear and anxiety."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The emergence of division can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Division can cause sadness and grief."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Division and conflict can be distasteful."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Division can provoke anger and resentment."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anticipation of further conflict."
+        }
+      }
+    },
+    {
+      "topic": "Emphasis on Good Works",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The emphasis on good works and providing for the needs of others carries a positive sentiment, as it promotes acts of kindness and compassion."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Good works bring joy to both the giver and receiver."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Good works build trust within the community."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear associated with acts of kindness."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The impact of good works can sometimes be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness associated with acts of kindness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 70,
+          "reasoning": "No disgust associated with acts of kindness."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 70,
+          "reasoning": "No anger associated with acts of kindness."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of positive outcomes from good works."
+        }
+      }
+    },
+    {
+      "topic": "Plea for Onesimus",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The plea for Onesimus is complex. It's fundamentally positive, seeking reconciliation and forgiveness, but acknowledges Onesimus's past wrongdoings. The overall sentiment is positive due to the appeal for grace and brotherly love."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Hope for reconciliation and restored relationship brings joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Paul relies on Philemon's trust and faith."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Fear of rejection or negative consequences."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Possible surprise at Onesimus's transformation."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness over Onesimus's past and Paul's imprisonment."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 65,
+          "reasoning": "Minimal disgust, potentially related to Onesimus's past actions."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Low anger, potentially related to Onesimus's past behavior."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of a positive response from Philemon."
+        }
+      }
+    },
+    {
+      "topic": "Overall Sentiment",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 85,
+        "reasoning": "The text contains both positive and negative elements. The warnings against divisiveness contribute to a negative sentiment, while the expressions of gratitude, love, and the call for reconciliation contribute to a positive sentiment. The overall sentiment is slightly positive due to the emphasis on love, forgiveness, and reconciliation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Gratitude and expressions of love contribute to joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Emphasis on relationships and faith fosters trust."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Subtle fear related to potential conflict or rejection."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Low surprise, as the events are somewhat expected within the context."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Paul's imprisonment and Onesimus's past contribute to sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 65,
+          "reasoning": "Low disgust, possibly related to the 'unprofitable' state of Onesimus before conversion."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Low anger, potentially related to the conflict that might arise if Philemon rejects Onesimus."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Anticipation regarding travel plans and Onesimus's reception."
+        }
+      }
+    }
+  ]
+}

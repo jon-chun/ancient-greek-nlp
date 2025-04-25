@@ -1,0 +1,160 @@
+{
+  "segment_metadata": {
+    "segment_number": "162",
+    "segment_filename": "162_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the book of Hebrews.",
+    "text_summary": "This passage discusses the superiority of Jesus Christ as the High Priest compared to the Levitical priests of the Old Covenant. It emphasizes Christ's holiness, sinlessness, and exaltation above the heavens. Unlike the Old Testament priests who had to offer sacrifices daily for their own sins and the sins of the people, Christ offered himself as a single, perfect sacrifice. The passage highlights the weakness of the Old Covenant and the establishment of a new and better covenant through Christ, based on better promises. God promises to write His laws on the hearts of believers, forgive their sins, and establish a new relationship with them. The passage concludes by describing the earthly tabernacle with its various components, symbolizing the heavenly reality. The obsolescence of the old covenant is emphasized."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Superiority of Christ as High Priest",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "The description of Jesus as a holy, blameless, and exalted high priest is highly positive, emphasizing his perfection and suitability to mediate between God and humanity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The description of Jesus brings joy because of the hope he offers."
+        },
+        "Trust": {
+          "weight": 0.95,
+          "confidence": 98,
+          "reasoning": "Jesus is portrayed as completely trustworthy and reliable."
+        },
+        "Fear": {
+          "weight": 0.05,
+          "confidence": 90,
+          "reasoning": "Fear is almost nonexistent as Jesus is perfect."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.05,
+          "confidence": 90,
+          "reasoning": "Sadness is very low."
+        },
+        "Disgust": {
+          "weight": 0.01,
+          "confidence": 95,
+          "reasoning": "Disgust is practically non-existent."
+        },
+        "Anger": {
+          "weight": 0.01,
+          "confidence": 95,
+          "reasoning": "Anger is practically non-existent."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "Jesus is the mediator of a better covenant and brings anticipation of future blessings."
+        }
+      }
+    },
+    {
+      "topic": "Establishment of the New Covenant",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is positive due to the emphasis on a better covenant, forgiveness of sins, and the perfection of Christ's sacrifice, leading to hope and a new relationship with God."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The new covenant brings joy through forgiveness and a restored relationship with God."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The passage emphasizes God's faithfulness to His promises in the new covenant."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "Fear is minimal as the text focuses on overcoming sin and establishing a secure relationship with God."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The new covenant is a surprising departure from the old, with new promises and a different way of relating to God."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 85,
+          "reasoning": "Sadness is low as the text focuses on overcoming the limitations of the old covenant."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Disgust is minimal in this context, perhaps relating to the imperfections of the old system."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 75,
+          "reasoning": "Anger is low as the text focuses on reconciliation and forgiveness."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The new covenant brings anticipation of future blessings and a transformed relationship with God."
+        }
+      }
+    },
+    {
+      "topic": "Obsolescence of the Old Covenant",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 80,
+        "reasoning": "The description of the Old Covenant as flawed and being replaced is slightly negative, but the overall sentiment is neutral as it paves the way for the positive aspects of the New Covenant."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minimal joy is associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Some trust remains in the historical significance of the old covenant."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 80,
+          "reasoning": "Fear of the unknown replacement."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "It's surprising that the old covenant is flawed."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "Sadness due to the flaws and obsolescence of the old covenant."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation for the new covenant."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "segment_metadata": {
+    "segment_number": "39",
+    "segment_filename": "39_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from the Gospel of Luke, based on the content (raising of Jairus' daughter, sending out the twelve apostles, Herod's confusion about Jesus, feeding the five thousand, Peter's confession, and the transfiguration).",
+    "text_summary": "This passage recounts several key events in Jesus' ministry. It begins with the raising of a girl from the dead, followed by Jesus commissioning the twelve apostles, giving them power over demons and disease, and sending them to preach the kingdom of God. Herod, the tetrarch, is perplexed by the reports of Jesus' miracles, wondering if he is John the Baptist resurrected. The apostles return and report their activities. Jesus feeds a multitude of five thousand people with only five loaves and two fish. He then asks his disciples who the crowds believe him to be, and Peter confesses that Jesus is the Christ. Jesus predicts his suffering, death, and resurrection. He teaches about self-denial and following him. Finally, Jesus takes Peter, John, and James to a mountain where he is transfigured, and Moses and Elijah appear."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Raising of the Dead Girl",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "This event is miraculous and positive, signifying divine power and compassion. The raising of the dead is generally seen as a hopeful and joyous event."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The raising of the dead inspires joy and hope."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Demonstrates Jesus' power and trustworthiness."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Awe and respect for divine power."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The unexpected nature of the miracle."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Reflects the initial sadness of the girl's death."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anticipation of future miracles and divine intervention."
+        }
+      }
+    },
+    {
+      "topic": "Commissioning of the Twelve Apostles",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "This is a positive event, signifying the expansion of Jesus' ministry and the empowerment of his followers."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The apostles are given the opportunity to spread the good news."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Jesus trusts the apostles to carry out his mission."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Possible fear of failure or persecution."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise at being chosen for such an important task."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Possible sadness at leaving their previous lives."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of spreading the gospel and performing miracles."
+        }
+      }
+    },
+    {
+      "topic": "Herod's Confusion about Jesus",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 80,
+        "reasoning": "This section is neutral, reflecting Herod's uncertainty and curiosity rather than a strong positive or negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal joy, perhaps curiosity."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Little trust, mostly confusion."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Fear of the implications of Jesus' identity."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Surprise at the reports of Jesus' miracles."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Possible sadness at the memory of John the Baptist's death."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Possible anger at the disruption caused by Jesus."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of finding out who Jesus is."
+        }
+      }
+    },
+    {
+      "topic": "Feeding the Five Thousand",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "This is a highly positive event, demonstrating Jesus' miraculous power and compassion for the hungry crowd."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The crowd is joyful at being fed."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Demonstrates Jesus' power and trustworthiness."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The unexpected nature of the miracle."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of future miracles and divine provision."
+        }
+      }
+    },
+    {
+      "topic": "Peter's Confession and Jesus' Prediction of Suffering",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 85,
+        "reasoning": "The confession is positive, affirming Jesus' identity. The prediction of suffering is negative, foreshadowing hardship. Overall, slightly positive due to the affirmation of faith."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Joy at the affirmation of Jesus' identity."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Peter trusts that Jesus is the Christ."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Fear of the suffering that Jesus will endure."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the prediction of suffering."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Sadness at the prospect of Jesus' suffering and death."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Possible anger at the injustice of Jesus' suffering."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of the events to come."
+        }
+      }
+    },
+    {
+      "topic": "Teaching on Self-Denial and Following Jesus",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The teaching is demanding but ultimately positive, emphasizing spiritual growth and eternal reward."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Joy at the prospect of eternal life."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in Jesus' teachings and promises."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear of self-denial and possible persecution."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness at the prospect of suffering."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Possible anger at the difficulty of the teaching."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of eternal reward and spiritual growth."
+        }
+      }
+    },
+    {
+      "topic": "The Transfiguration",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "This is a highly positive and awe-inspiring event, demonstrating Jesus' divine glory and connection to the Old Testament prophets."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Joy at witnessing Jesus' divine glory."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strengthens faith in Jesus as the Son of God."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Awe and reverence in the presence of divine power."
+        },
+        "Surprise": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The unexpected and miraculous nature of the event."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Not applicable in this context."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of the coming kingdom and Jesus' ultimate victory."
+        }
+      }
+    }
+  ]
+}

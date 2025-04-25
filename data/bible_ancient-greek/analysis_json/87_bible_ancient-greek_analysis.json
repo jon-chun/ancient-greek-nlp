@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "87",
+    "segment_filename": "87_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the Gospel of John, chapters 19.",
+    "text_summary": "This passage describes the events leading up to the crucifixion of Jesus. Pilate attempts to release Jesus, finding no fault in him, and offers the crowd the customary release of a prisoner during Passover. The crowd chooses Barabbas instead. Roman soldiers mock and torture Jesus, placing a crown of thorns on his head and a purple robe on his shoulders. Pilate presents Jesus to the crowd, saying, \"Behold, the man!\" The chief priests demand his crucifixion. Pilate, after further questioning Jesus and facing pressure from the Jewish leaders who threaten to accuse him of disloyalty to Caesar, reluctantly hands Jesus over to be crucified. Jesus is then led to Golgotha, where he is crucified between two others. Pilate has a title placed on the cross proclaiming Jesus as \"The King of the Jews\" in multiple languages. The soldiers divide Jesus' garments, fulfilling prophecy. Jesus, while on the cross, speaks to his mother and the disciple whom he loved. He then declares \"I thirst,\" and after receiving a drink, indicates that his mission is accomplished."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Pilate's Dilemma and Decision",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 85,
+        "reasoning": "Pilate's actions are complex, recognizing Jesus' innocence but succumbing to political pressure, resulting in a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "No joy is associated with Pilate's actions."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Little trust is inspired by Pilate's actions."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of the Jewish leaders and potential political repercussions."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the crowd's choice of Barabbas and their demands."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Sadness at the injustice and his own inability to prevent it."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust at the situation and the manipulative behavior of the Jewish leaders."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some anger at being manipulated and forced into a difficult position."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation of the consequences of his actions."
+        }
+      }
+    },
+    {
+      "topic": "Mockery and Torture of Jesus",
+      "sentiment_polarity": {
+        "score": -0.95,
+        "confidence": 99,
+        "reasoning": "The mockery and torture of Jesus are inherently negative, representing cruelty and injustice."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No joy is associated with this event."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No trust is associated with this event."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Fear of the violence and suffering inflicted on Jesus."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Limited surprise, as such treatment was common."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Profound sadness at the suffering of Jesus."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Disgust at the cruelty and inhumanity of the soldiers."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger at the perpetrators of the violence."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal anticipation, only of further suffering."
+        }
+      }
+    },
+    {
+      "topic": "The Crucifixion of Jesus",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "The topic of Jesus' crucifixion is inherently negative due to the immense suffering and injustice involved."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 50,
+          "reasoning": "Minimal joy is present, only in the context of the eventual resurrection."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Trust in God's plan and Jesus' sacrifice is present, but overshadowed by negative emotions."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Fear of death and the unknown is a central emotion."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Little surprise, as the events were somewhat anticipated."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The suffering and death of Jesus evoke profound sadness."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Disgust at the cruelty and injustice of the crucifixion."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at the perpetrators of the crucifixion."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation of the fulfillment of prophecy, but overshadowed by the immediate suffering."
+        }
+      }
+    },
+    {
+      "topic": "Overall Narrative of Jesus' Suffering and Crucifixion",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is negative due to the suffering, injustice, and ultimate death of Jesus, but there is a sense of purpose and fulfillment of prophecy."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal joy is present, mostly related to the eventual resurrection in Christian belief."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Trust in God's plan and Jesus' sacrifice is a key element."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear of death and the unknown is present, especially in the context of crucifixion."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Some surprise at the crowd's reaction and Pilate's actions."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The suffering and death of Jesus evoke significant sadness."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Disgust at the cruelty and injustice of the events."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at the perpetrators of the injustice and suffering."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of the fulfillment of prophecy and the eventual resurrection."
+        }
+      }
+    }
+  ]
+}

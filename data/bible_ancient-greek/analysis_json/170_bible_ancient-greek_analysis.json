@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "170",
+    "segment_filename": "170_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the book of James.",
+    "text_summary": "This passage emphasizes the importance of both faith and works, arguing that faith without works is dead. It uses the examples of Abraham's willingness to sacrifice Isaac and Rahab's protection of the spies to illustrate that true faith is demonstrated through actions. The passage then shifts to a discussion about the power and danger of the tongue, comparing it to a fire and a rudder, highlighting its ability to both bless and curse. It warns against hypocrisy and emphasizes the need for wisdom that is characterized by gentleness and good deeds. Finally, it addresses the source of conflict and strife, attributing it to selfish desires and a lack of prayer, cautioning against worldly friendship and urging humility before God."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Faith and Works",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 90,
+        "reasoning": "Emphasizes faith being demonstrated through actions, promoting a proactive approach to religious belief."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Achieving righteousness through faith and works brings a sense of joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Examples of Abraham and Rahab inspire trust in the principles being taught."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Consequence of having faith without works brings a sense of fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "No major surprises in the text."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Consequence of having faith without works brings a sense of sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is no disgust in the text."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is no anger in the text."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Prompts anticipation of future rewards or consequences based on one's actions and beliefs."
+        }
+      }
+    },
+    {
+      "topic": "Power of the Tongue",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "Highlights the tongue's potential for harm and destruction, leading to a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is little joy in the text."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There is little trust in the text."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Destructive potential of the tongue evokes a sense of fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There are no major surprises in the text."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Awareness of the harm that words can cause evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Harmful effects of the tongue evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Destructive potential of the tongue evokes anger."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Prompts anticipation of future harm caused by the tongue."
+        }
+      }
+    },
+    {
+      "topic": "Wisdom",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "Emphasizes gentleness, good deeds, and humility, leading to a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Positive qualities of wisdom bring a sense of joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Emphasis on gentleness, good deeds, and humility inspires trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is little fear in the text."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There are no major surprises in the text."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is little sadness in the text."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is little disgust in the text."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is little anger in the text."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Prompts anticipation of future rewards for those who act wisely."
+        }
+      }
+    },
+    {
+      "topic": "Conflict and Worldly Friendship",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 90,
+        "reasoning": "Highlights the destructive nature of selfish desires and the dangers of worldly attachments, leading to a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is little joy in the text."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is little trust in the text."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Destructive potential of conflict and worldly attachments evokes a sense of fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There are no major surprises in the text."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Awareness of the harm that these things can cause evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Harmful effects of selfish desires evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Destructive potential of conflict and worldly attachments evokes anger."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Prompts anticipation of future harm caused by these things."
+        }
+      }
+    }
+  ]
+}

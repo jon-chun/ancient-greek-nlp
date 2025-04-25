@@ -1,0 +1,410 @@
+{
+  "segment_metadata": {
+    "segment_number": "44",
+    "segment_filename": "44_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from the Gospel of Luke, based on the parables, woes to the Pharisees and lawyers, and teachings about hypocrisy, confession, and stewardship.",
+    "text_summary": "This passage contains several distinct teachings and narratives. First, Jesus contrasts the present generation with those who heeded wisdom in the past (Queen of Sheba and Solomon, Ninevites and Jonah). He then speaks about inner light and darkness, urging listeners to ensure their inner light isn't darkness. Next, a Pharisee is surprised that Jesus doesn't ritually wash before eating, prompting Jesus to denounce the Pharisees' hypocrisy, focusing on outward cleanliness while their hearts are full of greed and wickedness. He also condemns their love of honor and their neglect of justice and love of God. Jesus then rebukes the lawyers for burdening people with impossible laws and for honoring prophets their ancestors killed. He warns of judgment for the blood of the prophets shed from the beginning of the world. He criticizes the lawyers for taking away the key of knowledge. After this, the scribes and Pharisees try to trap Jesus with his words. Finally, Jesus warns his disciples about the hypocrisy of the Pharisees, emphasizing that all hidden things will be revealed. He urges them not to fear those who can only kill the body, but to fear God. He assures them that they are valued and encourages them to confess him before others. He teaches about blasphemy against the Holy Spirit. He instructs them not to worry about what to say when brought before authorities, for the Holy Spirit will guide them. He then addresses a request to divide an inheritance, warning against greed and telling a parable about a rich man who hoards his wealth, only to die suddenly."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Superiority of Jesus' Wisdom and Message",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The passage emphasizes that Jesus is greater than Solomon and Jonah, suggesting a positive sentiment related to his authority and divine nature."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The acceptance of Jesus' message can lead to joy and salvation."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "The passage asserts Jesus' authority and wisdom, inspiring trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There's a subtle fear of missing out on the wisdom offered."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The claim of Jesus' superiority might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "A slight sadness for those who reject the message."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is directly expressed in this topic."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "A mild anger towards those who reject Jesus."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation for the future kingdom and blessings."
+        }
+      }
+    },
+    {
+      "topic": "Inner Light and Darkness",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 70,
+        "reasoning": "The teaching about inner light being either illuminating or dark has a neutral sentiment, as it presents a choice and a warning."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Inner light is associated with joy and positivity."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trust in the path of inner light."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of inner darkness and its consequences."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Potential surprise at the state of one's inner self."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness related to inner darkness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust at one's own inner darkness."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Anger at the presence of inner darkness."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation for a brighter future through inner light."
+        }
+      }
+    },
+    {
+      "topic": "Hypocrisy of the Pharisees",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "This section is strongly negative due to the condemnation of the Pharisees' hypocrisy and wickedness."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with hypocrisy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No trust in hypocrites."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of being like the Pharisees."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Surprise at the extent of the Pharisees' hypocrisy."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness at the spiritual corruption."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Disgust at the hypocrisy and wickedness."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at the injustice and deceit."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anticipation for justice and exposure of hypocrisy."
+        }
+      }
+    },
+    {
+      "topic": "Woe to the Lawyers",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "This section is negative due to the condemnation of the lawyers for burdening people and honoring the killers of prophets."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with the condemnation."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No trust in the lawyers."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of judgment and consequences."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Potential surprise at the lawyers' actions."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness at the injustice and spiritual corruption."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Disgust at the lawyers' hypocrisy and actions."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger at the injustice and burdening of people."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anticipation for justice and accountability."
+        }
+      }
+    },
+    {
+      "topic": "Warning Against Greed (Parable of the Rich Fool)",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "The parable carries a negative sentiment as it warns against greed and hoarding wealth, highlighting the foolishness of valuing material possessions over spiritual life."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The parable is not meant to evoke joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "A slight trust in the lesson being taught."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Fear of a similar fate due to greed."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Surprise at the man's sudden death."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Sadness at the man's folly and wasted life."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Disgust at the man's greed."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anger at the misplaced priorities."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anticipation for a better, more spiritual life."
+        }
+      }
+    },
+    {
+      "topic": "Fear God, Not Man",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 80,
+        "reasoning": "The teaching to fear God rather than those who can only kill the body carries a positive sentiment overall, as it emphasizes spiritual priorities and eternal life."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Joy associated with eternal life and divine favor."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's power and protection."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear of divine judgment and separation from God."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Potential surprise at the extent of God's power."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sadness for those who fear earthly powers more than God."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust at the misplaced priorities of fearing man."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Anger at those who persecute believers."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation for eternal life and rewards in heaven."
+        }
+      }
+    },
+    {
+      "topic": "Confession and Denial of Christ",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 70,
+        "reasoning": "This topic has mixed sentiment. Confessing Christ has a positive sentiment, while denying him has a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Joy associated with being acknowledged by God."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in God's promises for those who confess."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Fear of being denied by God."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the consequences of confession or denial."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Sadness associated with being denied by God."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust at the act of denying Christ."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Anger at those who deny Christ."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation for the rewards of confession or the consequences of denial."
+        }
+      }
+    },
+    {
+      "topic": "Blasphemy Against the Holy Spirit",
+      "sentiment_polarity": {
+        "score": -0.95,
+        "confidence": 98,
+        "reasoning": "This topic carries a very negative sentiment because it speaks of an unforgivable sin."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No joy associated with blasphemy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No trust associated with blasphemy."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Extreme fear of committing the unforgivable sin."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at the severity of the sin."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Sadness at the possibility of committing such a sin."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Disgust at the act of blasphemy."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Anger at the forces that might lead to blasphemy."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal anticipation, mostly fear."
+        }
+      }
+    }
+  ]
+}

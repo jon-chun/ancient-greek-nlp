@@ -1,0 +1,410 @@
+{
+  "segment_metadata": {
+    "segment_number": "148",
+    "segment_filename": "148_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from one of Paul's letters (possibly 2 Thessalonians or 1 Timothy).",
+    "text_summary": "This passage discusses the coming of lawlessness influenced by Satan, marked by deception and rejection of truth, leading to divine judgment. It emphasizes God's election of believers for salvation through the Spirit and faith, urging them to stand firm in the traditions they received. The text includes prayers for strength, guidance, and deliverance from wicked individuals, highlighting God's faithfulness and love. It also addresses the importance of disciplined living and working, condemning idleness and urging believers to correct those who are disobedient with brotherly love. The passage concludes with a blessing of peace and a personal greeting from Paul. Finally, it opens a new section addressing Timothy, urging him to remain in Ephesus to combat false teachings."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Coming of Lawlessness and Deception",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "This topic describes negative forces and deception, leading to a negative sentiment. The confidence is high because the text explicitly mentions Satan and falsehood."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "The topic is inherently devoid of joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "There is a lack of trust due to the presence of deception."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The coming of lawlessness naturally evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The unexpected nature of deception can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The consequences of lawlessness bring sadness."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Deception and wickedness are inherently disgusting."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Lawlessness can incite anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "There is anticipation of negative events."
+        }
+      }
+    },
+    {
+      "topic": "God's Election and Salvation",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "This topic focuses on God's positive actions and salvation, leading to a positive sentiment. Confidence is high due to the clear statement of God's purpose."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Salvation is a source of great joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God is central to the concept of election."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Fear is minimized by the assurance of salvation."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The unexpected nature of grace can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Sadness is diminished by the hope of salvation."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "This topic is devoid of disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "This topic is devoid of anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "There is anticipation of eternal life."
+        }
+      }
+    },
+    {
+      "topic": "Standing Firm in Traditions",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "This topic emphasizes the importance of adhering to established teachings, suggesting a positive sentiment related to stability and guidance."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Stability and adherence to tradition bring a sense of joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the established traditions is crucial."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "There is a slight fear of deviating from tradition."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Surprise is minimal as it focuses on maintaining the status quo."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Sadness is minimal."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "This topic is devoid of disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Anger is minimal."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "There is anticipation of continued stability."
+        }
+      }
+    },
+    {
+      "topic": "Prayer for Guidance and Deliverance",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Prayer inherently expresses hope and reliance on a higher power, leading to a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Prayer brings a sense of joy and hope."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God is central to prayer."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Fear is present due to the need for deliverance."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Surprise is minimal."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Sadness is present due to the circumstances requiring prayer."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Disgust towards wickedness is implied."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Anger towards those who cause harm is implied."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "There is anticipation of God's intervention."
+        }
+      }
+    },
+    {
+      "topic": "Importance of Disciplined Living and Work",
+      "sentiment_polarity": {
+        "score": 0.5,
+        "confidence": 80,
+        "reasoning": "This topic emphasizes positive values like hard work and order, leading to a positive sentiment, although it also contains elements of correction."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Disciplined living can bring a sense of joy."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trust in the value of hard work is implied."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "There is a slight fear of the consequences of idleness."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Surprise is minimal."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Sadness is present due to the correction of those who are idle."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Disgust towards idleness is implied."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Anger towards those who disrupt order is implied."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "There is anticipation of a more orderly community."
+        }
+      }
+    },
+    {
+      "topic": "Brotherly Correction",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 75,
+        "reasoning": "While correction can be perceived negatively, the emphasis on brotherly love and restoration suggests a positive overall sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The goal of restoration brings a sense of joy."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Trust in the process of correction is implied."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "There is a fear of rejection during correction."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise is possible if the correction is unexpected."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness is present due to the need for correction."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Disgust towards the behavior being corrected is implied."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Anger is possible if the correction is not well-received."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "There is anticipation of restoration and reconciliation."
+        }
+      }
+    },
+    {
+      "topic": "Blessing of Peace and Grace",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Blessings of peace and grace are inherently positive and convey goodwill."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Peace and grace are sources of great joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's provision of peace and grace is central."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Fear is minimized by the assurance of peace and grace."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The unexpected nature of grace can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "Sadness is diminished by the hope of peace and grace."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "This topic is devoid of disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "This topic is devoid of anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "There is anticipation of continued peace and grace."
+        }
+      }
+    },
+    {
+      "topic": "Combatting False Teachings",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 70,
+        "reasoning": "While the act of combatting something is neutral, the context of *false* teachings gives it a negative association, but the intent is positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "There's a small amount of joy in defending the truth."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Trust in the correct teachings is important."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "There's fear related to the spread of false teachings."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The emergence of false teachings can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The existence of false teachings is saddening."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "False teachings can be disgusting."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "False teachings can provoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 60,
+          "reasoning": "There's anticipation of successfully combating false teachings."
+        }
+      }
+    }
+  ]
+}

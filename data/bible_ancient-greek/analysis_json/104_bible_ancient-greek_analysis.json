@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "104",
+    "segment_filename": "104_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the book of Romans, chapter 16 and a portion of chapter 1.",
+    "text_summary": "This text segment consists primarily of greetings to various individuals and house churches. Paul sends his regards to numerous people, acknowledging their contributions and relationships to him and to Christ. He also includes warnings against those who cause division and encourages the believers to be wise in good and innocent in evil. The text concludes with a doxology praising God's power to establish believers according to the Gospel and the revelation of the mystery kept secret for ages but now revealed. The beginning of the text also includes Paul's introduction of himself and his calling as an apostle."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Greetings and Salutations",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The act of greeting and acknowledging individuals carries a positive sentiment, reflecting warmth and connection within the community."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Greetings and expressions of love generate joy."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Acknowledging individuals builds trust within the community."
+        },
+        "Fear": {
+          "weight": 0.05,
+          "confidence": 70,
+          "reasoning": "Minimal fear is present."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There's a slight element of surprise in encountering new names."
+        },
+        "Sadness": {
+          "weight": 0.05,
+          "confidence": 70,
+          "reasoning": "Minimal sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not applicable here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not applicable here."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Anticipation of future fellowship is present."
+        }
+      }
+    },
+    {
+      "topic": "Warning Against Division",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "Warning against those causing division carries a negative sentiment, reflecting concern and the need for vigilance."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.05,
+          "confidence": 70,
+          "reasoning": "Minimal joy is present."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 75,
+          "reasoning": "The warning aims to preserve trust within the community."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The potential for division evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The emergence of division might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Division can cause sadness and grief."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The actions of those causing division may be disgusting."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The disruption caused by division can evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Anticipation of resolving the division is present."
+        }
+      }
+    },
+    {
+      "topic": "Doxology and Praise",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "The doxology expressing praise to God has a highly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Praise and reverence generate joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The doxology inspires trust in God's power and wisdom."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Fear is not applicable here."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The revelation of the mystery might evoke a slight surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Sadness is not applicable here."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not applicable here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not applicable here."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The doxology anticipates God's continued blessings."
+        }
+      }
+    },
+    {
+      "topic": "Community and Fellowship",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is highly positive due to the expressions of love, greetings, acknowledgment of service, and doxology. The text conveys a sense of community, appreciation, and spiritual affirmation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.85,
+          "confidence": 90,
+          "reasoning": "The greetings and expressions of love contribute to a strong sense of joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The acknowledgments of faithfulness and the doxology inspire trust in God."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "The warning against division introduces a minor element of fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The revelation of the mystery adds a small element of surprise."
+        },
+        "Sadness": {
+          "weight": 0.05,
+          "confidence": 75,
+          "reasoning": "There's minimal sadness, perhaps related to the struggles against division."
+        },
+        "Disgust": {
+          "weight": 0.05,
+          "confidence": 85,
+          "reasoning": "The warning against those causing division might evoke a sense of disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "The warning against division may also evoke a sense of anger toward those causing it."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The hope for the defeat of evil and continued spiritual growth creates anticipation."
+        }
+      }
+    }
+  ]
+}

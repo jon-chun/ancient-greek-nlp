@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "191",
+    "segment_filename": "191_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the Book of Revelation in the New Testament.",
+    "text_summary": "This segment describes a series of apocalyptic events. Two witnesses are resurrected and ascend to heaven, causing great fear. A great earthquake destroys a tenth of a city, killing thousands. The seventh angel blows his trumpet, heralding the reign of God and Christ. The twenty-four elders worship God, giving thanks for his power and reign. God's temple in heaven opens, revealing the Ark of the Covenant. A woman clothed with the sun, moon, and stars is about to give birth and is threatened by a dragon. She gives birth to a son who is taken to God. A war in heaven ensues, with Michael and his angels defeating the dragon, who is cast down to earth, along with his angels. A voice proclaims salvation, power, and the kingdom of God. The dragon persecutes the woman, who is given wings to escape. The dragon sends a flood after her."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Resurrection and Ascension of Two Witnesses",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The resurrection and ascension are positive events signifying divine power and hope. The fear it inspires is a reaction to the miraculous, not inherently negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Resurrection is a cause for joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Demonstrates God's power and trustworthiness."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "The event inspires fear in the beholders."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Resurrection is a surprising event."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minimal sadness, if any."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of further events."
+        }
+      }
+    },
+    {
+      "topic": "Earthquake and Destruction",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The earthquake and destruction are negative events, causing death and fear."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No joy is present."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minimal trust in the face of destruction."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The earthquake inspires great fear."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The earthquake is a surprising event."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Death and destruction cause sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Disgust at the devastation."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Anger at the destruction."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Anticipation of further events."
+        }
+      }
+    },
+    {
+      "topic": "God's Reign and Worship",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "The declaration of God's reign and the subsequent worship are overwhelmingly positive, signifying hope and divine authority."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The declaration of God's reign is a cause for joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Demonstrates God's power and trustworthiness."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minimal fear, replaced by reverence."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "Mild surprise at the unfolding events."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anticipation of the fulfillment of God's reign."
+        }
+      }
+    },
+    {
+      "topic": "The Woman, the Child, and the Dragon",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 90,
+        "reasoning": "This is a mixed polarity. The woman and child represent hope and divine purpose, while the dragon represents evil and threat. Overall, the threat is significant."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Hope associated with the woman and child."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Trust in the divine plan."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Fear of the dragon's power."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The appearance of the dragon is surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Sadness at the threat to the woman and child."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Disgust at the dragon's evil."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anger at the dragon's threat."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anticipation of the conflict between good and evil."
+        }
+      }
+    },
+    {
+      "topic": "War in Heaven and the Dragon's Fall",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 92,
+        "reasoning": "The war in heaven and the dragon's fall are ultimately positive, representing the triumph of good over evil, though the conflict itself involves negative elements."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Joy at the dragon's defeat."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Trust in the power of good to overcome evil."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Fear during the war."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Surprise at the events unfolding."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Minimal sadness, if any."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Disgust at the dragon's evil."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "Anger at the dragon's actions."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anticipation of the consequences of the dragon's fall."
+        }
+      }
+    },
+    {
+      "topic": "Persecution and Escape of the Woman",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 85,
+        "reasoning": "Mixed. The persecution is negative, but the escape is positive, offering hope and resilience."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Joy and relief at the woman's escape."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Trust in divine protection."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Fear of the dragon's continued pursuit."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Surprise at the events unfolding."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Sadness at the persecution."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Disgust at the dragon's actions."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Anger at the persecution."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anticipation of the final outcome."
+        }
+      }
+    }
+  ]
+}

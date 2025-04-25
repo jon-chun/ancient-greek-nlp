@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "113",
+    "segment_filename": "113_bible_ancient-greek.txt",
+    "text_identification": "This text appears to be from the New Testament, specifically 1 Corinthians chapter 12 and chapter 13.",
+    "text_summary": "This segment emphasizes the importance of unity and diversity within the body of Christ (the Church). It uses the analogy of the human body, where each part has a unique function and is essential for the overall health and well-being of the whole. The text highlights that no member should consider themselves superior or unnecessary. It stresses mutual care and shared suffering/joy among members. The passage then transitions into a discussion of spiritual gifts, emphasizing that while these gifts are valuable, love (agape) is the most important attribute. Love is described as patient, kind, selfless, and enduring, surpassing the significance of prophecy, knowledge, faith, or even self-sacrifice if it is lacking. The passage concludes by contrasting imperfect earthly knowledge with the perfect understanding that will come in the future, underscoring the eternal nature of love."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Body of Christ Analogy",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The analogy promotes unity and interdependence, which are viewed positively, resulting in a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "The unity and function described bring joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The analogy relies on trust in the design and purpose."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There is a slight fear of disunity or dysfunction."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The intricate design might inspire some surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Dysfunction brings sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of a healthy, functioning body."
+        }
+      }
+    },
+    {
+      "topic": "Spiritual Gifts",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "Spiritual gifts are presented as positive attributes given by God, but with a caution against pride, resulting in a moderately positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The gifts are meant to bring joy and benefit."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in God's provision of gifts."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Fear of misuse or pride."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The variety of gifts might surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Misuse causes sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Misuse can cause anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Anticipation of using gifts for good."
+        }
+      }
+    },
+    {
+      "topic": "The Supremacy of Love (Agape)",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "Love is presented as the most important virtue, surpassing all others, resulting in a very positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Love brings immense joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Love fosters deep trust."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Love casts out fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The power of love can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Lack of love brings sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Love is the opposite of disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Love is patient and not easily angered."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Love anticipates good things."
+        }
+      }
+    },
+    {
+      "topic": "Imperfect Knowledge vs. Perfect Knowledge",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "Acknowledging imperfection while anticipating perfection is ultimately positive, carrying hope, resulting in a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 60,
+          "reasoning": "Anticipation of perfect knowledge brings joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in the promise of future knowledge."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Fear of the unknown."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The nature of perfect knowledge is surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness over current imperfection."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Frustration over current imperfection."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Strong anticipation of perfect knowledge."
+        }
+      }
+    }
+  ]
+}

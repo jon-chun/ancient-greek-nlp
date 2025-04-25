@@ -1,0 +1,160 @@
+{
+  "segment_metadata": {
+    "segment_number": "10",
+    "segment_filename": "10_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from the Gospel of Mark.",
+    "text_summary": "This passage recounts two distinct episodes. First, Jesus sends his disciples ahead by boat and then walks on water to meet them during a storm. The disciples are frightened, mistaking him for a ghost, but Jesus reassures them. He joins them in the boat, and the wind ceases. The disciples are amazed, failing to understand the significance of the earlier miracle of the loaves. Second, after landing at Gennesaret, Jesus is recognized, and people bring the sick to him to be healed by touching his garment. The passage concludes with the Pharisees and scribes questioning why Jesus' disciples do not follow the tradition of washing their hands before eating. Jesus rebukes them, quoting Isaiah and accusing them of hypocrisy for prioritizing human traditions over God's commandments."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Jesus Walking on Water and Calming the Storm",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The event showcases Jesus' divine power and care, which is generally positive, but the disciples' fear introduces some negativity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Relief and joy after the storm subsides and Jesus calms them."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Jesus demonstrates his power and care for his disciples, inspiring trust."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The disciples are initially terrified by the sight of Jesus walking on water."
+        },
+        "Surprise": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The event is highly unexpected and miraculous."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The disciples' lack of understanding might induce a sense of disappointment."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal disgust associated with the situation."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal anger associated with the situation."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The disciples might anticipate Jesus' help, but also fear the storm."
+        }
+      }
+    },
+    {
+      "topic": "Healing the Sick at Gennesaret",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The healing of the sick is a positive event, reflecting Jesus' compassion and power."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The healing of the sick brings great joy and relief."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "People trust in Jesus' power to heal them."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Fear of sickness might be present."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The healings could be seen as surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness associated with the suffering of the sick."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal disgust associated with the situation."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal anger associated with the situation."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "People anticipate being healed by touching Jesus' garment."
+        }
+      }
+    },
+    {
+      "topic": "Conflict with Pharisees over Handwashing",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "This segment is negative due to the conflict and Jesus' rebuke of the Pharisees' hypocrisy."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal joy associated with the conflict."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Lack of trust in the Pharisees' motives."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Surprise at the Pharisees' rigid adherence to tradition."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Sadness at the Pharisees' hypocrisy."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Disgust at the Pharisees' hypocrisy and misplaced priorities."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Jesus expresses anger at the Pharisees' hypocrisy."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of conflict and Jesus' response."
+        }
+      }
+    }
+  ]
+}

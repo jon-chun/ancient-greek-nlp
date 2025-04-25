@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "12",
+    "segment_filename": "12_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from the Gospel of Mark.",
+    "text_summary": "This segment contains several distinct episodes. First, a woman's daughter is healed after Jesus initially hesitates, referencing feeding children first. Then, a deaf and mute man is healed by Jesus through a physical and spiritual act. Jesus instructs people to keep the miracle a secret, but they proclaim it even more. The text then describes Jesus feeding a large crowd of four thousand people with seven loaves of bread and a few fish, resulting in an abundance of leftovers. Finally, the Pharisees ask for a sign, which Jesus refuses to give, and he warns his disciples against the leaven of the Pharisees and Herod, which they initially misunderstand as a lack of bread. Jesus rebukes them for their lack of understanding."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Healing of the Woman's Daughter",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The healing is positive, but the initial hesitation introduces a slight conflict. Overall positive due to the eventual healing."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The healing brings joy to the woman and her daughter."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The woman trusts in Jesus' ability to heal."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There is initial fear about whether Jesus will help."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The healing itself can be seen as surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The initial illness brings sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is present in this event."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Possibly some frustration at the initial hesitation."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The woman anticipates a healing."
+        }
+      }
+    },
+    {
+      "topic": "Healing of the Deaf and Mute Man",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The healing is a positive event, restoring the man's ability to hear and speak."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The man's healing brings great joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The people trust in Jesus' power."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Possibly some fear related to the man's condition."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The healing is a surprising event."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The man's previous condition brought sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is present in this event."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is present in this event."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "People anticipate the man's healing."
+        }
+      }
+    },
+    {
+      "topic": "Feeding of the Four Thousand",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The feeding of the crowd is a positive event, demonstrating Jesus' compassion and power."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The people are joyful to be fed."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The people trust in Jesus to provide."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Possibly fear of hunger before the feeding."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The abundance of food is surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Possibly sadness related to hunger before the feeding."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is present in this event."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is present in this event."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The disciples anticipate how the crowd can be fed."
+        }
+      }
+    },
+    {
+      "topic": "Pharisees Requesting a Sign",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 85,
+        "reasoning": "The Pharisees' request is presented negatively as a test, and Jesus refuses, indicating a negative sentiment towards their motives."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Very little joy in this interaction."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Lack of trust between Jesus and the Pharisees."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Pharisees might fear Jesus' growing influence."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Jesus' refusal might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Jesus is saddened by their lack of faith."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Jesus might feel disgust towards their hypocrisy."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Jesus expresses frustration with their request."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Pharisees anticipate a sign from Jesus."
+        }
+      }
+    },
+    {
+      "topic": "Warning about the Leaven of the Pharisees and Herod",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "This is a warning, indicating a negative sentiment towards the influence of the Pharisees and Herod."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "There is no joy associated with this warning."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Lack of trust in the Pharisees and Herod."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "The warning implies a danger to be feared."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The disciples' misunderstanding might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The situation causes some concern."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Jesus might feel disgust towards their hypocrisy."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Jesus' frustration is evident in the warning."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The disciples need to anticipate the consequences of the leaven."
+        }
+      }
+    }
+  ]
+}

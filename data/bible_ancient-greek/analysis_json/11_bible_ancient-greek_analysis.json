@@ -1,0 +1,160 @@
+{
+  "segment_metadata": {
+    "segment_number": "11",
+    "segment_filename": "11_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the Gospel of Mark.",
+    "text_summary": "This segment from Mark recounts Jesus' teachings and interactions with the Pharisees and his disciples. He confronts the Pharisees for prioritizing their traditions over God's commandments, specifically regarding honoring parents. He uses the example of \"Corban\" (a dedicated offering) to illustrate how they circumvent the commandment to care for their parents. Jesus then teaches the crowd about true defilement, stating that it comes from within a person, from their evil thoughts and actions, rather than from external things. Later, Jesus travels to Tyre and Sidon, where he encounters a Syrophoenician woman who pleads for her daughter's healing. Initially hesitant, Jesus eventually heals her daughter after being moved by her faith and persistence."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Condemnation of Hypocrisy",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The passage strongly condemns the hypocrisy of the Pharisees, leading to a negative sentiment. The confidence is high due to the direct nature of the condemnation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is expressed in this condemnation."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Low trust due to the hypocrisy being exposed."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some fear might be present due to the consequences of their actions."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The condemnation might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Sadness because of the neglect and dishonoring of parents."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Disgust at the hypocrisy and manipulation of religious laws."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anger from Jesus towards the Pharisees' actions."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Little anticipation is present in this condemnation."
+        }
+      }
+    },
+    {
+      "topic": "True Defilement",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 80,
+        "reasoning": "This topic focuses on inner purity versus external rituals. While it exposes the negative aspects of human nature, the overall sentiment is more neutral as it is a teaching about understanding true defilement."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal joy, as the focus is on negative aspects."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some trust in the teaching itself."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Fear associated with the potential for evil within."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at the source of defilement being internal."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness related to the presence of evil thoughts."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Disgust at the evil thoughts and actions."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Anger at the presence of evil."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of inner purity."
+        }
+      }
+    },
+    {
+      "topic": "Healing of the Syrophoenician Woman's Daughter",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "This passage describes a miracle and demonstrates faith being rewarded, leading to a positive sentiment. The initial interaction is challenging, but the ultimate outcome is positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy at the healing of the daughter."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High trust in Jesus' power and the woman's faith."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear related to the daughter's affliction."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the initial hesitation and eventual healing."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness related to the daughter's suffering."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Minimal anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of healing and a positive outcome."
+        }
+      }
+    }
+  ]
+}

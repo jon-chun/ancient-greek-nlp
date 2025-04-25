@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "121",
+    "segment_filename": "121_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically 2 Corinthians, chapters 6 and 7.",
+    "text_summary": "This passage from 2 Corinthians expresses Paul's ministry and relationship with the Corinthian church. He describes the hardships and paradoxes of his ministry, emphasizing his genuine love and openness towards them. He urges them to reciprocate his affection and to separate themselves from unbelievers, highlighting the incompatibility of righteousness and lawlessness, light and darkness, Christ and Belial. He reminds them that they are the temple of the living God, and calls them to purify themselves from all defilement. Paul then expresses his joy at Titus's arrival and the positive response of the Corinthians to his previous letter, which caused them sorrow leading to repentance. He emphasizes that godly sorrow produces repentance leading to salvation. He rejoices in their eagerness, defense, indignation, fear, longing, zeal, and avengement, demonstrating their purity in the matter."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Paradoxes of Ministry",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The passage highlights the contradictions inherent in Paul's ministry, such as being sorrowful yet always rejoicing, poor yet making many rich. This creates a positive sentiment due to the perseverance and ultimate good."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Despite hardships, the underlying joy of serving God is present."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trust in God's power sustains the ministry through difficulties."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fear of failure or inadequacy is a potential element."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The unexpected challenges of ministry can bring surprise."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "The hardships and suffering involved evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "Disgust at the opposition and negativity encountered."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anger at injustice and opposition to the Gospel."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anticipation of God's continued provision and success in ministry."
+        }
+      }
+    },
+    {
+      "topic": "Exhortation to Separation from Unbelievers",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 80,
+        "reasoning": "This section carries a negative sentiment due to the strong warning against association with unbelievers and the emphasis on the incompatibility of righteousness and unrighteousness."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal joy, as the focus is on warning and separation."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust in God's judgment and wisdom in calling for separation."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Fear of being corrupted by association with unbelievers."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Low surprise, as the call to separation is a consistent theme."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Sadness over the potential for believers to be led astray."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Disgust at the unrighteousness and idolatry of unbelievers."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anger at the forces of evil that seek to corrupt believers."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Anticipation of the blessings that come from obedience and separation."
+        }
+      }
+    },
+    {
+      "topic": "Temple of the Living God",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "This section has a very positive sentiment due to the affirmation that believers are the temple of the living God and the promise of God's presence and fellowship."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Great joy at the indwelling presence of God."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Complete trust in God's promise to dwell with His people."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear, as the focus is on God's presence and protection."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low surprise, as this is a foundational truth."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 35,
+          "reasoning": "Minimal sadness, as the focus is on God's joy and presence."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No disgust, as the focus is on holiness and purity."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 25,
+          "reasoning": "No anger, as the focus is on God's love and acceptance."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Anticipation of continued fellowship and blessings from God."
+        }
+      }
+    },
+    {
+      "topic": "Godly Sorrow and Repentance",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "While sorrow is initially negative, the overall sentiment is positive due to the emphasis on godly sorrow leading to repentance and salvation, resulting in a positive transformation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Joy at the positive outcome of repentance and reconciliation."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Trust in God's grace and forgiveness through repentance."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Fear of the consequences of sin and the need for repentance."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 45,
+          "reasoning": "Surprise at the depth of transformation through repentance."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Sadness over past sins and the need for forgiveness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Disgust at the sin that caused the need for repentance."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "Anger at the forces of evil that lead to sin."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of a renewed relationship with God and a life of righteousness."
+        }
+      }
+    },
+    {
+      "topic": "Paul's Joy at the Corinthians' Response",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "This is highly positive, reflecting Paul's immense joy and encouragement at the Corinthians' positive reaction to his letter and their demonstration of repentance and zeal."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.95,
+          "confidence": 95,
+          "reasoning": "Overwhelming joy at the Corinthians' positive response."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Increased trust in the Corinthians' commitment to righteousness."
+        },
+        "Fear": {
+          "weight": 0.05,
+          "confidence": 30,
+          "reasoning": "Minimal fear, as the focus is on positive affirmation."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some surprise at the extent of the Corinthians' transformation."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal sadness, as the focus is on rejoicing."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "No disgust, as the focus is on purity and repentance."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 25,
+          "reasoning": "No anger, as the focus is on reconciliation and joy."
+        },
+        "Anticipation": {
+          "weight": 0.85,
+          "confidence": 90,
+          "reasoning": "Anticipation of continued growth and fellowship with the Corinthians."
+        }
+      }
+    }
+  ]
+}

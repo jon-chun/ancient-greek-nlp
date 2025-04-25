@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "106",
+    "segment_filename": "106_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely 1 Corinthians, chapters 1-3.",
+    "text_summary": "This passage emphasizes God's choice of the weak and foolish to shame the wise and strong, so that no one can boast before Him. It highlights that believers are in Christ Jesus, who became wisdom, righteousness, sanctification, and redemption for them. The apostle Paul describes his own approach to preaching the Gospel, focusing not on eloquent words but on the demonstration of the Spirit and power, so that faith rests on God's power, not human wisdom. The passage then delves into true wisdom, which is God's hidden wisdom, revealed through the Spirit, contrasting it with the wisdom of the world's rulers, who crucified the Lord of glory. It concludes by addressing the Corinthians' immaturity, their divisions based on allegiance to different leaders, and their carnality, emphasizing that they are still infants in Christ, needing milk rather than solid food."
+  },
+  "topic_analysis": [
+    {
+      "topic": "God's Choice of the Weak",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "God choosing the weak and foolish to shame the wise has a positive sentiment, as it demonstrates God's power and subverts worldly values. It also implies a sense of hope and empowerment for those who are considered insignificant by the world."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "God's choice brings joy to the marginalized."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Belief in God's wisdom and plan."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minimal fear, perhaps of misunderstanding God's plan."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Unexpected nature of God's selection."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "Slight sadness related to the world's devaluation of the weak."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal disgust towards worldly pride."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Some anger at the world's system of values."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Looking forward to God's ultimate purpose."
+        }
+      }
+    },
+    {
+      "topic": "Christ as Wisdom, Righteousness, Sanctification, and Redemption",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "This is a highly positive statement about Christ's role in salvation and spiritual growth. It represents the core of Christian belief and hope."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Joy at the gift of salvation and righteousness."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Complete trust in Christ's provision."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No fear, as Christ provides security."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Mild surprise at the extent of God's grace."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No sadness, as Christ overcomes sorrow."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No disgust, as Christ is pure and holy."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No anger, as Christ brings peace."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of eternal life and full redemption."
+        }
+      }
+    },
+    {
+      "topic": "Paul's Preaching Style",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "Paul's deliberate choice to avoid eloquent speech in favor of demonstrating the Spirit's power has a positive sentiment, as it emphasizes the importance of divine power over human skill."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Moderate joy in seeing God's power at work."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Strong trust in the Spirit's ability to convince."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Slight fear of being misunderstood."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Surprise at the unconventional preaching style."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 65,
+          "reasoning": "Minimal sadness about the limitations of human eloquence."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust, just a rejection of reliance on human skill."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Mild anger at those who rely on worldly wisdom."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of the Spirit's impact on believers."
+        }
+      }
+    },
+    {
+      "topic": "God's Hidden Wisdom",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 92,
+        "reasoning": "The concept of God's hidden wisdom, revealed through the Spirit, is positive, as it offers a deeper understanding of God's plan beyond worldly comprehension."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Joy in discovering deeper truths about God."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 97,
+          "reasoning": "Strong trust in God's perfect wisdom."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Slight fear of misunderstanding God's plan."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 88,
+          "reasoning": "Surprise at the hidden nature of God's wisdom."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 65,
+          "reasoning": "Minimal sadness about the limitations of worldly knowledge."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust, just a contrast with worldly wisdom."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Mild anger at the ignorance of worldly rulers."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of further revelation and understanding."
+        }
+      }
+    },
+    {
+      "topic": "The Corinthians' Immaturity",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "Addressing the Corinthians' immaturity and divisions has a negative sentiment, as it reflects a lack of spiritual growth and unity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Little joy, as their state is problematic."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Limited trust in their spiritual progress."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Some fear for their spiritual well-being."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Mild surprise at their slow growth."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Sadness at their lack of spiritual maturity."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Disgust at their carnality and divisions."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anger at their divisions and lack of unity."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Hope for their future growth."
+        }
+      }
+    }
+  ]
+}

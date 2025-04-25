@@ -1,0 +1,160 @@
+{
+  "segment_metadata": {
+    "segment_number": "97",
+    "segment_filename": "97_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from the book of Romans, specifically chapters 7 and 8.",
+    "text_summary": "This passage explores the internal conflict between the desire to follow God's law and the inability to do so due to the presence of sin. It describes the struggle of the human condition, where even with good intentions, individuals find themselves acting against their will. The passage highlights the power of sin dwelling within, leading to a sense of helplessness and despair. However, it transitions to a message of hope and liberation through Jesus Christ. It emphasizes that through Christ, believers are freed from the law of sin and death by the law of the Spirit of life. The passage also contrasts living according to the flesh (carnal nature) with living according to the Spirit, emphasizing that those led by the Spirit are children of God and will experience life and peace. It concludes by stating that if the Spirit of God dwells in believers, they will be resurrected to eternal life."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Struggle with Sin",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 95,
+        "reasoning": "The topic of internal conflict is generally negative due to the struggle and frustration it entails."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal joy is present in the struggle."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Limited trust in one's own ability."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The fear of failure and sin is significant."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The realization of internal conflict might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The struggle and frustration lead to sadness."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Disgust with one's own sinfulness."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at one's inability to overcome sin."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Some anticipation for resolution."
+        }
+      }
+    },
+    {
+      "topic": "Liberation through Christ",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "The concept of liberation through Christ is overwhelmingly positive, promising freedom from sin and death."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Freedom from sin brings immense joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in Christ's power to liberate."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Fear is diminished by the promise of liberation."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The transformative power of Christ may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Sadness is replaced by hope."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust with sin is lessened by forgiveness."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Anger is diminished by peace."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of eternal life and freedom."
+        }
+      }
+    },
+    {
+      "topic": "Flesh vs. Spirit",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 92,
+        "reasoning": "The contrast between living according to the flesh and the Spirit presents both negative (flesh) and positive (Spirit) aspects, but the emphasis on the Spirit leading to life and peace makes it overall positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The promise of life and peace brings joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in the Spirit's guidance."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of living according to the flesh."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The transformative power of the Spirit may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Sadness associated with the consequences of living according to the flesh."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Disgust with the desires of the flesh."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Frustration with the limitations of the flesh."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of the blessings of living according to the Spirit."
+        }
+      }
+    }
+  ]
+}

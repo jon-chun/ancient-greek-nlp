@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "187",
+    "segment_filename": "187_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the Book of Revelation in the New Testament.",
+    "text_summary": "This passage from Revelation describes a scene of worship and divine judgment. It begins with continuous praise of God, the Almighty, who was, is, and is to come. The living creatures give glory to God, prompting the elders to fall down in worship, casting their crowns before the throne. They declare God worthy to receive glory, honor, and power because He created all things. John sees a sealed book in God's right hand and a strong angel proclaims who is worthy to open it. John weeps because no one is found worthy, but one of the elders tells him that the Lion of Judah, the Root of David, has prevailed. John then sees a Lamb standing as though slain, with seven horns and seven eyes, who takes the book from God's right hand. The four living creatures and the twenty-four elders worship the Lamb, holding harps and bowls full of incense, which are the prayers of the saints. They sing a new song, declaring the Lamb worthy to take the book and open its seals because He was slain and has redeemed people from every tribe and nation to be a kingdom and priests to God. Angels proclaim the Lamb worthy of power, riches, wisdom, strength, honor, glory, and blessing. Every creature in heaven, on earth, and under the earth joins in praising God and the Lamb. The four living creatures say \"Amen,\" and the elders fall down and worship. The Lamb then opens one of the seven seals, and one of the four living creatures calls out, \"Come!\" A white horse appears, and its rider is given a crown and goes out conquering. When the second seal is opened, a red horse appears, and its rider is given power to take peace from the earth, so that people will kill each other. He is given a large sword. When the third seal is opened, a black horse appears, and its rider has a pair of scales in his hand. A voice announces a measure of wheat for a day's wages."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Worship of God",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The text describes continuous, fervent worship and praise of God, indicating a very positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The praise and adoration suggest a strong sense of joy in God's presence."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The worship implies complete trust and reliance on God's power and goodness."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "There is a sense of awe and reverence, which can include a small element of fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "While the worship is continuous, the specific manifestations of God's glory may bring moments of surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "There is no indication of sadness in the worship itself."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant in this context of pure worship."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not present in the act of worship."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The worship anticipates God's continued presence and blessings."
+        }
+      }
+    },
+    {
+      "topic": "Worthiness of the Lamb",
+      "sentiment_polarity": {
+        "score": 0.85,
+        "confidence": 90,
+        "reasoning": "The Lamb is declared worthy to open the seals and receive power, riches, wisdom, strength, honor, glory, and blessing. This indicates a very positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The recognition of the Lamb's worthiness brings joy and celebration."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The declaration of worthiness implies trust in the Lamb's ability and authority."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "A slight element of fear may be present due to the Lamb's power and role in judgment."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The revelation of the Lamb's worthiness and role may bring a sense of surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The Lamb's sacrifice may evoke a sense of sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not relevant in this context."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not present in the recognition of the Lamb's worthiness."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The declaration of worthiness anticipates the Lamb's future actions and reign."
+        }
+      }
+    },
+    {
+      "topic": "Opening of the Seals",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "The opening of the seals unleashes events of conquest, war, and famine, indicating a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is minimal joy associated with the opening of the seals, perhaps for those who believe it is part of a divine plan."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some may trust that these events are part of God's plan, but overall trust is diminished by the negative events."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The events of conquest, war, and famine evoke a strong sense of fear."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The sudden and dramatic events bring a sense of surprise."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The war and famine evoke sadness and grief."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The violence and suffering may evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The injustice and suffering may evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The opening of the seals creates anticipation of further events and judgment."
+        }
+      }
+    },
+    {
+      "topic": "John's Weeping",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "John's weeping because no one is found worthy to open the book clearly indicates a strong negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no joy associated with John's weeping."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "A small amount of trust might remain that a solution will be found."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear may be present regarding the consequences of the book remaining unopened."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise at the lack of anyone worthy."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "John's weeping is a clear indication of intense sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant in this context."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "A small amount of anger or frustration might be present."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "A small amount of anticipation remains that a solution will be found."
+        }
+      }
+    }
+  ]
+}

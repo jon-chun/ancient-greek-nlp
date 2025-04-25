@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "84",
+    "segment_filename": "84_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the Gospel of John, specifically chapters 16 and 17.",
+    "text_summary": "This passage contains Jesus's farewell discourse to his disciples before his crucifixion. He speaks of their coming sorrow turning to joy after he departs and promises that their prayers will be answered in his name. He explains that he has spoken in parables but will soon speak plainly about the Father. He emphasizes the Father's love for them because they have loved him and believed he came from God. Jesus then prays to the Father, glorifying him and requesting to be glorified in return. He highlights his work in revealing the Father to his disciples, emphasizing their obedience to God's word. Jesus prays not for the world, but for his disciples, asking the Father to protect them and keep them united, as he prepares to leave the world and return to the Father. He states that he has given them God's word and that the world hates them."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Sorrow Turning to Joy",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The passage speaks of sorrow being transformed into joy, leading to a positive sentiment due to the anticipation of happiness."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The primary emotion is joy due to the promise of future happiness."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The disciples place trust in Jesus's words and promises."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "There is some fear related to Jesus's departure."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The transformation of sorrow into joy could be seen as surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The initial sorrow is a significant emotion."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant to this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not relevant to this topic."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "There is anticipation of the promised joy."
+        }
+      }
+    },
+    {
+      "topic": "Prayer in Jesus's Name",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "This topic focuses on the power of prayer and the promise of answered prayers, which is inherently positive and hopeful."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Answered prayers bring joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Complete trust in the promise of answered prayers."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal fear, perhaps related to unanswered prayers."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The manner in which prayers are answered may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness, perhaps related to unanswered prayers."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant to this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not relevant to this topic."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of receiving what is asked for in prayer."
+        }
+      }
+    },
+    {
+      "topic": "Jesus's Relationship with the Father",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "The emphasis on the loving relationship between Jesus and the Father creates a strong positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The love between Father and Son brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Complete trust in the divine relationship."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Fear is not relevant to this topic."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The nature of the relationship may be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Sadness is not relevant to this topic."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant to this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not relevant to this topic."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of the fulfillment of the Father's plan."
+        }
+      }
+    },
+    {
+      "topic": "Jesus's Prayer for His Disciples",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Jesus's intercessory prayer for his disciples expresses love, care, and a desire for their protection and unity, which is a highly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The disciples' unity and protection bring joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in Jesus's prayer and the Father's protection."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear for the disciples' safety in the world."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The specific ways the disciples are protected may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sadness related to the challenges the disciples will face."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant to this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not relevant to this topic."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of the disciples' future and their role in spreading the message."
+        }
+      }
+    },
+    {
+      "topic": "The World's Hatred",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 80,
+        "reasoning": "The mention of the world's hatred introduces a negative element, contrasting with the positive themes of love and unity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal joy in this context."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Limited trust due to the negative influence of the world."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Significant fear related to the world's hatred."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The extent of the world's hatred may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Sadness related to the conflict between the disciples and the world."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Disgust at the world's rejection of God's word."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Anger at the injustice of the world's hatred."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation of future conflict and persecution."
+        }
+      }
+    }
+  ]
+}

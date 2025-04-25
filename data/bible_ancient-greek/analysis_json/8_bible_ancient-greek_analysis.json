@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "8",
+    "segment_filename": "8_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the Gospel of Mark.",
+    "text_summary": "This passage recounts Jesus' rejection in his hometown, where people questioned his origins despite his wisdom and miracles. Unable to perform many miracles there due to their lack of faith, he then sends out the twelve disciples in pairs, giving them authority over unclean spirits and instructing them to travel light, relying on hospitality. They preach repentance, cast out demons, and heal the sick. The passage then shifts to Herod's reaction to Jesus' growing fame, with some speculating that he is John the Baptist resurrected. The narrative then recounts how Herod had John imprisoned and ultimately beheaded at the request of Herodias' daughter, driven by Herodias' grudge against John for condemning her marriage to Herod."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Rejection in Hometown",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 90,
+        "reasoning": "The rejection of Jesus carries a negative sentiment due to the lack of acceptance and faith, but also highlights limitations placed on Jesus' power by disbelief."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no joy associated with rejection."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "The community lacks trust in Jesus."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Possible fear of change or the unknown."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise at his abilities despite his humble origins."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "Sadness at the missed opportunity for faith and healing."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Some may feel disgust at his perceived arrogance or disruption of social norms."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "The community's anger at Jesus for challenging their preconceptions."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal anticipation, as they are closed off to Jesus."
+        }
+      }
+    },
+    {
+      "topic": "Sending out the Twelve",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 95,
+        "reasoning": "This event is positive, involving empowerment and spreading the message. The instructions for simplicity add spiritual depth."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Joy at the opportunity to serve and spread the message."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in Jesus' authority and guidance."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some fear associated with the unknown and potential dangers."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Surprise at the power they are given."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation for the mission and its outcomes."
+        }
+      }
+    },
+    {
+      "topic": "Herod's Reaction and John the Baptist's Death",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 98,
+        "reasoning": "This section is predominantly negative due to the themes of imprisonment, beheading, and political intrigue."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy in this section."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Lack of trust, especially from Herodias towards John."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Herod's fear of John and the people's reaction."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Surprise at Herodias' vengefulness and the ease with which she gets John killed."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Sadness over John's unjust death."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Disgust at Herodias' manipulative behavior and Herod's weakness."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anger at the injustice and cruelty of John's execution."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some anticipation of the consequences of Herod's actions."
+        }
+      }
+    },
+    {
+      "topic": "Miracles and Healing",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "This is a positive topic, describing acts of healing and the casting out of demons, signifying restoration of health and spiritual well-being."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Joy associated with healing and freedom from demonic influence."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Trust in the power of Jesus and the disciples to heal."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Fear of the illnesses and demonic forces being overcome."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 60,
+          "reasoning": "Surprise at the miraculous nature of the healings."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Sadness for those who were sick or possessed before being healed."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Disgust at the demonic forces."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Anger at the forces causing suffering."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Anticipation for further healings and miracles."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "115",
+    "segment_filename": "115_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from one of Paul's letters to the Corinthian church, specifically dealing with the proper conduct of worship services.",
+    "text_summary": "This passage addresses the proper conduct of worship in the church. It emphasizes order and edification, discouraging chaotic displays of speaking in tongues without interpretation. Prophecy is encouraged, but it should be done in an orderly manner, allowing others to discern what is being said. Women are instructed to remain silent in church, seeking knowledge from their husbands at home. The passage also affirms the importance of the resurrection of Christ and the implications of its denial, highlighting that if Christ was not raised, then faith is in vain and believers are still in their sins. It concludes by urging believers to desire prophecy and not to forbid speaking in tongues, but to ensure that everything is done decently and in order. The passage also reiterates the core Gospel message: Christ died for our sins, was buried, and rose again."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Orderly Worship",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 95,
+        "reasoning": "Emphasizes structure and understanding, suggesting a positive view of organized worship."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Orderly worship can lead to joy through shared experience and understanding."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Order promotes trust in the process and the message."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Fear of chaos or misunderstanding if order is absent."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Surprise is not a prominent emotion here."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Sadness is not a prominent emotion here."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust at the thought of chaotic worship."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Anger at those who disrupt order."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of a meaningful and edifying worship experience."
+        }
+      }
+    },
+    {
+      "topic": "Speaking in Tongues and Prophecy",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 80,
+        "reasoning": "Balanced view, emphasizing interpretation for tongues and encouraging prophecy."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Speaking in tongues (with interpretation) and prophecy can bring joy."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Trust in the spiritual gifts and their proper use."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Fear of misuse or misunderstanding of these gifts."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The unpredictable nature of spiritual gifts can bring surprise."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Sadness if the gifts are not used properly."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Disgust at the misuse of spiritual gifts."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Anger at those who abuse these gifts."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of spiritual insight and edification through these gifts."
+        }
+      }
+    },
+    {
+      "topic": "Women's Silence in Church",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 75,
+        "reasoning": "Controversial topic; potential for negative interpretation as restrictive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Limited joy directly associated with this topic."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust in the authority of the instruction (from some perspectives)."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Fear of not adhering to the instruction."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Not much surprise associated with this."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sadness at the perceived restriction (from some perspectives)."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Disgust at the perceived inequality (from some perspectives)."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anger at the perceived injustice (from some perspectives)."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anticipation of understanding the rationale behind the instruction."
+        }
+      }
+    },
+    {
+      "topic": "Resurrection of Christ",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "Affirming the resurrection is highly positive and foundational."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The resurrection brings immense joy and hope."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in the truth of the resurrection and its implications."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Fear if the resurrection is not true (as discussed in the text)."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The miraculous nature of the resurrection can bring surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Sadness if the resurrection is denied."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust at the denial of the resurrection."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Anger at those who deny the resurrection."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Anticipation of eternal life and the fulfillment of God's promises."
+        }
+      }
+    },
+    {
+      "topic": "The Gospel Message",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 99,
+        "reasoning": "The message of Christ's death and resurrection for forgiveness is inherently positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The gospel brings immense joy and hope."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in the truth and power of the gospel."
+        },
+        "Fear": {
+          "weight": 0.05,
+          "confidence": 30,
+          "reasoning": "Minimal fear, perhaps fear of rejecting the gospel."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The transformative power of the gospel can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Sadness over the sins that necessitate the gospel."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust at sin and its consequences."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Anger at the forces of evil that oppose the gospel."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Anticipation of salvation and eternal life through the gospel."
+        }
+      }
+    }
+  ]
+}

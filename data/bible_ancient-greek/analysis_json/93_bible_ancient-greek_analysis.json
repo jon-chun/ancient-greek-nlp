@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "93",
+    "segment_filename": "93_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from the book of Romans, chapter 1, verses 20-32 and chapter 2, verses 1-11.",
+    "text_summary": "This passage describes the consequences of rejecting God and turning to idolatry and immorality. It argues that people are without excuse because God's existence is evident through creation. Those who reject God become vain in their thinking and darkened in their understanding, exchanging the glory of God for images of created things. This leads to God giving them over to their sinful desires, resulting in sexual immorality and other vices. The passage condemns those who practice such things and also those who approve of them. Furthermore, it warns against judging others, as those who judge are often guilty of the same sins. It emphasizes that God's judgment is based on truth and that He will repay each person according to their deeds, offering eternal life to those who seek Him through good works, but wrath and fury to those who are self-seeking and disobedient. God shows no partiality."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Rejection of God and Idolatry",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The passage condemns the rejection of God and embracing idolatry as a fundamental error and cause of moral decay."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is associated with rejecting God."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "A small amount of misplaced trust in idols might be inferred."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "The consequences of divine judgment evoke fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some might be surprised by the extent of God's judgment."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "The spiritual decay and separation from God cause sadness."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 92,
+          "reasoning": "Idolatry and its associated behaviors are presented as disgusting."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "God's anger is implied towards those who reject Him."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Anticipation of negative consequences."
+        }
+      }
+    },
+    {
+      "topic": "Immorality and Vices",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "The passage explicitly condemns immoral behaviors, viewing them as a consequence of rejecting God."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No joy is associated with immorality in this context."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No trust is associated with immorality."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 88,
+          "reasoning": "Fear of divine judgment and societal consequences."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Surprise at the extent of human depravity."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "Sadness over the moral decay of humanity."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Immoral acts are presented as inherently disgusting."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 92,
+          "reasoning": "Anger at the violation of moral principles."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation of negative consequences for immoral behavior."
+        }
+      }
+    },
+    {
+      "topic": "Divine Judgment and Justice",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "While justice is a positive concept, the *application* of divine judgment, especially the negative consequences for wrongdoing, carries a negative sentiment for those judged."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Joy for those who are vindicated, but minimal."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Trust in the fairness of God's judgment."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Fear of the consequences of divine judgment."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Surprise at the severity or extent of judgment."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness over the fate of those who are judged negatively."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Disgust at the actions that warrant judgment."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Divine anger and wrath as components of judgment."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anticipation of the coming judgment."
+        }
+      }
+    },
+    {
+      "topic": "God's Goodness and Patience",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "This aspect of the text emphasizes positive attributes of God, such as goodness, forbearance, and patience."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Joy at the realization of God's goodness."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's benevolent nature."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear given the context of goodness."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Surprise at the extent of God's patience."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness in this context."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No disgust is relevant."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No anger is relevant."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anticipation of positive outcomes due to God's goodness."
+        }
+      }
+    },
+    {
+      "topic": "Impartiality of God",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 92,
+        "reasoning": "The statement that God shows no partiality is generally viewed as a positive attribute, indicating fairness and justice."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Joy at the fairness of God's judgment."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's impartial nature."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Fear might arise if one is guilty, regardless of background."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Surprise that God treats everyone the same."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No disgust is relevant."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No anger is relevant."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of fair treatment."
+        }
+      }
+    }
+  ]
+}

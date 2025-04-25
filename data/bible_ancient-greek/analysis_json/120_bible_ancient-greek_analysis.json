@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "120",
+    "segment_filename": "120_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from one of Paul's letters, possibly 2 Corinthians, based on the themes and language.",
+    "text_summary": "This passage explores the contrast between the seen and unseen, the temporal and eternal. It speaks of earthly bodies being temporary dwellings that will be replaced by eternal, heavenly ones. There is a sense of longing for this heavenly dwelling and a desire to be clothed in immortality, escaping the burden of mortality. God has prepared believers for this transformation and given the Holy Spirit as a guarantee. The passage emphasizes living by faith, not by sight, and striving to please God. It highlights the coming judgment before Christ, where everyone will be judged for their deeds. The love of Christ compels believers to live for Him, who died and rose again for them. In Christ, there is a new creation, and God reconciles the world to Himself through Christ, entrusting believers with the ministry of reconciliation. Believers are urged to be reconciled to God and not receive His grace in vain, emphasizing the present opportunity for salvation. The passage concludes with a description of the hardships endured by ministers of God, showcasing their dedication and resilience in the face of adversity."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Contrast Between the Seen and Unseen",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "This topic presents a positive outlook because it contrasts temporary suffering with eternal glory. The unseen is portrayed as superior and more desirable."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The prospect of eternal life brings joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Faith in God's promise is central."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Uncertainty about the future may cause some fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The nature of the unseen is somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Acknowledging the temporary nature of earthly life brings some sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant to this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not relevant to this topic."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Eager expectation for the eternal realm."
+        }
+      }
+    },
+    {
+      "topic": "The Desire for a Heavenly Dwelling",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "This topic expresses a strong longing for something better, which is inherently positive from a spiritual perspective."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The anticipation of a heavenly dwelling brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Faith in God's promise of a heavenly dwelling."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Slight fear of the unknown."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The nature of the heavenly dwelling is somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sadness about the current earthly state."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant to this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not relevant to this topic."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Strong anticipation for the heavenly dwelling."
+        }
+      }
+    },
+    {
+      "topic": "Living by Faith, Not by Sight",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "This topic promotes a positive spiritual practice, emphasizing trust in God over reliance on sensory experience."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Joy derived from trusting in God's plan."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Central theme of trusting in God."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Some fear may arise from the unknown."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "God's ways can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Acknowledging the limitations of sight."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant to this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not relevant to this topic."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Expectation of God's guidance."
+        }
+      }
+    },
+    {
+      "topic": "The Coming Judgment Before Christ",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 80,
+        "reasoning": "This topic contains both positive and negative aspects. While judgment can be seen as negative, the idea of justice and accountability also carries a positive connotation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Limited joy in the context of judgment."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trust in God's just judgment."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear of being judged negatively."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Uncertainty about the outcome of judgment."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness about potential negative consequences."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust at the thought of sin."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Anger at injustice."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of the coming judgment."
+        }
+      }
+    },
+    {
+      "topic": "Reconciliation with God through Christ",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "This topic is highly positive, as it describes the restoration of a broken relationship with God."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy at being reconciled with God."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's plan of reconciliation."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Fear is largely absent due to reconciliation."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The depth of God's love can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Sadness about past separation from God."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Disgust is not relevant to this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Anger is not relevant to this topic."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of a renewed relationship with God."
+        }
+      }
+    },
+    {
+      "topic": "Hardships Endured by Ministers of God",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 70,
+        "reasoning": "This topic is somewhat negative due to the suffering described, but also positive because it highlights dedication and resilience."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Limited joy amidst suffering."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Trust in God's strength and support."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Fear of the dangers faced."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Unexpected challenges."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Sadness about the suffering endured."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Disgust at the source of suffering."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anger at injustice."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Hope for future reward."
+        }
+      }
+    }
+  ]
+}

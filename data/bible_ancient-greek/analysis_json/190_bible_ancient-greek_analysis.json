@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "190",
+    "segment_filename": "190_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the Book of Revelation in the New Testament, specifically chapters 10 and 11.",
+    "text_summary": "This segment describes an angel proclaiming the end of time and the fulfillment of God's mystery. John is instructed to eat a scroll, which tastes sweet but turns bitter in his stomach, symbolizing the mixed experience of prophecy. He is then commanded to prophesy again to many nations. A measuring reed is given to him to measure the temple, altar, and worshippers, excluding the outer court which is given to the Gentiles who will trample the holy city for 42 months. God will empower two witnesses to prophesy for 1260 days, clothed in sackcloth. These witnesses have great power, able to shut the sky, turn water to blood, and strike the earth with plagues. The beast from the abyss will wage war against them, kill them, and their bodies will lie in the street of the great city, spiritually called Sodom and Egypt, where their Lord was crucified. After three and a half days, they will be resurrected, causing joy among those who dwell on the earth."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Angel's Proclamation and Fulfillment of God's Mystery",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The proclamation of the end of time and the fulfillment of God's mystery carries a positive sentiment as it signifies the completion of God's plan."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The fulfillment of God's plan brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The faithful would trust in God's plan."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The end of time can also inspire fear."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The suddenness of the event can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some might feel sadness about the end of the world."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust is not a primary emotion in this context."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Anger is not a primary emotion in this context."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The proclamation creates anticipation for what is to come."
+        }
+      }
+    },
+    {
+      "topic": "John Eating the Scroll",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 80,
+        "reasoning": "The scroll being sweet and then bitter represents a mixed experience, making the sentiment neutral overall."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The initial sweetness evokes joy."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust in the message initially."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "A small amount of fear about the future."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The change from sweet to bitter is surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The bitterness evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The bitterness could also evoke some disgust."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "A small amount of anger at the change."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation for the meaning of the prophecy."
+        }
+      }
+    },
+    {
+      "topic": "Measuring the Temple and the Trampling of the Holy City",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "The measuring of the temple suggests preservation of the faithful, while the trampling of the holy city indicates suffering. Overall, it is slightly negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Joy for those within the temple."
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Trust in God's protection."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Fear for the fate of the holy city."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the events unfolding."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Sadness for the trampling of the holy city."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust at the actions of the Gentiles."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at the desecration of the holy city."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation for the outcome of these events."
+        }
+      }
+    },
+    {
+      "topic": "The Two Witnesses",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 80,
+        "reasoning": "The two witnesses prophesying and having power is positive, but their eventual death is negative. Overall, the sentiment is neutral."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Joy at their power and prophecy."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Trust in their message."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Fear of their power and the events they foretell."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at their abilities."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Sadness at their eventual death."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Disgust at the beast that kills them."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anger at their persecution."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "High anticipation for the impact of their ministry."
+        }
+      }
+    },
+    {
+      "topic": "The Beast's Victory and the Witnesses' Resurrection",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 90,
+        "reasoning": "The beast killing the witnesses is negative, but their resurrection is positive, creating a mixed sentiment that leans slightly positive due to the ultimate victory."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The resurrection brings great joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Trust in God's power to resurrect them."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Fear of the beast's power."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Surprise at the resurrection."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Sadness at their initial death."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Disgust at the beast's actions."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at the beast's persecution of the witnesses."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Anticipation for the final outcome and God's triumph."
+        }
+      }
+    }
+  ]
+}

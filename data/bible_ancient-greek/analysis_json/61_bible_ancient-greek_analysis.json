@@ -1,0 +1,460 @@
+{
+  "segment_metadata": {
+    "segment_number": "61",
+    "segment_filename": "61_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the Gospel of Luke in the New Testament, specifically the account of the crucifixion of Jesus.",
+    "text_summary": "This passage describes the events leading up to and including the crucifixion of Jesus. It begins with the crowd demanding Jesus' crucifixion over the release of a prisoner. Simon of Cyrene is forced to carry the cross. Jesus tells the weeping women of Jerusalem to weep for themselves and their children, prophesying future hardship. He is crucified between two criminals. The soldiers and rulers mock him. One criminal rebukes the other for blaspheming Jesus, and Jesus promises that criminal paradise. Darkness falls. Jesus cries out to God and dies. A centurion acknowledges Jesus' righteousness. Joseph of Arimathea requests Jesus' body and places it in a tomb. The women who followed Jesus from Galilee observe the burial. The passage emphasizes themes of injustice, suffering, divine forgiveness, and the promise of salvation."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Crowd's Demand for Crucifixion",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The crowd's demand for crucifixion is a negative event, driven by malice and injustice."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "The event is devoid of joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no trust in this situation."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "The injustice and violence are frightening."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The sudden shift in public opinion might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The unjust condemnation is deeply saddening."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The cruelty of the crowd is disgusting."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The injustice and violence are infuriating."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "There is little anticipation of a positive outcome."
+        }
+      }
+    },
+    {
+      "topic": "Simon of Cyrene Carrying the Cross",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "Being forced to carry the cross is a negative experience, representing suffering and humiliation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present in this event."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low trust in the situation."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The act could be fearful."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Unexpected event."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The act is sad."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some disgust at the cruelty."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Injustice evokes anger."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Little positive anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Words to the Weeping Women",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 75,
+        "reasoning": "Jesus' words are a warning of future suffering, a mix of compassion and prophecy."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Some trust in Jesus' words."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Warning of future suffering evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Prophecy can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The words are ultimately sad."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some anger at the future suffering."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Prophecy anticipates future events."
+        }
+      }
+    },
+    {
+      "topic": "The Crucifixion",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 99,
+        "reasoning": "Crucifixion is an act of extreme suffering and injustice, a deeply negative event."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "The event is devoid of joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "No trust is present."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The violence is terrifying."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "The event was anticipated by some."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 99,
+          "reasoning": "The suffering is deeply saddening."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The cruelty is disgusting."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 99,
+          "reasoning": "The injustice is infuriating."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal positive anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Forgiveness on the Cross",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Jesus' prayer for forgiveness is a positive act of compassion and love, even in the face of suffering."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "The act of forgiveness inspires spiritual joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The act is deeply trustworthy."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Unexpected forgiveness."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Some sadness remains."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Anger is lessened by forgiveness."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of redemption."
+        }
+      }
+    },
+    {
+      "topic": "The Criminal's Repentance and Jesus' Promise",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The criminal's repentance and Jesus' promise of paradise are positive events, offering hope and redemption."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The promise of paradise is joyful."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The promise is trustworthy."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No fear is present."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The sudden repentance might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Anticipation of paradise."
+        }
+      }
+    },
+    {
+      "topic": "Darkness and the Temple Veil Torn",
+      "sentiment_polarity": {
+        "score": -0.4,
+        "confidence": 80,
+        "reasoning": "The darkness and the tearing of the temple veil are ominous events, suggesting divine judgment and a change in the spiritual order."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some trust in divine will."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Ominous events evoke fear."
+        },
+        "Surprise": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Unexpected and dramatic events."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The events are ultimately sad."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Some anger at the injustice."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Anticipation of a new order."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Death and the Centurion's Acknowledgment",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 70,
+        "reasoning": "Jesus' death is a sad event, but the centurion's acknowledgment of his righteousness offers a glimmer of hope and validation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Acknowledgment offers some spiritual joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Acknowledgment is trustworthy."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Death evokes some fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The acknowledgment might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Death is inherently sad."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some anger at the injustice of the death."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation of vindication."
+        }
+      }
+    },
+    {
+      "topic": "The Burial of Jesus",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 75,
+        "reasoning": "The burial is a somber event, but Joseph's act of kindness is a positive gesture."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in Joseph's actions."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some fear associated with death."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Joseph's actions might be somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Burial is inherently sad."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation of what comes next."
+        }
+      }
+    }
+  ]
+}

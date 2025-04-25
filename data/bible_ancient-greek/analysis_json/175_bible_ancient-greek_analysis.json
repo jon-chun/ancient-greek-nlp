@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "175",
+    "segment_filename": "175_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely 2 Peter, based on the references to the transfiguration, prophetic word, false teachers, and judgment.",
+    "text_summary": "This passage discusses the reliability of the prophetic word, affirmed by the eyewitness account of the transfiguration. It warns against false teachers who will introduce destructive heresies and deny Christ, leading many astray and blaspheming the truth. Their judgment is certain. The text uses examples of God's judgment on fallen angels, the ancient world (Noah's flood), and Sodom and Gomorrah to illustrate the fate of the ungodly. It contrasts this with God's ability to rescue the righteous, like Noah and Lot. The passage condemns those who indulge in lust, despise authority, and blaspheme what they do not understand, comparing them to irrational animals destined for destruction. They are characterized by greed, deceit, and a pursuit of pleasure, leading others into sin."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Divine Affirmation and Prophetic Word",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The passage starts with God's affirmation of Jesus and the reliability of the prophetic word, which is generally positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The affirmation brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The emphasis on the reliability of the prophetic word inspires trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear is present."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The divine affirmation can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The prophetic word points to future events, creating anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Warning Against False Teachers",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "The warning against false teachers and their destructive heresies is negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No joy is associated with false teachers."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No trust is associated with false teachers."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The presence of false teachers evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The emergence of false teachers can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The presence of false teachers causes sadness."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "False teachings are disgusting."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "False teachers provoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The actions of false teachers will have future consequences, creating anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Divine Judgment",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The examples of divine judgment on fallen angels, the flood, and Sodom and Gomorrah are negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 5,
+          "reasoning": "No joy is present."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "There is a sense of trust in God's justice."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Divine judgment evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The scale of judgment can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Divine judgment is associated with sadness."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The sins that lead to judgment are disgusting."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Divine judgment stems from anger at sin."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Divine judgment is anticipated by unrighteous actions."
+        }
+      }
+    },
+    {
+      "topic": "Rescue of the Righteous",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The rescue of Noah and Lot is positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The rescue brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The rescue inspires trust in God's protection."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear is present."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The rescue can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "The rescue provides hope for future deliverance, creating anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Condemnation of the Ungodly",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "The condemnation of the ungodly for their lust, greed, and deceit is negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 5,
+          "reasoning": "No joy is present."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 5,
+          "reasoning": "No trust is present."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The fate of the ungodly evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The extent of their depravity can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Their fate is associated with sadness."
+        },
+        "Disgust": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Their actions are disgusting."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Their actions provoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Their actions lead to anticipated consequences."
+        }
+      }
+    }
+  ]
+}

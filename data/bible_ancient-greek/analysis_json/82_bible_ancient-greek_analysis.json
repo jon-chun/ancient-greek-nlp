@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "82",
+    "segment_filename": "82_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the Gospel of John.",
+    "text_summary": "This segment from the Gospel of John contains Jesus's farewell discourse to his disciples before his crucifixion. He emphasizes the importance of loving him and keeping his commandments. He promises to send the Holy Spirit (the Paraclete) to be with them forever, a spirit of truth that the world cannot receive. Jesus assures them that he will not leave them as orphans and that they will see him again after a short time. He speaks of the intimate relationship between himself, the Father, and his followers, emphasizing that those who love him will be loved by the Father and that he will reveal himself to them. Judas (not Iscariot) questions why Jesus will reveal himself to them and not the world. Jesus explains that those who love him will keep his word, and the Father will love them and dwell with them. He contrasts this with those who do not love him and do not keep his words. Jesus speaks of peace he leaves with them, a peace unlike the world's. He reminds them of his departure and return and encourages them not to be troubled or afraid. He states that he will not speak much longer because the ruler of the world is coming but has no power over him. He emphasizes his love for the Father and his obedience to his commands. He uses the metaphor of the vine and the branches to illustrate the importance of remaining in him to bear fruit, stating that apart from him, they can do nothing. He explains that if they remain in him and his words remain in them, they can ask for whatever they wish, and it will be done. He calls them friends if they do what he commands and states that no one has greater love than to lay down their life for their friends. He commands them to love one another as he has loved them."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Love and Obedience",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The emphasis on love and obedience to commandments suggests a positive sentiment, as these are presented as desirable qualities."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Love and obedience are associated with positive feelings and fulfillment."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Obedience implies trust in the authority figure (Jesus)."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There's a slight element of fear of displeasing the authority figure if one is disobedient."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Not particularly surprising in this context."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Possible sadness related to the difficulty of always being obedient."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not relevant here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not relevant here."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of the rewards of obedience and love."
+        }
+      }
+    },
+    {
+      "topic": "The Holy Spirit (Paraclete)",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The Holy Spirit is presented as a comforter and guide, suggesting a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The Holy Spirit brings comfort and joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The Holy Spirit is trustworthy and reliable."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No fear is directly associated with the Holy Spirit."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The coming of the Holy Spirit might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Very little sadness is associated with the Holy Spirit."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not relevant here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not relevant here."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of guidance and comfort from the Holy Spirit."
+        }
+      }
+    },
+    {
+      "topic": "Jesus's Departure and Return",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 85,
+        "reasoning": "The departure initially causes sadness, but the promise of return brings hope, resulting in a slightly positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Joy at the prospect of Jesus's return."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in Jesus's promise to return."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 80,
+          "reasoning": "Fear of being without Jesus during his absence."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Surprise at the nature of his departure and return."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Sadness at Jesus's departure."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not relevant here."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Possible anger at the circumstances of his departure."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Strong anticipation of Jesus's return."
+        }
+      }
+    },
+    {
+      "topic": "Relationship with the Father and Jesus",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 95,
+        "reasoning": "The emphasis on the intimate relationship between the Father, Jesus, and the believers suggests a very positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "The relationship brings immense joy and fulfillment."
+        },
+        "Trust": {
+          "weight": 0.95,
+          "confidence": 95,
+          "reasoning": "Complete trust in the Father and Jesus."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No fear in this loving relationship."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Surprise is not a major factor here."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No sadness in this loving relationship."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not relevant here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not relevant here."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of continued blessings and closeness with the Father and Jesus."
+        }
+      }
+    },
+    {
+      "topic": "The Vine and the Branches",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The metaphor of the vine and the branches, while containing elements of pruning (potentially painful), ultimately emphasizes growth and fruitfulness, suggesting a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Joy in bearing fruit and fulfilling one's purpose."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Trust in the vine (Jesus) to provide nourishment and support."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Fear of being pruned or cut off from the vine."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Surprise is not a major factor here."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Sadness related to the process of pruning."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not relevant here."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Possible anger at the pain of pruning."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of bearing abundant fruit."
+        }
+      }
+    },
+    {
+      "topic": "Peace",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The gift of peace is inherently positive and comforting."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Peace brings joy and contentment."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Accepting peace requires trust."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Peace eliminates fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Surprise is not a major factor here."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Peace eliminates sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not relevant here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Peace eliminates anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of continued peace and tranquility."
+        }
+      }
+    }
+  ]
+}

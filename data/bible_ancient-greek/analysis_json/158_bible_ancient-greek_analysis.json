@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "158",
+    "segment_filename": "158_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a combination of two sections from the New Testament. The first part seems to be from the end of the Epistle to Philemon, and the second part is from the beginning of the Epistle to the Hebrews.",
+    "text_summary": "The first part of the text (Philemon) deals with Paul's appeal to Philemon regarding Onesimus, a runaway slave who has become a Christian. Paul asks Philemon to receive Onesimus back as a brother in Christ, offering to pay any debt Onesimus may owe. He expresses confidence in Philemon's obedience and mentions his hope to visit him soon. He concludes with greetings from his companions. The second part (Hebrews) speaks of God's revelation through his Son, who is superior to angels. It describes the Son as the heir of all things, the creator of the universe, the radiance of God's glory, and the exact representation of his being. The text emphasizes the importance of heeding God's word and warns against neglecting salvation. It highlights the Son's exaltation and his future reign, contrasting him with the angels who are ministering spirits."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Forgiveness and Reconciliation (Philemon)",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is positive due to Paul's plea for forgiveness and reconciliation. The score is high because the text emphasizes love, acceptance, and restoration."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The hope for reconciliation and restoration generates joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Paul expresses trust in Philemon's character and willingness to forgive."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There's a slight element of fear that Philemon might reject Paul's request."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Philemon might be surprised by Paul's strong advocacy for Onesimus."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "The situation initially involves sadness due to the broken relationship between Philemon and Onesimus."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No element of disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No element of anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "There's anticipation for a positive outcome and restored relationship."
+        }
+      }
+    },
+    {
+      "topic": "Christ's Supremacy (Hebrews)",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "The sentiment is highly positive due to the exaltation of Christ and the emphasis on his divine nature and role in creation and salvation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The description of Christ's glory and power evokes joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The text inspires trust in Christ as the ultimate authority and savior."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "There's a slight element of fear associated with neglecting such a great salvation."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The magnitude of Christ's role and nature might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "The warning against neglecting salvation implies a potential for sadness if one rejects Christ."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No element of disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No element of anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "There's anticipation for Christ's future reign and the fulfillment of God's promises."
+        }
+      }
+    },
+    {
+      "topic": "Warning Against Neglecting Salvation (Hebrews)",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "The sentiment is slightly negative because it contains a warning. However, it aims for a positive outcome (salvation) by urging people to pay attention."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Little joy is present in the warning itself, but the ultimate goal is joyful salvation."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust in God's word is implicitly encouraged."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The primary emotion is fear of the consequences of neglecting salvation."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The severity of the consequences might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The potential loss of salvation evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No element of disgust is present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Slight anger at those who reject salvation might be implied."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of either salvation or judgment is present."
+        }
+      }
+    },
+    {
+      "topic": "Angels as Ministering Spirits (Hebrews)",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 85,
+        "reasoning": "The sentiment is neutral. It describes the role of angels without expressing strong positive or negative emotions."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "A slight sense of joy might be associated with the idea of divine assistance."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The description of angels as ministering spirits inspires trust in God's provision."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "A slight element of fear might be associated with powerful spiritual beings."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The nature of angels might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No element of sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No element of disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No element of anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "There's anticipation for the help that angels might provide."
+        }
+      }
+    }
+  ]
+}

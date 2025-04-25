@@ -1,0 +1,310 @@
+{
+  "segment_metadata": {
+    "segment_number": "45",
+    "segment_filename": "45_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from the Gospel of Luke.",
+    "text_summary": "This passage from the Gospels contains several teachings of Jesus. It begins with the parable of the rich fool who hoards his wealth and is rebuked by God. Jesus then instructs his disciples not to worry about material needs like food and clothing, pointing to the birds and lilies as examples of God's provision. He urges them to seek God's kingdom above all else and promises that their needs will be met. He encourages them not to fear, for the Father is pleased to give them the kingdom. He calls them to sell their possessions and give to the poor, storing up treasure in heaven. They are told to be ready for the Lord's return, like servants waiting for their master. The passage concludes with Jesus speaking about division and judgment, indicating that his coming will bring conflict and separation, and urging people to discern the signs of the times and reconcile with their adversaries. Finally, there is a brief account of Galileans being killed by Pilate."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Rich Fool and Materialism",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The parable highlights the negative consequences of prioritizing material wealth, leading to a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "The parable contains no element of joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There is a lack of trust in God's provision."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The fool's sudden death evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The suddenness of death is surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "The loss of life and wealth is sad."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "The greed of the fool is disgusting."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "There is anger at the fool's selfishness."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There is little anticipation of a positive outcome."
+        }
+      }
+    },
+    {
+      "topic": "Trust in God's Provision",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Jesus encourages his disciples to trust in God's care, indicating a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "There is joy in knowing God cares for them."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The passage emphasizes trust in God."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 90,
+          "reasoning": "The passage aims to reduce fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There is little surprise in this teaching."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "The passage aims to eliminate sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "There is no element of anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 80,
+          "reasoning": "There is anticipation of God's provision."
+        }
+      }
+    },
+    {
+      "topic": "Seeking God's Kingdom",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Prioritizing spiritual goals over material possessions is presented as positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Seeking God's kingdom brings joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "It involves trusting in God's promises."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "There is no fear in seeking God's kingdom."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There is little surprise in this teaching."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "The passage aims to eliminate sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "There is no element of anger."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "There is anticipation of blessings."
+        }
+      }
+    },
+    {
+      "topic": "Readiness for the Lord's Return",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 90,
+        "reasoning": "The parable emphasizes the importance of being prepared, suggesting a positive sentiment towards preparedness."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "There is joy in the prospect of the Lord's return."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "It involves trusting in the Lord's promises."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 85,
+          "reasoning": "There is fear of being unprepared."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The timing of the return is surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There is sadness at the prospect of judgment."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no element of disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "There is no element of anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "There is anticipation of the Lord's return."
+        }
+      }
+    },
+    {
+      "topic": "Division and Judgment",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The inherent conflict and separation suggest a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "The topic does not contain joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "The topic does not create trust."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The judgment creates fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 80,
+          "reasoning": "The division may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "The division causes sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "The topic may cause disgust at sin."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "The division may cause anger."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "There is some anticipation of the judgment."
+        }
+      }
+    },
+    {
+      "topic": "The Galileans Killed by Pilate",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The violence and injustice evoke a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "The topic does not contain joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 70,
+          "reasoning": "The topic does not create trust."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The violence creates fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The event may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The deaths cause sadness."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The violence may cause disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The injustice may cause anger."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There is little anticipation of a positive outcome."
+        }
+      }
+    }
+  ]
+}

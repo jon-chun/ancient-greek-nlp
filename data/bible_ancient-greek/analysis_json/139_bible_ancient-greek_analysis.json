@@ -1,0 +1,460 @@
+{
+  "segment_metadata": {
+    "segment_number": "139",
+    "segment_filename": "139_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from the book of Philippians.",
+    "text_summary": "This passage describes Christ's humility in becoming human, his obedience unto death on the cross, and his subsequent exaltation by God. It emphasizes that every knee should bow and every tongue confess that Jesus Christ is Lord, to the glory of God the Father. The passage then urges believers to work out their salvation with fear and trembling, acknowledging that God is at work within them. It encourages them to live blameless lives amidst a crooked generation, shining as lights in the world, holding fast to the word of life. The author expresses joy in their faith and hopes to send Timothy to them soon. He also plans to visit them himself. He praises Epaphroditus for his service and sacrifice. The passage concludes with a warning against false teachers and a declaration that true circumcision is spiritual worship, rejoicing in Christ Jesus, and not trusting in the flesh. The author then recounts his own impressive Jewish pedigree but considers it all loss compared to knowing Christ."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Overall Sentiment",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is positive due to the exaltation of Christ and the encouragement to believers."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The passage celebrates the exaltation of Christ and the joy of salvation."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The passage emphasizes trust in God's plan and Christ's sacrifice."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The call to work out salvation with 'fear and trembling' introduces an element of fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The unexpected nature of Christ's humility and exaltation evokes a small amount of surprise."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The mention of Christ's death on the cross brings a touch of sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The warning against false teachers might evoke a slight sense of disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Similar to disgust, the warning against false teachers can evoke a slight sense of anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The hope of sending Timothy and the author's own visit generates anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Christ's Humility and Obedience",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 90,
+        "reasoning": "The topic of Christ's humility and obedience unto death is a mix of sadness and reverence."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "There's a subdued joy in recognizing the purpose of Christ's sacrifice."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Christ's obedience inspires trust in God's plan."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The death on the cross evokes some fear and uncertainty."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The radical nature of Christ's humility is surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The suffering and death of Christ naturally evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "The act of crucifixion might evoke a small amount of disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "The injustice of Christ's suffering might evoke a small amount of anger."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The death is followed by resurrection, which brings anticipation of future glory."
+        }
+      }
+    },
+    {
+      "topic": "Exaltation of Christ",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The exaltation of Christ and confession of his Lordship is highly positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The exaltation of Christ is a cause for great joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The confession of Christ's Lordship reinforces trust in his authority."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal fear is present, perhaps a fear of not living up to the confession."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The magnitude of Christ's exaltation can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal sadness is present in this triumphant declaration."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The confession anticipates the ultimate fulfillment of God's plan."
+        }
+      }
+    },
+    {
+      "topic": "Working Out Salvation",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "The exhortation to work out salvation with fear and trembling is somewhat positive, focused on spiritual growth."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The process of working out salvation should bring joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's power is central to this exhortation."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "'Fear and trembling' are explicitly mentioned."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The challenges of spiritual growth can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The awareness of one's shortcomings might bring sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Disgust with one's own sin might be present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Frustration with one's own failures might bring anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The process is aimed at achieving ultimate salvation."
+        }
+      }
+    },
+    {
+      "topic": "Living Blameless Lives",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The description of living blameless lives and shining as lights is positive and aspirational."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Living a blameless life brings joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in God's guidance is essential."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal fear is present."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The positive impact on the world might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Disgust for the 'crooked generation' might be present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Anger at the wickedness of the world might be present."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The hope of influencing the world for good generates anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Author's Joy and Hope",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The author's joy in the believers' faith and hope for future visits is positive and encouraging."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The author expresses joy in the believers' faith."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in the believers' faithfulness is evident."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal fear is present."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal surprise is present."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The hope for future visits generates anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Warning Against False Teachers",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "The warning against false teachers is negative, highlighting the dangers they pose."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal joy is present."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Lack of trust in false teachers."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The danger of false teaching evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The deceptive nature of false teachers can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The harm caused by false teachers evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The corrupt nature of false teachers evokes disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The harm caused by false teachers evokes anger."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The need to be vigilant against false teaching generates some anticipation."
+        }
+      }
+    },
+    {
+      "topic": "True Circumcision",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "The declaration that true circumcision is spiritual worship is positive, emphasizing the importance of inward faith."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Spiritual worship brings joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God is central to true worship."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal fear is present."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The contrast with outward rituals might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Minimal sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Disgust for reliance on outward rituals might be present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Anger at legalistic approaches might be present."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The pursuit of true worship generates anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Past Achievements as Loss",
+      "sentiment_polarity": {
+        "score": 0.5,
+        "confidence": 80,
+        "reasoning": "The author's assessment of his own past achievements as loss for Christ is a mix of regret and ultimate gain."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The joy of knowing Christ outweighs the past loss."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in Christ's value is central to this assessment."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The initial loss might have evoked some fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The radical shift in perspective can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The loss of past achievements evokes some sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Disgust for reliance on past achievements might be present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Frustration with past misdirection might be present."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The focus is on future gain in Christ."
+        }
+      }
+    }
+  ]
+}

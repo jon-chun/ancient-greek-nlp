@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "94",
+    "segment_filename": "94_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from the book of Romans, specifically chapters 2 and 3, based on the themes of judgment, law, justification, and circumcision.",
+    "text_summary": "This passage discusses the relationship between Jews and Gentiles, law and faith, and circumcision and righteousness. It argues that merely possessing the law does not guarantee righteousness; rather, obedience to the law is what matters. Gentiles who naturally follow the law are, in effect, a law unto themselves. The passage condemns hypocrisy among Jews who boast in the law but violate it. It asserts that true Jewishness is not outward but inward, a matter of the heart. It emphasizes that all, both Jews and Gentiles, are under sin and that justification comes through faith in Jesus Christ, not through works of the law. It concludes by affirming that faith does not abolish the law but upholds it. Abraham's justification by faith before circumcision is presented as a model for Gentile believers."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Hypocrisy of Jews",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The passage condemns the hypocrisy of Jews who boast in the law but do not keep it, leading to God's name being blasphemed, indicating a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "There is no joy associated with hypocrisy and condemnation."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 80,
+          "reasoning": "The passage undermines trust in those who are hypocritical."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 85,
+          "reasoning": "Hypocrisy can lead to fear of judgment."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The exposure of hypocrisy can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 90,
+          "reasoning": "Hypocrisy leads to sadness and disappointment."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 95,
+          "reasoning": "Hypocrisy evokes a strong sense of disgust."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 92,
+          "reasoning": "Hypocrisy is likely to provoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There might be anticipation of consequences for hypocrisy."
+        }
+      }
+    },
+    {
+      "topic": "Law vs. Faith",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 80,
+        "reasoning": "The passage contrasts law and faith, ultimately emphasizing the importance of faith in achieving righteousness. Therefore, the sentiment is somewhat neutral but leans towards positive due to the emphasis on faith."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "The emphasis on faith brings a sense of hope and joy."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Faith inspires trust in God."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The limitations of the law might induce some fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "The shift from law to faith might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The limitations of the law might cause some sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is little disgust associated with this topic."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "There is little anger associated with this topic."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Faith leads to anticipation of salvation."
+        }
+      }
+    },
+    {
+      "topic": "Justification by Faith",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The passage presents justification by faith as a positive and liberating concept, offering salvation and righteousness through belief in Jesus Christ."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Justification by faith brings immense joy and relief."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "It fosters trust in God's grace and mercy."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Fear is minimized by the promise of salvation."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "It might be surprising to those accustomed to legalistic approaches."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Sadness is diminished by the hope of salvation."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "There is no disgust associated with this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "There is no anger associated with this topic."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 92,
+          "reasoning": "It inspires anticipation of eternal life."
+        }
+      }
+    },
+    {
+      "topic": "Circumcision and True Jewishness",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 75,
+        "reasoning": "The passage diminishes the importance of physical circumcision, arguing that true Jewishness is a matter of the heart and spirit. This suggests a neutral sentiment towards physical circumcision but a positive sentiment towards inner transformation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The emphasis on inner transformation brings a sense of joy."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "It encourages trust in spiritual values."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some might fear the abandonment of traditional practices."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The reinterpretation of Jewishness might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Some might feel sadness over the diminished importance of physical circumcision."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "There is minimal disgust associated with this topic."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some might feel anger at the reinterpretation."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "It inspires anticipation of spiritual growth."
+        }
+      }
+    },
+    {
+      "topic": "Universality of Sin",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The statement that \"all have sinned\" carries a negative sentiment, as it acknowledges the fallen state of humanity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "There is no joy in acknowledging universal sin."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Acknowledging sin might lead to a search for something to trust in."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The universality of sin can induce fear of judgment."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Some might be surprised by the extent of sin."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The recognition of universal sin leads to sadness and despair."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Sin can evoke a sense of disgust."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Some might feel anger at the pervasiveness of sin."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Acknowledging sin might lead to anticipation of redemption."
+        }
+      }
+    }
+  ]
+}

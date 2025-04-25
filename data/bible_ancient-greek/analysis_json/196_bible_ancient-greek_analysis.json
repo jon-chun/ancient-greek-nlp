@@ -1,0 +1,160 @@
+{
+  "segment_metadata": {
+    "segment_number": "196",
+    "segment_filename": "196_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the Book of Revelation in the New Testament, specifically dealing with the fall of Babylon.",
+    "text_summary": "This passage describes the judgment and destruction of Babylon, a symbol of worldly corruption and decadence. It details the lamentations of kings and merchants who profited from Babylon's wealth and power, now witnessing its demise. The passage highlights the suddenness and completeness of Babylon's downfall, emphasizing the loss of luxury, trade, and even human lives (\"souls of men\"). The text also includes a call for rejoicing in heaven over Babylon's destruction, as God has avenged His people. Finally, a mighty angel casts a large stone into the sea, symbolizing the irreversible and utter destruction of Babylon."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Destruction of Babylon",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The destruction of Babylon is portrayed as a just punishment for its sins, so the overall sentiment is negative towards Babylon and positive towards the divine justice being served. The score is negative to reflect the destruction, but not extremely negative because it is seen as righteous."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "There is a sense of triumph for the righteous, but it is tempered by the destruction."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Trust in God's judgment and justice."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear of God's power and the consequences of sin."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The suddenness of Babylon's fall is surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness over the loss of life and wealth."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Disgust at Babylon's corruption and wickedness."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at Babylon's oppression and injustice."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of God's final judgment and the establishment of His kingdom."
+        }
+      }
+    },
+    {
+      "topic": "Lamentations of Kings and Merchants",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 95,
+        "reasoning": "The lamentations of kings and merchants express sorrow and despair over the loss of Babylon's trade and wealth, indicating a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy is present in this lament."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "There is a lack of trust in the future."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Fear of economic ruin and loss of power."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The suddenness of the downfall is surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Profound sadness over the loss of wealth and trade."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some disgust at the circumstances leading to the downfall."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Anger at the forces causing Babylon's destruction."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Very little positive anticipation for the future."
+        }
+      }
+    },
+    {
+      "topic": "Rejoicing in Heaven",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "This expresses rejoicing in heaven over the destruction of Babylon, which represents a positive sentiment from the perspective of those who have been wronged by Babylon."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Great joy over the victory of good over evil."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's plan and justice."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal fear in this rejoicing."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Some surprise at the swiftness of the judgment."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal sadness in this rejoicing."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust here, only triumph over what was disgusting."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Some lingering anger at Babylon's wickedness."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of a new era of peace and justice."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "46",
+    "segment_filename": "46_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from the Gospel of Luke.",
+    "text_summary": "This passage contains several distinct teachings and narratives. First, Jesus warns about unexpected destruction and calls for repentance, using the example of the tower that fell in Siloam. He then tells the parable of the barren fig tree, illustrating God's patience and the need for fruitfulness. Next, Jesus heals a woman on the Sabbath, sparking controversy with a synagogue leader. Jesus defends his action by pointing out the hypocrisy of caring for animals on the Sabbath while neglecting a suffering human. Finally, Jesus uses the parables of the mustard seed and the yeast to describe the Kingdom of God. The passage concludes with a discussion about the narrow door to salvation, a warning against complacency, and a vision of the kingdom where the righteous are included and the unrighteous are excluded."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Warning of Destruction and Call to Repentance",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 90,
+        "reasoning": "The warning of destruction carries a negative sentiment, but the call to repentance offers a path to avoid it, creating a slightly negative overall sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal joy, potentially from the possibility of repentance."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some trust in the message to repent."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 95,
+          "reasoning": "Strong fear of destruction."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Unexpected nature of the destruction."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "Sadness related to the destruction itself."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Anticipation of potential salvation through repentance."
+        }
+      }
+    },
+    {
+      "topic": "Parable of the Barren Fig Tree",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 85,
+        "reasoning": "The parable highlights unfruitfulness and impending judgment, leading to a negative sentiment, but the gardener's plea introduces hope and patience."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal joy."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Trust in the gardener's intervention."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Fear of being cut down."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Slight surprise at the barrenness."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "Sadness related to unfruitfulness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal anger."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Anticipation of potential fruitfulness."
+        }
+      }
+    },
+    {
+      "topic": "Healing on the Sabbath and Confrontation",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 80,
+        "reasoning": "The healing is a positive act, but the confrontation introduces conflict and negativity, resulting in a slightly positive overall sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Joy at the woman's healing."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Trust in Jesus's power and compassion."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Fear of religious authority."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Surprise at the healing and the confrontation."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sadness at the woman's suffering."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust at the hypocrisy."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Anger at the leader's reaction."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anticipation of the outcome of the confrontation."
+        }
+      }
+    },
+    {
+      "topic": "Parables of the Mustard Seed and Yeast",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "These parables illustrate the expansive growth of the Kingdom of God from small beginnings, conveying a positive and hopeful sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy at the growth and potential of the Kingdom."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in God's plan for the Kingdom."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise at the unexpected growth."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of the Kingdom's future growth."
+        }
+      }
+    },
+    {
+      "topic": "The Narrow Door",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 80,
+        "reasoning": "The imagery of a narrow door and exclusion carries a mixed sentiment. The possibility of salvation is positive, but the warning of exclusion is negative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal joy, potentially for those who enter."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Trust in the process."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 90,
+          "reasoning": "Fear of being excluded."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Surprise at who is included or excluded."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 85,
+          "reasoning": "Sadness for those who are excluded."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Anticipation of entering the kingdom."
+        }
+      }
+    }
+  ]
+}

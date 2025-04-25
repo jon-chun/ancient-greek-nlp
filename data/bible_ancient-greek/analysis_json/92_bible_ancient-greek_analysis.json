@@ -1,0 +1,160 @@
+{
+  "segment_metadata": {
+    "segment_number": "92",
+    "segment_filename": "92_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the beginning of the Letter to the Romans.",
+    "text_summary": "This segment is the opening of Paul's letter to the Romans. He identifies himself as a servant and apostle of Jesus Christ, set apart for the gospel of God, which was promised through the prophets. He speaks of Jesus as the Son of God, descended from David according to the flesh and declared to be the Son of God by his resurrection. He emphasizes that through Jesus, he received grace and apostleship to bring about obedience of faith among all nations. He expresses his gratitude to God for the faith of the Roman believers, which is proclaimed throughout the world. He longs to visit them to impart spiritual gifts for their strengthening and mutual encouragement. Finally, Paul declares that he is not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, both Jew and Gentile, revealing God's righteousness through faith. The wrath of God is revealed against unrighteousness."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Paul's Apostleship and Gospel",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is positive due to the themes of grace, faith, salvation, and God's righteousness, but tempered by elements of warning."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The text speaks of grace and salvation, which evoke joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The emphasis on faith in Jesus Christ and God's promises inspires trust."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The mention of God's wrath introduces an element of fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The gospel is presented as a fulfillment of prophecy, minimizing surprise."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "The text acknowledges the unrighteousness of humanity, which can evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The condemnation of unrighteousness can elicit a sense of disgust."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The revelation of God's wrath implies anger towards sin."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Paul's desire to visit the Romans and impart spiritual gifts creates anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Jesus Christ as the Son of God",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "The identification of Jesus Christ as the Son of God and the source of salvation is a central tenet of Christian belief and carries a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The belief in salvation through Jesus brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Jesus is the foundation of faith and trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Fear is minimal, as Jesus offers redemption."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The concept of Jesus as the Son of God might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Sadness is minimal in this context."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "Disgust is not relevant here."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Anger is not a primary emotion in this context."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The promise of eternal life generates anticipation."
+        }
+      }
+    },
+    {
+      "topic": "God's Wrath Against Unrighteousness",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The concept of God's wrath being revealed against unrighteousness carries a negative sentiment, as it implies judgment and punishment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "Joy is absent in this context."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Trust is low due to the focus on judgment."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The threat of God's wrath evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The revelation of God's wrath might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The consequences of sin bring sadness."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Unrighteousness is viewed with disgust."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "God's wrath expresses anger towards sin."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "There is little anticipation in this context."
+        }
+      }
+    }
+  ]
+}

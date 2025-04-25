@@ -1,0 +1,410 @@
+{
+  "segment_metadata": {
+    "segment_number": "173",
+    "segment_filename": "173_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from 1 Peter, based on the themes of suffering, baptism, and the role of elders.",
+    "text_summary": "This passage discusses the suffering of Christ and its implications for believers. It emphasizes that suffering for doing good is preferable to suffering for doing evil, as Christ himself suffered for sins. The passage refers to Christ's preaching to spirits in prison, linking it to Noah's ark and baptism as a symbol of salvation. Believers are encouraged to live according to God's will rather than human desires, having already spent enough time indulging in worldly passions. Judgment is coming for both the living and the dead, and even the gospel was preached to the dead so they might live according to God in the spirit. The end of all things is near, so believers should be sober-minded, loving, and hospitable. They should use their gifts to serve one another, glorifying God through Jesus Christ. They should not be surprised by fiery trials but rejoice in sharing Christ's sufferings. Suffering as a Christian should not bring shame but lead to glorifying God. Judgment begins with God's household, and the righteous are barely saved. Therefore, those who suffer according to God's will should entrust their souls to him in doing good. Elders are exhorted to shepherd the flock willingly, not for selfish gain, and to be examples to the flock. Younger men should submit to elders, and all should clothe themselves with humility. God opposes the proud but gives grace to the humble. They should humble themselves under God's hand, casting their anxieties on him because he cares for them. They are to be sober and watchful because the devil seeks to devour them. They should resist him, firm in their faith, knowing that their brothers throughout the world are undergoing the same kinds of suffering."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Suffering for Righteousness",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 95,
+        "reasoning": "The text clearly states that suffering for doing good is preferable, indicating a positive value judgment. The suffering is seen as a pathway to glory."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "While suffering isn't joyful, the text hints at future joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The passage encourages trust in God during suffering."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 85,
+          "reasoning": "Suffering naturally evokes fear, but the text seeks to lessen it."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The text prepares believers for suffering, reducing surprise."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Suffering involves loss and hardship, leading to sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 75,
+          "reasoning": "The suffering isn't presented as morally repulsive."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The focus is on enduring rather than resisting with anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The passage anticipates future glory and reward."
+        }
+      }
+    },
+    {
+      "topic": "Christ's Sacrifice and Atonement",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "The sacrifice of Christ is presented as a positive act of atonement, bringing salvation to believers."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Christ's sacrifice brings salvation and joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "It's the ultimate act of trust and faithfulness."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The focus is on victory over sin and death."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The magnitude of the sacrifice can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "It involves Christ's suffering and death."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 65,
+          "reasoning": "It's a holy act, not repulsive."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The focus is on love and forgiveness."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "It anticipates eternal life and union with God."
+        }
+      }
+    },
+    {
+      "topic": "Baptism as Salvation",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Baptism is presented as a positive symbol of salvation and a cleansing from sin."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Baptism is a cause for celebration and new life."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "It signifies trust in God's promise of salvation."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "It's a step away from sin and towards safety."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "It's a planned and deliberate act."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "It signifies the end of a sinful life."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "It's a cleansing from sin."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "It's an act of submission to God."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "It anticipates a new life in Christ."
+        }
+      }
+    },
+    {
+      "topic": "Living According to God's Will",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The text encourages believers to live according to God's will, which is presented as a positive and desirable way of life."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Living according to God's will brings inner peace and joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "It requires trusting in God's guidance."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "It promises security and protection."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "It's a conscious and deliberate choice."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "It leads to fulfillment and purpose."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "It avoids sinful and repulsive behaviors."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "It promotes love and forgiveness."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "It anticipates eternal life and rewards."
+        }
+      }
+    },
+    {
+      "topic": "Judgment and Accountability",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 85,
+        "reasoning": "The mention of judgment implies both positive and negative aspects, but the overall tone is serious and cautionary."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Judgment can be a source of anxiety, limiting joy."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Believers trust in God's justice, providing some comfort."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Judgment involves potential punishment, inducing fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The timing and nature of judgment are uncertain, causing surprise."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Judgment involves loss and separation, leading to sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Judgment involves condemning wickedness, evoking disgust."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Judgment is God's prerogative, limiting human anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Judgment anticipates the final outcome, creating anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Love and Hospitality",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The text emphasizes the importance of love and hospitality, which are inherently positive and beneficial."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Love and hospitality create positive emotions, increasing joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "They build relationships and foster trust, strengthening bonds."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "They promote safety and security, reducing fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "They are intentional acts of kindness, limiting surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "They alleviate suffering and loneliness, decreasing sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "They are morally virtuous, eliminating disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "They promote peace and harmony, suppressing anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "They anticipate positive outcomes and relationships, increasing anticipation."
+        }
+      }
+    },
+    {
+      "topic": "The Devil as Adversary",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "The devil is presented as a negative force, an adversary seeking to harm believers."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "The devil is a source of negativity, eliminating joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 40,
+          "reasoning": "The devil is deceptive and untrustworthy, destroying trust."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The devil is a dangerous enemy, inducing intense fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The devil's tactics can be unexpected, causing surprise."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The devil causes suffering and loss, leading to sadness."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The devil is morally repulsive, evoking disgust."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The devil provokes righteous anger, inciting anger."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "The devil's goals are destructive, limiting positive anticipation."
+        }
+      }
+    },
+    {
+      "topic": "Humility and Submission",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "Humility and submission are presented as positive virtues, pleasing to God and leading to grace."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Humility leads to inner peace and contentment."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "It involves trusting in God's plan."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "It promotes security and protection."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "It's a conscious choice, not unexpected."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 55,
+          "reasoning": "It avoids pride and arrogance, decreasing sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "It is morally virtuous, eliminating disgust."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "It promotes peace and harmony, suppressing anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "It anticipates God's favor and reward."
+        }
+      }
+    }
+  ]
+}

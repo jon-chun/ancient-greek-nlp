@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "65",
+    "segment_filename": "65_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the Gospel of John (chapters 2 and 3).",
+    "text_summary": "This segment recounts several episodes in the life of Jesus. It begins with the wedding at Cana, where Jesus transforms water into wine, demonstrating his power and initiating his public ministry. He then travels to Capernaum and subsequently goes to Jerusalem for Passover. In the temple, he drives out merchants and money changers, declaring it a house of prayer, not commerce. This act prompts questions about his authority, and he alludes to his resurrection. The passage then describes Jesus' encounter with Nicodemus, a Pharisee, at night. Jesus teaches Nicodemus about the necessity of being \"born again\" through water and the Spirit to enter the kingdom of God. He speaks of his own role as the Son of Man who must be lifted up, like Moses lifted up the serpent, so that those who believe in him may have eternal life. The text emphasizes God's love for the world, demonstrated by sending his Son, not to condemn the world, but to save it. It concludes with Jesus and his disciples going to Judea to baptize."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Overall Sentiment of the Text",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is positive due to the miracles, teachings about salvation, and God's love."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The miracle at Cana and the promise of eternal life evoke joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The miracles and teachings inspire trust in Jesus and God."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The mention of judgment introduces an element of fear."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "The miracles and the unexpected teachings bring surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There is minimal sadness, perhaps a subtle sense of the world's fallen state."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The cleansing of the temple evokes a sense of disgust at the corruption."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Jesus' anger at the temple merchants is evident."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The teachings about the kingdom of God create anticipation."
+        }
+      }
+    },
+    {
+      "topic": "The Wedding at Cana",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The wedding at Cana is a joyous event, and the miracle enhances the positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The miracle of turning water into wine is a source of great joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The miracle inspires trust in Jesus' power."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 50,
+          "reasoning": "No fear is apparent in this event."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The unexpected nature of the miracle generates surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 50,
+          "reasoning": "No sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 50,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 50,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The miracle hints at future events and the coming kingdom."
+        }
+      }
+    },
+    {
+      "topic": "The Cleansing of the Temple",
+      "sentiment_polarity": {
+        "score": 0.2,
+        "confidence": 85,
+        "reasoning": "The cleansing of the temple involves righteous anger and a sense of justice, but also disruption."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal joy is present."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Trust in Jesus' authority is present."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear among those being driven out is possible."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The sudden action of Jesus is surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sadness at the corruption of the temple is possible."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The corruption in the temple evokes disgust."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Jesus' anger at the merchants is evident."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Anticipation of a purified temple is present."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Dialogue with Nicodemus",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 90,
+        "reasoning": "Jesus' dialogue with Nicodemus is profound and hopeful, but also challenging."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The promise of eternal life brings joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in Jesus' teachings is crucial."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Fear of not understanding or accepting the teachings is possible."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The concept of being \"born again\" is surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 50,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 50,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of the kingdom of God is present."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "90",
+    "segment_filename": "90_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the Gospel of John, chapter 21.",
+    "text_summary": "This passage recounts Jesus appearing to his disciples after his resurrection at the Sea of Tiberias. The disciples, including Peter, are fishing without success. Jesus instructs them to cast their net on the right side of the boat, resulting in a miraculous catch. John recognizes Jesus, and Peter jumps into the water to reach him. They share a meal of fish and bread. Afterward, Jesus questions Peter three times about his love, commissioning him to \"feed my lambs\" and \"tend my sheep,\" foreshadowing Peter's future role as a leader. The passage concludes with a discussion about the disciple John's future, with Jesus implying that it is not Peter's concern. The overall theme is the restoration of Peter, reaffirmation of his faith, and the calling to service, alongside the mystery of God's plan for each individual."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Jesus' Post-Resurrection Appearance",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The appearance of Jesus after resurrection is a positive event, confirming his victory over death and offering hope to his followers."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The resurrection brings immense joy and relief."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "It reinforces trust in Jesus and his promises."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Initial fear might be present but quickly diminishes."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The unexpected appearance creates surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Any lingering sadness is overshadowed by joy."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "It generates anticipation for what's to come."
+        }
+      }
+    },
+    {
+      "topic": "Miraculous Catch of Fish",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The miraculous catch symbolizes God's provision and power, indicating divine favor."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The abundance brings joy and satisfaction."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "It strengthens trust in God's ability to provide."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Minimal fear, perhaps initial disbelief."
+        },
+        "Surprise": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The unexpected abundance is surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Anticipation for the meaning and purpose of the miracle."
+        }
+      }
+    },
+    {
+      "topic": "Peter's Restoration and Commission",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Jesus' questioning and commissioning of Peter signifies forgiveness and renewed purpose, a positive transformation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Peter experiences joy in being forgiven and recommissioned."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Peter's trust in Jesus is reaffirmed."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "Fear of failure might linger."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Perhaps surprise at the manner of restoration."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Peter feels sadness and remorse for his past denial."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No anger is present."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation for his future role and responsibilities."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Conversation about John's Future",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 80,
+        "reasoning": "While not inherently negative, the conversation about John's future introduces an element of mystery and acceptance of God's will, which is neutral to slightly positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some joy in accepting God's plan."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in God's plan, even if unclear."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of the unknown future."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Surprise at the unexpected nature of God's plan."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Slight sadness at the uncertainty."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "No disgust is present."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Possible slight resentment from Peter."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation for the unfolding of God's plan."
+        }
+      }
+    }
+  ]
+}

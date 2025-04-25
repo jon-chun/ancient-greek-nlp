@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "165",
+    "segment_filename": "165_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the book of Hebrews, chapter 11. It discusses faith and highlights examples of faithful individuals from the Old Testament.",
+    "text_summary": "This passage from Hebrews 11 focuses on the theme of faith, illustrating its power through examples of Old Testament figures. It speaks of those who sought a heavenly country, for whom God prepared a city. It then recounts the acts of faith performed by Abraham (offering Isaac), Isaac (blessing Jacob and Esau), Jacob (blessing Joseph's sons), Joseph (prophesying about the exodus), Moses (being hidden as a baby and later rejecting Pharaoh's daughter), and the Israelites (observing the Passover and crossing the Red Sea). The passage continues by mentioning the fall of Jericho and Rahab's salvation. Finally, it lists many other faithful individuals who conquered kingdoms, worked righteousness, and endured various trials, all sustained by their faith. These individuals, though commended for their faith, did not receive the promised reward in their lifetime, as God had planned something better for believers in the future, so that they might be perfected together. The passage concludes by encouraging the readers to run the race of faith with perseverance, looking to Jesus, the author and finisher of their faith."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Seeking a Heavenly Country",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The concept of seeking a heavenly country is inherently positive, representing hope and a better future with God."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The idea of a heavenly country evokes joy and happiness at the prospect of eternal life with God."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Seeking a heavenly country implies a deep trust in God's promises and provision."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There may be a slight fear of the unknown, but it is overshadowed by hope."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The nature of the heavenly country may hold some element of surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "There might be a hint of sadness associated with leaving earthly life."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is associated with this concept."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is associated with this concept."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The pursuit of a heavenly country is filled with anticipation and eagerness."
+        }
+      }
+    },
+    {
+      "topic": "Abraham's Offering of Isaac",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "While the act of offering a child is inherently negative, the context of demonstrating faith in God's command adds a layer of positivity related to obedience and trust. Ultimately, it is positive because God intervened."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "There is a small element of joy in God's ultimate provision and promise."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Abraham's act is primarily driven by trust in God."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The act itself would have been terrifying and filled with fear."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "God's intervention would have been a great surprise."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The potential loss of Isaac would have been deeply saddening."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Some may find the idea of human sacrifice distasteful."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Some may feel anger towards the demand for such a sacrifice."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Abraham likely had some anticipation of God's intervention or plan."
+        }
+      }
+    },
+    {
+      "topic": "Faith of Old Testament Figures",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 90,
+        "reasoning": "The overarching theme is positive, highlighting the power and benefits of faith. It celebrates the actions and achievements of faithful individuals."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The stories of triumph and deliverance evoke joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Faith is the central theme, emphasizing trust in God."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Many of these figures faced fearful situations."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Some of the events involved unexpected outcomes."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Some figures experienced hardship and suffering."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Some of the actions described may be morally questionable to some."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Some figures may have experienced anger towards injustice."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Faith involves anticipating God's promises."
+        }
+      }
+    },
+    {
+      "topic": "Perseverance in Faith",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "Perseverance is a positive attribute, representing strength, resilience, and commitment to God."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The ultimate reward of perseverance brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Perseverance requires unwavering trust in God."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Overcoming fear is part of perseverance."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Life's challenges can bring unexpected surprises."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Perseverance often involves enduring sadness and hardship."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is associated with this concept."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Perseverance may involve overcoming anger and frustration."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Perseverance is fueled by anticipating the reward."
+        }
+      }
+    },
+    {
+      "topic": "Jesus as the Author and Finisher of Faith",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "This statement is highly positive, emphasizing Jesus' central role in faith and salvation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Jesus' role brings immense joy and hope."
+        },
+        "Trust": {
+          "weight": 0.95,
+          "confidence": 98,
+          "reasoning": "Jesus is the ultimate object of trust."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No fear is associated with this concept."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The nature of Jesus' divinity may hold some element of surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Remembering Jesus' sacrifice may bring some sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is associated with this concept."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is associated with this concept."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Jesus' role inspires anticipation of eternal life."
+        }
+      }
+    }
+  ]
+}

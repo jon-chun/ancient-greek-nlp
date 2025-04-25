@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "194",
+    "segment_filename": "194_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the Book of Revelation in the New Testament.",
+    "text_summary": "This segment from Revelation describes a series of apocalyptic events. Angels are commanded to reap the earth, both in terms of a harvest and a grape harvest, which results in a great winepress of God's wrath, filled with blood. Following this, seven angels appear with seven plagues, signifying the completion of God's wrath. The scene shifts to those victorious over the beast praising God. Then, the temple opens, and angels emerge with vials of God's wrath, which they pour onto the earth, causing sores, the sea turning to blood, rivers turning to blood, scorching heat, darkness, and the drying up of the Euphrates. Unclean spirits gather the kings for battle at Armageddon. The seventh angel pours his vial into the air, causing a great earthquake, the destruction of cities, and a great hailstorm."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The Reaping of the Earth",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "The reaping is an act of divine judgment, suggesting a negative sentiment, but it is also part of God's plan."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy is associated with this destructive event."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Trust in divine plan, but with fear."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The reaping is a terrifying event."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Sudden and unexpected from a human perspective."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Loss of life and destruction of the earth."
+        },
+        "Disgust": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The violence and bloodshed are repulsive."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Divine wrath being executed."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Awaited event in prophecy."
+        }
+      }
+    },
+    {
+      "topic": "The Vials of Wrath",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 95,
+        "reasoning": "The pouring out of vials filled with God's wrath is inherently negative, signifying divine punishment and destruction."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy is present in this act of divine punishment."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Trust in divine justice, but overshadowed by fear."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The wrath of God is a terrifying concept."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The specific manifestations of wrath might be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The suffering and loss caused by the plagues."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The plagues are often described in repulsive terms (sores, blood)."
+        },
+        "Anger": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The vials represent God's anger."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Awaited judgment, but with dread."
+        }
+      }
+    },
+    {
+      "topic": "The Victory Over the Beast",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "This topic represents a positive outcome amidst the chaos, signifying hope and triumph over evil."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Triumph and celebration of victory."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's power and protection."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Residual fear of the beast's power."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Unexpected deliverance."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Memories of past suffering."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Repulsion towards the beast and its actions."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Righteous anger towards the beast."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Hope for a better future after the victory."
+        }
+      }
+    },
+    {
+      "topic": "Armageddon",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 90,
+        "reasoning": "Armageddon represents the final battle between good and evil, a conflict of immense scale and consequence, suggesting a negative sentiment due to the impending destruction."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No joy associated with the final battle."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust in God's ultimate victory, but with trepidation."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "The scale and consequences of the battle are terrifying."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Unpredictable events during the battle."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Loss of life and destruction."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Repulsion towards evil and its manifestations."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Righteous anger towards the forces of evil."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Awaited climax of the conflict."
+        }
+      }
+    }
+  ]
+}

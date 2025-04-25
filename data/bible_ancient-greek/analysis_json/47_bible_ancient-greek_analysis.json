@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "47",
+    "segment_filename": "47_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from the Gospel of Luke.",
+    "text_summary": "This passage contains several distinct episodes and teachings. It begins with a warning to Jesus about Herod's desire to kill him, followed by Jesus's declaration of his mission and destiny. He laments over Jerusalem's rejection of him and prophecies its desolation. The scene shifts to Jesus healing a man with dropsy on the Sabbath, followed by a parable about humility at a banquet. Finally, Jesus instructs on whom to invite to a feast, emphasizing the importance of inviting the poor and marginalized rather than those who can reciprocate. The overarching themes include divine purpose, rejection, healing, humility, and the importance of serving the less fortunate."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Overall Passage",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 80,
+        "reasoning": "The passage presents a mix of positive (healing, humility) and negative (threat of death, lament over Jerusalem) elements. A slightly positive score reflects the ultimate message of hope and divine purpose."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Present due to the healing and the promise of reward for humility, but tempered by the surrounding negative elements."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High due to the divine authority of Jesus and the overall religious context."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Present due to the threat from Herod and the prophecy of Jerusalem's destruction."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Lower, as the events, while significant, are presented within a framework of divine plan."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Significant due to the lament over Jerusalem and the rejection of Jesus."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Low, potentially directed towards the hypocrisy of some religious leaders."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "Moderate, possibly directed towards Herod and the rejection by Jerusalem."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Present due to the prophecies and the unfolding of Jesus's mission."
+        }
+      }
+    },
+    {
+      "topic": "Healing Miracle",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The healing miracle is a positive event, demonstrating compassion and divine power."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Strong sense of joy associated with healing and restoration."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High trust in the power and compassion of Jesus."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Low, potential fear of the unknown or repercussions from religious authorities."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Surprise at the miraculous nature of the healing."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Low, some empathy for the suffering of the person being healed."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Very low, potential disgust at the disease itself."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 25,
+          "reasoning": "Very low, potential anger at the cause of the person's suffering."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation of further miracles and the spread of healing."
+        }
+      }
+    },
+    {
+      "topic": "Parable of Humility",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "The parable about humility emphasizes the positive value of humility and the negative consequences of pride."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Joy associated with the eventual reward and recognition for humility."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the wisdom and truth of the parable's message."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Fear of shame and humiliation if one acts pridefully."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Lower, as the message is more about wisdom than unexpected events."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Sadness associated with the potential for shame and the consequences of pride."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "Low, potential disgust at the arrogance of pride."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 25,
+          "reasoning": "Very low, potential anger at those who are prideful."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of the reward and recognition for practicing humility."
+        }
+      }
+    },
+    {
+      "topic": "Inviting the Poor",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The instruction to invite the poor and marginalized is a positive message of compassion and social justice."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong sense of joy associated with acts of compassion and generosity."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High trust in the goodness and righteousness of the teaching."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Very low, potential fear of societal disapproval."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 30,
+          "reasoning": "Low, as the message aligns with core religious values."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Low, some empathy for the suffering of the poor and marginalized."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Very low, potential disgust at societal inequality."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 25,
+          "reasoning": "Very low, potential anger at those who neglect the poor and marginalized."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of the reward and blessings for acts of compassion."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "159",
+    "segment_filename": "159_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the book of Hebrews, chapters 2 and 3.",
+    "text_summary": "This passage discusses the superiority of Jesus Christ over angels and Moses. It emphasizes Jesus's suffering and death as a means of salvation for humanity, highlighting his role as a merciful and faithful high priest who atones for the sins of the people. The text also warns against hardening one's heart and disobeying God, referencing the Israelites' failure to enter God's rest due to their unbelief in the wilderness. It encourages believers to persevere in faith and to encourage one another daily to avoid being hardened by sin. The passage concludes by emphasizing the importance of listening to God's voice and maintaining steadfastness in faith to the end."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Jesus's Humiliation and Exaltation",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 95,
+        "reasoning": "The passage describes Jesus's suffering and death but also his glorification. It's a mix of negative and positive, but the ultimate message is positive due to the exaltation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The exaltation and glorification of Jesus evoke joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Jesus's faithfulness and role as high priest inspire trust."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The suffering and death of Jesus evoke some fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The paradoxical nature of humiliation leading to exaltation can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The suffering and death of Jesus evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Disgust is not directly present, but the idea of sin requiring atonement might indirectly relate."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Anger isn't a primary emotion, but the injustice of suffering could evoke a small amount."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The exaltation of Jesus anticipates future glory and salvation."
+        }
+      }
+    },
+    {
+      "topic": "Jesus as High Priest and Atonement for Sins",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 98,
+        "reasoning": "This topic is largely positive. Jesus's role as high priest implies forgiveness and reconciliation, leading to a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Atonement and forgiveness bring joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The role of high priest inspires immense trust."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The need for atonement implies a fear of divine judgment."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The concept of atonement might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The recognition of sin evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 55,
+          "reasoning": "Sin itself can be seen as disgusting."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 45,
+          "reasoning": "Anger is not a primary emotion here."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Atonement anticipates future reconciliation and salvation."
+        }
+      }
+    },
+    {
+      "topic": "Warning Against Unbelief and Hardening Hearts",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "This topic is negative due to the warning against unbelief and the consequences of disobedience."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "There is very little joy in this warning."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Lack of trust in God is the core issue."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The consequences of unbelief inspire fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The possibility of falling away might be surprising to some."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The failure to enter God's rest evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Disgust at sin and disobedience."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "God's anger towards disobedience is implied."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The anticipation is negative - the anticipation of punishment."
+        }
+      }
+    },
+    {
+      "topic": "Perseverance in Faith and Encouragement",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "This topic is positive, emphasizing the need for perseverance and mutual encouragement."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Perseverance leads to joy and reward."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in God is essential for perseverance."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The fear of falling away motivates perseverance."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Surprise is not a major emotion here."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Sadness is not a major emotion here."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Disgust is not a major emotion here."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Anger is not a major emotion here."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Perseverance anticipates future reward and salvation."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "segment_metadata": {
+    "segment_number": "184",
+    "segment_filename": "184_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the Book of Revelation in the New Testament.",
+    "text_summary": "This passage from Revelation describes a vision of Jesus Christ in his glorified state, dictating messages to be sent to seven churches in Asia Minor: Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea. The vision includes descriptions of Christ's appearance, emphasizing his power and authority. Each church receives a specific message, often containing both commendation for their faithfulness and rebuke for their shortcomings. The messages include warnings, calls to repentance, and promises to those who overcome. The passage also alludes to spiritual warfare and the ultimate victory of good over evil. The messages to the churches address issues such as false apostles, persecution, idolatry, and spiritual apathy, offering encouragement and guidance for believers."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Divine Revelation and Authority",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 95,
+        "reasoning": "The overall sentiment is positive due to the presence of divine messages, promises of reward, and calls to repentance leading to salvation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The promises of rewards and eternal life evoke joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The messages come from a divine source, inspiring trust."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The warnings and threats of judgment instill fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The visions and revelations contain elements of surprise."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "Rebuke and acknowledgement of suffering bring sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Rebuke of evil practices and false teachings."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Rebuke of evil practices and false teachings."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The messages outline future events and the coming judgment."
+        }
+      }
+    },
+    {
+      "topic": "Vision of Christ",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The description of Christ's appearance is awe-inspiring and powerful, evoking reverence and respect."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The glorious appearance of Christ evokes joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The vision inspires trust in Christ's power and authority."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The awe-inspiring nature of the vision can also induce fear."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The dramatic and unusual imagery creates surprise."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Not particularly relevant to this topic."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 60,
+          "reasoning": "Not particularly relevant to this topic."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 60,
+          "reasoning": "Not particularly relevant to this topic."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The vision foreshadows future events and Christ's return."
+        }
+      }
+    },
+    {
+      "topic": "Messages to the Churches",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 85,
+        "reasoning": "The messages to the churches are a mix of positive and negative sentiments, but are overall slightly positive due to the hope for repentance and restoration."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The promises of reward and salvation bring joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The messages come from a divine source."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The warnings of judgment instill fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "The specific rebukes and commendations can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The rebukes and acknowledgement of suffering bring sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Rebuke of evil practices and false teachings."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 55,
+          "reasoning": "Rebuke of evil practices and false teachings."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The messages outline future events and consequences."
+        }
+      }
+    }
+  ]
+}

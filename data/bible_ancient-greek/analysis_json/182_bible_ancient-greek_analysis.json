@@ -1,0 +1,160 @@
+{
+  "segment_metadata": {
+    "segment_number": "182",
+    "segment_filename": "182_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from the epistles of John and Jude. The references to antichrists, warnings against false teachers, and emphasis on love and truth align with the themes found in those letters. The mention of Gaius also suggests 3 John.",
+    "text_summary": "This passage warns against those who deny Jesus Christ and spread false teachings, urging believers to remain steadfast in the truth. It emphasizes the importance of showing hospitality to those who uphold sound doctrine while avoiding those who promote error. The text also highlights the value of truth, love, and mutual support within the Christian community. It criticizes individuals like Diotrephes who seek prominence and reject those who uphold the true faith. Furthermore, it encourages believers to emulate good examples and avoid evil, reminding them that God rewards righteousness and judges wickedness. The text concludes with greetings and a call to remain faithful to the teachings of Christ."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Warning against False Teachers",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 80,
+        "reasoning": "The sentiment is mixed due to the balance of warnings and affirmations of truth."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Joy is present in the context of fellowship and truth."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "High trust is placed in the true teachings and fellow believers."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Fear is evoked by the presence of false teachers and their potential influence."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise might arise from the actions of individuals like Diotrephes."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 65,
+          "reasoning": "Sadness stems from the rejection of truth and the division caused by false teachers."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Disgust is directed towards the actions and teachings of those who deviate from the truth."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "Anger is expressed towards those who actively oppose the truth and harm the community."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation is present in the hope for future fellowship and the ultimate triumph of truth."
+        }
+      }
+    },
+    {
+      "topic": "Love and Fellowship",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The sentiment is positive, reflecting love, encouragement, and blessings."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy is expressed through love and fellowship."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "High trust is placed in God and fellow believers."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear is present."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal surprise is present."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal sadness is present."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "Disgust is not a prominent emotion."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 30,
+          "reasoning": "Anger is not a prominent emotion."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation for future meetings and blessings."
+        }
+      }
+    },
+    {
+      "topic": "Judgment against Ungodliness",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 85,
+        "reasoning": "The sentiment is negative, focusing on warnings and judgment against those who deny Christ."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "Joy is absent in this context."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal trust is present."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "High fear is evoked by the warnings of judgment."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at the actions of those who deny Christ."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness over the rejection of Christ."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Disgust towards the actions of the ungodly."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger towards those who deny Christ."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Minimal anticipation in this context."
+        }
+      }
+    }
+  ]
+}

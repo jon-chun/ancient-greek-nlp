@@ -1,0 +1,410 @@
+{
+  "segment_metadata": {
+    "segment_number": "29",
+    "segment_filename": "29_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically the Gospel of Luke, chapters 2.",
+    "text_summary": "This passage recounts the birth of Jesus Christ. An angel announces to shepherds the birth of the savior in Bethlehem. The shepherds find baby Jesus in a manger, as foretold. They spread the word, and all who hear are amazed. Mary treasures these events. The shepherds return glorifying God. The passage also describes Jesus' circumcision and presentation at the temple in Jerusalem. Simeon and Anna, righteous individuals, recognize Jesus as the Messiah. Simeon blesses Jesus and prophesies about his destiny. Anna also speaks about Jesus to those awaiting redemption. Finally, it describes Jesus's childhood and a visit to Jerusalem when he was twelve years old, where he astounds the teachers with his understanding."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Announcement of Jesus' Birth to Shepherds",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The announcement of Jesus' birth is a joyful and positive event, signifying hope and salvation. Therefore, a high positive score is appropriate."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The announcement brings great joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The shepherds trust the angelic message."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Initial fear at the sight of the angel."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The appearance of an angel is surprising."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No sadness is apparent in this event."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is apparent in this event."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is apparent in this event."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of the Messiah's arrival."
+        }
+      }
+    },
+    {
+      "topic": "Shepherds' Visit and Witness",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The shepherds finding Jesus and sharing the news is a positive and faith-affirming event."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy at seeing the newborn Messiah."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in the divine message and its fulfillment."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No fear is apparent in this event."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Surprise at the confirmation of the prophecy."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No sadness is apparent in this event."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is apparent in this event."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is apparent in this event."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of the impact of this event."
+        }
+      }
+    },
+    {
+      "topic": "Mary's Reflection",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "Mary's contemplation is a thoughtful and reverent act, suggesting a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Joy at the birth of her son."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in God's plan."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Some fear regarding the future."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at the unfolding events."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some sadness, perhaps foreseeing future suffering."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is apparent in this event."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is apparent in this event."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation about Jesus' future."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Circumcision and Naming",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 80,
+        "reasoning": "This is a religiously significant event, marking Jesus' entry into the Jewish covenant. It is generally positive within its religious context."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Joy associated with religious tradition."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Trust in the religious covenant."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No fear is apparent in this event."
+        },
+        "Surprise": {
+          "weight": 0.0,
+          "confidence": 70,
+          "reasoning": "No surprise is apparent in this event."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No sadness is apparent in this event."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is apparent in this event."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is apparent in this event."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation of Jesus' future role."
+        }
+      }
+    },
+    {
+      "topic": "Presentation at the Temple and Recognition by Simeon",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Simeon's recognition of Jesus as the Messiah and his prophecy are highly positive and hopeful."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Joy at seeing the Messiah."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's promises."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Simeon's prophecy hints at future suffering."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise at the manifestation of God's plan."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Simeon's prophecy hints at future suffering."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is apparent in this event."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is apparent in this event."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of salvation and redemption."
+        }
+      }
+    },
+    {
+      "topic": "Anna's Prophecy",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Anna's prophecy and praise of God are positive and hopeful."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy at the prospect of redemption."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's plan for salvation."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 70,
+          "reasoning": "No fear is apparent in this event."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Surprise at seeing God's plan unfold."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No sadness is apparent in this event."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is apparent in this event."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is apparent in this event."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Anticipation of the redemption of Jerusalem."
+        }
+      }
+    },
+    {
+      "topic": "Jesus' Growth and Wisdom",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Jesus' growth in wisdom and favor is a positive development."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Joy at seeing Jesus' positive development."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in God's plan for Jesus."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No fear is apparent in this event."
+        },
+        "Surprise": {
+          "weight": 0.0,
+          "confidence": 70,
+          "reasoning": "No surprise is apparent in this event."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No sadness is apparent in this event."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is apparent in this event."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is apparent in this event."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of Jesus' future ministry."
+        }
+      }
+    },
+    {
+      "topic": "Jesus in the Temple at Age Twelve",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "Jesus' wisdom and understanding are impressive, and the overall tone is positive, despite the initial worry of his parents."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Joy at Jesus' wisdom and understanding."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Trust in Jesus' divine purpose."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Initial fear and worry of Jesus' parents."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Surprise at Jesus' profound understanding."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness and worry of Jesus' parents."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No disgust is apparent in this event."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "No anger is apparent in this event."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Anticipation of Jesus' future role and ministry."
+        }
+      }
+    }
+  ]
+}

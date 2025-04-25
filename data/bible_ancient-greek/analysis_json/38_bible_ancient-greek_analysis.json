@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "38",
+    "segment_filename": "38_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from one of the Gospels (Matthew, Mark, Luke).",
+    "text_summary": "This passage contains several distinct episodes. First, Jesus redefines his family as those who hear and do the word of God. Then, Jesus calms a storm on a lake, questioning his disciples' faith. Next, Jesus heals a demon-possessed man in the region of the Gerasenes, casting the demons into a herd of pigs that rush into a lake and drown. The healed man wishes to follow Jesus, but Jesus sends him back to his home to proclaim what God has done for him. Finally, Jesus returns and is met by a crowd. Jairus, a synagogue leader, pleads with Jesus to heal his dying daughter. On the way, a woman with a hemorrhage is healed by touching Jesus' cloak. Jesus acknowledges her faith. News arrives that Jairus' daughter has died, but Jesus encourages Jairus to believe, and he proceeds to Jairus' house to raise the girl from the dead."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Redefining Family",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 80,
+        "reasoning": "This teaching emphasizes spiritual connection over blood ties, which can be seen as positive and transformative."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "There's a sense of fulfillment in belonging to a spiritual family."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "This teaching encourages trust in a new form of kinship."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Could be fear of abandoning traditional family structures."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The redefinition of family is unexpected."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Potential sadness for those who feel disconnected from their biological families."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not applicable here."
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Possible anger from those who disagree with this teaching."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation for the benefits of belonging to this new family."
+        }
+      }
+    },
+    {
+      "topic": "Calming the Storm",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 85,
+        "reasoning": "This event showcases Jesus' power and authority over nature, which is ultimately a positive demonstration of divine power. However, the disciples' initial fear introduces a negative element."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Relief and joy after the storm is calmed."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The event should inspire trust in Jesus' power."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The storm initially evokes strong fear in the disciples."
+        },
+        "Surprise": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The sudden calming of the storm is surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not applicable here."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Possible anger at the disciples' lack of faith."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation of future protection."
+        }
+      }
+    },
+    {
+      "topic": "Healing the Demon-Possessed Man",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The healing of the man is a positive event, representing liberation and restoration. However, the initial state of the man and the destruction of the pigs introduce negative elements."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy for the man's healing and liberation."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Trust in Jesus' power to heal."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Fear of the demonic and the unknown."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The dramatic nature of the healing is surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness for the man's previous suffering."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust at the man's condition and the fate of the pigs."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Possible anger at the demons."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of a better life for the healed man."
+        }
+      }
+    },
+    {
+      "topic": "Healing the Woman with Hemorrhage",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The healing of the woman is a very positive event, demonstrating faith and divine power."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Immense joy for the woman's healing."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong trust in Jesus' healing power."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Fear of being discovered."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The suddenness of the healing is surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Sadness for her previous suffering."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not applicable here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not applicable here."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of a normal life."
+        }
+      }
+    },
+    {
+      "topic": "Raising Jairus' Daughter",
+      "sentiment_polarity": {
+        "score": 0.95,
+        "confidence": 98,
+        "reasoning": "This is a powerful demonstration of Jesus' divine power over death, resulting in a very positive outcome."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Overwhelming joy at the girl's resurrection."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Complete trust in Jesus' power."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Initial fear of death."
+        },
+        "Surprise": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The resurrection is incredibly surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Intense sadness before the resurrection."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not applicable here."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not applicable here."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Hope for the girl's recovery."
+        }
+      }
+    }
+  ]
+}

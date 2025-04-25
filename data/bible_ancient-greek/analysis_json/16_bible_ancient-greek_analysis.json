@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "16",
+    "segment_filename": "16_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, specifically the Gospel of Mark.",
+    "text_summary": "This segment contains several distinct episodes. First, a blind man is healed by Jesus after repeatedly calling out to him as the \"Son of David.\" Jesus asks what he wants, and the blind man asks for his sight. Jesus heals him, attributing it to the man's faith. Next, Jesus and his disciples approach Jerusalem, near Bethphage and Bethany, at the Mount of Olives. He sends two disciples to find a colt that has never been ridden and bring it to him. He instructs them on what to say if questioned. The disciples find the colt, and people question them, but they respond as instructed. They bring the colt to Jesus, place their garments on it, and Jesus rides into Jerusalem. People spread their garments and branches on the road, hailing him as the one who comes in the name of the Lord, blessing the coming kingdom of David. Jesus then enters the temple and looks around before leaving to Bethany with the twelve. The next day, on their way back from Bethany, Jesus curses a fig tree because it has leaves but no fruit. He then enters the temple again and drives out those selling and buying, overturning tables and chairs, and preventing people from carrying merchandise through the temple. He teaches that the temple should be a house of prayer for all nations, but they have made it a den of robbers. The chief priests and scribes seek to destroy him. Finally, the disciples notice the withered fig tree, and Peter points it out. Jesus tells them to have faith in God, stating that they can move mountains if they believe."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Healing of the Blind Man",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The healing of the blind man is a positive event, demonstrating Jesus's power and compassion."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The healing brings joy to the blind man and those who witness it."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The blind man's faith and the disciples' obedience show trust in Jesus."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 70,
+          "reasoning": "Some may fear the power displayed by Jesus."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The sudden healing is surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The blind man's former state might evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is apparent in this section."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is apparent in this section."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The healing creates anticipation of further miracles."
+        }
+      }
+    },
+    {
+      "topic": "Triumphal Entry into Jerusalem",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "Jesus's entry into Jerusalem is a triumphal event, filled with hope and expectation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The crowd's celebration indicates joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The people trust in Jesus as the Messiah."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Some may fear the political implications."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "The triumphal entry might be unexpected."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Some may be saddened by the potential for conflict."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is apparent in this section."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is apparent in this section."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The crowd anticipates the arrival of the kingdom."
+        }
+      }
+    },
+    {
+      "topic": "Cleansing of the Temple",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 85,
+        "reasoning": "Jesus cleansing the temple is a righteous act of anger and purification. It is both negative (destruction of property) and positive (restoring the temple's purpose)."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The intention is to bring about a more righteous joy in worship."
+        },
+        "Trust": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Trust in Jesus's authority."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Fear of Jesus's power and the consequences of corruption."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The sudden action is surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 65,
+          "reasoning": "Sadness over the desecration of the temple."
+        },
+        "Disgust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Disgust at the commercialization of the temple."
+        },
+        "Anger": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Jesus's righteous anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of a purified temple."
+        }
+      }
+    },
+    {
+      "topic": "Cursing of the Fig Tree",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 90,
+        "reasoning": "The cursing of the fig tree is a negative event, symbolizing barrenness and judgment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy is associated with this event."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Trust in Jesus's judgment."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Fear of divine judgment."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The sudden cursing is surprising."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Sadness at the tree's fate and the symbolism of barrenness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Disgust at the lack of fruitfulness."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Possible anger at the tree's false appearance."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Anticipation of the lesson to be learned."
+        }
+      }
+    }
+  ]
+}

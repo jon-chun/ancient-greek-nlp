@@ -1,0 +1,210 @@
+{
+  "segment_metadata": {
+    "segment_number": "31",
+    "segment_filename": "31_bible_ancient-greek.txt",
+    "text_identification": "New Testament, Gospel of Luke.",
+    "text_summary": "This text segment from the Gospel of Luke contains two distinct parts. The first is a genealogy of Jesus, tracing his lineage back to Adam and ultimately to God. This establishes Jesus's place within human history and his divine origin. The second part details Jesus's temptation in the wilderness by the devil. The devil tempts Jesus with food, worldly power, and a test of God's protection, but Jesus resists each temptation by quoting scripture. This section highlights Jesus's obedience to God and his commitment to his mission, even in the face of adversity. Following the temptation, Jesus returns to Galilee and begins his ministry, teaching in synagogues and gaining recognition. He then goes to Nazareth, where he reads from the prophet Isaiah, proclaiming that he is the fulfillment of the prophecy, anointed to preach good news to the poor, freedom to the captives, and recovery of sight to the blind."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Overall Sentiment",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "The genealogy is neutral, the temptation narrative involves conflict but a positive outcome, and the beginning of Jesus's ministry is positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Jesus's victory over temptation and his declaration of fulfilling prophecy inspire joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The genealogy and Jesus's faithfulness inspire trust."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The temptation narrative introduces fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The devil's unexpected temptations and Jesus's declaration could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "The hardships faced by Jesus during temptation evoke slight sadness."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The evil nature of the devil's temptations might evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The devil's defiance of God and attempts to corrupt Jesus might evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The genealogy and Jesus's ministry create anticipation for what is to come."
+        }
+      }
+    },
+    {
+      "topic": "Genealogy of Jesus",
+      "sentiment_polarity": {
+        "score": 0.0,
+        "confidence": 90,
+        "reasoning": "The genealogy is neutral, providing a lineage."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Genealogy itself doesn't evoke joy."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Genealogies establish lineage and trustworthiness."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "No fear is present in a genealogy."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Genealogies are usually expected, not surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "Genealogies are usually neutral."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not relevant to genealogies."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not relevant to genealogies."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Genealogies can build anticipation for the person's story."
+        }
+      }
+    },
+    {
+      "topic": "Temptation of Jesus",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 90,
+        "reasoning": "The temptation of Jesus is a struggle against evil, but Jesus triumphs, leading to a positive outcome."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Jesus's victory over temptation inspires joy."
+        },
+        "Trust": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "Jesus's faithfulness inspires trust."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The temptation narrative introduces fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The devil's unexpected temptations are surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The hardships faced by Jesus during temptation evoke slight sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The evil nature of the devil's temptations evokes disgust."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "The devil's defiance of God and attempts to corrupt Jesus evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "The temptation creates anticipation for Jesus's response."
+        }
+      }
+    },
+    {
+      "topic": "Beginning of Jesus's Ministry",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The beginning of Jesus's ministry and his declaration of fulfilling prophecy are positive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 80,
+          "reasoning": "The fulfillment of prophecy inspires joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 80,
+          "reasoning": "Jesus's actions inspire trust."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "No fear is present in this section."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The fulfillment of prophecy can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "No sadness is present in this section."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Disgust is not relevant to this section."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "Anger is not relevant to this section."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 80,
+          "reasoning": "The beginning of Jesus's ministry creates anticipation for what is to come."
+        }
+      }
+    }
+  ]
+}

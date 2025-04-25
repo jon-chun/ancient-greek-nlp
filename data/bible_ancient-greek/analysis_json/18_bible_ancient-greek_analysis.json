@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "18",
+    "segment_filename": "18_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely from the Gospel of Mark, containing teachings and interactions of Jesus.",
+    "text_summary": "This passage contains several distinct episodes. It begins with Jesus affirming the greatest commandment: to love God with all one's being and to love one's neighbor as oneself. A scribe agrees, recognizing this is more important than sacrifices. Jesus commends the scribe, saying he is not far from the Kingdom of God. Jesus then challenges the scribes' understanding of the Messiah as David's son, quoting Psalm 110 to show the Messiah is also David's Lord. The crowd listens with delight. Jesus warns against the scribes' hypocrisy, their love of status and their exploitation of widows. He observes people giving to the temple treasury, noting that a poor widow's small offering is greater than the large gifts of the rich, because she gave all she had. Finally, Jesus predicts the destruction of the temple in response to a disciple's admiration of its grandeur. He then sits on the Mount of Olives and privately tells Peter, James, John, and Andrew about the signs that will precede the temple's destruction. He warns them not to be deceived."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Overall Sentiment",
+      "sentiment_polarity": {
+        "score": 0.4,
+        "confidence": 85,
+        "reasoning": "The overall sentiment is positive due to the emphasis on love, righteousness, and praise for genuine devotion, but there are also warnings and criticisms of hypocrisy, creating a mixed sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Present in the affirmation of love and the crowd's delight."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Strong due to the teachings on faith and the scribe's agreement."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Arises from the warnings about deception and the destruction of the temple."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "The challenge to the scribes' understanding of the Messiah and the widow's offering are somewhat surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The widow's poverty and the prediction of the temple's destruction evoke sadness."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Directed towards the hypocrisy and exploitation of the scribes."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 75,
+          "reasoning": "Present in the criticism of the scribes' behavior."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Strong due to the focus on future events and the coming destruction."
+        }
+      }
+    },
+    {
+      "topic": "Greatest Commandment (Love God and Neighbor)",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "The teaching about the greatest commandment is inherently positive, emphasizing love for God and neighbor."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The idea of loving God and neighbor brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Central to the commandment's emphasis on faith and relationship."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Minimal, perhaps a fear of failing to live up to the commandment."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Low, as the commandment is a fundamental teaching."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Very low, unless considering the difficulty of fulfilling the commandment perfectly."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "Not applicable."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "Not applicable."
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The commandment sets a direction for future actions and relationships."
+        }
+      }
+    },
+    {
+      "topic": "Criticism of the Scribes",
+      "sentiment_polarity": {
+        "score": -0.8,
+        "confidence": 90,
+        "reasoning": "The criticism of the scribes is negative, highlighting their hypocrisy and exploitation."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "Not applicable."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal, as their actions are untrustworthy."
+        },
+        "Fear": {
+          "weight": 0.4,
+          "confidence": 75,
+          "reasoning": "They will receive harsher judgment."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Their blatant hypocrisy may be surprising."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "For the widows they exploit."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Strong reaction to their hypocrisy and greed."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Condemnation of their behavior."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The anticipation of their judgment."
+        }
+      }
+    },
+    {
+      "topic": "The Widow's Offering",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The story of the widow's offering is positive, emphasizing her genuine devotion and sacrifice."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Recognition of her genuine devotion brings joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Her actions demonstrate unwavering faith."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal, perhaps fear for her well-being."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Her extreme generosity is surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Her poverty evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "Not applicable."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 20,
+          "reasoning": "Not applicable."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Her actions set an example for others."
+        }
+      }
+    },
+    {
+      "topic": "Prediction of the Temple's Destruction",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 85,
+        "reasoning": "The prediction of the temple's destruction is negative, indicating loss and upheaval."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 10,
+          "reasoning": "Not applicable."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal, as the prediction is unsettling."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The destruction of the temple is frightening."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The prediction is unexpected."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The loss of the temple is a cause for sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Minimal, perhaps disgust at the corruption that led to the destruction."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anger at the forces that will destroy the temple."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The disciples are anticipating the signs of the destruction."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "164",
+    "segment_filename": "164_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely the book of Hebrews, based on the references to a new covenant, forgiveness of sins, the blood of Jesus, and exhortations to believers.",
+    "text_summary": "This passage discusses the new covenant established through Jesus, where God promises to forgive sins and write His laws on the hearts of believers. It emphasizes the boldness believers have in entering God's presence through Jesus' sacrifice. The text urges believers to draw near to God with sincere hearts, maintain unwavering hope, and encourage one another in love and good works. It warns against willful sin after receiving knowledge of the truth, highlighting the dreadful judgment that awaits those who reject God's grace. It also encourages remembering past perseverance in suffering, and not to lose confidence. The passage concludes by defining faith as the substance of things hoped for and the evidence of things not seen, citing examples of faith from the Old Testament figures like Abel, Enoch, Noah, Abraham, and Sarah."
+  },
+  "topic_analysis": [
+    {
+      "topic": "The New Covenant in Jesus' Blood",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The new covenant offers forgiveness and access to God, which is a positive and hopeful concept."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The covenant brings joy through forgiveness and reconciliation with God."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The covenant relies on God's faithfulness and trustworthiness."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "There is a slight fear of not living up to the covenant's demands."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The radical nature of the new covenant can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Reflecting on past sins can bring sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "The new covenant is about overcoming sin, so disgust is irrelevant."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "The new covenant is about reconciliation, so anger is irrelevant."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The covenant promises future blessings and fulfillment."
+        }
+      }
+    },
+    {
+      "topic": "Exhortation to Believers",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 90,
+        "reasoning": "This section encourages positive actions like drawing near to God, holding fast to hope, and encouraging others."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Fellowship and encouragement bring joy."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The exhortations are based on trust in God's promises."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "There is a slight fear of falling away or neglecting fellowship."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The depth of fellowship can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "There is a potential sadness if fellowship is neglected."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Exhortation to believers doesn't evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Exhortation to believers doesn't evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The exhortations point towards future blessings and growth."
+        }
+      }
+    },
+    {
+      "topic": "Warning Against Willful Sin",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The warning against willful sin carries a negative sentiment due to the threat of judgment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "The warning against sin does not evoke joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Trust in God is challenged by the possibility of willful sin."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "The threat of judgment evokes strong fear."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The severity of the consequences can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "The prospect of judgment and separation from God brings sadness."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sin itself can be viewed with disgust."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anger at one's own sin or the sin of others is possible."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "The anticipation is negative, related to the expectation of judgment."
+        }
+      }
+    },
+    {
+      "topic": "Remembering Past Perseverance",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 85,
+        "reasoning": "Remembering past perseverance has a positive sentiment, as it encourages continued faithfulness."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.5,
+          "confidence": 80,
+          "reasoning": "Recalling past victories brings joy."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Remembering past faithfulness builds trust in God's continued support."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "There's a slight fear of not being able to persevere in the future."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The extent of past perseverance can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Remembering past suffering can bring some sadness."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Remembering past perseverance doesn't evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "Remembering past perseverance doesn't evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Remembering past perseverance inspires anticipation for future blessings."
+        }
+      }
+    },
+    {
+      "topic": "Definition of Faith and Examples",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "Defining faith and providing examples is a positive and encouraging concept."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Faith brings joy through the assurance of God's promises."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Faith is fundamentally about trusting in God."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "There's a slight fear of lacking sufficient faith."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The power of faith can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "There's a potential sadness if faith wavers."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "The definition of faith doesn't evoke disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "The definition of faith doesn't evoke anger."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Faith inspires anticipation for future blessings and the fulfillment of God's promises."
+        }
+      }
+    }
+  ]
+}

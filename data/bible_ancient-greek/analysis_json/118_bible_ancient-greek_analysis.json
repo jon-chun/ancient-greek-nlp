@@ -1,0 +1,410 @@
+{
+  "segment_metadata": {
+    "segment_number": "118",
+    "segment_filename": "118_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, specifically 2 Corinthians, chapter 1.",
+    "text_summary": "This passage from 2 Corinthians opens with Paul's greeting to the church in Corinth, emphasizing God's comfort in suffering. Paul speaks of God as the Father of mercies and the God of all comfort, who comforts them in their affliction so they can comfort others. He acknowledges the abundance of Christ's sufferings in them, but also the abundance of comfort through Christ. Paul discusses past afflictions in Asia, describing overwhelming burdens and a sense of despair, even facing death. He emphasizes reliance on God who raises the dead. He expresses confidence in God's deliverance and seeks the Corinthians' prayers. Paul boasts in his conscience, affirming his conduct was in holiness and sincerity, driven by God's grace, not worldly wisdom. He clarifies his delayed visit was to spare them sorrow and affirms his joy is intertwined with theirs. The passage concludes with Paul discussing a previous letter concerning someone who caused sorrow and urging forgiveness and love to be shown to that person, lest he be overwhelmed by excessive grief. He emphasizes his desire to know their obedience in all things, and forgives for their sakes in the presence of Christ, lest Satan take advantage. He also mentions arriving in Troas to preach the gospel and not finding Titus."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Paul's Apostolic Authority and Greeting",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The greeting is positive and establishes Paul's authority, conveying divine purpose and brotherly love."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "A sense of joy in the calling and relationship."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Strong trust in God's will and purpose."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No fear is apparent in the greeting."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No sadness is apparent in the greeting."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is apparent in the greeting."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is apparent in the greeting."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anticipation of continued relationship and ministry."
+        }
+      }
+    },
+    {
+      "topic": "God's Comfort in Suffering",
+      "sentiment_polarity": {
+        "score": 0.7,
+        "confidence": 98,
+        "reasoning": "The passage emphasizes God's comfort and mercy amidst suffering, indicating a positive sentiment despite hardship."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "Joy derived from God's comfort and presence."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Deep trust in God's ability to comfort and sustain."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 75,
+          "reasoning": "Acknowledgment of suffering implies some fear."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 80,
+          "reasoning": "Recognition of suffering and sorrow."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is apparent."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger towards the situation."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anticipation of God's continued comfort and deliverance."
+        }
+      }
+    },
+    {
+      "topic": "Paul's Afflictions in Asia",
+      "sentiment_polarity": {
+        "score": -0.6,
+        "confidence": 95,
+        "reasoning": "This section describes intense suffering and despair, resulting in a negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy is apparent in this description."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Trust in God is mentioned, but overshadowed by the suffering."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "Intense fear of death and overwhelming circumstances."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "Surprise at the intensity of the affliction."
+        },
+        "Sadness": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Profound sadness and despair."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Some disgust at the situation."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Possible anger at the circumstances, though not explicit."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Some anticipation of God's deliverance, but weakened by the despair."
+        }
+      }
+    },
+    {
+      "topic": "Reliance on God Who Raises the Dead",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "This expresses hope and trust in God's power, resulting in a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy derived from the hope of resurrection."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Deep trust in God's power and faithfulness."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal fear due to the hope in God."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 70,
+          "reasoning": "Surprise at the extent of God's power."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal sadness due to the hope in God."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is apparent."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is apparent."
+        },
+        "Anticipation": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Strong anticipation of God's deliverance and resurrection."
+        }
+      }
+    },
+    {
+      "topic": "Paul's Sincerity and Conduct",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 98,
+        "reasoning": "Paul's affirmation of his sincerity, holiness, and reliance on God's grace creates a positive sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Joy in living according to God's will."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Deep trust in God's grace and guidance."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No fear is apparent."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No sadness is apparent."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is apparent."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is apparent."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Anticipation of continued faithfulness and blessing."
+        }
+      }
+    },
+    {
+      "topic": "Forgiveness and Love for the Offender",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 95,
+        "reasoning": "The call for forgiveness and love is positive, although it acknowledges past sorrow."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Joy in reconciliation and restoration."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Trust in the power of forgiveness and love."
+        },
+        "Fear": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Fear of the offender being overwhelmed by grief."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Minimal surprise."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Acknowledgment of past sorrow and potential grief."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No disgust is apparent."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No anger is apparent."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anticipation of reconciliation and restoration."
+        }
+      }
+    },
+    {
+      "topic": "Concern About Satan's Advantage",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 80,
+        "reasoning": "Mentioning Satan's potential advantage introduces a negative element, but the overall sentiment is cautious and proactive."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 60,
+          "reasoning": "No joy is apparent in this concern."
+        },
+        "Trust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Trust in the ability to resist Satan."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Fear of Satan's influence and deception."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Surprise at Satan's tactics."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Sadness at the potential for harm."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Disgust towards Satan's evil intentions."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anger at Satan's attempts to deceive."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Anticipation of resisting Satan's influence."
+        }
+      }
+    },
+    {
+      "topic": "Arrival in Troas and Disappointment",
+      "sentiment_polarity": {
+        "score": -0.1,
+        "confidence": 70,
+        "reasoning": "The arrival is neutral, but the lack of finding Titus brings a slight negative sentiment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 60,
+          "reasoning": "No joy is apparent in this disappointment."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust that Titus will eventually be found."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 50,
+          "reasoning": "Slight fear that something may be wrong with Titus."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Surprise at not finding Titus."
+        },
+        "Sadness": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Sadness at the disappointment of not finding Titus."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 50,
+          "reasoning": "No disgust is apparent."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 50,
+          "reasoning": "No anger is apparent."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Weak anticipation of finding Titus later."
+        }
+      }
+    }
+  ]
+}

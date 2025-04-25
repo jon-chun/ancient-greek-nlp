@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "14",
+    "segment_filename": "14_bible_ancient-greek.txt",
+    "text_identification": "This appears to be a segment from the New Testament, likely the Gospel of Mark, specifically dealing with Jesus healing a possessed boy, teaching his disciples, and discussing his upcoming death and resurrection. It also includes teachings on humility and welcoming others.",
+    "text_summary": "This passage recounts Jesus healing a boy possessed by a spirit that causes seizures. The disciples were unable to cast out the spirit, leading Jesus to express frustration with their lack of faith. After healing the boy, Jesus explains to his disciples that some spirits can only be cast out through prayer. The passage then shifts to Jesus foretelling his death and resurrection, which the disciples fail to understand. Later, in Capernaum, Jesus teaches about humility, stating that the greatest must be the servant of all and welcoming children in his name is welcoming him. The passage concludes with Jesus teaching about avoiding causing others to sin, emphasizing the importance of self-discipline and the dire consequences of leading others astray. He also stresses the importance of peace among believers. Finally, he discusses divorce with the Pharisees, emphasizing the original intent of marriage."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Jesus Healing a Possessed Boy",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 90,
+        "reasoning": "The healing is a positive act, but the presence of the demon and the boy's suffering introduce negative elements. The overall sentiment is positive due to the healing."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "The healing brings joy to the boy and his father."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The father places his trust in Jesus for healing."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 85,
+          "reasoning": "The possession and its effects induce fear."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "The sudden manifestation of the spirit and the healing can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 80,
+          "reasoning": "The boy's suffering evokes sadness."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "The nature of the possession can be seen as disgusting."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 60,
+          "reasoning": "Jesus expresses some anger at the disciples' inability to heal."
+        },
+        "Anticipation": {
+          "weight": 0.6,
+          "confidence": 70,
+          "reasoning": "The father anticipates a positive outcome from Jesus."
+        }
+      }
+    },
+    {
+      "topic": "Jesus Foretelling His Death and Resurrection",
+      "sentiment_polarity": {
+        "score": 0.1,
+        "confidence": 70,
+        "reasoning": "The prediction of death is negative, but the promise of resurrection introduces a positive element. The disciples' lack of understanding adds a layer of complexity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The resurrection offers a glimmer of joy, but it's overshadowed by the impending death."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust in Jesus' words is present, but the disciples struggle to grasp them."
+        },
+        "Fear": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "The prediction of death evokes fear."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "The resurrection is a surprising event."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The impending death causes sadness."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "N/A"
+        },
+        "Anger": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "N/A"
+        },
+        "Anticipation": {
+          "weight": 0.5,
+          "confidence": 75,
+          "reasoning": "Anticipation of the resurrection is present."
+        }
+      }
+    },
+    {
+      "topic": "Teaching on Humility and Welcoming",
+      "sentiment_polarity": {
+        "score": 0.9,
+        "confidence": 95,
+        "reasoning": "These teachings are inherently positive, emphasizing service and acceptance."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Welcoming and serving others brings joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in Jesus' teachings and the value of humility are central."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "N/A"
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "N/A"
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "N/A"
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "N/A"
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 98,
+          "reasoning": "N/A"
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of a positive outcome from embracing these virtues."
+        }
+      }
+    },
+    {
+      "topic": "Avoiding Causing Others to Sin",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 80,
+        "reasoning": "This is a warning against leading others astray, which is negative, but the intention is to promote righteousness, which is positive. The severity of the consequences tempers the positive aspect."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "N/A"
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust in the importance of avoiding sin."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "The severe consequences evoke fear."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "The graphic imagery can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "The potential for others to be led astray is saddening."
+        },
+        "Disgust": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sin is presented as something disgusting."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anger against those who cause others to sin."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Anticipation of divine judgment."
+        }
+      }
+    },
+    {
+      "topic": "Discussion on Divorce",
+      "sentiment_polarity": {
+        "score": -0.2,
+        "confidence": 75,
+        "reasoning": "The discussion on divorce involves differing perspectives, with Jesus emphasizing the original intent of marriage. The sentiment is somewhat negative due to the topic of divorce itself."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 20,
+          "reasoning": "N/A"
+        },
+        "Trust": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Trust in the divine institution of marriage."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Fear of the consequences of breaking the marriage covenant."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "N/A"
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Sadness associated with divorce."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "N/A"
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Potential anger related to infidelity or betrayal."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "N/A"
+        }
+      }
+    }
+  ]
+}

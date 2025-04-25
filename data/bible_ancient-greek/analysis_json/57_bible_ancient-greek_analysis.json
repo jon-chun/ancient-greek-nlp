@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "57",
+    "segment_filename": "57_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the New Testament, likely from one of the Gospels (possibly Luke), as it contains teachings and parables of Jesus, including a discussion about the resurrection, a question about the Messiah being David's son, warnings against the scribes, the story of the widow's offering, and a prophecy about the temple's destruction.",
+    "text_summary": "This passage encompasses several distinct episodes and teachings. It begins with the Sadducees questioning Jesus about the resurrection, presenting a hypothetical scenario of a woman married to seven brothers. Jesus responds by explaining that marriage is irrelevant in the afterlife, as those resurrected are like angels and children of God. He further affirms the resurrection by referencing God's declaration to Moses as the God of Abraham, Isaac, and Jacob. The passage then shifts to Jesus questioning the scribes about the Messiah's relationship to David, challenging their understanding. Following this, Jesus warns his disciples about the hypocrisy and greed of the scribes. He then observes the offerings at the temple treasury, contrasting the wealthy's contributions with the widow's sacrificial gift. Finally, Jesus prophesies the destruction of the temple, leading to questions about the timing and signs of this event, and warns against deception and fear in the face of future tribulations, promising his followers wisdom and resilience. The passage concludes with a reminder of the persecution they will face and the importance of perseverance."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Overall Passage",
+      "sentiment_polarity": {
+        "score": 0.3,
+        "confidence": 75,
+        "reasoning": "The overall sentiment is complex, containing both positive and negative elements. The teachings about the resurrection and God's nature are positive, while the warnings about the scribes and the prophecy of destruction are negative. The emphasis on perseverance amidst persecution adds a somber but ultimately hopeful tone."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Present in the teachings about the afterlife and God's love."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Rooted in the authority of Jesus and the belief in his teachings."
+        },
+        "Fear": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Stemming from the prophecies of destruction and persecution."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "The unexpected nature of the afterlife and the Messiah's identity."
+        },
+        "Sadness": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Arising from the suffering and loss mentioned in the prophecies and the widow's poverty."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Directed towards the hypocrisy of the scribes."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Expressed against the injustice and exploitation by the scribes."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 75,
+          "reasoning": "Reflecting the uncertainty and expectation of future events."
+        }
+      }
+    },
+    {
+      "topic": "Resurrection and the Afterlife",
+      "sentiment_polarity": {
+        "score": 0.6,
+        "confidence": 80,
+        "reasoning": "The discussion about the resurrection aims to clarify misunderstandings and offer hope. While the Sadducees' question is posed skeptically, Jesus' response provides a positive and comforting perspective on the afterlife."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "The prospect of eternal life brings a sense of joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 90,
+          "reasoning": "Belief in Jesus' teachings about the resurrection."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal fear, as the focus is on a positive afterlife."
+        },
+        "Surprise": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "The concept of being like angels is surprising."
+        },
+        "Sadness": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Minimal sadness, as the focus is on overcoming death."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No disgust is apparent in this section."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 80,
+          "reasoning": "No anger is apparent in this section."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Looking forward to the afterlife."
+        }
+      }
+    },
+    {
+      "topic": "Warning Against the Scribes",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 85,
+        "reasoning": "The warning against the scribes carries a negative sentiment due to their hypocrisy and exploitation. Jesus' words express disapproval and concern for those they harm."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy is present in this warning."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Lack of trust in the scribes."
+        },
+        "Fear": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Fear of being deceived by the scribes."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Surprise at the extent of their hypocrisy."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness for the victims of the scribes' exploitation."
+        },
+        "Disgust": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Disgust at their hypocrisy and greed."
+        },
+        "Anger": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Anger at their injustice and exploitation."
+        },
+        "Anticipation": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anticipation of their judgment."
+        }
+      }
+    },
+    {
+      "topic": "The Widow's Offering",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 90,
+        "reasoning": "The story of the widow's offering is positive, highlighting her generosity and sacrifice. It contrasts with the superficial contributions of the wealthy and emphasizes the value of genuine devotion."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Joy at the widow's selfless act and its recognition by Jesus."
+        },
+        "Trust": {
+          "weight": 0.8,
+          "confidence": 85,
+          "reasoning": "Trust in the widow's genuine devotion."
+        },
+        "Fear": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No fear is apparent in this section."
+        },
+        "Surprise": {
+          "weight": 0.6,
+          "confidence": 75,
+          "reasoning": "Surprise at the value of her small offering."
+        },
+        "Sadness": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Sadness for the widow's poverty."
+        },
+        "Disgust": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Minimal disgust, perhaps towards the superficiality of the wealthy."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Minimal anger, perhaps towards the wealthy's lack of generosity."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anticipation of the reward for her devotion."
+        }
+      }
+    },
+    {
+      "topic": "Prophecy of the Temple's Destruction",
+      "sentiment_polarity": {
+        "score": -0.5,
+        "confidence": 80,
+        "reasoning": "The prophecy about the temple's destruction carries a negative sentiment due to the impending loss and upheaval. However, it also serves as a warning and a call to preparedness."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 90,
+          "reasoning": "No joy is present in this prophecy."
+        },
+        "Trust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Trust in Jesus' words, even if they are dire."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Fear of the impending destruction."
+        },
+        "Surprise": {
+          "weight": 0.4,
+          "confidence": 65,
+          "reasoning": "Surprise at the extent of the destruction."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 85,
+          "reasoning": "Sadness for the loss of the temple and its significance."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Disgust at the corruption that may lead to the destruction."
+        },
+        "Anger": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Anger at the forces that will cause the destruction."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of the events to come and the need for preparedness."
+        }
+      }
+    }
+  ]
+}

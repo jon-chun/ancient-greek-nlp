@@ -1,0 +1,260 @@
+{
+  "segment_metadata": {
+    "segment_number": "188",
+    "segment_filename": "188_bible_ancient-greek.txt",
+    "text_identification": "This appears to be from the Book of Revelation in the New Testament. The text describes the opening of seals, each unleashing a different event or plague upon the earth, followed by visions of salvation and judgment.",
+    "text_summary": "This passage from Revelation details the opening of the third through sixth seals. The third seal brings famine, with scarce resources being sold at high prices. The fourth seal unleashes Death, riding a pale horse, accompanied by Hades, who are given power to kill a quarter of the earth through war, famine, plague, and wild beasts. The fifth seal reveals the souls of martyrs under the altar, crying out for justice. They are given white robes and told to wait until the full number of martyrs is complete. The sixth seal causes a great earthquake, darkening the sun and moon, and causing stars to fall. People of all ranks hide in caves, fearing the wrath of God and the Lamb. Angels are then seen holding back the four winds, and another angel seals the servants of God on their foreheads. The passage concludes with a vision of a great multitude from all nations standing before the throne, praising God for salvation, and being comforted by God who will wipe away their tears."
+  },
+  "topic_analysis": [
+    {
+      "topic": "Famine and Economic Hardship",
+      "sentiment_polarity": {
+        "score": -0.7,
+        "confidence": 95,
+        "reasoning": "The description of scarce food being sold at high prices indicates a negative situation causing suffering."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 95,
+          "reasoning": "Famine does not evoke joy."
+        },
+        "Trust": {
+          "weight": 0.1,
+          "confidence": 60,
+          "reasoning": "Trust in provision is low during famine."
+        },
+        "Fear": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Famine is a terrifying prospect."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "The sudden onset of famine could be surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Famine is a cause of great sorrow."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "Disgust at the conditions causing famine."
+        },
+        "Anger": {
+          "weight": 0.5,
+          "confidence": 70,
+          "reasoning": "Anger at those responsible or the injustice of the situation."
+        },
+        "Anticipation": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Hope for an end to the famine."
+        }
+      }
+    },
+    {
+      "topic": "Death and Hades",
+      "sentiment_polarity": {
+        "score": -0.9,
+        "confidence": 98,
+        "reasoning": "The appearance of Death and Hades signifies destruction and loss, a highly negative event."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Death does not evoke joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Death inspires no trust."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Death is inherently frightening."
+        },
+        "Surprise": {
+          "weight": 0.3,
+          "confidence": 60,
+          "reasoning": "The suddenness of death can be surprising."
+        },
+        "Sadness": {
+          "weight": 0.8,
+          "confidence": 90,
+          "reasoning": "Death causes grief and sorrow."
+        },
+        "Disgust": {
+          "weight": 0.4,
+          "confidence": 70,
+          "reasoning": "Disgust at the decay and suffering associated with death."
+        },
+        "Anger": {
+          "weight": 0.2,
+          "confidence": 50,
+          "reasoning": "Anger at the injustice of death."
+        },
+        "Anticipation": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Anticipation of what comes after death."
+        }
+      }
+    },
+    {
+      "topic": "Martyrdom and Justice",
+      "sentiment_polarity": {
+        "score": -0.3,
+        "confidence": 85,
+        "reasoning": "While martyrdom involves suffering, the cry for justice and the promise of vindication introduce a complex sentiment. Overall slightly negative due to the initial suffering."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.1,
+          "confidence": 40,
+          "reasoning": "Joy in the promise of reward."
+        },
+        "Trust": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Trust in God's justice."
+        },
+        "Fear": {
+          "weight": 0.3,
+          "confidence": 70,
+          "reasoning": "Fear of persecution and death."
+        },
+        "Surprise": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Surprise at the intensity of persecution."
+        },
+        "Sadness": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Sadness at the suffering of the martyrs."
+        },
+        "Disgust": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Disgust at the actions of the persecutors."
+        },
+        "Anger": {
+          "weight": 0.6,
+          "confidence": 80,
+          "reasoning": "Anger at the injustice of the persecution."
+        },
+        "Anticipation": {
+          "weight": 0.7,
+          "confidence": 80,
+          "reasoning": "Anticipation of God's justice and reward."
+        }
+      }
+    },
+    {
+      "topic": "Cosmic Upheaval and Divine Wrath",
+      "sentiment_polarity": {
+        "score": -0.95,
+        "confidence": 99,
+        "reasoning": "The description of earthquakes, darkening of the sun and moon, and falling stars creates a sense of overwhelming dread and negativity."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Cosmic upheaval does not evoke joy."
+        },
+        "Trust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Cosmic upheaval inspires no trust."
+        },
+        "Fear": {
+          "weight": 0.9,
+          "confidence": 98,
+          "reasoning": "Cosmic upheaval is inherently frightening."
+        },
+        "Surprise": {
+          "weight": 0.8,
+          "confidence": 95,
+          "reasoning": "The suddenness and scale of the events are surprising."
+        },
+        "Sadness": {
+          "weight": 0.7,
+          "confidence": 90,
+          "reasoning": "Sadness at the destruction and suffering."
+        },
+        "Disgust": {
+          "weight": 0.3,
+          "confidence": 50,
+          "reasoning": "Disgust at the chaos and destruction."
+        },
+        "Anger": {
+          "weight": 0.4,
+          "confidence": 60,
+          "reasoning": "Anger at the cause of the upheaval."
+        },
+        "Anticipation": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Anticipation of what comes after the upheaval."
+        }
+      }
+    },
+    {
+      "topic": "Salvation and Divine Comfort",
+      "sentiment_polarity": {
+        "score": 0.8,
+        "confidence": 95,
+        "reasoning": "The vision of the multitude praising God and being comforted signifies hope, redemption, and positive spiritual fulfillment."
+      },
+      "emotions": {
+        "Joy": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Salvation is a source of great joy."
+        },
+        "Trust": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Trust in God's promise of salvation."
+        },
+        "Fear": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Fear of losing salvation."
+        },
+        "Surprise": {
+          "weight": 0.2,
+          "confidence": 40,
+          "reasoning": "Surprise at the magnitude of God's grace."
+        },
+        "Sadness": {
+          "weight": 0.1,
+          "confidence": 30,
+          "reasoning": "Sadness at past sins."
+        },
+        "Disgust": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Salvation eliminates disgust."
+        },
+        "Anger": {
+          "weight": 0.0,
+          "confidence": 99,
+          "reasoning": "Salvation eliminates anger."
+        },
+        "Anticipation": {
+          "weight": 0.9,
+          "confidence": 95,
+          "reasoning": "Anticipation of eternal life with God."
+        }
+      }
+    }
+  ]
+}
