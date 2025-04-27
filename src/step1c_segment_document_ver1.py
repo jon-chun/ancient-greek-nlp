@@ -38,7 +38,7 @@ def read_and_split_text(file_path):
         text = file.read()
     
     # Split the text on two or more consecutive newlines
-    chunks = re.split(r'\n{2,}', text)
+    chunks = re.split(r'\n{3,}', text)
     
     # Remove empty chunks and strip whitespace
     chunks = [chunk.strip() for chunk in chunks if chunk.strip()]

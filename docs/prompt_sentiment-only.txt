@@ -1,0 +1,75 @@
+# Prompt #1:
+---
+###INPUT 
+<Sample begin...end>
+
+###INSTRUCTIONS:
+Given  this ###TEXT_DOC in ancient greek of the Bible, please write a Python program segment_text.py that
+1. defines the followin gglobal vars
+CORPUS_NAME = "bible_ancient-greek"
+INPUT_TEXTFILE = Path .parent / data /CORPUS_NAME / document / CORPUS_NAME
+OUTPUT_SUBDIR = Path .parent / data /CORPUS_NAME / segments /
+MIN_SEGMENT_CHARR = 500
+
+2. detects the language (this case ancient greek) in INPUT_TEXTFILE (be careful not to mangle the ancient greek text encoding)
+2. reads INPUT_TEXTFILE into chunks defined by boundries of [\n]{2,} 
+3. makes multiple passes to agglomerate the smallest chunks next to their next smallest number until all chunks have len(chunk)>MIN_SEGMENT_CHARR
+4. writes each seguential segment to OUTPUT_SUBDIR with the filename f"{segment_no}_{CORPUS_NAME}.txt"
+
+
+
+# Prompt #2:
+---
+###CODE:
+(attached)
+
+###INSTRUCTIONS:
+based on the output of the previous code response, analyze and revise this new ###CODE so it reads the previous code output and generates the topic (and sentiments and emotions for each) for each input f"{segment_no}_bible_ancient-greek.txt in corresponding filenames with the same structured .json filenames in the new output subdir /data/bible_ancient_greek/analysis_json/.json
+
+
+# Prompt #3:
+---
+
+Now write a variation of this code as step2a_get_segment_sentiment.py that modifies the code as follows:
+
+reads input file from INPUT_FILE = / data / CORPUS_NAME / document / f"{CORPUS_NAME}.txt" and writes the output to the OUTPUT_FILE =   / data / CORPUS_NAME / f"{CORPUS_NAME}-sentiment.csv"
+
+segments the input file on regex SEGMENT_SEP = r"[\n]{2,}"
+
+batches up to BATCH_SIZE = 10 segments per each API call
+
+for each API call, modify the prompt_sentiment_str to analyze and return the following information for each segment:
+
+{ <segment_no> : {
+
+   "text_original": <text_original_greek>,
+
+   "text_en": <text_english_translation>,
+
+   "polarity": <float [-1.0,1.0]>,
+
+   "confidence_percent": <int [0,100]>,
+
+   "reasoning_en": <reasoning_in_english>
+
+    }
+
+...
+
+Add the custom directions:
+
+- polarity ranges from -1.0 (very negative), 0.0 (perfectly neutral), 1.0 (very positive)
+
+- confidence ranges from 0% to 100% (0% if unknown)
+
+- reasoning_en is the reasoning for the assigned polarity value
+
+After each API response, validate for completeness and well formed, and if malformed repeat request MAX_API_RETRIES =3 
+
+If the API response is valid, parse it into batch size rows of the *.csv OUTPUT_FILE under the columns "segment_no", "text_original", "text_en", "polarity","confidence_percent", "reasoning_en" - one row per segment
+
+else if the API response is malformed after MAX_API_RETIRES, only populate the sequentially incrementing "segment_no" and leave all other fields empty as a error signal we have to rerun these later
+
+The code could be long-running so make it restartable by first checking the OUTPUT_FILE .csv segment_no (verified with matching "text_original") and only continue processing the INPUT_FILE at the first unprocessed segment (if the segment_no and text_original from parsing the input .txt file do no match the segment_no and text_original from the partial saved output *.csv file then exit with an informative error message that the input file seems to be different UNLESS the FLAG_FULL_RESTART == True (not default) in which case delete the output file and recreate it from scratch from the first segment in the input file
+
+

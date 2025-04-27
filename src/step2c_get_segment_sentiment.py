@@ -39,7 +39,8 @@ INPUT_FILE = BASE_DATA_DIR / CORPUS_NAME / "document" / f"{CORPUS_NAME}.txt"
 OUTPUT_FILE = BASE_DATA_DIR / CORPUS_NAME / f"{CORPUS_NAME}-sentiment.csv"
 
 # Processing configuration
-SEGMENT_SEP = r"[\n]{2,}"  # Regex for segment separation
+SEGMENT_SEP_DEFAULT = r"[\n]{2,}"  # Regex for segment separation
+MIN_SEGMENT_CHAR = 110 # Ancient Greek Bible: round(17.4 words/sent * 5.4 char/word + 16 spaces)
 BATCH_SIZE = 10  # Number of segments to process in each API call
 MAX_API_RETRIES = 3  # Maximum number of API retry attempts
 FLAG_FULL_RESTART = False  # Set to True to ignore existing output and start from scratch
@@ -175,10 +176,57 @@ def read_input_file(file_path: Path) -> str:
     raise ValueError(f"Could not decode file {file_path} with any of the attempted encodings")
 
 
-def segment_text(text: str, pattern: str) -> List[str]:
-    """Split the text into segments based on the specified pattern."""
-    segments = re.split(pattern, text)
-    # Filter out empty segments
+def segment_text(text: str, pattern: str, flag_seg_rule=None) -> List[str]:
+    """
+    Split the text into segments based on the specified pattern or segmentation rule.
+    
+    Args:
+        text (str): The input text to segment
+        pattern (str): The regex pattern to use for splitting (default behavior)
+        flag_seg_rule (Union[int, str], optional): 
+            - If int: Minimum number of characters for each segment
+            - If str: Custom regex pattern to use instead of pattern parameter
+    
+    Returns:
+        List[str]: A list of non-empty text segments
+    """
+    segments = []
+    
+    # Case 1: Using a minimum character count rule
+    if isinstance(flag_seg_rule, int) and flag_seg_rule > 0:
+        min_chars = flag_seg_rule
+        current_segment = ""
+        words = text.split()
+        
+        for word in words:
+            # Try adding this word to the current segment
+            potential_segment = current_segment + " " + word if current_segment else word
+            
+            # If adding this word would exceed the minimum length and we already have content,
+            # save the current segment and start a new one
+            if len(current_segment) >= min_chars and len(potential_segment) > min_chars:
+                segments.append(current_segment.strip())
+                current_segment = word
+            else:
+                # Otherwise, add the word to the current segment
+                current_segment = potential_segment
+        
+        # Add the last segment if it's not empty
+        if current_segment:
+            segments.append(current_segment.strip())
+    
+    # Case 2: Using a custom regex pattern provided in flag_seg_rule
+    elif isinstance(flag_seg_rule, str) and flag_seg_rule.startswith('r\'') and flag_seg_rule.endswith('\''):
+        # Extract the actual regex pattern from the string representation
+        # (removing the r'' wrapper)
+        regex_pattern = flag_seg_rule[2:-1]
+        segments = re.split(regex_pattern, text)
+    
+    # Case 3: Default behavior - use the pattern parameter
+    else:
+        segments = re.split(pattern, text)
+    
+    # Filter out empty segments in all cases
     return [segment.strip() for segment in segments if segment.strip()]
 
 def batch_segments(segments: List[str], batch_size: int) -> List[List[Tuple[int, str]]]:
@@ -821,8 +869,8 @@ def process_text_segments(model):
         return False
     
     # Segment the text
-    logging.info(f"Segmenting text using pattern: {SEGMENT_SEP}")
-    segments = segment_text(input_text, SEGMENT_SEP)
+    logging.info(f"Segmenting text using pattern: {SEGMENT_SEP_DEFAULT}")
+    segments = segment_text(input_text, SEGMENT_SEP_DEFAULT, MIN_SEGMENT_CHAR)  # CUSTOMIZE: delete MIN_SEGMENT_CHAR to use default regex
     logging.info(f"Text segmented into {len(segments)} segments")
     
     # Check restart point if needed
@@ -1040,4 +1088,4 @@ if __name__ == "__main__":
             
     except Exception as e:
         logging.exception(f"Critical error in main execution: {e}")
-        exit(1)
+        exit(1) 
